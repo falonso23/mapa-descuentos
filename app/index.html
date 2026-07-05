@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+  <title>Mapa de Descuentos</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header id="topbar">
+    <div class="title-row">
+      <h1>Mapa de Descuentos</h1>
+      <button id="filterBtn" aria-label="Filtros">☰ Filtros</button>
+    </div>
+    <input id="search" type="search" placeholder="Buscar comercio…" autocomplete="off" />
+    <div id="chips" class="chips"></div>
+  </header>
+
+  <div id="map"></div>
+
+  <div id="count" class="count-pill"></div>
+
+  <!-- Bottom sheet de filtros -->
+  <div id="sheetOverlay" class="hidden"></div>
+  <aside id="sheet" class="hidden">
+    <div class="sheet-handle"></div>
+    <h2>Filtrar</h2>
+    <section>
+      <h3>Tarjeta / Proveedor</h3>
+      <div id="fProviders" class="filter-group"></div>
+    </section>
+    <section>
+      <h3>Rubro</h3>
+      <div id="fCategories" class="filter-group"></div>
+    </section>
+    <div class="sheet-actions">
+      <button id="clearFilters" class="btn-secondary">Limpiar</button>
+      <button id="applyFilters" class="btn-primary">Ver resultados</button>
+    </div>
+  </aside>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="map-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

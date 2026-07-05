@@ -1,0 +1,630 @@
+[
+ {
+  "id": 285,
+  "merchant": "Manzanar",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 286,
+  "merchant": "Massey Familia",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 287,
+  "merchant": "Milajo",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 288,
+  "merchant": "Misushi",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 289,
+  "merchant": "Morelia",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 290,
+  "merchant": "No tan Santos",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 291,
+  "merchant": "Norimoto",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 292,
+  "merchant": "Nueva Malvín",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 293,
+  "merchant": "Obra",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 294,
+  "merchant": "Ola Poke",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 295,
+  "merchant": "Panini's",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 296,
+  "merchant": "Pez Globo",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 297,
+  "merchant": "Piso 40",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 298,
+  "merchant": "Polo Bamba",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 299,
+  "merchant": "Pompier",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 300,
+  "merchant": "Quinquela",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 301,
+  "merchant": "Rio",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "merchant": "Rudy",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "merchant": "Sablée",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 304,
+  "merchant": "Sanguche",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 305,
+  "merchant": "Silver Cantina",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 306,
+  "merchant": "St. Germain",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 307,
+  "merchant": "Sushi Club",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 308,
+  "merchant": "Sushi Wok Perú",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 309,
+  "merchant": "Tandory",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 310,
+  "merchant": "Tintos y Rubias",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 311,
+  "merchant": "Tomás",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 312,
+  "merchant": "Trouville",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 313,
+  "merchant": "Tsubo",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 314,
+  "merchant": "Varela Zarranz",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ }
+]

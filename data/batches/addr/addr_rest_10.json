@@ -1,0 +1,430 @@
+[
+ {
+  "id": 375,
+  "merchant": "Picniqueria",
+  "resolved_name": "Picniqueria",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Italia esq. Pedragosa Sierra (Parada 5), Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.picniqueria.com/"
+   }
+  ]
+ },
+ {
+  "id": 376,
+  "merchant": "Portal del Bosque",
+  "resolved_name": "Portal Bosque",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Camino La Aguada, La Barra, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.portalbosque.com/"
+   }
+  ]
+ },
+ {
+  "id": 377,
+  "merchant": "Provence (Enjoy)",
+  "resolved_name": "Provence Wines & Spirits Bar (Enjoy Punta del Este)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Enjoy Punta del Este",
+    "address": "Rambla Claudio Williman, Parada 4, Playa Mansa, Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://enjoypuntadeleste.uy/restaurantes/provence/"
+   }
+  ]
+ },
+ {
+  "id": 378,
+  "merchant": "Pueblo Narakan",
+  "resolved_name": "Pueblo Narakan",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Juan Díaz de Solís 678, Península, Punta del Este, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://pueblonarakan.com/"
+   }
+  ]
+ },
+ {
+  "id": 379,
+  "merchant": "Salón Número 3",
+  "resolved_name": "Salón N°3",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Barra",
+    "address": "Camino Eguzquiza esq. Ruta 10, La Barra, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.guruguay.com/es/salon-no-3-restaurante-la-barra/"
+   }
+  ]
+ },
+ {
+  "id": 380,
+  "merchant": "Santa Leoncia",
+  "resolved_name": "Santa Leoncia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Pedragosa Sierra y de los Eucaliptos, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://santaleoncia.uy/"
+   }
+  ]
+ },
+ {
+  "id": 381,
+  "merchant": "Societé",
+  "resolved_name": "Societé 1907",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Juan Díaz de Solís, Península, Punta del Este, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.opina.com.uy/restaurante/societe-1907-punta-del-este_127630.php"
+   }
+  ]
+ },
+ {
+  "id": 382,
+  "merchant": "Tierra Cocina Fernando Trocca",
+  "resolved_name": "Tierra (Fernando Trocca)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Camino La Aguada, La Barra, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.portalbosque.com/tierra"
+   }
+  ]
+ },
+ {
+  "id": 383,
+  "merchant": "Tommy",
+  "resolved_name": "Tommy Bistro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Portezuelo",
+    "address": "Ruta Interbalnearia Km 115.5, Parada Tío Tom, Portezuelo, Punta del Este, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://tommybistro.com/"
+   }
+  ]
+ },
+ {
+  "id": 384,
+  "merchant": "Unido",
+  "resolved_name": "Unido (restaurante nikkei)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales",
+    "address": "Ruta 10 Km 163,5, Manantiales Club de la Playa, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.fondodeolla.com/nota/18634-unido-x-3/"
+   }
+  ]
+ },
+ {
+  "id": 385,
+  "merchant": "Virazón",
+  "resolved_name": "Virazón",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla Portuaria esq. Calle 18, Puerto, Punta del Este, Uruguay",
+    "confidence": 0.9,
+    "source_url": "http://www.virazon.com.uy/en/"
+   }
+  ]
+ },
+ {
+  "id": 386,
+  "merchant": "Vitaminas",
+  "resolved_name": "Vitaminas (Casa de playa & café)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 26 entre Calles 28 y 29, Playa El Emir, Punta del Este, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.vitaminas.uy/"
+   }
+  ]
+ },
+ {
+  "id": 387,
+  "merchant": "Yacht Club Uruguayo",
+  "resolved_name": "Yacht Club Uruguayo (Restaurante)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla General Artigas, Puerto de Punta del Este, Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d1085298-Reviews-Yacht_Club_Uruguayo-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 388,
+  "merchant": "Zunino",
+  "resolved_name": "Zunino Patisserie",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt esq. Budapest, Parada 7, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.alacarta.com.uy/zunino-patisserie/"
+   }
+  ]
+ },
+ {
+  "id": 389,
+  "merchant": "Anima",
+  "resolved_name": "Anima",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 390,
+  "merchant": "Gourmeat",
+  "resolved_name": "Gourmeat Boutique de Carnes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt esq. Av. Pedragosa Sierra, Punta del Este, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.waze.com/es/live-map/directions/gourmeat-av.-roosevelt-punta-del-este"
+   },
+   {
+    "sucursal": "Carmelo",
+    "address": "Av. Italia 986, Carmelo, Colonia, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.carmeloportal.com/71672-gourmeat-boutique-de-carnes-desembarca-en-carmelo"
+   }
+  ]
+ },
+ {
+  "id": 391,
+  "merchant": "Anita",
+  "resolved_name": "Anita Café / Resto-Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "General Flores 186, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://coloniadelsacramento.net/restaurantes-y-bares-en-colonia-del-sacramento/anita-resto-cafe/"
+   }
+  ]
+ },
+ {
+  "id": 392,
+  "merchant": "Bohemia",
+  "resolved_name": "Bohemia Bistro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "De San Pedro 142, Barrio Histórico, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298066-d19254643-Reviews-Bohemia-Colonia_del_Sacramento_Colonia_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 393,
+  "merchant": "Casa Viera",
+  "resolved_name": "Casa Viera",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "General Flores 65, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298066-d19417737-Reviews-Casa_Viera-Colonia_del_Sacramento_Colonia_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 394,
+  "merchant": "Delicatessen",
+  "resolved_name": "Delicatessen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 395,
+  "merchant": "Las Liebres",
+  "resolved_name": "Comarca Las Liebres (Restaurant Hotel & Viñedo)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "Armonía Somers 1150, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.lasliebres.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 396,
+  "merchant": "Sio Sushi",
+  "resolved_name": "SIO Sushi y Cocina",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "General Rivera 379, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298066-d21332041-Reviews-SIO_Sushi_Cocina-Colonia_del_Sacramento_Colonia_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 397,
+  "merchant": "El Barco",
+  "resolved_name": "El Barco (Club Remeros Mercedes)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercedes",
+    "address": "De la Ribera 949, Mercedes, Soriano, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://elbarcoresto.com/"
+   }
+  ]
+ },
+ {
+  "id": 398,
+  "merchant": "El Chajá",
+  "resolved_name": "Postre Chajá de Paysandú (Confitería Las Familias)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Paysandú",
+    "address": "18 de Julio 1152 esq. Dr. Luis Alberto de Herrera, Paysandú, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/postre-chaja-paysandu/LOC575470002"
+   }
+  ]
+ },
+ {
+  "id": 399,
+  "merchant": "Panz",
+  "resolved_name": "Pan-Z Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Paysandú",
+    "address": "18 de Julio 950 esq. Setembrino Pereda, Paysandú, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/pan-z-restaurante/LOC362490001"
+   }
+  ]
+ },
+ {
+  "id": 400,
+  "merchant": "París Londres",
+  "resolved_name": "París Londres Beer House",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 401,
+  "merchant": "Cardumen",
+  "resolved_name": "Cardumen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 402,
+  "merchant": "Las Eduardas",
+  "resolved_name": "Las Eduardas Restaurante (Apart Hotel)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Paloma",
+    "address": "Rambla Costanera, Playa Anaconda, La Paloma, Rocha, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g776156-d7678235-Reviews-Las_Eduardas_Restaurante-La_Paloma_Rocha_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "merchant": "Orishas Sushi",
+  "resolved_name": "Orishas (La Paloma)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Paloma",
+    "address": "Av. Nicolás Solari esq. De la Virgen, La Paloma, Rocha, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://turismorocha.gub.uy/destinos/la-paloma/restaurantes/orishas"
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "merchant": "Don Diego",
+  "resolved_name": "Restaurant Don Diego (Parrilla)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Salto",
+    "address": "Dr. Atilio Chiazzaro 20, Salto, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.opina.com.uy/restaurante/restaurant-don-diego-salto_92800.php"
+   }
+  ]
+ }
+]

@@ -1,0 +1,438 @@
+[
+ {
+  "id": 315,
+  "merchant": "Vela",
+  "resolved_name": "Vela Restó",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Av. Gabriela Mistral 2231, Parque Miramar, Ciudad de la Costa, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://velaresto.uy/"
+   }
+  ]
+ },
+ {
+  "id": 316,
+  "merchant": "Bacan",
+  "resolved_name": "Bacán.uy",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 317,
+  "merchant": "Belvedere Bakery",
+  "resolved_name": "Belvedere Bakery",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Gabriela Mistral 2127, Parque Miramar, Ciudad de la Costa, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://belvederebakery.com/pages/local"
+   }
+  ]
+ },
+ {
+  "id": 318,
+  "merchant": "DeGuarda",
+  "resolved_name": "DeGuarda Quesería",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Joaquín Requena 1216, Cordón, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.findglocal.com/UY/Montevideo/1068435139896293/DeGuarda"
+   }
+  ]
+ },
+ {
+  "id": 319,
+  "merchant": "Del Campo",
+  "resolved_name": "Del Campo (carnes y quesos)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Sarmiento 2394 esquina Prudencio Vázquez y Vega, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://ladiaria.com.uy/cotidiana/articulo/2020/2/del-campo-una-tienda-de-carne-y-quesos-de-autor/"
+   }
+  ]
+ },
+ {
+  "id": 320,
+  "merchant": "Gourmeat Carrasco",
+  "resolved_name": "Gourmeat Boutique de Carnes - Carrasco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Dr. Juan B. Alberdi 6548, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.smartservices.uy/carniceria/montevideo/gourmeat-carrasco-montevideo_405399.php"
+   }
+  ]
+ },
+ {
+  "id": 321,
+  "merchant": "Gourmeat Market",
+  "resolved_name": "Gourmeat Market - Punta Carretas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José María Montero 306, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://1122.com.uy/local/gourmeat/LOC592360001"
+   }
+  ]
+ },
+ {
+  "id": 322,
+  "merchant": "Mar Austral",
+  "resolved_name": "Mar Austral SRL (distribuidora de productos del mar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede/depósito",
+    "address": "Dr. A. Vargas G. 2364, Montevideo, Uruguay",
+    "confidence": 0.3,
+    "source_url": "https://www.comxport.com/co/mar_austral_srl-uruguay-434.php"
+   }
+  ]
+ },
+ {
+  "id": 323,
+  "merchant": "Mercado Verde",
+  "resolved_name": "Mercado Verde",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Jaime Zudáñez 2511, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d23105800-Reviews-Mercado_Verde-Montevideo_Montevideo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 324,
+  "merchant": "Say Cheese",
+  "resolved_name": "Say Cheese Deli Market",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Dr. Juan B. Alberdi 6548 esquina Jamaica, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.alacarta.com.uy/carrasco-say-cheese-paraiso-los-quesos-fiambres/"
+   }
+  ]
+ },
+ {
+  "id": 325,
+  "merchant": "Sofía Dulce Sofía",
+  "resolved_name": "Sofía Dulce Sofía",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Luis de la Torre 845 esquina Scoseria, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://sofiadulcesofia.com.uy/donde-estamos"
+   }
+  ]
+ },
+ {
+  "id": 326,
+  "merchant": "Vinos del Mundo",
+  "resolved_name": "Vinos del Mundo (vinoteca)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Plaza Independencia 759, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://guiadeo.com/comercio/vinos-del-mundo-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 327,
+  "merchant": "El Virrey",
+  "resolved_name": "Librería El Virrey",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "21 de Setiembre 2747, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.libreriaelvirrey.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 328,
+  "merchant": "Escaramuza Libros",
+  "resolved_name": "Escaramuza - Libros y Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Cordón",
+    "address": "Dr. Pablo de María 1185 esquina Charrúa, Cordón, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://escaramuza.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 329,
+  "merchant": "Abstrakto",
+  "resolved_name": "Abstrakto Café de Especialidad",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calderón de la Barca, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.facebook.com/abstrakto.pde/"
+   }
+  ]
+ },
+ {
+  "id": 330,
+  "merchant": "Almacén de Campo",
+  "resolved_name": "Almacén de Campo - La Plantación",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales",
+    "address": "Ruta 104 km 5, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://puntadelesteinternacional.com/de-narbona-a-la-plantacion-by-pacha-canton-la-reinvencion-del-almacen-de-campo"
+   }
+  ]
+ },
+ {
+  "id": 331,
+  "merchant": "Antonino",
+  "resolved_name": "Antonino Ristorante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Puerto",
+    "address": "Juan Díaz de Solís esquina El Trinquete, Puerto, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d23028079-Reviews-Antonino_Ristorante-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 332,
+  "merchant": "Atrevida",
+  "resolved_name": "Atrevida Pizzería",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 8 y 9 (El Trinquete y La Salina), Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.atrevidapizzeria.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 333,
+  "merchant": "Betty's",
+  "resolved_name": "Betty's (hamburguesería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 27 esquina Los Muergos, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d12123856-Reviews-Betty_s-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 334,
+  "merchant": "Bigote",
+  "resolved_name": "Bigote Bar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 27 y Gorlero, Punta del Este, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d19838596-Reviews-Bigote_Bar-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 335,
+  "merchant": "Blend (Enjoy)",
+  "resolved_name": "Blend Bar - Enjoy Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Hotel Enjoy Punta del Este",
+    "address": "Parada 4 Playa Mansa, Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.alacarta.com.uy/blend-bar-enjoy-punta-del-este/"
+   }
+  ]
+ },
+ {
+  "id": 336,
+  "merchant": "Brote",
+  "resolved_name": "Brote Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Salto 946 esquina G. Ramírez, Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/7465"
+   }
+  ]
+ },
+ {
+  "id": 337,
+  "merchant": "Bungalow Suizo - Café",
+  "resolved_name": "Bungalow Suizo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt y Parada 8, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.bungalowsuizo.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 338,
+  "merchant": "Cactus y Pescados",
+  "resolved_name": "Cactus y Pescados",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Playa Bikini",
+    "address": "Bajada de Bikini, Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d1139175-Reviews-Cactus_y_Pescados-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 339,
+  "merchant": "Café El Tesoro",
+  "resolved_name": "Café El Tesoro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Barra",
+    "address": "José María Aguilar esquina Costanera, La Barra, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1655686-d8711280-Reviews-Cafe_El_Tesoro-La_Barra_Maldonado_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 340,
+  "merchant": "Casa Astigarraga",
+  "resolved_name": "Casa Astigarraga",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Lenzina esquina Bulevar Artigas (Parada 2), Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d25271147-Reviews-Casa_Astigarraga-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 341,
+  "merchant": "Casa Proa",
+  "resolved_name": "Casa Proa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Bulevar Artigas esquina California, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.latinoplaces.com/maldonado/casa-proa-1628988"
+   }
+  ]
+ },
+ {
+  "id": 342,
+  "merchant": "Casa Vilaró",
+  "resolved_name": "Casa Vilaró (sushi fusión)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Av. Panorámica Carlos Páez Vilaró, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.4,
+    "source_url": "https://puntadelesteinternacional.com/casa-vilaro"
+   }
+  ]
+ },
+ {
+  "id": 343,
+  "merchant": "Club de los Balleneros",
+  "resolved_name": "Club de los Balleneros",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Calle Mar Adriático s/n, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://clubdelosballeneros.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 344,
+  "merchant": "Cofre Café",
+  "resolved_name": "Cofre Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

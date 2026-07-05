@@ -1,0 +1,553 @@
+[
+ {
+  "id": 179,
+  "merchant": "Fumaya",
+  "resolved_name": "Fumaya S.A. (Equipamientos Hogar, Oficina e Industriales)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "F. García Cortinas 2357, Piso 5, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://tienda.fumaya.com/representantes/"
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "merchant": "Galería de Arte 6280",
+  "resolved_name": "Galería de Arte 6280 (6280 Gallery)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Dr. Juan Bautista Alberdi 6280, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://centrocomercialcarrasco.com/services/galeria-de-arte-6280/"
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "merchant": "Glass Defender",
+  "resolved_name": "Glass Defender (láminas de seguridad y polarizados)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Solano García 2461 Bis, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/glass-defender/LOC161310001"
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "merchant": "Kratki",
+  "resolved_name": "Kratki Uruguay (estufas a leña, pellet y bioetanol)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 183,
+  "merchant": "Lavakan",
+  "resolved_name": "Lavakan (pet spa / bañado de mascotas)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Rambla Gandhi",
+    "address": "Rbla. Gandhi 649, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lavakan.com.uy/pages/contact"
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "merchant": "Le Blanc",
+  "resolved_name": "Le Blanc (ropa de cama y decoración para el hogar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Buceo",
+    "address": "Av. Dr. Luis Alberto de Herrera 1349, Buceo, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.estilosdeco.com/negocios/uy/decoracion/le-blanc/"
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "merchant": "Lyte Iluminación",
+  "resolved_name": "Lyte Iluminación Técnica",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Palermo",
+    "address": "Isla de Flores 1858, Palermo, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.clubelpais.com.uy/hogar-y-decoracion/lyte-iluminacion-tecnica/"
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "merchant": "Macadar",
+  "resolved_name": "Decoraciones Macadar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Convención 1321, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://macadar.com.uy/contacto/"
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "merchant": "Martinika Deco",
+  "resolved_name": "Martinika Home & Deco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales / La Barra",
+    "address": "Ruta 10 Km 163.5 esq. Ruta 12, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.estilosdeco.com/negocios/uy/decoracion/martinika-home-deco/"
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "merchant": "Movelart",
+  "resolved_name": "Movelart Uruguay (Mobiliario & Deco)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Vía Disegno",
+    "address": "Ruta 101 Km 19.500, frente Aeropuerto de Carrasco, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.movelart.com.uy/contacto/"
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "merchant": "Natuzzi",
+  "resolved_name": "Natuzzi Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Italia 3659, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.natuzzi.com/uy/es/stores/of-5000600101"
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "merchant": "Pacifica Casa",
+  "resolved_name": "Pacífica Casa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Zelmar Michelini 1287, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.clubelpais.com.uy/hogar-y-decoracion/pacifica-casa/"
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "merchant": "Punto Color",
+  "resolved_name": "Punto Color Pinturas (distribuidor INCA)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Gral. Flores 3068, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://puntocolorpinturas.com/pages/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "merchant": "Punto Design",
+  "resolved_name": "Punto Design (Concept Store)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Pedro F. Berro 658 esq. 21 de Setiembre, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.puntodesign.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "merchant": "Serlux",
+  "resolved_name": "Serlux Iluminación LED",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central Carrasco",
+    "address": "Av. Italia 5672, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.serlux.com.uy/tiendas/casa-central-carrasco_2"
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "merchant": "Soho",
+  "resolved_name": "Soho Deco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Vía Disegno",
+    "address": "Ruta 101 Km 19.500, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://viadisegno.com/stores/soho"
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "merchant": "Tuttodeco",
+  "resolved_name": "Tutto Deco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Guipúzcoa 306 esq. García Cortinas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://tuttodeco.com/"
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "merchant": "Uruguay Tapices",
+  "resolved_name": "Uruguay Tapices (telas de tapicería y decoración)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Uruguay 1071, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://uruguaytapices.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "merchant": "FutVolt",
+  "resolved_name": "FutVolt (fútbol y entretenimiento tecnológico)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Andrés Lamas 3435, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://futvolt.com/"
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "merchant": "Movie",
+  "resolved_name": "Movie Cines (Cinemacenter)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Movie Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://mirandolacartelera.com/uruguay/cine/movie-montevideo"
+   },
+   {
+    "sucursal": "Movie Punta Carretas",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.puntacarretas.com.uy/cine/"
+   },
+   {
+    "sucursal": "Movie Nuevocentro",
+    "address": "Av. Luis Alberto de Herrera y Bv. Artigas, Nuevocentro Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://guiacomercial.uy/cines/montevideo-10/movie-nuevocentro"
+   },
+   {
+    "sucursal": "Movie Portones",
+    "address": "Av. Italia 5775 casi Bolivia, Portones Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.carteleradecine.live/uruguay/movie-nuevocentro/"
+   }
+  ]
+ },
+ {
+  "id": 228,
+  "merchant": "Mundo Cartoon",
+  "resolved_name": "Mundo Cartoon (parque Cartoon Network)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Luis Alberto de Herrera y Bulevar Artigas, Nuevocentro Shopping nivel 3, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://nuevocentroshopping.com.uy/locales/mundo-cartoon/"
+   }
+  ]
+ },
+ {
+  "id": 229,
+  "merchant": "Palacio de la Música",
+  "resolved_name": "Palacio de la Música (instrumentos musicales)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Instrumentos 18 de Julio",
+    "address": "Av. 18 de Julio 869, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://paseocentro.com.uy/palacio-de-la-musica-instrumentos-18-de-julio/"
+   }
+  ]
+ },
+ {
+  "id": 231,
+  "merchant": "Duty Free Uruguay",
+  "resolved_name": "Duty Free (tiendas libres de impuestos, aeropuerto y fronteras)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Aeropuerto Internacional de Carrasco",
+    "address": "Camino Carrasco S/N, Aeropuerto Internacional de Carrasco, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://montevideo.shopdutyfree.com/en/21/our-stores"
+   },
+   {
+    "sucursal": "Chuy",
+    "address": "Avda. Brasil S/N, Chuy, Rocha, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://nb285.dutyfreeamericas.com/locations/location/chuy/"
+   },
+   {
+    "sucursal": "Rivera",
+    "address": "Av. Gral. José G. Artigas S/N entre Joaquín Suárez y Grito de Asencio, Rivera, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://dutyfreeamericas.com/locations/location/rivera/"
+   },
+   {
+    "sucursal": "Artigas",
+    "address": "Av. Gral. Artigas 293, Artigas, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://sitioanterior.viajeauruguay.com/artigas/free-shops-en-artigas.php"
+   }
+  ]
+ },
+ {
+  "id": 233,
+  "merchant": "Bosch y Cia",
+  "resolved_name": "Bosch y Cía. (materiales y equipamiento para el hogar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Gral. Rivera 2560, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.planetauruguay.com/bosch-y-cia-montevideo-F1A09C406"
+   }
+  ]
+ },
+ {
+  "id": 234,
+  "merchant": "Wikimusculos",
+  "resolved_name": "Wikimúsculos (suplementos deportivos)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "Ellauri 350, Local 5142, Punta Carretas Shopping, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://wikimusculos.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 235,
+  "merchant": "Farmacia El Túnel",
+  "resolved_name": "Farmacia El Túnel",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Túnel 1 - Tres Cruces",
+    "address": "Avelino Miranda 2615 esq. Av. Italia, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://eltunel.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 236,
+  "merchant": "San Roque",
+  "resolved_name": "Farmacia San Roque",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (Centro)",
+    "address": "Av. 18 de Julio 1078 esq. Paraguay, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/san-roque-centro/LOC232280013"
+   },
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 512, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Agraciada",
+    "address": "Av. Agraciada 4216, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "18 de Julio 1252",
+    "address": "Av. 18 de Julio 1252, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Portones",
+    "address": "Av. Italia 5775, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Tres Cruces",
+    "address": "Bulevar Gral. Artigas 1825, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Av. Italia 3830",
+    "address": "Av. Italia 3830, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Sarandí",
+    "address": "Sarandí 667, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "18 de Julio 1551",
+    "address": "Av. 18 de Julio 1551, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "Martín García",
+    "address": "Martín García 1609, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "18 de Julio 900",
+    "address": "Av. 18 de Julio 900, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   },
+   {
+    "sucursal": "18 de Julio 1799",
+    "address": "Av. 18 de Julio 1799, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/montevideo/farmacia-san-roque/"
+   }
+  ]
+ },
+ {
+  "id": 237,
+  "merchant": "CIR Acondicionamiento térmico",
+  "resolved_name": "CIR Acondicionamiento Térmico (Grupo CIR)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Bvar. Artigas 2879, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.circalefaccion.com/"
+   }
+  ]
+ },
+ {
+  "id": 238,
+  "merchant": "Movigroup (iPhone/Apple)",
+  "resolved_name": "Movigroup (agente oficial Antel y revendedor Apple)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Plaza Cagancha 1368, Ap. 502, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.movigroup.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 254,
+  "merchant": "Chivipizza",
+  "resolved_name": "Chivipizza",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Dr. Alejandro Schroeder 6472, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.foodyas.com/UY/Montevideo/153580471323777/Chivipizza"
+   }
+  ]
+ }
+]

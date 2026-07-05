@@ -1,0 +1,466 @@
+[
+ {
+  "id": 44,
+  "merchant": "La Trattoria",
+  "resolved_name": "Trattoria (Tres Cruces Shopping)",
+  "es_cadena": false,
+  "status": "partial",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Bulevar Gral. Artigas 1825, Local Tres Cruces Shopping, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.4,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d4134307-Reviews-Trattoria-Montevideo_Montevideo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "merchant": "Pizzorno Family States",
+  "resolved_name": "Pizzorno Family Estates",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Ruta 32 Km. 23, Las Piedras, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://turismo.imcanelones.gub.uy/visita-canelones/que-hacer/bodegas/bodega-pizzorno-family-estates"
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "merchant": "Vivero los Suspiros",
+  "resolved_name": "Vivero Los Suspiros",
+  "es_cadena": false,
+  "status": "partial",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Camino Maua, zona Aparicio Saravia, Mercedes, Departamento de Soriano, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://uy.near-place.com/vivero-los-suspiros-aparicio-saravia-mercedes"
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "merchant": "Nicolini",
+  "resolved_name": "Nicolini (Nicolini Hogar / Equipamientos)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro (Casa Central)",
+    "address": "18 de Julio 1134, Paysandú, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://nicolini.uy/tiendas"
+   },
+   {
+    "sucursal": "Sucursal Hogar",
+    "address": "Av. República Argentina 1755, Paysandú, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://nicolini.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "merchant": "Viasono",
+  "resolved_name": "Viasono",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Matriz",
+    "address": "Rambla de México 6363 esq. Puntas de Santiago, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.viasono.com.uy/sucursales"
+   },
+   {
+    "sucursal": "Pocitos",
+    "address": "Rambla República del Perú 809 esq. Plaza Gomensoro, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.viasono.com.uy/sucursales"
+   },
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Italia 6190, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.viasono.com.uy/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "merchant": "La Cigale",
+  "resolved_name": "La Cigale (heladería/café)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos (Benito Blanco)",
+    "address": "Juan Benito Blanco 1196, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://lacigale.com.uy/page/sucursales-dos"
+   },
+   {
+    "sucursal": "Cordón",
+    "address": "Requena 1550, Cordón, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://lacigale.com.uy/page/sucursales-dos"
+   },
+   {
+    "sucursal": "Plaza Cagancha",
+    "address": "18 de Julio 1179, Centro, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://lacigale.com.uy/page/sucursales-dos"
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "merchant": "Las Nazarenas",
+  "resolved_name": "Las Nazarenas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 51,
+  "merchant": "Mis Petates",
+  "resolved_name": "Mis Petates",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (Cagancha)",
+    "address": "Cagancha 2316 esq. Bulevar Artigas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://mispetates.com/tiendas"
+   },
+   {
+    "sucursal": "Shopping Tres Cruces",
+    "address": "Bulevar General Artigas 1825, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mispetates.com/tiendas"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mispetates.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "merchant": "Late",
+  "resolved_name": "Late",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 59,
+  "merchant": "deVino",
+  "resolved_name": "deVino",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 60,
+  "merchant": "Il Baretto",
+  "resolved_name": "Il Baretto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 9 (La Salina) esq. Calle 10 (2 de Febrero), Altos del Puerto, Punta del Este, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://ilbaretto.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "merchant": "Il Belvedere",
+  "resolved_name": "Il Belvedere Hotel & Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Rambla Lorenzo Batlle esq. Calle Da Vinci, Parada 29, Playa Brava, Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d7202674-Reviews-Il_Belvedere_Restaurante-Punta_del_Este_Maldonado_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "merchant": "Kakao Chocolates",
+  "resolved_name": "Kakao Chocolates",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Ingeniero García de Zúñiga 2368, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.facebook.com/kakaochocolatesuy/photos/bienvenidos-a-kakao-ingeniero-garc%C3%ADa-de-z%C3%BA%C3%B1iga-2368punta-carretas/4263607557068928/"
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "merchant": "La Carola",
+  "resolved_name": "La Carola tapas y vinos",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Avenida Gonzalo Ramírez 2225 esq. H. Reissig, Parque Rodó, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.alacarta.com.uy/la-carola/"
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "merchant": "La Corniche",
+  "resolved_name": "La Corniche",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "El Embarcadero entre Avenida Central y Rambla de los Argentinos, Punta Colorada, Piriápolis, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://1122.com.uy/local/la-corniche/LOC538090001"
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "merchant": "La Sin Rival",
+  "resolved_name": "La Sin Rival",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Soriano 929, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://lasinrival.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "merchant": "Las Ánimas Casa de Campo",
+  "resolved_name": "Las Ánimas Casa de Campo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Ruta 60 Km. 19, Paraje Betete, Nueva Carrara, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.facebook.com/photo.php?fbid=120298073245912&id=105074428101610&set=a.111068650835521"
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "merchant": "Los Fontanes",
+  "resolved_name": "Los Fontanes (Confitería)",
+  "es_cadena": false,
+  "status": "partial",
+  "addresses": [
+   {
+    "sucursal": "Principal (Rivera y Pedro Bustamante)",
+    "address": "Rivera esq. Pedro Bustamante, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://infonegocios.biz/nota-principal/los-fontanes-busca-iniciar-su-sistema-de-franquicias-te-animas-a-llevar-la-confiteria-a-tu-barrio"
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "merchant": "Los Lagos",
+  "resolved_name": "Los Lagos",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 70,
+  "merchant": "Misushi MVD",
+  "resolved_name": "Misushi MVD",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal (Punta Carretas)",
+    "address": "Ing. Luis Franzini 907, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d15852644-Reviews-Misushi_Mvd-Montevideo_Montevideo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "merchant": "Moby Dick",
+  "resolved_name": "Moby Dick Pub",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal (Puerto)",
+    "address": "Rambla Gral. Artigas 650, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://mobydick.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "merchant": "Olivia Restó",
+  "resolved_name": "Olivia Resto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 21 entre Gorlero y Rambla Artigas, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.sluurpy.com/punta-del-este/restaurante/6034285/olivia-resto"
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "merchant": "Sushi Go",
+  "resolved_name": "Sushi Go",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal (Pocitos)",
+    "address": "26 de Marzo 1236, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.rappi.com.uy/restaurantes/111992-sushi-go"
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "merchant": "Sushimi",
+  "resolved_name": "Sushimi Asian Premium & Delivery",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Torres Place Lafayette",
+    "address": "Pedragosa Sierra esq. Parada 5, Av. Roosevelt, Torres Place Lafayette Local 15, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://sushimi.uy/"
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "merchant": "Tomás Restaurant",
+  "resolved_name": "Tomás Restaurant (SORO Montevideo, Curio Collection by Hilton)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Federico Abadie 2912, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.sluurpy.com/montevideo/restaurante/10620650/tomas-restaurant"
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "merchant": "View Point",
+  "resolved_name": "View Point Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 27 y 20, Edificio Walmer (3er y 4to piso), Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://puntadelestegourmet.com/restaurante-view-point.htm"
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "merchant": "Watashi",
+  "resolved_name": "Watashi Sushi & Wok",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 27 (Los Muergos) entre Calle 22 y Av. Juan Gorlero, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/maldonado/watashi-sushi-asian-restaurant-321417"
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "merchant": "Zule",
+  "resolved_name": "Zule - Panadería y Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Camino a la Laguna entre Las Orquídeas y Dr. Elbio Rivero, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://panaderias.org/zule-panaderia-y-cafe-punta-del-este/"
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "merchant": "Sushi Company",
+  "resolved_name": "Sushi Company",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco (Principal)",
+    "address": "Camino Carrasco 6955, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.opina.com.uy/restaurante/montevideo/sushi-company-montevideo_481.php"
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "merchant": "Alma Boutique",
+  "resolved_name": "Alma (Boutique de objetos/accesorios, Punta Carretas Shopping)",
+  "es_cadena": false,
+  "status": "partial",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping, Nivel 2",
+    "address": "José Ellauri 350 esq. Solano García, Punta Carretas Shopping (Nivel 2), Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.facebook.com/puntacarretas/posts/-en-alma-boutique-de-objetos-nivel-2-pod%C3%A9s-encontrar-las-m%C3%A1s-finas-piezas-para-r/10155666747956118/"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2032 @@
+{
+  "source": "oca",
+  "bank": "OCA",
+  "scraped_note": "Extraído de oca.uy/src/js/bd-beneficios.js (const data). Solo active=1 & deleted=0. category:1=Promociones, 2=Espectáculos. Muchos beneficios son financieros (cuotas) y NO mapeables; requieren clasificación merchant-físico vs promo.",
+  "activeCount": 253,
+  "merchants": [
+    {
+      "id": 1,
+      "name": "IPlaceOCA",
+      "title": "24 cuotas en pesos y en dólares pagando con tarjetas de crédito Mastercard en IPlace",
+      "description": "24 cuotas sin recargo en pesos y dólares comprando con tarjetas de crédito Mastercard de OCA en iPlace. Válido hasta el 31 de diciembre del 2026, para compras presenciales en el local de iPlace en nivel 3 de Punta Carretas Shopping y en la web de iPlace: iplace.com.uy",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 2,
+      "name": "MacroMercado",
+      "title": "Accedé a la mejor escala de precios del Macro",
+      "description": "Accedé a la mejor escala de precios de Macro hasta el 31 de agosto de 2026. Todos los clientes que paguen la totalidad de la compra con tarjetas de crédito Mastercard y Visa pasarán a tener los precios de la última escala de Macromercado, todos los días de la semana. Quienes no sean clientes de Macromercado, deberán pasar por recepción con su cédula de identidad y se les tramitará una tarjeta Macr",
+      "category": 1,
+      "dateOff": "2026-09-01"
+    },
+    {
+      "id": 3,
+      "name": "3CuotasEnElExterior",
+      "title": "3 cuotas en el exterior",
+      "description": "Promoción 3 cuotas sin recargo válida para cuando viajes o compres por internet en comercios del exterior adheridos a la red MasterCard o Visa. Vigencia: MASTERCARD desde el 1 de octubre de 2018 al 31 de diciembre de 2023* exclusivamente en compras presenciales y por internet que se realicen en comercios fuera de Uruguay adheridos a la red MasterCard. VISA desde el 29 de junio al 31 de diciembre d",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 5,
+      "name": "ElectroventasOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Electroventas",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Electroventas, del 6 al 12 de julio del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-07-13"
+    },
+    {
+      "id": 7,
+      "name": "20dtodelunesajuevesenBK",
+      "title": "20% de dto. de lunes a jueves en Burger King con tarjetas de crédito",
+      "description": "Promoción válida de lunes a jueves, del 1 de enero al 30 de junio del 2026, para compras realizadas en locales físicos de Burger King con tarjetas de crédito Mastercard y Visa de OCA. El descuento se realiza en el momento de la compra. No aplica para compras a través de Mercado Pago, Pedidos Ya y/o Rappi. Promoción no acumulable con otros descuentos. Ver lista de comercios participantes . Con tu t",
+      "category": 1,
+      "dateOff": "2026-07-01"
+    },
+    {
+      "id": 8,
+      "name": "20menosconlosviernesenBela",
+      "title": "20% de dto. todos los viernes con tarjetas de crédito en Bela",
+      "description": "20% de dto. todos los viernes en Bela, hasta el 31/7/2026 inclusive, pagando con tarjetas de crédito Mastercard y Visa. El descuento se realizará en el punto venta al momento de realizar la compra. No aplica para compras a través de Mercado Pago. Encontrá más info en el sitio web de Bela: bela.com.uy Promoción no acumulable con otros descuentos. Conocé el listado de las sucursales participantes ac",
+      "category": 1,
+      "dateOff": "2026-08-01"
+    },
+    {
+      "id": 11,
+      "name": "Ferreterias",
+      "title": "10% de dto. + Metros dobles en Ferreterías",
+      "description": "Todos los días 10 % de descuento + Metros dobles. Válida para tarjetas OCA y Visa de OCA hasta el 31/12/2022. 10% de descuento + Metros dobles en ferreterías participantes de Montevideo e Interior. El descuento se realizará en el estado de cuenta hasta un tope de $2.000 por cuenta y por mes. Válida para transacciones manuales y electrónicas realizadas en pesos o dólares. Generarán Metros dobles la",
+      "category": 1,
+      "dateOff": "2023-01-01"
+    },
+    {
+      "id": 14,
+      "name": "TataOCA",
+      "title": "20% de dto. de lunes a viernes en categorías seleccionadas con tarjetas de crédito en TaTa",
+      "description": ".beneficio-titulo{ display:none; } .img-tata{ width: 100%; transition: all .2s ease-in-out; scale: 1; } .img-tata:hover{ transform: scale(1.1); } Términos y Condiciones de la promoción 20% de descuento sobre los rubros detallados a continuación, de lunes a viernes, para compras realizadas en sucursales y web de TaTa, con tarjetas de crédito OCA. El descuento se realiza en el momento de la compra. ",
+      "category": 1,
+      "dateOff": "2026-12-31"
+    },
+    {
+      "id": 17,
+      "name": "Avis",
+      "title": "Alquilá tu auto y disfrutá más",
+      "description": "Alquilá un auto en AVIS y disfrutá del 20% de descuento en el momento de la compra. Promoción válida hasta el 31/12/2023 y para alquileres dentro de Uruguay. No acumulable con otras promociones. Incluye: Kilometraje libre y seguro. Código Promocional: PROMO OCA. Teléfono: 1700 . Web Avis: www.avis.com.uy",
+      "category": 1,
+      "dateOff": "2024-01-01"
+    },
+    {
+      "id": 18,
+      "name": "BeneficioChajáconTCyBlue",
+      "title": "20% de dto. con tarjetas de crédito en Chajá",
+      "description": "20% de descuento de lunes a jueves en Chajá. Promoción válida hasta el 31 de diciembre del 2026 abonando con tarjetas de crédito de OCA. El descuento se realiza en el momento de la compra y es válido únicamente en locales físicos. No aplica para Pedidos Ya ni Rappi. No aplica para Pedidos Ya ni Rappi. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 19,
+      "name": "Metros",
+      "title": "Presentá un amigo y ganá 2.000 Metros",
+      "description": "¡Presentanos a un amigo que todavía no tenga tarjetas de crédito OCA y ganá 2.000 Metros! Podés hacerlo a través de Mi Cuenta (ingresando a \"Beneficios\" -> \"Presentá a un amigo\") o en cualquiera de nuestras sucursales. Cuando el nuevo socio retire su tarjeta, automáticamente se acreditarán 2.000 Metros en tu cuenta. No serás garantía del nuevo usuario. #mercadopagolegal{ display: none; } #sol-oca-",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 20,
+      "name": "Hiperviajes",
+      "title": "12 cuotas sin recargo en Hiperviajes",
+      "description": "Con tu tarjeta de crédito OCA tenés 12 cuotas sin recargo hasta el 31/12/2022.",
+      "category": 1,
+      "dateOff": "2023-01-01"
+    },
+    {
+      "id": 21,
+      "name": "Movie",
+      "title": "Movie a la Mitad + Metros",
+      "description": "Comprá tu entrada en Movie con tarjetas de crédito a la mitad + Metros y disfrutá de tus películas favoritas todo el año: Los valores de entradas: 2D 360 Metros + $260 3D 380 Metros + $275 4D 540 Metros + $390 VIP - 520 Metros + $370 Y si querés disfrutar más la experiencia, comprá el combo de entrada + pop y refresco a: Entradas + Pop y refresco: 2D 810 Metros + $438 3D 830 Metros + $453 4D 1.000",
+      "category": 1,
+      "dateOff": "2050-01-01"
+    },
+    {
+      "id": 22,
+      "name": "12cuotasOCAMastercard",
+      "title": "12 cuotas con tarjetas de crédito Mastercard",
+      "description": "Promoción 12 cuotas válida con tarjeta de crédito Mastercard de OCA en comercios seleccionados, adquiridos y adheridos a OCA. Válido del 4 de julio al 18 de agosto de 2026. Conocé el listado de comercios participantes acá . #mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-08-19"
+    },
+    {
+      "id": 24,
+      "name": "Telepeaje",
+      "title": "Hacé el débito de Telepeaje Y llevá el TAG de regalo",
+      "description": "Hacé el débito de Telepeaje, pagá menos y llevate el TAG gratis. Con OCA tenés 10 pasadas con 20% de descuento cada una, válido por cuenta. Además, envío gratis del TAG con entrega a domicilio. La activación del TAG en Telepeaje será a partir de haber recibido, de parte de Telepeaje, un mensaje de texto que le confirme la activación. Adherite ahora a través de Mi Cuenta ( no aplican para solicitud",
+      "category": 1,
+      "dateOff": "2023-07-31"
+    },
+    {
+      "id": 25,
+      "name": "PagaLaPatenteConOCA",
+      "title": "Pagá la patente en hasta 6 cuotas + 20% de dto. con tu tarjeta de crédito Mastercard y Visa de OCA",
+      "description": "#mercadopagolegal{ display:none; } .video-responsive { width: 100%; max-width: 380px; } .video-responsive iframe { width: 100%; aspect-ratio: 9/16; height: auto; display: block; } Promoción válida para tarjeta de crédito Mastercard y Visa de OCA del 8 de enero hasta el 20 de enero de 2026 inclusive, sujeto a disponibilidad de crédito y aprobación de la operación, ingresando desde la sección \"pago ",
+      "category": 1,
+      "dateOff": "2026-01-21"
+    },
+    {
+      "id": 28,
+      "name": "VolvieronlosdiasOCAdelamoda",
+      "title": "Del 15 al 18 de junio 20% dto en tus tiendas favoritas.",
+      "description": "Promoción válida del 15 al 18 de junio de 2023. 20% de descuento con tarjetas de crédito Mastercard y Visa de OCA en: Carter’s, BAS, Stadium, Hering, Guapa, Umbro, Crocs, Fitpoint, Forum, Inbox, Timeout, Miss Carol, Jean Vernier, Watchme, Harrington, Oshkosh, Skip-Hop, Taco Alto, Polo, Vopero, Ferracini y Bibi. No participan las compras a través de Mercadopago. Adidas no participa de la promoción ",
+      "category": 1,
+      "dateOff": "2023-06-18"
+    },
+    {
+      "id": 32,
+      "name": "10+12cuotasdivino",
+      "title": "10% de dto + 12 cuotas sin recargo en Divino.",
+      "description": "Promoción 10% de dto + 12 cuotas sin recargo en Divino. Válida del 1 al 31 de julio de 2023 en compras web o presenciales realizadas con tarjetas de crédito Mastercard y Visa de OCA. Las 12 cuotas sin recargo aplican exclusivamente a compras con tarjeta de crédito Mastercard de OCA. Tope de descuento $5.000 por cuenta. El descuento se realiza en el estado de cuenta.",
+      "category": 1,
+      "dateOff": "2023-08-01"
+    },
+    {
+      "id": 35,
+      "name": "10%+12cuotasemporiodelhogar",
+      "title": "Del 1 al 31 de mayo 10% dto + 12 cuotas en Emporio del hogar",
+      "description": "Promoción válida del 1 al 31 de mayo 2023. 10% de descuento con tarjetas de crédito Mastercard y VISA de OCA + 12 cuotas en el Emporio del Hogar, en compras presenciales y web. Tope de descuento $5.000 por cuenta. Las 12 cuotas aplican únicamente en compras con Mastercard de OCA. El descuento se verá reflejado en el estado de cuenta.",
+      "category": 1,
+      "dateOff": "2023-05-31"
+    },
+    {
+      "id": 45,
+      "name": "VueltaAClasesOCA",
+      "title": "Hasta 20% de dto. + 12 cuotas* con tarjetas de crédito en estos comercios",
+      "description": ".beneficio-titulo{display:none;} #mercadopagolegal{ display:none; } p.detalle-promo{ font-size: 16px; color: #006ED2; font-weight: 900; text-align:center; width:100%;align-self: flex-end; padding: 5px; margin-bottom:25px; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } @media (max-width: 480px) { p.detalle-promo{ font-size: 13px; align-self: center",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 46,
+      "name": "LOiVueltaAclasesOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en LOi",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta y tiene un tope de $3.000 (pesos uruguayos) por cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 49,
+      "name": "10%+12cuotasMercadoLibre",
+      "title": "Del 8 al 14 de mayo 10% dto + 12 cuotas en Mercado Libre",
+      "description": "Promoción válida del 8 al 14 de mayo de 2023, 10% de dto. en productos seleccionados con tarjetas de crédito Mastercard y Visa de OCA + 12 cuotas en Mercado Libre en compras web. Tope de descuento $3.000 por cuenta. Las 12 cuotas aplican únicamente en compras con Mastercard de OCA. El descuento ser verá reflejado al momento de la compra.",
+      "category": 1,
+      "dateOff": "2023-05-15"
+    },
+    {
+      "id": 51,
+      "name": "DiasOCAdeLaModa",
+      "title": "Del 6/07/26 al 12/07/26",
+      "description": "",
+      "category": 1,
+      "dateOff": "2026-07-13"
+    },
+    {
+      "id": 277,
+      "name": "DiasOCAdeLaModa",
+      "title": "",
+      "description": "",
+      "category": 1,
+      "dateOff": "2026-07-06"
+    },
+    {
+      "id": 52,
+      "name": "FirestoneOCA",
+      "title": "20% de dto. + 12 cuotas* en dólares con tarjetas de crédito en Firestone",
+      "description": "#mercadopagolegal{ display:none;} 20% de descuento en neumáticos Firestone + 12 cuotas sin recargo en dólares, exclusivo con tarjetas Mastercard de OCA (aplica para el listado de comercios participantes). Promoción válida del 1 al 31 de octubre del 2025. El descuento se verá reflejado en el momento de la compra. NO aplica esta promoción para tarjetas Visa. No aplica para compras a través de Mercad",
+      "category": 1,
+      "dateOff": "2025-11-01"
+    },
+    {
+      "id": 53,
+      "name": "OCAInca",
+      "title": "20% de dto. + 12 cuotas con tarjetas de crédito Mastercard en Inca",
+      "description": "20% de descuento + 12 cuotas en productos INCA, exclusivo con tarjetas Mastercard de OCA. Promoción válida del 1 al 29 de noviembre del 2025 inclusive. El descuento se verá reflejado en el momento de la compra. NO aplica esta promoción para tarjetas Visa de OCA.",
+      "category": 1,
+      "dateOff": "2025-11-30"
+    },
+    {
+      "id": 56,
+      "name": "EstudiaConOCA",
+      "title": "Desde el 19/2/24",
+      "description": "",
+      "category": 1,
+      "dateOff": "2025-03-31"
+    },
+    {
+      "id": 57,
+      "name": "ViernesDeInteriorconBeneficios",
+      "title": "Todos los viernes de noviembre en comercios seleccionados de interior del país.",
+      "description": "Promoción 20% de dto. + 12 cuotas sin recargo con Mastercard y Visa de OCA todos los viernes de noviembre en comercios seleccionados del interior del país. Las 12 cuotas aplican exclusivamente a compras con Mastercard de OCA. El descuento se realiza en el punto de venta. Conocé los comercios participantes aquí. Colonia Durazno Florida Maldonado Melo Mercedes Pando Paysandú Rivera Rocha Salto San J",
+      "category": 1,
+      "dateOff": "2023-11-25"
+    },
+    {
+      "id": 58,
+      "name": "CiberlunesConOCA",
+      "title": "¡Nos sumamos a CIBERLUNES del 1 al 8 de junio!",
+      "description": "h1.tituloBenficioAmpliado{ font-size: 23px; } .beneficio-titulo{ display:none; } #mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; } p.detalle-promo{ font-size: 12px; margin: 0; padding: 5px 0; text-align: center; } p.detalle-promo small{ font-size: 1em; display: block; font-weight:bold; padding:3px 0 0 0; color: #FF7E6D; } .agrandoImg img{ transition: all .2s ease-in-out; } a.a",
+      "category": 1,
+      "dateOff": "2026-06-09"
+    },
+    {
+      "id": 61,
+      "name": "Volvieronlas12cuotas",
+      "title": "Válido en comercios participantes",
+      "description": "Promoción válida del 4 de julio al 18 de agosto de 2023 en compras en pesos o dólares con tarjeta de crédito Mastercard de OCA. Conocé los comercios participantes acá .",
+      "category": 1,
+      "dateOff": "2023-08-19"
+    },
+    {
+      "id": 62,
+      "name": "DebitosPublicosOCA",
+      "title": "2.000 Metros de regalo por cada nueva adhesión a débito automático de instituciones públicas ¡Además, generás Metros adicionales todos los meses con el débito de tus facturas!",
+      "description": "h1.tituloBenficioAmpliado span{ font-weight: bold; font-size: 1.2rem; margin: 10px 0; } 2.000 Metros de regalo por cada nueva adhesión a débito automático de instituciones públicas. Promoción Válida del 1 de marzo al 6 de abril de 2026 inclusive. El beneficio aplica para nuevos débitos y aquellos que fueron dados de baja hace más de 12 meses y se vuelven a dar de alta. Los 2.000 Metros se acredita",
+      "category": 1,
+      "dateOff": "2026-04-07"
+    },
+    {
+      "id": 65,
+      "name": "30dtoDirectvGO",
+      "title": "30% de descuento por 3 meses en DGO Full",
+      "description": "El contenido que buscás está en DGO! Contrata el plan DGO Full con un 30% de descuento los primeros 3 meses y empezá a disfrutar tu programación favorita con + 80 canales en vivo, deportes y mucho más en la librería de series y películas. Promoción válida para clientes de tarjetas de crédito Mastercard y Visa de OCA, que contraten el Servicio DGO FULL por primera vez entre el 12 de mayo y hasta el",
+      "category": 1,
+      "dateOff": "2023-08-01"
+    },
+    {
+      "id": 66,
+      "name": "OCAJuanConstruye",
+      "title": "30% de dto. con tarjetas de crédito + 12 cuotas* en Juan Construye",
+      "description": "30% de descuento en Juan Construye pagando con tarjetas de crédito Mastercard y Visa. Promoción válida del 15 de agosto al 30 de setiembre del 2024. El descuento aplica para compras físicas y web, y se verá reflejado al momento de la compra. *Las 12 cuotas sin recargo aplican exclusivamente a compras con tarjeta de crédito Mastercard. No aplica para compras a través de Mercado Pago. Conocé el list",
+      "category": 1,
+      "dateOff": "2024-10-01"
+    },
+    {
+      "id": 68,
+      "name": "EmporioDelHogarOCA",
+      "title": "Metros X3 en todas tus compras en El Emporio del Hogar",
+      "description": "Del 15 de setiembre al 31 de octubre del 2025, todas tus compras realizadas en El Emporio del Hogar acumulan metros Triples. Promoción válida exclusivamente para pagos realizados con tarjetas de crédito OCA. Este beneficio no aplica para compras realizadas con OCA Blue.",
+      "category": 1,
+      "dateOff": "2025-11-01"
+    },
+    {
+      "id": 69,
+      "name": "OKAN",
+      "title": "Tu bicicleta OKAN en 24 cuotas",
+      "description": "Promoción valida en 24 cuotas sin recargo con tarjeta de crédito Mastercard de OCA, aplica para moneda dólares. Válida hasta el 28/02/2023. Más información en okan.uy",
+      "category": 1,
+      "dateOff": "2023-03-01"
+    },
+    {
+      "id": 70,
+      "name": "PromoMundial",
+      "title": "Promo mundial",
+      "description": "Promoción válida en Uruguay: 20% de descuento en todo PedidosYa los días que juega Uruguay, entre el 20 de noviembre al 18 de diciembre 2022. Tope de descuento por cuenta, compartido entre las tarjetas de crédito OCA (Mastercard y Visa): $1.500. El descuento será en el estado de cuenta. Tope de descuento por cliente de las cuentas en OCA Blue: $1.000. El descuento será aplicado hasta 10 días hábil",
+      "category": 1,
+      "dateOff": "2022-12-19"
+    },
+    {
+      "id": 71,
+      "name": "Prestamo60dias",
+      "title": "Del 1 al 30/4 pedí tu préstamo ¡y la primera cuota la pagás en 60 días!",
+      "description": "Préstamo 60 días válido solo para préstamos retirados entre el 01 al 30 de abril de 2026. Sujeto a aprobación crediticia. Pedilo ahora --> #mercadopagolegal{ display:none;} #noacumulablelegal{ display:none;}",
+      "category": 1,
+      "dateOff": "2026-05-01"
+    },
+    {
+      "id": 74,
+      "name": "HeladosConaproleTata",
+      "title": "20% de dto comprando Helados Conaprole en Supermercados TATA",
+      "description": "Promoción del 20% de descuento en helados de 2 litros Conaprole (regular y/o sinfonía), comprados en supermercados TATA del 16 al 31 de enero de 2023. Promoción válida en compras presenciales y tienda online con OCA Blue y tarjetas de crédito Mastercard y Visa de OCA. El descuento se realiza en el momento de la compra.",
+      "category": 1,
+      "dateOff": "2023-02-02"
+    },
+    {
+      "id": 75,
+      "name": "DivinoFiestasOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Divino",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Divino, del 8 al 14 de diciembre del 2025. El tope de descuento es de $4.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-12-15"
+    },
+    {
+      "id": 76,
+      "name": "EmporiodelHogarOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Emporio del Hogar",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en El Emporio del Hogar, del 07 de enero al 28 de febrero del 2026. El descuento tiene un tope de $3.000 por cuenta y se verá reflejado en el estado de cuenta. Válido para compras en tiendas físicas y web. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-01"
+    },
+    {
+      "id": 77,
+      "name": "SemanadedescuentosconOCA",
+      "title": "Válido exclusivamente para compras online del 6 al 13 de marzo.",
+      "description": "Mercado Libre: 10% de descuento con tarjetas de crédito Mastercard y Visa de OCA y 12 cuotas sin recargo (sólo aplica para Mastercard de OCA), en productos seleccionados de Mercadolibre. Tope de descuento $3.000. El descuento se verá reflejado al momento de la compra (checkout). LOi, Electroventas, Zonalaptop, Palacio de la Música, Iplace, Divino y Emporio del Hogar: 10% de descuento con tarjetas ",
+      "category": 1,
+      "dateOff": "2023-03-14"
+    },
+    {
+      "id": 78,
+      "name": "FlorDeSemanaOCA",
+      "title": "Toda una semana con flor de beneficios",
+      "description": "",
+      "category": 1,
+      "dateOff": "2026-03-24"
+    },
+    {
+      "id": 79,
+      "name": "FlorDeSemanaOCA",
+      "title": "Toda una semana con flor de beneficios",
+      "description": "",
+      "category": 1,
+      "dateOff": "2025-11-01"
+    },
+    {
+      "id": 80,
+      "name": "ColeccionablesTaTa",
+      "title": "Términos y Condiciones de la promoción \"Coleccionables Ta-Ta\"",
+      "description": "Promoción exclusiva para clientes PLUS de Ta-Ta, hasta agotar productos de canje. Por cada $250 de compra, el cliente recibe un sticker gratis. Por cada $100 de compra de productos participantes, recibe un sticker adicional. Por cada $250 de compra pagando con OCA Blue o tarjetas de crédito Mastercard y Visa de OCA recibe 1 sticker adicional. Inicio de entrega de stickers: 23 de Marzo de 2023. Fin",
+      "category": 1,
+      "dateOff": "2023-07-13"
+    },
+    {
+      "id": 81,
+      "name": "HacéeldebitodeSTMconOCA",
+      "title": "Aprovechá este beneficio",
+      "description": "Hacés el débito de STM, común, jubilado y ahora también estudiante, te olvidás de recargarla y además pagás todos tus boletos en el próximo estado de cuenta. Si sos estudiante y se terminan tus boletos podés seguir viajando con los boletos comunes de una hora. Si viajás con STM común aprovechás los precios bonificados o si sos jubilado mantenés tu precio especial. Hacé tu débito en Mi Cuenta . Ing",
+      "category": 1,
+      "dateOff": "2024-02-01"
+    },
+    {
+      "id": 82,
+      "name": "FlorDeDia",
+      "title": "Solicitá tu tarjeta de crédito y tu cuenta OCA Blue con flor de beneficios",
+      "description": "$1.000 de regalo en la primera compra, con tu tarjeta de crédito Mastercard o Visa de OCA Promoción válida para nuevas tarjetas de crédito Mastercard y Visa de OCA emitidas el 8 de agosto de 2023. La primera compra se podrá realizar hasta el 30/09/23 inclusive y el descuento se verá reflejado en el estado de cuenta. Tope de descuento por cuenta $1.000, para compras mayores o iguales a $3.000. OCA ",
+      "category": 1,
+      "dateOff": "2023-08-09"
+    },
+    {
+      "id": 83,
+      "name": "SorteoConmebolLibertadores",
+      "title": "Ganate una entrada doble + Previa con Picada",
+      "description": "Vigencia: Esta promoción será válida del 24/7/2023 al 30/7/2023. Premios: Se sortearán 5 entradas dobles en Instagram, cortesía de Mastercard, para el partido de octavos de final de Conmebol Libertadores, que se disputará entre Club Nacional de Fútbol vs Club Atlético Boca Juniors el miércoles 2/8/2023 en el Gran Parque Central. Los ganadores recibirán dos entradas preferenciales y acceso para dis",
+      "category": 1,
+      "dateOff": "2023-07-31"
+    },
+    {
+      "id": 84,
+      "name": "Telepeaje",
+      "title": "Hacé el débito de Telepeaje y llevá el TAG de regalo",
+      "description": "Hacé el débito de Telepeaje y llévate el TAG gratis. Envío gratis del TAG con entrega a domicilio. La activación del TAG en Telepeaje será a partir de haber recibido, de parte de Telepeaje, un mensaje de texto que le confirme la activación. Adherite ahora a través de Mi Cuenta (no aplican para solicitudes en sucursales ni Call Center). Ingresando a la página del CVU (Corporación Vial del Uruguay),",
+      "category": 1,
+      "dateOff": "2023-12-01"
+    },
+    {
+      "id": 85,
+      "name": "AprovechateconOCAsumachancesygana",
+      "title": "Ganadores de los premios de la promoción Aprovechate",
+      "description": "/* OCULTO EL TERMINOS Y CONDICIONES*/ .col-12.col-lg-12.col-xs-12.beneficio-ampliado-txt{ padding: 6% 0; } h1.tituloBenficioAmpliado{ padding: 0 5%; margin: 0 0 40px; color: #006ed2; } strong.beneficio-titulo{ font-size:18px; padding: 0 5% ; } strong.beneficio-titulo:nth-child(2){ display:none; } #sol-oca-beneficio-ampliado{ padding: 0 5% ; } /* ESTILOS GENERALES*/ .general-promo{ margin: 0; paddi",
+      "category": 1,
+      "dateOff": "2023-12-16"
+    },
+    {
+      "id": 86,
+      "name": "CartoonsOCA",
+      "title": "20% de dto. + 12 cuotas* en Cartoons",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Cartoons, del 11 al 17 de agosto del 2025. El descuento es válido para locales físicos y web, tiene un tope de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas sólo aplican para Mastercard.",
+      "category": 1,
+      "dateOff": "2025-08-18"
+    },
+    {
+      "id": 87,
+      "name": "BeneficioSecuritas",
+      "title": "Promo Débito Automático Securitas",
+      "description": "25% de descuento en todos los servicios durante el primer año + Instalación gratis + Botón de pánico con monitoreo desde la central SOC Securitas sin sobrecosto. Promoción válida desde el 07 de agosto al 30 de Setiembre del 2023 para nuevos clientes que se adhieran a débito automático en planes a 36 meses con tarjetas MasterCard de OCA. No aplica para clientes ya existentes que cambien de modalida",
+      "category": 1,
+      "dateOff": "2023-10-01"
+    },
+    {
+      "id": 88,
+      "name": "Prestamo60dias",
+      "title": "Del 1/11 al 10/12 pedí tu préstamo ¡y la primera cuota la pagás en 60 días!",
+      "description": "Préstamo 60 días válido solo para préstamos retirados entre el 01 de noviembre al 10 de diciembre de 2025. Sujeto a aprobación crediticia. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-12-11"
+    },
+    {
+      "id": 89,
+      "name": "PromoKroser",
+      "title": "10% dto. en Kroser con tarjetas de crédito OCA + 12 cuotas con Mastercard",
+      "description": "10% de descuento todos los días en Kroser pagando con tarjetas de crédito, válido exclusivamente para compras en locales físicos. Promoción válida hasta el 31 de diciembre de 2026. Tope de descuento: $1.500 por cuenta, por mes. El descuento se realizará en el estado de cuenta. Conocé las sucursales adheridas acá. *Las 12 cuotas aplican exclusivamente para compras con tarjeta de crédito Mastercard.",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 159,
+      "name": "KroserOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Kroser",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Kroser, válido del 6 al 13 de abril del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 90,
+      "name": "DisaLitoral",
+      "title": "20% dto en Estaciones de servicio DISA seleccionadas",
+      "description": "40% IMESI + 20% de descuento OCA Promoción válida desde el 01/09/2023 hasta el 31/10/2023 inclusive, en combustibles*, pagando con tarjetas de crédito Visa y Mastercard de OCA y tu cuenta OCA Blue. El descuento se verá reflejado en el estado de cuenta del cliente para las tarjetas de crédito y en los movimientos de la cuenta del cliente para OCA Blue (dentro de los 10 días hábiles). Tope del descu",
+      "category": 1,
+      "dateOff": "2023-11-01"
+    },
+    {
+      "id": 91,
+      "name": "Aprovechate-CiberfestSetiembre2023",
+      "title": "¡Semana de descuentos en la web, y con OCA tenés la posta!",
+      "description": ".beneficio-titulo{display:none;} mercadolibre.com.uy divino.com.uy elemporiodelhogar.com.uy electroventas.com.uy Loi.com.uy mibelleza.uy nnet.com.uy woofer.com.uy El descuento de Mercadolibre aplica para productos seleccionados. *12 cuotas válidas con OCA Mastercard. Términos y condiciones aquí .",
+      "category": 1,
+      "dateOff": "2023-09-19"
+    },
+    {
+      "id": 92,
+      "name": "AprovechateBelaSemanaAniversario",
+      "title": "20% de dto. en Semana Aniversario Bela",
+      "description": "Promoción válida todos los días del 18 al 24 de setiembre de 2023, con Mastercard y Visa de OCA. El descuento se realiza en sucursales y en el momento de la compra.",
+      "category": 1,
+      "dateOff": "2023-09-25"
+    },
+    {
+      "id": 93,
+      "name": "tipodecambioperferencial",
+      "title": "Tipo de cambio preferencial",
+      "description": "Promoción válida del 19.9 al 19.10 para pagos de estados de cuenta de tarjetas de crédito Mastercard y Visa de OCA –desde cuenta OCA Blue- y para transferencias entre cuentas propias o a terceros en OCA Blue u otra institución financiera, en moneda cruzada, desde Mi Cuenta o la App de OCA exclusivamente. El tipo de cambio preferencial no aplica para transacciones en las cajas de las sucursales de ",
+      "category": 1,
+      "dateOff": "2023-10-20"
+    },
+    {
+      "id": 94,
+      "name": "DiasOCAdelHogar",
+      "title": "¡Renová tus espacios en todos estos comercios! Del 6 al 13 de abril",
+      "description": "p.detalle-promo { font-size: 11px; margin: 0 0 15px; text-align:center; } p.detalle-promo span{ color: #FF7E6D; font-weight: 900; } .beneficio-titulo{display:none;} } a.agrandoImg img{ } a.agrandoImg:hover img{ transition: all .3s ease-in-out; transform: scale(1.1); } #mercadopagolegal{ display: none; } #noacumulablelegal{ display: none; } Promociones válidas para tarjetas de crédito. *12 cuotas v",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 95,
+      "name": "BeneficioMundoagua",
+      "title": "20% de descuento en Mundo Agua - Purificadores de Agua",
+      "description": "Promoción válida del 01/11/2023 al 30/11/2023 inclusive. 20% de descuento abonando con tarjetas Mastercard de OCA, Visa de OCA y OCA Blue + Envío gratis a todo el pais. El descuento se realiza en el checkout web al momento de realizar la compra. www.mundoagua.com.uy",
+      "category": 1,
+      "dateOff": "2023-12-01"
+    },
+    {
+      "id": 96,
+      "name": "Jetmar12cuotasConOCA",
+      "title": "Hasta el 31/01/2024",
+      "description": "Beneficio válido hasta el 31/01/2024. Las 12 cuotas sin recargo son válidas para compras en pesos o dólares con tarjeta de crédito Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2024-02-01"
+    },
+    {
+      "id": 97,
+      "name": "Buemes12cuotasConOCA",
+      "title": "Hasta el 31/01/2024",
+      "description": "Beneficio válido hasta el 31/01/2024. Las 12 cuotas sin recargo son válidas para compras en pesos o dólares con tarjeta de crédito Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2024-02-01"
+    },
+    {
+      "id": 98,
+      "name": "HiperviajesOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito en Hiperviajes",
+      "description": "10% de descuento + 12 cuotas en Hiperviajes. Promoción válida del 15 al 23 de octubre del 2024 inclusive. El tope de descuento es de USD 100 por cuenta, y se verá reflejado en el estado de cuenta. Las 12 cuotas son exclusivas para Mastercard. Encontrá más info en el sitio web de www.hiperviajes.com.uy #mercadopagolegal{ display: none}",
+      "category": 1,
+      "dateOff": "2024-10-24"
+    },
+    {
+      "id": 99,
+      "name": "BeneficioNFC",
+      "title": "30% dto pagando con la app OCA",
+      "description": "Promoción válida del 1 de noviembre al 15 de diciembre de 2023. 30% de descuento en todas las compras pagando únicamente con tu App OCA en compras presenciales (sólo pagos con contacto con el celular, funcionalidad disponible en dispositivos Android con NFC). Válido únicamente para tarjetas de crédito Mastercard de OCA. Tope de descuento $300 por compra y $1.500 por mes, por cuenta. El descuento s",
+      "category": 1,
+      "dateOff": "2023-12-16"
+    },
+    {
+      "id": 100,
+      "name": "BasVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Bas",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 101,
+      "name": "AprovechateConMotorola",
+      "title": "10% dto. en la tienda oficial Motorola con Oca Blue y tarjetas de crédito + 12 cuotas*",
+      "description": "10% de descuento exclusivo en la tienda oficial de Motorola, pagando con Oca Blue y tarjetas de crédito + 12 cuotas sin recargo exclusivo con Mastercard de OCA*. Promoción válida del 1/2/24 al 18/2/24 inclusive. El descuento se realiza en el punto de venta y aplica para todos los productos de la tienda. No aplica para compras web. Dirección de la tienda: Av. 18 de Julio 951.",
+      "category": 1,
+      "dateOff": "2024-02-20"
+    },
+    {
+      "id": 102,
+      "name": "TelepeajeConOCA",
+      "title": "Hacé el débito automático de Telepeaje con OCA y llevate el TAG gratis y 10 pasadas con 30% de dto. con tarjetas de crédito Mastercard de OCA.",
+      "description": "Hacé el débito de Telepeaje con tu Mastercard, pagá menos y llevate el TAG gratis. Con OCA tenés 10 pasadas con 30% de descuento cada una, válido por cuenta. Además, envío gratis del TAG con entrega a domicilio. La activación del TAG en Telepeaje será a partir de haber recibido, de parte de Telepeaje, un mensaje de texto que le confirme la activación. Adherite ahora a través de Mi Cuenta (no aplic",
+      "category": 1,
+      "dateOff": "2026-04-01"
+    },
+    {
+      "id": 103,
+      "name": "Volvieronlas12cuotas",
+      "title": "Comprá todo lo que querés con OCA en 12 cuotas",
+      "description": "Promoción válida del 28 de noviembre de 2023 al 11 de enero de 2024 en compras en pesos o dólares con tarjeta de crédito Mastercard de OCA. Conocé los comercios participantes acá",
+      "category": 1,
+      "dateOff": "2024-01-13"
+    },
+    {
+      "id": 104,
+      "name": "CartoonsVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Cartoons",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 105,
+      "name": "LaNuevaRoma",
+      "title": "30% de descuento todos los días en Heladería La Nueva Roma",
+      "description": "Promoción válida del 1 de diciembre de 2023 al 30 de abril de 2024. El beneficio aplica en todos los productos y es exclusivo para compras locales físicos pagando con tarjetas de crédito OCA. Tope de devolución mensual por cuenta $1500.",
+      "category": 1,
+      "dateOff": "2024-05-01"
+    },
+    {
+      "id": 106,
+      "name": "Ichef",
+      "title": "Disfrutá de tu Ichef hoy mismo, en cuotas y sin ocupar el saldo de tu tarjeta",
+      "description": "Llevate tu iChef asistente de cocina, abonando una entrega inicial de USD 400 y completa el saldo restante de la misma con una suscripción de 24 cuotas de USD 40 cada una, que serán debitadas automáticamente de tu tarjeta de crédito OCA (la suscripción al débito automático solo consume usd 40 del límite disponible de tu tarjeta mensualmente hasta completarse las 24 cuotas). Los USD 400 de la entre",
+      "category": 1,
+      "dateOff": "2024-01-01"
+    },
+    {
+      "id": 107,
+      "name": "MovistarOCA",
+      "title": "24 cuotas en Movistar con tarjetas de crédito Mastercard de OCA",
+      "description": "Del 14 de abril al 18 de mayo del 2025 tenés 24 cuotas sin recargo en la compra de celulares que se realicen a través del canal online de Movistar www.movistar.com.uy . Promoción exclusiva abonando con tarjetas de crédito Mastercard de OCA, en pesos uruguayos. No es válido para tarjetas de crédito VISA de OCA, ni compras en dólares americanos. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-05-19"
+    },
+    {
+      "id": 108,
+      "name": "FarmacityOCAMastercard",
+      "title": "30% de dto. todos los miércoles en Farmacity con tarjetas de crédito Mastercard contactless",
+      "description": "Promoción válida para la primera compra de los días miércoles y jueves desde las 00hs del 01 de agosto de 2024 hasta las 24 horas del 31 de diciembre de 2024 y/o hasta agotar stock de $5.401.500 (pesos uruguayos cinco millones cuatrocientos un mil quinientos), lo que ocurra primero, en la República Oriental del Uruguay, únicamente en las compras realizadas de forma presencial en las tiendas física",
+      "category": 1,
+      "dateOff": "2025-01-01"
+    },
+    {
+      "id": 212,
+      "name": "FarmacityOCAMastercard",
+      "title": "30% de descuento con el Celular vía NFC y con Débito, Crédito o Prepago Sin Contacto",
+      "description": "30% de dto. todos los miércoles en Farmacity. Promoción válida todos los miércoles desde las 00hs del 01 de noviembre de 2025 hasta las 24 horas del 30 de noviembre de 2025 en la República Oriental del Uruguay, únicamente en las compras realizadas de forma presencial en las tiendas físicas de FARMI S.A.S. (la “Promoción”). La Promoción consiste en brindar un 30% (treinta por ciento) de descuento c",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 109,
+      "name": "CabifyOCA",
+      "title": "30% o 50% de dto. en tus viajes de Cabify con tarjetas de crédito Mastercard de OCA",
+      "description": "50% de dto. para NUEVOS USUARIOS en hasta 4 viajes por mes: Promoción válida todos los días, para viajes y envíos realizados en los departamentos de Montevideo y Maldonado en la República Oriental del Uruguay desde el 1/11/2025, hasta el 30/11/2025, ambas fechas inclusive (el “Plazo de Vigencia”), ingresando en la App Cabify el código “MASTER50” (la “Promoción”). La promoción consiste en otorgar u",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 111,
+      "name": "6cuotasArgentinaBrasilEstadosUnidos",
+      "title": "Comprá en Argentina, Brasil y Estados Unidos en 6 cuotas sin recargo con tus tarjetas de crédito.",
+      "description": "Promoción 6 cuotas sin recargo, desde el 15 de junio al 21 de julio de 2024 (*) exclusivamente en compras presenciales o por internet que se realicen en comercios en Argentina, Brasil y Estados Unidos adheridos a la red MasterCard y Visa. Las compras realizadas en Argentina, aparecerán en el estado de cuenta al tipo de cambio bonificado. Válido únicamente para compras realizadas en Argentina en Mo",
+      "category": 1,
+      "dateOff": "2024-07-22"
+    },
+    {
+      "id": 113,
+      "name": "10menosconOCAenMundocolor",
+      "title": "10% dto. con tarjetas de crédito OCA",
+      "description": "Promoción válida del 15/02/2024 al 28/02/2025 inclusive. 10% de descuento todos los días pagando con tarjetas de crédito OCA en todos los productos de Mundocolor. El descuento se realizará en el punto venta al momento de realizar la compra. Válido para todas las sucursales físicas.",
+      "category": 1,
+      "dateOff": "2025-03-01"
+    },
+    {
+      "id": 114,
+      "name": "12cuotasconmastercarddeOCA",
+      "title": "Del 6/2 al 18/3/2024",
+      "description": "Promoción 12 cuotas válida exclusivamente para tarjetas Mastercard de OCA en comercios seleccionados del 6 de febrero al 18 de marzo de 2024.. No aplica para Visa de OCA. Conocé los comercios participantes acá",
+      "category": 1,
+      "dateOff": "2024-03-19"
+    },
+    {
+      "id": 115,
+      "name": "VuelvenLasClases",
+      "title": "Comprá todo para la vuelta a clases con OCA en 12 cuotas",
+      "description": "Promoción válida del 19 de febrero al 8 de marzo del 2024 con tarjetas de crédito Mastercard y Visa de OCA + 12 cuotas sin recargo (sólo aplican para Mastercard de OCA). 20% de descuento en Boomerang, Cartoons, Hering, Stadium y Unishop: El descuento se verá reflejado al momento de la compra en el punto de venta/ chekout web. 20% de descuento en productos escolares de Macromercado: El descuento se",
+      "category": 1,
+      "dateOff": "2024-03-10"
+    },
+    {
+      "id": 116,
+      "name": "3milMetrosregalo",
+      "title": "3.000 Metros de regalo, con tu nueva tarjeta Mastercard y Visa.",
+      "description": "Promoción válida para nuevas tarjetas Mastercard y Visa solicitadas desde el 21/02/2024 al 28/02/2024. La asignación de los 3.000 metros se realizará a los clientes que tengan al menos un consumo en su tarjeta de crédito antes del 31/03/2024. Los metros se acreditarán en la cuenta del cliente el 10/04/2024.",
+      "category": 1,
+      "dateOff": "2024-02-29"
+    },
+    {
+      "id": 118,
+      "name": "SemanaDeDescuentosEnLaWeb",
+      "title": "¡Volvió la semana de descuentos en la web! Disfrutá los beneficios con tus tarjetas de crédito!",
+      "description": ".beneficio-titulo{display:none;} #mercadopagolegal{ display:none; } p.detalle-promo{ font-size: 12px; margin: 0; padding: 5px 0; text-align: center; } p.detalle-promo small{ font-size: 1em; display: block; font-weight:bold; padding:3px 0 0 0; color: #FF7E6D; } .agrandoImg img{ transition: all .2s ease-in-out; } a.agrandoImg:hover img{ transform: scale(1.1); } div.cardBen{ display: flex; flex-direc",
+      "category": 1,
+      "dateOff": "2026-03-10"
+    },
+    {
+      "id": 119,
+      "name": "20dtoenprimeracompra",
+      "title": "20% de Dto en tu primera compra con tu nueva tarjeta Mastercard o Visa de OCA",
+      "description": "Pedí tu tarjeta de crédito Mastercard y Visa de OCA con 20% dto. en tu primera compra. Válido para tarjetas de crédito Mastercard y Visa de OCA emitidas desde el 1/3 al 8/3 del 2024. Tope de descuento $500. El descuento aplica para las compras realizadas hasta el 30 de abril de 2024. Promoción exclusiva para nuevas tarjetas de crédito solicitadas en sucursales.",
+      "category": 1,
+      "dateOff": "2024-03-09"
+    },
+    {
+      "id": 120,
+      "name": "5milMetrosregalo",
+      "title": "5.000 metros de regalo para préstamos en 24 y 36 cuotas",
+      "description": "Los 5.000 metros de regalo aplica exclusivamente para los préstamos en 24 y 36 cuotas originados entre el 1/3 y el 8/3 del 2024, los mismos se acreditaran en la cuenta del cliente hasta 30 días después de abonada la primer cuota del préstamo. No aplica para préstamos en puntos de venta ni para préstamos a no clientes de tarjeta de crédito. Promoción exclusiva para préstamos solicitados en sucursal",
+      "category": 1,
+      "dateOff": "2024-03-09"
+    },
+    {
+      "id": 117,
+      "name": "OpticaFloridaOCA",
+      "title": "12 cuotas en Óptica Florida con tarjeta de crédito Mastercard",
+      "description": "12 cuotas sin recargo pagando con tarjetas de crédito Mastercard de OCA en Óptica Florida. Promoción válida hasta el 28 de febrero del 2026. El beneficio aplica únicamente en locales físicos de Óptica Florida. Conocé el listado de las sucursales participantes aquí #mercadopagolegal{ display: none; }",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 121,
+      "name": "OpticaFloridaVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Óptica Florida",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 122,
+      "name": "FlorDeSemanaOCA",
+      "title": "Toda una semana con flor de beneficios",
+      "description": "Del 22 al 29 de julio tenés Flor de semana OCA con flor de beneficios para pedir tu préstamo, sacar tu tarjeta de crédito, abrir tu cuenta OCA Blue, y contratar seguros. ¿Te lo vas a perder? Tarjetas de crédito Mastercard \"Pedí tu tarjeta de crédito Mastercard de OCA gratis por 2 años\" Promoción válida del 22 al 29 de julio de 2024. Válido para tarjetas Mastercard de OCA solicitadas durante la pro",
+      "category": 1,
+      "dateOff": "2024-07-29"
+    },
+    {
+      "id": 123,
+      "name": "PromoUnifer",
+      "title": "10% de dto. en Unifer con tarjetas de crédito OCA + 12 cuotas con Mastercard",
+      "description": "10% de descuento + 12 cuotas* todos los días en Unifer, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). Promoción válida hasta el 31 de diciembre del 2026. El tope de descuento es de $1.500 por cuenta, por mes y se verá reflejado en el estado de cuenta. Conocé las sucursales adheridas acá. *Las 12 cuotas aplican exclusivamente para compras con tarjeta de cr",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 189,
+      "name": "UniferOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Unifer",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Unifer, válido del 6 al 13 de abril del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 124,
+      "name": "PagaconlaAppOCA",
+      "title": "5% de dto. adicional en comercios adheridos pagando con la App OCA",
+      "description": "5% de descuento extra pagando con la App de OCA los días de descuento en los comercios adheridos a la promoción. Beneficio válido hasta el 31 de diciembre del 2025. Tope de descuento: $500 por cuenta, por mes. El tope se renueva mensualmente y aplica para todas las compras realizadas en el mes, en los comercios adheridos (no es un tope individual por comercio). El descuento de este 5% extra se ver",
+      "category": 1,
+      "dateOff": "2025-12-31"
+    },
+    {
+      "id": 125,
+      "name": "OCASubway",
+      "title": "20% de dto. de lunes a jueves en Subway +5% pagando con la App OCA*",
+      "description": "20% de descuento de lunes a jueves en todas tus compras realizadas en locales físicos Subway con tarjetas de crédito Mastercard y Visa. Promoción válida del 01/04/2024 al 31/07/2024 inclusive. No aplica para Pedidos Ya y Rappi. El descuento del 20% se realiza en el momento de la compra. 5% de descuento extra pagando con la App de OCA los días de descuento en los comercios adheridos a la promoción.",
+      "category": 1,
+      "dateOff": "2024-08-01"
+    },
+    {
+      "id": 126,
+      "name": "PromoSopranos",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en SOPRANOS Malvin, de Río de la Plata 1391, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 127,
+      "name": "PromoSopranosPocitos",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenés 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en SOPRANOS Pocitos, de 26 de marzo 3248, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 128,
+      "name": "PromoPalermoviejo",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en PALERMO VIEJO, ubicado en Barrios Amorin 949, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 129,
+      "name": "PromoBritanicoPrado",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en BRITÁNICO Prado, ubicado en Millán 2949, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 130,
+      "name": "PromoBritanicoPocitos",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en BRITÁNICO POCITOS, ubicado en 26 de marzo 3248, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 131,
+      "name": "PromoBartv",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en BAR TV. El descuento se realiza en el punto de venta. Sucursales Montevideo - Gral. Flores 3357 Lagomar, Canelones - Emilio de Franco esquina Becú (a partir del 01/04/2024)",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 132,
+      "name": "PromoValerio",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en Valerio de Ellauri 1102. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 133,
+      "name": "PromoElTigre",
+      "title": "20% de dto. de lunes a jueves.",
+      "description": "De lunes a jueves tenes 20% de descuento pagando con tarjetas de crédito. Válido hasta el 31 de diciembre del 2024 en El Tigre de Dr. José Scoseria 2501, Montevideo. El descuento se realiza en el punto de venta.",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 134,
+      "name": "PrestamoOCA",
+      "title": "Pedí tu préstamo ahora, en 26 o 36 cuotas y te regalamos hasta $2.000 en tu tarjeta",
+      "description": "$1.000 de regalo para préstamos de $20.000 a $60.000. $2.000 para préstamos mayores a $60.000. El monto de regalo se acreditará a las 72hrs hábiles luego de retirado el préstamo o acreditado en cuentas OCA Blue. Dicho monto figurará como un ajuste en la tarjeta y el mismo únicamente podrá ser utilizado para descontar consumos efectuados en la tarjeta de crédito Mastercard o Visa de OCA. Esta promo",
+      "category": 1,
+      "dateOff": "2024-04-25"
+    },
+    {
+      "id": 135,
+      "name": "CopaAmericaconMastercard",
+      "title": "⚽ ¿Te imaginás en la final de la CONMEBOL Copa América 2024 ™?",
+      "description": "Participá del sorteo por un (1) paquete para dos personas todo incluido para viajar a ver el partido final de la CONMEBOL Copa América 2024™ en Miami, Estados Unidos. Todas las compras realizadas desde el 15 de abril al 15 de mayo de 2024, a partir de $200 (pesos uruguayos doscientos) y/o USD 5 (dólares estadounidenses cinco) o más; obtendrán una (1) chance y comprando con la App OCA sumás chances",
+      "category": 1,
+      "dateOff": "2024-05-15"
+    },
+    {
+      "id": 136,
+      "name": "PuntaShoppingOCA",
+      "title": "+10% dto. adicional al IVA Shopping con tarjetas de crédito OCA",
+      "description": "10% de descuento extra pagando con tarjetas de crédito OCA el lunes 22 de abril de 2024 en los comercios adheridos a la promoción del IVA Shopping de Punta Shopping. Tope de descuento: $1.500 por cuenta. El 10% de descuento extra se verá reflejado en el estado de cuenta del cliente. Conocé los locales adheridos en https://promopuntashopping.com/locales-adheridos/",
+      "category": 1,
+      "dateOff": "2024-04-23"
+    },
+    {
+      "id": 137,
+      "name": "Mastercard-2-gratis",
+      "title": "Pedí tu tarjeta de crédito Mastercard de OCA gratis por 2 años",
+      "description": "Promoción válida del 26 al 30 de abril 2024. Válido para tarjetas Mastercard de OCA, solicitadas en sucursales o canales digitales, emitidas durante la promoción, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cuenta, costos de mora, financiación, retiro de efectivo ni ningún otro costo diferente al anual.",
+      "category": 1,
+      "dateOff": "2024-05-01"
+    },
+    {
+      "id": 138,
+      "name": "tienda-en-tu-ciudad",
+      "title": "+12 cuotas con Mastercard* +5% pagando con la App",
+      "description": "",
+      "category": 1,
+      "dateOff": "2027-06-05"
+    },
+    {
+      "id": 139,
+      "name": "Herracor",
+      "title": "10% de dto. en Herracor con tarjetas de crédito OCA + 12 cuotas con Mastercard",
+      "description": "10% de descuento + 12 cuotas* todos los días en Herracor, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). Promoción válida hasta el 31 de diciembre del 2026. El tope de descuento es de $1.500 por cuenta, por mes y se verá reflejado en el estado de cuenta. Conocé las sucursales adheridas acá. *Las 12 cuotas aplican exclusivamente para compras con tarjeta de ",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 261,
+      "name": "HerracorOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Herracor",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Herracor, válido del 6 al 13 de abril del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display: none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 140,
+      "name": "DíaDeLaMadre",
+      "title": "¡Llega el día de la madre y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras!",
+      "description": ".beneficio-titulo{display:none;} p.detalle-promo{ font-size: 11px; margin: 10px 0 0 0; color: #FF7E6D; font-weight: 900; text-align:center; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } .img24{ width:100%; display: block; padding:0; } @media (max-width: 480px) { p.detalle-promo{ font-size: 9px; } .img24{ width: 110%; display: block; padding: 0; m",
+      "category": 1,
+      "dateOff": "2026-05-11"
+    },
+    {
+      "id": 142,
+      "name": "BuhoStoreOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Búho Store",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Búho Store del 6 al 3 de abril del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 143,
+      "name": "LOIOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito en LOI",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en LOI del 4 al 10 de mayo del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. **El 10% de dto. con tope de $3.000 por cuenta es válido también para la opción de canjes con Metros en https://loi.com.uy/oca-metraje y se verá reflejado en el estad",
+      "category": 1,
+      "dateOff": "2026-05-11"
+    },
+    {
+      "id": 145,
+      "name": "ElectroventasOCA",
+      "title": "10% de descuento en seleccionados de Electroventas + 12 cuotas* con tarjetas de crédito",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Electroventas. Promoción válida del 1 de febrero del 2026 al 31 de enero del 2027 inclusive. El descuento se aplica en punto de venta. *12 cuotas exclusivas para Mastercard.",
+      "category": 1,
+      "dateOff": "2026-07-06"
+    },
+    {
+      "id": 146,
+      "name": "SodimacFiestasOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito* en Sodimac",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Sodimac, del 8 al 14 de diciembre del 2025. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-12-15"
+    },
+    {
+      "id": 147,
+      "name": "ElEmporiodelHogarOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en El Emporio del Hogar",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en El Emporio del Hogar, válido del 6 al 13 de abril del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 148,
+      "name": "DivinoOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Divino",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Divino, válido del 6 al 13 de abril del 2026. El tope de descuento es de $4.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 149,
+      "name": "BelaOCA",
+      "title": "20% de dto. + 12 cuotas con tarjetas de crédito en Bela",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Bela, del 4 al 10 de mayo del 2026. El descuento se verá reflejado en el punto de venta al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA. Conocé el listado de las sucursales participantes acá",
+      "category": 1,
+      "dateOff": "2026-05-11"
+    },
+    {
+      "id": 150,
+      "name": "SorteoConmebolLibertadores",
+      "title": "Ganate una entrada doble",
+      "description": "Vigencia: Esta promoción será válida del 24/5/2024 al 26/5/2024. Premios: Se sortearán 2 entradas dobles en Instagram, cortesía de Mastercard, para el partido de Fase de grupos de Conmebol Libertadores, que se disputará entre Club Atlético Peñarol vs Rosario Central el martes 28/5/2024 en el Estadio Campeón del Siglo. Los ganadores recibirán dos entradas CAT1. Mecánica: Participarán en el sorteo t",
+      "category": 1,
+      "dateOff": "2024-05-30"
+    },
+    {
+      "id": 151,
+      "name": "1000pesosregalo",
+      "title": "Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 1 año y $1.000 de regalo.",
+      "description": "Promoción válida del 24 al 28 de junio de 2024. Válido para tarjetas Mastercard y Visa de OCA, solicitadas en sucursales o canales digitales, emitidas durante la promoción, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cuenta, costos de mora, financiación, retiro de efectivo ni ningún otro costo diferente al anual. Los $ 1.000 serán acredi",
+      "category": 1,
+      "dateOff": "2024-06-29"
+    },
+    {
+      "id": 152,
+      "name": "promoprestamo",
+      "title": "Pedí tu préstamo de 24 o 36 cuotas y llevatelo con 20% de dto en la tasa + 3.000 Metros",
+      "description": "Promoción valida exclusivamente para préstamos en 24 o 36 cuotas originados entre el 27 y 31 de mayo.Aplica para préstamos solicitados en canales digitales y sucursales OCA.Los 3.000 metros de regalo se acreditaran en la cuenta del cliente hasta 30 días después de abonada la primer cuota del préstamo. No aplica para préstamos en puntos de venta ni para préstamos a no clientes de tarjeta de crédito",
+      "category": 1,
+      "dateOff": "2024-06-01"
+    },
+    {
+      "id": 153,
+      "name": "JuanConstruyeOCA",
+      "title": "30% de dto. con tarjetas de crédito + 12 cuotas* en seleccionados en Juan Construye",
+      "description": "30% de descuento en Juan Construye pagando con tarjetas de crédito Mastercard y Visa de OCA. Promoción válida del 15 de agosto al 30 de setiembre del 2025, en locales físicos y web. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas sin recargo aplican exclusivamente a compras con tarjeta de crédito Mastercard de OCA y en las compras en locales físicos. Conocé el listado de las",
+      "category": 1,
+      "dateOff": "2025-10-01"
+    },
+    {
+      "id": 154,
+      "name": "RecargatucelularconMetros",
+      "title": "Cargar saldo en tu celular con Metros ¡es muy fácil!",
+      "description": ".video-responsive { height: 0; overflow: hidden; padding-bottom: 56.25%; padding-top: 30px; position: relative; } .video-responsive iframe, .video-responsive object, .video-responsive embed { height: 100%; left: 0; position: absolute; top: 0; width: 100%; } Podés cargar desde $50 con 250 Metros hasta $300 con 1.500 Metros. Hacelo desde Mi cuenta o la App OCA. Mirá el paso a paso acá: #mercadopagol",
+      "category": 1,
+      "dateOff": "2025-01-01"
+    },
+    {
+      "id": 155,
+      "name": "CinesdelEsteOCA",
+      "title": "2x1 en entradas 2D y 3D con las tarjetas de crédito",
+      "description": "2x1 todos los días en la compra de entradas para películas en 2D y 3D en Cines del Este, realizadas con tarjetas de crédito OCA y OCA Blue. Promoción válida hasta el 09/06/2025. El tope de la promoción es de cuatro entradas por tarjeta, por compra realizada (dos compras de entradas 2x1). Válido para canjes por web, boletería presencial y auto gestión del local. No aplica para películas en 4D, comp",
+      "category": 2,
+      "dateOff": "2025-06-10"
+    },
+    {
+      "id": 156,
+      "name": "Prestamoregalo",
+      "title": "Con tu préstamo en 18 cuotas, ¡una Smart TV Samsung de regalo!",
+      "description": "Promoción válida para todos los préstamos en 18 cuotas de $50.000 o más solicitados entre el 07 de junio y el 14 de julio o hasta agotar stock de 200 TV. Para todos los préstamos en 18 cuotas de 50.000 a 69.000 pesos, corresponde una TV Smart Samsung 32” de regalo. Para préstamos de 70.000 o más corresponde una TV Smart Samsung 43”. No válido para préstamos a No clientes OCA ni para préstamos en p",
+      "category": 1,
+      "dateOff": "2024-07-15"
+    },
+    {
+      "id": 157,
+      "name": "promoprestamo",
+      "title": "Pedí tu préstamo de 20, 24 o 36 cuotas y llevatelo con 20% de dto en la tasa + 3.000 Metros",
+      "description": "Promoción valida exclusivamente para préstamos en 20, 24 o 36 cuotas originados entre el 8 y 21 de julio. Aplica para préstamos solicitados en canales digitales y sucursales OCA. Los 3.000 metros de regalo se acreditaran en la cuenta del cliente hasta 30 días después de abonada la primer cuota del préstamo. No aplica para préstamos en puntos de venta ni para préstamos a no clientes de tarjeta de c",
+      "category": 1,
+      "dateOff": "2024-07-22"
+    },
+    {
+      "id": 158,
+      "name": "CopaAmericaOCA",
+      "title": "10% de dto. en supermercados* los días que juega Uruguay con tarjetas de crédito",
+      "description": "10% de descuento en supermercados* los días que juega Uruguay, pagando con tarjetas de crédito Mastercard y Visa. Tope del descuento: $150 por día. Beneficio válido únicamente para compras presenciales realizadas entre las 18 hs y las 22 hs los siguientes días: 23 de junio del 2024 27 de junio del 2024 01 de julio del 2024 No aplica para compras realizadas a través de Mercado Pago, Rappi o Pedidos",
+      "category": 1,
+      "dateOff": "2024-07-02"
+    },
+    {
+      "id": 160,
+      "name": "DíadelPadreOCA",
+      "title": "¡Llega el Día del Padre y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras! Del 6 al 12 de julio en estos comercios:",
+      "description": ".beneficio-titulo{display:none;} p.detalle-promo{ font-size: 11px; margin: 0 0 15px; color: #006ED2; font-weight: 900; text-align:center; } #mercadopagolegal{ display:none; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } @media (max-width: 480px) { p.detalle-promo{ font-size: 9px; } } --> --> --> --> --> --> Promociones válidas para tarjetas de cré",
+      "category": 1,
+      "dateOff": "2026-07-13"
+    },
+    {
+      "id": 161,
+      "name": "GripperOCA",
+      "title": "20% de dto. en envíos internacionales de Estados Unidos a Uruguay con tarjetas de crédito y OCA Blue",
+      "description": "20% de descuento en envíos internacionales de hasta 5Kg desde Estados Unidos a Uruguay pagando con cualquier tarjeta OCA. Beneficio válido desde el 24 de noviembre hasta el 31 de diciembre del 2025 inclusive. El descuento se aplica automáticamente en el checkout y es válido únicamente para pagos online. No aplica para pagos realizados mediante POS al momento de la entrega. No acumula con otras pro",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 162,
+      "name": "SodimacOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Sodimac",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Sodimac, válido del 6 al 13 de abril del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 163,
+      "name": "BarracaMalvinOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Barraca Malvin",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Barraca Malvín. Promoción válida del 15 al 31 de octubre de 2024 inclusive. Tope de descuento $3.000 por comercio y por cuenta. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard. Encontrá más info en el sitio web de Barraca Malvin: barracamalvin.com.uy",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 164,
+      "name": "ArhoOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Arho",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Arho. Promoción válida del 15 al 31 de octubre de 2024 inclusive. Tope de descuento $3.000 por comercio y por cuenta. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard. Encontrá más info en el sitio web de Arho: arho.uy",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 165,
+      "name": "BuhoStoreOCA",
+      "title": "20% de dto. + 12 cuotas con tarjetas de crédito en Búho Store",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Búho Store del 4 al 10 de mayo del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-05-11"
+    },
+    {
+      "id": 166,
+      "name": "DiasOCAdelHogar",
+      "title": "¡La excusa perfecta para dejar tu casa más linda!",
+      "description": ".beneficio-titulo{display:none;} p.detalle-promo{ font-size: 11px; margin: 0 0 15px; color: #FF7E6D; font-weight: 900; text-align:center; } #mercadopagolegal{ display:none; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } @media (max-width: 480px) { p.detalle-promo{ font-size: 9px; } } +5% pagando con la App OCA +5% pagando con la App OCA +5% pagand",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 167,
+      "name": "FlorDeSemanaOCA",
+      "title": "Toda una semana con flor de beneficios",
+      "description": "Del 22 al 31 de julio extendimos Flor de semana OCA con flor de beneficios para pedir tu préstamo, sacar tu tarjeta de crédito, abrir tu cuenta OCA Blue, y contratar seguros. ¿Te lo vas a perder? Tarjetas de crédito Mastercard \"Pedí tu tarjeta de crédito Mastercard de OCA gratis por 2 años\" Promoción válida del 22 al 31 de julio de 2024. Válido para tarjetas Mastercard de OCA solicitadas durante l",
+      "category": 1,
+      "dateOff": "2024-08-01"
+    },
+    {
+      "id": 168,
+      "name": "MiBellezaOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito en Mi Belleza",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Mi Belleza del 4 al 10 de mayo del 2025. El tope de descuento es de $2.500 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. **El 10% de dto. con tope de $2.500 por cuenta es válido también para la opción de canjes con Metros en https://mibelleza.uy/oca-metraje y se verá reflejado en",
+      "category": 1,
+      "dateOff": "2026-05-11"
+    },
+    {
+      "id": 169,
+      "name": "MetrosX3conOCA",
+      "title": "Multiplicá tus Metros X3 en todas tus compras, pagando con la App OCA",
+      "description": "Del 1 al 28 de febrero del 2025, todas tus compras realizadas con la App de OCA acumulan Metros triples. Esta metodología de pago actualmente es válida sólo para Mastercard, en celulares Android con tecnología NFC (no es compatible con IOS). #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-03-01"
+    },
+    {
+      "id": 179,
+      "name": "InterMiamiConVisa",
+      "title": "Participá por un viaje para ver al Inter Miami con tus compras con Visa Contactless",
+      "description": "Participá del sorteo de dos paquetes para dos personas y viajá a ver el Inter en Miami. El premio incluye: Vuelos ida y vuelta para la persona ganadora y un acompañante, entradas para alentar al equipo Inter Miami, hospedajes, alimentos y bebidas para disfrutar durante la estadía y más.Participan del sorteo “Promo Visa Inter Miami” las compras realizadas bajo la modalidad “sin contacto” entre el 1",
+      "category": 1,
+      "dateOff": "2024-08-26"
+    },
+    {
+      "id": 180,
+      "name": "DiaDelNinoOCA",
+      "title": "¡Llega el día del niño y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras! Del 11 al 17 de agosto",
+      "description": ".beneficio-titulo{display:none;} p.detalle-promo{ font-size: 11px; margin: 15px 0 0; color: #006ED2; font-weight: 900; text-align:center; } #mercadopagolegal{ display:none; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } @media (max-width: 480px) { p.detalle-promo{ font-size: 9px; } } +5% Pagando con la App --> --> --> --> Promociones válidas para ",
+      "category": 1,
+      "dateOff": "2025-08-18"
+    },
+    {
+      "id": 181,
+      "name": "HomeopatiaAlemanaOCA",
+      "title": "20% de dto. los viernes con tarjetas de crédito en Homeopatía Alemana",
+      "description": "20% de descuento todos los viernes en Homeopatía Alemana con tarjetas de crédito. Promoción válida hasta 31 de diciembre del 2026 inclusive. El descuento será realizado al momento de la compra en el punto de venta. Válido únicamente para sucursales físicas. No aplica para compras a través de Mercado Pago ni Pedidos Ya. Promoción no acumulable con otros descuentos. Conocé el listado de las sucursal",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 183,
+      "name": "9puntosIvaRestaurantes",
+      "title": "Hasta 9 puntos de devolución de IVA en restaurantes.",
+      "description": "Aplica una reducción de hasta 9 puntos de IVA (Impuesto al Valor Agregado) a todas las compras realizadas con tarjetas de crédito en restaurantes y deliverys. Reducción amparada en la Ley 19.210. No acumulable con los 2 puntos de IVA. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-01-01"
+    },
+    {
+      "id": 184,
+      "name": "VacacionesPorElMundoConVISA",
+      "title": "Promociones para disfrutar en tus próximas vacaciones por el mundo con tarjetas de crédito VISA",
+      "description": "Conocé todas las promociones vigentes en todo el mundo, con tarjetas de crédito VISA de OCA en: restaurantes, cafeterías, hoteles, paseos, tours, renta de autos, entretenimiento y mucho más. Descubrilas acá: Promociones y Descuentos | Visa Para conocer los beneficios activos en el país que visites, ingresá los siguientes filtros: Elegí la categoría de comercios que estás buscando. En Tipo de tarje",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 185,
+      "name": "DesembolsodeEmergenciaVISA",
+      "title": "Desembolso de efectivo de emergencia con tarjetas de crédito VISA",
+      "description": "El servicio de desembolso de efectivo de emergencia te ayudará a obtener efectivo en caso de que tu tarjeta se pierda o la roben, bien sea en tu país de domicilio o desde cualquier parte del mundo. No aplica en Cuba, Siria, Sudán, Irán, Corea del Norte, Crimea y otros países listados en OFAC. Válido exclusivamente para tarjetas de crédito Visa válida. Oferta sujeta a cambio y basada en términos y ",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 186,
+      "name": "RemplazodeTarjetasVISA",
+      "title": "Servicio de reemplazo de tarjetas de crédito VISA",
+      "description": "Si tu tarjeta Visa se extravía o es robada, podés comunicarte al Centro de Atención al Cliente Visa para tomar las medidas necesarias como bloquear la tarjeta y protegerte del uso no autorizado de la cuenta. Válido exclusivamente para tarjetas de crédito Visa válida. No aplica en Cuba, Siria, Sudán, Irán, Corea del Norte, Crimea y otros países listados en OFAC. Oferta sujeta a cambio y basada en t",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 187,
+      "name": "ProtecciondeprecioVISA",
+      "title": "Cobertura de Protección de Precio con tarjetas de crédito VISA",
+      "description": "La cobertura de Protección de Precio entra en acción si encontrás el mismo artículo (misma marca, modelo y año) a un precio más bajo, dentro de los treinta días posteriores a la compra. Al pagar completamente con tu tarjeta de crédito Visa, recibirás automáticamente esta protección sin necesidad de registrarla. Válido para ciertas compras realizadas en su totalidad con productos de pago Visa en la",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 188,
+      "name": "3y6CuotasExterior",
+      "title": "3 y 6 cuotas en todo el mundo + 0% de comisión en Argentina, Brasil y Chile con tarjetas de crédito.",
+      "description": "Términos y condiciones de la promoción: 6 CUOTAS EN EL EXTERIOR Promoción 6 cuotas, válida hasta el 20 de julio del 2026 (*) exclusivamente en compras presenciales o por internet que se realicen en comercios de todo el mundo, adheridos a la red Mastercard y Visa. Importe mínimo por compra: U$S40 o su equivalente en la moneda de origen de la transacción, según tipo de cambio del día de la misma. La",
+      "category": 1,
+      "dateOff": "2026-07-14"
+    },
+    {
+      "id": 190,
+      "name": "BuquebusOCA",
+      "title": "25% + 10% de dto. y 12 cuotas* en pasajes y bodegas con tarjetas de crédito en Buquebus",
+      "description": "Promoción válida en la República Oriental del Uruguay desde el 14/10/25 al 16/10/25 inclusive o hasta agotar stock de 4 pasajes y 2 bodegas por frecuencia previamente seleccionada por la empresa, lo que ocurra primero, para compras realizadas a través del sitio web www.buquebus.com.uy , venta telefónica y locales comerciales ingresando el código TANGO25, descuento de 25% en pasajes y/o bodegas en ",
+      "category": 1,
+      "dateOff": "2025-10-17"
+    },
+    {
+      "id": 191,
+      "name": "1000pesosregalo",
+      "title": "Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 1 año y $1.000 de regalo.",
+      "description": "Promoción válida para tarjetas Mastercard y Visa de OCA, solicitadas en sucursales o canales digitales entre el 23 y 25 de setiembre de 2024, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cuenta, costos de mora, financiación, retiro de efectivo ni ningún otro costo diferente al anual. Los $ 1.000 serán acreditados en estado de cuenta, con ",
+      "category": 1,
+      "dateOff": "2024-09-26"
+    },
+    {
+      "id": 192,
+      "name": "MovistarOCA",
+      "title": "Todas las recargas de $300 o más a celulares Movistar realizadas a través de la App de OCA y Mi Cuenta web valen X3",
+      "description": "Promoción válida del 23 de setiembre al 31 de octubre del 2024 inclusive, exclusiva para recargas de $300 en adelante de Movistar realizadas a través de la App de OCA y Mi Cuenta, en cualquiera de sus modalidades de pago: tarjetas de crédito OCA, OCA Blue y Metros. Ej: Recarga de $300 - Se acreditarán $900 *Para las recargas en Metros se triplicará únicamente la opción de $300. Con tu tarjeta OCA ",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 193,
+      "name": "MercadoLibreFiestasOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito* en Mercado Libre",
+      "description": "10% de descuento con tarjetas de crédito en artículos seleccionados de Mercado Libre + 12 cuotas*, del 8 al 14 de diciembre del 2025. El descuento tiene un tope de $3.000 por cuenta y se verá reflejado al momento de la compra en el chekout web. *Las 12 cuotas son exclusivas para Mastercard de OCA. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-12-15"
+    },
+    {
+      "id": 194,
+      "name": "GelateríaDelClubOCA",
+      "title": "20% de dto. de lunes a jueves en Gelatería del Club pagando con tarjeta de crédito.",
+      "description": "Promoción válida de lunes a jueves, del 7 de mayo del 2026 al 30 de abril del 2027, para compras realizadas en locales físicos de Gelatería del Club con tarjetas de crédito. El descuento se realiza en el momento de la compra. No aplica para compras a través de Mercado Pago, Pedidos Ya y/o Rappi. Promoción no acumulable con otros descuentos. Sucursales: 18 de Julio 1261 8 de octubre 2702 esq Gariba",
+      "category": 1,
+      "dateOff": "2027-05-01"
+    },
+    {
+      "id": 195,
+      "name": "KentuckyOCA",
+      "title": "20% de dto. de lunes a jueves en Kentucky pagando con tarjetas de crédito",
+      "description": "Promoción válida de lunes a jueves, del 7 de mayo del 2026 al 30 de abril del 2027, para compras realizadas en locales físicos de Kentucky con tarjetas de crédito. El descuento se realiza en el momento de la compra. No aplica para compras a través de Mercado Pago, Pedidos Ya y/o Rappi. Promoción no acumulable con otros descuentos. Sucursales: San José y Cuareim (frente al Teatro Metro) #mercadopag",
+      "category": 1,
+      "dateOff": "2027-05-01"
+    },
+    {
+      "id": 196,
+      "name": "ElClubdelaPapaFritaOCA",
+      "title": "20% de dto. de lunes a jueves en El Club de la Papa Frita pagando con tarjetas de crédito",
+      "description": "Promoción válida de lunes a jueves, del 7 de mayo del 2026 al 30 de abril del 2027, para compras realizadas en locales físicos de El Club de la Papa frita con tarjetas de crédito. El descuento se realiza en el momento de la compra. No aplica para compras a través de Mercado Pago, Pedidos Ya y/o Rappi. Promoción no acumulable con otros descuentos. Sucursales: 18 de Julio 1261 8 de octubre 2702 esq.",
+      "category": 1,
+      "dateOff": "2027-05-01"
+    },
+    {
+      "id": 197,
+      "name": "DebitosPrivadosOCA",
+      "title": "Del 01/07/26 al 31/07/26",
+      "description": "",
+      "category": 1,
+      "dateOff": "2026-08-01"
+    },
+    {
+      "id": 198,
+      "name": "DisneyOCA",
+      "title": "20% dto. en tu suscripción a Disney+ con tarjetas de crédito",
+      "description": "20% de descuento en suscripciones nuevas* a Disney+ Standard o Disney+ Premium pagando con tarjetas de crédito. La promoción es válida para los siguientes planes: Disney+ Standard Mensual, Disney+ Standard Anual, Disney+ Premium Mensual y Disney+ Premium Anual, del 1 de octubre al 31 de diciembre del 2024. El descuento se verá reflejado en el estado de cuenta del cliente, hasta en dos cierres post",
+      "category": 1,
+      "dateOff": "2025-01-01"
+    },
+    {
+      "id": 199,
+      "name": "H&MOCA",
+      "title": "20% de dto. todos los miércoles con tarjetas de crédito Mastercard en H&M",
+      "description": "Beneficio válido en Uruguay los días miércoles desde las 00:00 horas del 18/09/2024 hasta las 23:59 horas del 30/11/2024 inclusive, o hasta agotar el límite del presupuesto de descuentos asignado por Mastercard para esta promoción, lo que ocurra primero, única y exclusivamente para compras realizadas en el sitio web: https://uy.hm.com El beneficio será válido siempre que las compras sean realizada",
+      "category": 1,
+      "dateOff": "2024-12-01"
+    },
+    {
+      "id": 200,
+      "name": "IPlaceOCA",
+      "title": "24 cuotas - 1 (Última cuota gratis) con tarjetas de crédito Mastercard en iPlace",
+      "description": "24 cuotas - 1 (Última cuota gratis), exclusivo con tarjetas Mastercard. Válida para clientes que estén al día con el pago de las cuotas. Promoción válida para compras del 5 de octubre del 2024 al 31 de diciembre del 2024. El descuento de la última cuota se verá reflejado en el estado de cuenta del cliente. NO aplica esta promoción para tarjetas Visa. Aplica para compras presenciales y web. Encontr",
+      "category": 1,
+      "dateOff": "2025-01-01"
+    },
+    {
+      "id": 201,
+      "name": "MercadoLibreOCA",
+      "title": "10% de descuento todos los miércoles en Supermercado Mercado Libre con tarjetas de crédito",
+      "description": "10% de descuento en tus compras todos los miércoles pagando con tarjetas de crédito. Promoción válida desde el 23 de abril hasta el 25 de junio del 2025 inclusive. Tope de devolución $1.500 por cuenta, por mes. El descuento se verá reflejado al momento de la compra, en el checkout web. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-06-26"
+    },
+    {
+      "id": 202,
+      "name": "MundoColorOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Mundocolor",
+      "description": "10% de descuento + 12 cuotas* todos los días pagando con tarjetas de crédito en Mundocolor. Promoción válida hasta el 28/02/2026 inclusive. El descuento se realizará en el punto venta al momento de realizar la compra. Válido para todas las sucursales físicas. *Las 12 cuotas son exclusivas para Mastercard. Encontrá más info en el sitio web de Mundocolor",
+      "category": 1,
+      "dateOff": "2026-02-28"
+    },
+    {
+      "id": 203,
+      "name": "IngenieroTugentmanOCA",
+      "title": "10% de dto. todos los días + 12 cuotas* con tarjetas de crédito en Ingeniero Tugentman",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas * en Ingeniero Tugentman. Promoción válida del 15 al 31 de octubre de 2024 inclusive. Tope de descuento $3.000 por comercio y por cuenta. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard. Encontrá más info en el sitio web de Ingeniero Tugentman: ingenierotugentman.com #mercadopagolegal{ display",
+      "category": 1,
+      "dateOff": "2024-11-01"
+    },
+    {
+      "id": 204,
+      "name": "ViaConfortOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Vía Confort",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Via Confort, del 6 al 13 de abril del 2026. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 205,
+      "name": "RecargasX3ClaroOCA",
+      "title": "Triplicá tus recargas Claro, con OCA Blue, tarjetas de crédito OCA y con Metros.",
+      "description": "Promoción válida del 1 al 30 de setiembre del 2025 inclusive, exclusiva para recargas Claro de $200 en adelante realizadas a través de la App de OCA y Mi Cuenta, en cualquiera de sus modalidades de pago: Metros, tarjetas de crédito OCA y OCA Blue. El saldo de regalo es válido solo para llamadas y envío de SMS a cualquier destino nacional. La vigencia del saldo de regalo en las recargas desde $200 ",
+      "category": 1,
+      "dateOff": "2025-10-01"
+    },
+    {
+      "id": 206,
+      "name": "PreBlackFriday",
+      "title": "¡Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 años!",
+      "description": "Promoción válida del 18 al 20 de noviembre 2024. Válido para tarjetas Mastercard y Visa de OCA, solicitadas en sucursales o canales digitales, emitidas durante la promoción, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cuenta, costos de mora, financiación, retiro de efectivo ni ningún otro costo diferente al anual. #mercadopagolegal{ disp",
+      "category": 1,
+      "dateOff": "2024-11-21"
+    },
+    {
+      "id": 207,
+      "name": "OCAFiestas",
+      "title": "Pedí tu tarjeta de crédito, cuenta OCA Blue, préstamos y seguros, y preparate para estas Fiestas",
+      "description": "Préstamos \"20% de dto en la tasa de tu préstamo y pago de la primera cuota a los 60 días\". 20% de descuento en la tasa de todos los préstamos originados desde el 02 al 08 de diciembre de 2024, durante la promoción “Fiestas”. Aplica para préstamos solicitados en canales digitales, sucursales OCA, Redpagos y préstamos en puntos de venta. La primera cuota del préstamo se pagará a los 60 días de retir",
+      "category": 1,
+      "dateOff": "2024-12-09"
+    },
+    {
+      "id": 209,
+      "name": "FiestasconOCA",
+      "title": "Hasta 20% de dto. + 12 cuotas con tarjetas de crédito",
+      "description": ".beneficio-titulo{display:none;} p.detalle-promo{ font-size: 12px; margin: 5px 0 5px; font-weight: 400; text-align:center; } {*FF7E6D*} .tituloBenficioAmpliado{ display:none; } h3{ font-size: 1.6rem; font-weight: 600; margin:20px 0; } #mercadopagolegal{ display:none; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } .youtube-video { aspect-ratio: 16 ",
+      "category": 1,
+      "dateOff": "2025-12-14"
+    },
+    {
+      "id": 210,
+      "name": "TiendaInglesaOCA",
+      "title": "20% de dto. todos los jueves con tarjeta de crédito Mastercard en Tienda Inglesa",
+      "description": "20% de dto. todos los jueves en Tienda Inglesa, pagando con contacto con tarjetas de crédito Mastercard. Promoción válida del 12 de diciembre del 2024 al 30 de enero del 2025. El beneficio aplica únicamente en sucursales de Tienda Inglesa. Tope semanal máximo de reintegro de $300 (pesos uruguayos trescientos) sobre las compras, abonadas con las tarjetas exclusivamente mediante pagos Contactless. E",
+      "category": 1,
+      "dateOff": "2025-01-31"
+    },
+    {
+      "id": 211,
+      "name": "TransferenciasTc",
+      "title": "Transferí dinero desde tu tarjeta de crédito a tu OCA Blue o cualquier institución financiera",
+      "description": "/Users/federicoportillo/Downloads/beneficio-transferenciastc.svg",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 213,
+      "name": "ReyesConOCA",
+      "title": "Hasta 20% de dto. + 12 cuotas* con tarjetas de crédito en estos comercios:",
+      "description": ".beneficio-titulo{display:none;} #mercadopagolegal{ display:none; } p.detalle-promo{ font-size: 16px; color: #006ED2; font-weight: 900; text-align:center; width:100%;align-self: flex-end; padding: 5px; margin-bottom:25px; } a.agrando img{ transition: all .2s ease-in-out; } a.agrando:hover img{ transform: scale(1.1); } .youtube-video { aspect-ratio: 16 / 9; width: 100%; margin-bottom: -3px; } @medi",
+      "category": 1,
+      "dateOff": "2025-01-10"
+    },
+    {
+      "id": 214,
+      "name": "0derecargo",
+      "title": "0% de comisión por compras en el exterior en Brasil",
+      "description": "Aplica a todas las compras en Brasil, en su moneda de origen (reales). Durante el período de la promoción se bonificará la comisión por compras en el exterior de 2% más IVA. Promoción válida del 09/01/25 al 10/3/25. Además, podés disfrutar de 3 y 6 cuotas en Brasil y en todo el mundo con tus tarjetas de crédito OCA. Mirá las condiciones completas y adherite, ingresando acá: 3 y 6 cuotas en todo el",
+      "category": 1,
+      "dateOff": "2025-03-11"
+    },
+    {
+      "id": 215,
+      "name": "DivinoOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Divino",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Divino, del 1 al 28 de febrero del 2026. El descuento tiene un tope de $3.500 por cuenta y se verá reflejado en el estado de cuenta. Válido para compras en tiendas físicas y web (acumulable con Discontinuados). *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-01"
+    },
+    {
+      "id": 216,
+      "name": "EmporiodelHogarOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito en Emporio del Hogar",
+      "description": "10% de descuento en El Emporio del Hogar con tarjetas de crédito + 12 cuotas sin recargo*. Promoción válida del 1 al 28 de febrero del 2025, para compras en tiendas fisicas y web. Tope de descuento $3.000 por cuenta. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas aplican sólo para tarjetas de crédito Mastercard.",
+      "category": 1,
+      "dateOff": "2025-03-01"
+    },
+    {
+      "id": 217,
+      "name": "DitricompVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Districomp",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 10 al 28 de febrero del 2025 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-03-01"
+    },
+    {
+      "id": 218,
+      "name": "ForumVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Forum",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 219,
+      "name": "HeringVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Hering",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 220,
+      "name": "PepposVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Peppos",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 221,
+      "name": "StadiumVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Stadium",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 222,
+      "name": "StadiumSportVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Stadium Sport",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 223,
+      "name": "TimeOutVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Time Out",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 224,
+      "name": "UmbroVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Umbro",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 225,
+      "name": "LibreriaPochoOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Librería Pocho",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Librería Pocho, del 6 al 12 de julio del 2026. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. Sin tope.",
+      "category": 1,
+      "dateOff": "2026-07-13"
+    },
+    {
+      "id": 226,
+      "name": "BoomerangVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Boomerang",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 227,
+      "name": "UnishopVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Unishop",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 228,
+      "name": "PromoCarnaval",
+      "title": "¡Pedí tu tarjeta de crédito o cuenta OCA Blue con 20% de dto en todas tus compras!",
+      "description": "\"Pedí tu tarjeta de crédito Mastercard y Visa de OCA con 20% dto. en todas tus compras hasta el 31 de marzo\". Válido para tarjetas de crédito Mastercard y Visa de OCA solicitadas desde el 17 al 20 de febrero de 2025 durante la promoción \"Carnaval\". Tope de descuento total por cuenta $2.500. El descuento aplica para las compras realizadas hasta el 31 de marzo de 2025. \"Abrí tu cuenta OCA Blue con 2",
+      "category": 1,
+      "dateOff": "2025-02-21"
+    },
+    {
+      "id": 229,
+      "name": "TodoSumaMetros",
+      "title": "Sumá Metros con todas tus compras con tarjetas de crédito",
+      "description": "Generás Metros con todas tus compras en Uruguay y en el exterior, presenciales o por internet con tarjetas de crédito. No generan Metros: los saldos financiados, cargos de envío de resumen de cuenta, cargos de renovación del instrumento de pago, gastos de mantenimiento, intereses, préstamos amortizables, refinanciaciones, retiros en efectivo ni compras realizadas mediante Tarjeta Regalo. #mercadop",
+      "category": 1,
+      "dateOff": "2027-02-24"
+    },
+    {
+      "id": 230,
+      "name": "LibreriaPochoOCA",
+      "title": "20% de dto. + 12 cuotas con tarjetas de crédito Librería Pocho",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 1 al 15 de marzo del 2025 inclusive, exclusivo para locales físicos. Para compras web se deberá solicitar previamente a Librería Pocho el link de pago (sin solicitud del link no aplicará el beneficio). El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. Encontrá más ",
+      "category": 1,
+      "dateOff": "2025-03-15"
+    },
+    {
+      "id": 231,
+      "name": "LapiedadentradasconOCA",
+      "title": "Disfrutalo con OCA",
+      "description": "LA PIEDAD ¿Hasta dónde llegarías para cumplir una última voluntad? La hija de un anciano escritor y director de teatro convoca a un grupo de actores prestigiosos para la lectura de la nueva obra de su padre. Sin embargo, el deterioro personal del director, y sus indicaciones disparatadas, complican la tarea de llevar adelante su última voluntad. Elenco: Victoria Rodriguez, Luciana Acuña, Rusito Go",
+      "category": 1,
+      "dateOff": "2025-04-25"
+    },
+    {
+      "id": 232,
+      "name": "EnotraspalabrasentradasconOCA",
+      "title": "Disfrutalo con OCA",
+      "description": "EN OTRAS PALABRAS En otras palabras cuenta la historia de amor de Juana (Gimena Accardi) y Abel (Andrés Gil), quienes después de muchos años de plenitud se enfrentan al mayor desafío de sus vidas. Una conmovedora y sensible historia que trasciende el tiempo y la memoria, en la que sus protagonistas deberán afrontar un diagnóstico prematuro de Alzheimer atravesados por su amor incondicional Elenco:",
+      "category": 1,
+      "dateOff": "2025-04-27"
+    },
+    {
+      "id": 233,
+      "name": "espectaculosOCA",
+      "title": "¡Comprá tus entradas con OCA!",
+      "description": "Lucas Sugo y Matías Valdez se juntan para crear una noche inolvidable para la música uruguaya. Los reconocidos artistas uruguayos juntos en una noche que promete el repaso de sus grandes éxitos con sus bandas en vivo en un show apto para todo público; donde te invitan a cantar y bailar en una noche llena de música y emociones. Lugar: Antel Arena Fecha del espectáculo: 30/08/2025 Hora: 21 hs Entrad",
+      "category": 2,
+      "dateOff": "2025-09-01"
+    },
+    {
+      "id": 234,
+      "name": "DisaOCA",
+      "title": "Metros X3 en tus cargas de combustible en DISA",
+      "description": "#mercadopagolegal{ display:none; } Del 1 de febrero al 5 de abril del 2026, todas tus cargas de combustible realizadas en estaciones de servicio DISA acumulan metros triples. Promoción válida exclusivamente para pagos realizados con tarjetas de crédito OCA. Este beneficio no aplica para compras realizadas en Disa Shop, ni pagos realizados con OCA Blue. Encontrá más info en el sitio web de DISA",
+      "category": 1,
+      "dateOff": "2026-04-02"
+    },
+    {
+      "id": 235,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "En el momento que debe pronunciar su discurso de asunción, el flamante presidente de la República (Maxi de la Cruz) sufre una absurda picazón en la nariz. Imposible hablar en público sin quedar en ridículo, necesita que lo ayude un famoso psiquiatra (Miguel Ángel Solá). Sólo tienen una hora, los dos hombres se lanzan a un duelo en el que cada uno intenta tomar el poder. ¿Quién tendrá la última pal",
+      "category": 2,
+      "dateOff": "2025-08-22"
+    },
+    {
+      "id": 236,
+      "name": "espectaculosOCA",
+      "title": "¡Comprá tus entradas con OCA!",
+      "description": "SOCIOS AL DESNUDO (Lo que nunca contamos de los famosos) Rodrigo Lussich y Adrián Pallares, los conductores de “Intrusos 25 años” (América) llegan al teatro con una cabalgata de historias, anécdotas, mitos y leyendas del mundo de la farándula nacional y mucha diversión. Tras consagrarse como dupla de conductores televisivos en “Intrusos” y “Socios del espectáculo” traerán al escenario un repaso de",
+      "category": 2,
+      "dateOff": "2025-10-05"
+    },
+    {
+      "id": 237,
+      "name": "espectaculosOCA",
+      "title": "¡Comprá tus entradas con OCA!",
+      "description": "¿Cuándo dejás de tener derecho a decidir que haces con tus bienes? Matita es una comedia sobre la vejez, el dinero y el amor. O sobre el amor al dinero. 2x1 aplica a partir de la función del 11/07/25. Actores: Graciela Rodriguez Noelia Campo Carlos Rompani Rodrigo Garmendia Texto: Esther Feldman y Rodolfo Santullo Lugar: Teatro Metro Fecha del espectáculo: 13/6 todos los viernes de junio y julio H",
+      "category": 2,
+      "dateOff": "2025-07-26"
+    },
+    {
+      "id": 238,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Con su identidad y estilo coreográfico, Iñaki Urlezaga sube al escenario del Auditorio Sodre un espectáculo de ballet con bailarines y músicos en vivo. La Gala estará encabezada por dos grandes artistas, Bautista Parada y Julieta Paul , primeros bailarines del Teatro Argentino, y junto a ellos El Cuarteto de Buenos Aires y un cuerpo de baile con destreza técnica y peso escénico. Los artistas en es",
+      "category": 1,
+      "dateOff": "2025-06-02"
+    },
+    {
+      "id": 239,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "En el momento que debe pronunciar su discurso de asunción, el flamante presidente de la República (Maxi de la Cruz) sufre una absurda picazón en la nariz. Imposible hablar en público sin quedar en ridículo, necesita que lo ayude un famoso psiquiatra (Miguel Ángel Solá). Sólo tienen una hora, los dos hombres se lanzan a un duelo en el que cada uno intenta tomar el poder. ¿Quién tendrá la última pal",
+      "category": 1,
+      "dateOff": "2025-05-02"
+    },
+    {
+      "id": 240,
+      "name": "Recargasx2conMovistar",
+      "title": "¡Hacé tus recargas a través de la App o Mi Cuenta!",
+      "description": "Promoción válida del 1/05 al 31/05 del 2025 inclusive, exclusiva para recargas Movistar de $200 en adelante, realizadas a través de la App de OCA y Mi Cuenta, en cualquiera de sus modalidades de pago (Metros, Tarjetas de crédito OCA y OCA Blue). El saldo promocional tiene un vencimiento de 10 días, contados desde la hora de la recarga. Puede ser utilizado para todo tipo de tráfico (minutos, SMS y ",
+      "category": 1,
+      "dateOff": "2025-06-01"
+    },
+    {
+      "id": 241,
+      "name": "MegalOCA",
+      "title": "10% de dto. en productos seleccionados con tarjetas de crédito en Megal",
+      "description": "10% de descuento en productos seleccionados de Megal, pagando con tarjetas de crédito OCA. Promoción válida desde el 1ero de febrero al 31 de diciembre del 2026. El descuento se verá reflejado al momento de la compra. Beneficio no acumulable con otras promociones o descuentos vigentes de Megal. El comercio se reserva el derecho de modificar los productos seleccionados en cualquier momento sin prev",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 242,
+      "name": "PromoAddiuva",
+      "title": "Del 12 al 18/5 contratá tu seguro Asistencia 365 con tremendos beneficios",
+      "description": "Promoción primeros dos meses gratis + 2.000 Metros, válida para los seguros contratados entre el 12 y 18 de mayo de 2025 en canales digitales o call center (tope de seguros vendidos por call center en promoción 150 seguros) Los 2.000 Metros serán ingresados en la cuenta del cliente antes del 31/05/25. OCA S.A. actúa como intermediario de seguros ofreciendo a sus clientes coberturas de seguro de vi",
+      "category": 1,
+      "dateOff": "2025-05-19"
+    },
+    {
+      "id": 243,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Dos socios tienen asegurada la venta de su empresa. Necesitan sacársela de encima porque está por entrar en quiebra. La noche previa a la firma, uno de los socios sufre un percance que pone en riesgo la concreción del negocio. La vida continúa es una obra a contra reloj. A cada minuto las situaciones se complican y hay que resolver. Una comedia llena de maldad, buenas intenciones, dudas, engaños y",
+      "category": 2,
+      "dateOff": "2025-08-02"
+    },
+    {
+      "id": 245,
+      "name": "PedidosYaMarketOCA",
+      "title": "15% o 20% de dto. los martes y jueves con tarjetas de crédito Mastercard en Pedidos Ya Market",
+      "description": "PEDIDOS YA MARKET: romoción válida todos los martes y jueves en la República Oriental del Uruguay del 1 al 30 de noviembre de 2025, ambas fechas inclusive (el “Plazo de Vigencia”), para compras realizadas a través de PedidosYa, exclusivamente en la sección PedidosYa Market (la “Promoción”). La Promoción consiste en otorgar un 15% (quince por ciento) de descuento sobre el monto de la orden a abonar",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 246,
+      "name": "MercadoLibreJuegosOCA",
+      "title": "20% de dto. todos los lunes en juegos, juguetes y bebés, en Mercado Libre con tarjetas de crédito Mastercard",
+      "description": "Promoción válida todos los lunes en la República Oriental del Uruguay del 1 al 30 de noviembre de 2025, ambas fechas inclusive (el “Plazo de Vigencia”), exclusivamente para compras realizadas a través de la plataforma de comercio electrónico (marketplace) de Mercado Libre operada por http://DeRemate.com de Uruguay S.R.L. en productos seleccionados de la categoría “Bebés y Niños” publicados en http",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 247,
+      "name": "MercadoLibreFarmaciasOCA",
+      "title": "20% de dto. todos los martes en farmacias y suplementos, en Mercado Libre con tarjetas de crédito Mastercard",
+      "description": "Promoción válida todos los martes en la República Oriental del Uruguay del 1 al 30 de noviembre de 2025, ambas fechas inclusive (el “Plazo de Vigencia”), exclusivamente para compras realizada a través de la plataforma de comercio electrónico (marketplace) de Mercado Libre operada por http://DeRemate.com de Uruguay S.R.L. en productos seleccionados de la categoría “Farmacia” publicados en https://w",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 248,
+      "name": "AsistenciaGlobalOCAMaster",
+      "title": "Asistencia en todo el mundo las 24 hs.",
+      "description": "Recibí asistencia en todo el mundo, las 24 horas del día, estés donde estés. Mastercard Global Service brinda acceso a los tarjetahabientes a los siguientes servicios proporcionados por sus emisores, Mastercard y terceros proveedores de servicio: Servicio de Reporte de pérdidas y robos (Servicio LSR): Los tarjetahabientes pueden reportar tarjetas pérdidas o robadas e iniciar el proceso de cancelac",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 249,
+      "name": "ProteccionDeCompraOCAMaster",
+      "title": "Con tarjetas de crédito Mastercard, tus compras están protegidas.",
+      "description": "Para que puedas disfrutar al máximo tu experiencia de compras, protegemos la mayoría de las compras que realices con tu tarjeta de crédito Mastercard, ofreciéndote respaldo y tranquilidad. Cobertura de hasta US$100 por ocurrencia/hasta por US$200 por doce (12) meses, cobertura hasta 45 días después de la compra cubierta. Por más información ingresá acá: Tarjeta de Crédito Standard | Protección de ",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 250,
+      "name": "OCABluePromoJunio",
+      "title": "Pedí tu tarjeta OCA BLUE y recibí 3.500 Metros de regalo con tu primera compra",
+      "description": "Válido para tarjetas OCA Blue solicitadas desde el 02 al 06 de junio de 2025. Los Metros serán acreditados hasta 10 días hábiles luego de realizada la compra*. La misma deberá realizarse antes del 31 de julio de 2025. *No se consideran compras los pagos de servicios realizados a través de redes de cobranza o canales digitales. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-06-07"
+    },
+    {
+      "id": 251,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Flor Infante sale nuevamente de gira por el país y lo hace con lo mejor de sus cuatro espectáculos. Con una reciente función colmada en el TEATRO SOLÍS donde literalmente hizo llover en la sala con “Yo soy la tormenta” Flor decidió preparar las valijas y volver a recorrer el país con su comedia en primera persona. Las fiestas de ex alumnos, las lentas, los amores idílicos, los trabajos tóxicos, la",
+      "category": 2,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 252,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Imprenteros de Lorena Vega y hnos es una obra de teatro documental que revisita el lugar perdido por tres hermanos. La imprenta del conurbano bonaerense argentino en la que se criaron rodeados de papeles, tintas y guillotinas, y que les fue arrebatada. Con videos, fotos y bailes, se reconstruirán los sucesos que llevaron a la imprenta a su desaparición. Lugar: Teatro El Galpón Entradas próximament",
+      "category": 2,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 253,
+      "name": "promoprestamo",
+      "title": "Financiá tus compras en hasta 36 cuotas en comercios adheridos y llevate 3.000 Metros de regalo",
+      "description": "3.000 Metros en préstamos originados desde el 10 de junio al 15 de julio de 2025. Aplica para préstamos solicitados en comercios adheridos a puntos de venta, ver lista de comercios en https://oca.uy/financia-en-36-cuotas/ . Los 3.000 Metros de regalo aplican para préstamos mayores a $10.000, los mismos se acreditarán en la cuenta del cliente hasta 30 días después de abonada la primera cuota del pr",
+      "category": 1,
+      "dateOff": "2025-07-11"
+    },
+    {
+      "id": 254,
+      "name": "MegalOCA",
+      "title": "20% de dto. en todos los productos con tarjetas de crédito en Megal",
+      "description": "20% de descuento en todos los productos de Megal, pagando con tarjetas de crédito OCA, Mastercard y VISA. Promoción válida desde el 15 de junio al 22 de junio del 2026, comprando en la web de Megal, Megalockers y vía Whatsapp. El descuento se verá reflejado en el Estado de Cuenta. Beneficio no acumulable con otras promociones o descuentos vigentes de Megal. WEB MEGALOCKERS: Estacionamiento Macro M",
+      "category": 1,
+      "dateOff": "2026-06-23"
+    },
+    {
+      "id": 255,
+      "name": "masterlibertadores",
+      "title": "Conocé a los ganadores",
+      "description": "",
+      "category": 1,
+      "dateOff": "2025-08-18"
+    },
+    {
+      "id": 256,
+      "name": "PromoMascotas",
+      "title": "Del 17/11 al 19/12, contratá tu asistencia veterinaria gratis por 2 meses + baño y corte de regalo.",
+      "description": "La promoción será válida desde el 17 de noviembre de 2025 hasta el 19 de diciembre de 2025, inclusive. Las personas que contraten el servicio de Asistencia de Mascota dentro del período de vigencia recibirán: 2 (dos) meses gratis del servicio contratado. 1 (un) baño y corte de obsequio para una mascota registrada. Para solicitar el baño y corte de obsequio, el beneficiario deberá comunicarse al te",
+      "category": 1,
+      "dateOff": "2025-12-20"
+    },
+    {
+      "id": 257,
+      "name": "promoprestamo",
+      "title": "Pedí tu préstamo de 20, 24 o 36 cuotas y llevatelo con 20% de dto en la tasa + 2.000 Metros",
+      "description": "20% de descuento en la tasa de todos los préstamos originados desde el 23 al 30 de junio de 2025. Aplica para préstamos solicitados en canales digitales, sucursales OCA, Redpagos y préstamos en puntos de venta. Los 2.000 Metros de regalo aplican exclusivamente para los préstamos en 20, 24 y 36 cuotas, los mismos se acreditarán en la cuenta del cliente hasta 30 días después de abonada la primera cu",
+      "category": 1,
+      "dateOff": "2025-06-30"
+    },
+    {
+      "id": 258,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Mariano Martínez es guitarrista, cantante, productor musical, líder fundador de la banda Attaque 77 hace mas de 36 años. Participó en todos los discos de la banda desde el inicio. Varios de sus álbumes obtuvieron certificaciones de oro y platino. Sus canciones “Hacelo por mí” y “Arrancacorazones” son hits que trascendieron el rock, convirtiéndose en clasicos de la musica popular Argentina y de tod",
+      "category": 2,
+      "dateOff": "2025-11-15"
+    },
+    {
+      "id": 259,
+      "name": "McDonaldsOCAMastercard",
+      "title": "40% de dto. de lunes a viernes con tarjetas de crédito Mastercard contactless en McDonald´s",
+      "description": "40% de dto. de lunes a viernes en McDonald´s pagando mediante la tecnología Contactless con tarjetas de crédito Mastercard. Promoción válida del 1 al 31 de diciembre de 2025 en la República Oriental del Uruguay, únicamente para compras realizadas de forma presencial en los locales físicos de McDonald´s. La promoción tiene un tope de descuento por transacción de $250 (pesos uruguayos doscientos cin",
+      "category": 1,
+      "dateOff": "2025-12-25"
+    },
+    {
+      "id": 260,
+      "name": "WooferFiestasOCA",
+      "title": "10% de dto. + 12 cuotas con tarjetas de crédito* en Woofer",
+      "description": "10% de descuento con tarjetas de crédito + 12 cuotas* en Woofer (exclusivo para la web), del 8 al 14 de diciembre del 2025. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-12-15"
+    },
+    {
+      "id": 262,
+      "name": "espectaculosOCA",
+      "title": "¡Pre-venta exclusiva con OCA!",
+      "description": "Tertawa - Humor sin Fronteras. Esta nueva edición reúne nuevamente a tres grandes figuras del humor argentino — José María Listorti, Pachu Peña y Sebastián Almada — en una puesta escénica que promete conquistar al público con una combinación de risas, improvisación y sátiras de la vida cotidiana. La obra, que nació en plena pandemia y ha recorrido con éxito diversos escenarios de la región, apuest",
+      "category": 2,
+      "dateOff": "2025-08-03"
+    },
+    {
+      "id": 263,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Tertawa – Humor sin Fronteras. Esta nueva edición reúne nuevamente a tres grandes figuras del humor argentino —José María Listorti, Pachu Peña y Sebastián Almada— en una puesta escénica que promete conquistar al público con una combinación de risas, improvisación y sátiras de la vida cotidiana. La obra, que nació en plena pandemia y ha recorrido con éxito diversos escenarios de la región, apuesta ",
+      "category": 2,
+      "dateOff": "2025-10-17"
+    },
+    {
+      "id": 264,
+      "name": "WislyOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Wisly",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Wisly, del 6 al 13 de octubre del 2025. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-10-14"
+    },
+    {
+      "id": 265,
+      "name": "MeLiDiaDelNinoOCA",
+      "title": "10% de dto. + 12 cuotas* en seleccionados de MercadoLibre",
+      "description": "10% de descuento adicional en productos seleccionados dentro de la categoría “Regalaría” publicados en https://listado.mercadolibre.com.uy/_Container_dia-ninos-2025-master (la “Promoción”). sobre los descuentos de hasta 40% off, pagando con tarjetas de crédito Mastercard de OCA en la República Oriental del Uruguay. Válido del 4 al 17 de agosto de 2025, ambas fechas inclusive (el “Plazo de Vigencia",
+      "category": 1,
+      "dateOff": "2025-08-18"
+    },
+    {
+      "id": 266,
+      "name": "iPlaceOCA",
+      "title": "Con todas tus compras en iPlace 🙂",
+      "description": "Del 11 de agosto al 30 de setiembre del 2025, todas tus compras realizadas en iPlace acumulan Metros triples. Promoción válida exclusivamente para pagos realizados con tarjetas de crédito OCA. Este beneficio no aplica para compras realizadas con OCA Blue. #mercadopagolegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2025-10-01"
+    },
+    {
+      "id": 268,
+      "name": "12CuotasAnualesOCA",
+      "title": "12 cuotas en cientos de comercios con tarjeta de crédito Mastercard",
+      "description": "#mercadopagolegal{ display:none; } p.detalle-promo{ font-size: 12px; margin: 0; padding: 5px 0; text-align: center; } p.detalle-promo small{ font-size: 1em; display: block; font-weight:bold; padding:3px 0 0 0; color: #FF7E6D; } div.agrandoImg img{ transition: all .2s ease-in-out; } div.agrandoImg:hover img{ transform: scale(1.1); } div.cardBen{ display: flex; flex-direction: column; justify-conten",
+      "category": 1,
+      "dateOff": "2050-10-07"
+    },
+    {
+      "id": 269,
+      "name": "AniversarioBelaOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Bela",
+      "description": "#mercadopagolegal{ display:none; } 20% de descuento pagando con tarjetas de crédito + 12 cuotas* en Bela. Promoción válida del 22 al 28 de setiembre del 2025. El descuento se realizará en el punto venta al momento de realizar la compra. *Las 12 cuotas aplican sólo para Mastercard. 5% de descuento extra pagando con la App de OCA los días de descuento en los comercios adheridos a la promoción. Benef",
+      "category": 1,
+      "dateOff": "2025-09-29"
+    },
+    {
+      "id": 271,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "#mercadopagolegal{ display:none; } Lucas Sugo vuelve a Montevideo con un show único e inédito junto a la orquesta Sinfónica para recorrer sus grandes éxitos en un concierto imperdible Fecha del espectáculo: 25 de abril del 2026 Hora: 20 HORAS Lugar: Sodre - Auditorio Nacional Adela Reta ¡No te lo podés perder! *Financiación hasta en 3 cuotas aplica exclusivamente con tarjetas de crédito Mastercard",
+      "category": 2,
+      "dateOff": "2026-04-26"
+    },
+    {
+      "id": 272,
+      "name": "JuanConstruyeOCA",
+      "title": "30% de dto. con tarjetas de crédito + 12 cuotas* en Juan Construye",
+      "description": "30% de descuento en Juan Construye pagando con tarjetas de crédito OCA. Promoción válida del 15 de abril al 31 de mayo del 2026, en locales físicos y web. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas aplican exclusivamente a compras con tarjeta de crédito Mastercard. Conocé el listado de las sucursales participantes acá Encontrá más info en el sitio web de Juan Construye:",
+      "category": 1,
+      "dateOff": "2026-06-01"
+    },
+    {
+      "id": 273,
+      "name": "MundoColorOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Mundo Color",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Mundocolor, válido del 6 al 13 de abril del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA. #noacumulablelegal{ display:none; }",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 274,
+      "name": "CasaPracticaOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Casa Práctica",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas* en Casa Practica del 6 al 13 de octubre del 2025. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2025-10-14"
+    },
+    {
+      "id": 275,
+      "name": "PagáConelCelularOCA",
+      "title": "30% de dto. en supermercado todos los días con Oca Blue o tarjetas de crédito pagando con la App OCA o Google Pay",
+      "description": "#mercadopagolegal{ display:none; } 30% de dto. en Supermercados todos los días pagando con tarjeta de crédito Mastercard y Visa con tu celu desde App OCA y Google Pay 30% de descuento en supermercados* todos los días, pagando exclusivamente con el celular desde App OCA y/o Google Pay de forma presencial (funcionalidad disponible en dispositivos Android con NFC y/o Google Pay, no es compatible con ",
+      "category": 1,
+      "dateOff": "2025-12-01"
+    },
+    {
+      "id": 276,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "Terapia de Murga junto a León Gieco en el Teatro de Verano Después de un año lleno de presentaciones en Uruguay, Argentina y España, Ruben Rada y Agarrate Catalina cierran el 2025 con una noche muy especial: “Terapia de Murga” junto a León Gieco, el 17 de diciembre en el Teatro de Verano. Un encuentro único entre tres referentes de la música rioplatense, en un espectáculo que promete emoción, humo",
+      "category": 2,
+      "dateOff": "2025-12-18"
+    },
+    {
+      "id": 278,
+      "name": "PreBlackFriday",
+      "title": "¡Abrí tu cuenta OCA Blue con 20% de dto en tus compras + 2.000 Metros y pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 años!",
+      "description": "#mercadopagolegal{ display:none; } Tarjetas de crédito Mastercard y Visa \"Pedí tu tarjeta de crédito Mastercard y Visa de OCA gratis por 2 años\" Promoción válida del 17 al 19 de noviembre 2025. Válido para tarjetas Mastercard y Visa de OCA solicitadas durante la promoción “Pre Black Friday”, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cu",
+      "category": 1,
+      "dateOff": "2025-11-20"
+    },
+    {
+      "id": 279,
+      "name": "ZanettiOCA",
+      "title": "10% de dto. todos los días con tarjetas de crédito en Zanetti",
+      "description": "#mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; } 10% de descuento en Zanetti todos los días con tarjetas de crédito y OCA Blue. Promoción válida del 1 de diciembre del 2025 al 28 de febrero del 2026 inclusive. El descuento se verá reflejado en el momento de la compra. No acumulable con otras promociones disponibles. Promoción no acumulable con otros descuentos. Con tu tarjeta",
+      "category": 1,
+      "dateOff": "2026-03-01"
+    },
+    {
+      "id": 280,
+      "name": "AmazonOCA",
+      "title": "20% de dto. + 6 cuotas con tarjetas de crédito Mastercard de OCA en Amazon",
+      "description": "#mercadopagolegal{ display:none; } 20% de descuento en http://Amazon.com Estados Unidos pagando exclusivamente con tarjetas de crédito Mastercard de OCA. Promoción válida del 28 de noviembre al 1 de diciembre del 2025 inclusive. Tope de descuento USD 80 por tarjeta. Aplica únicamente a compra de productos físicos, no aplica para suscripciones o productos digitales en http://Amazon.com , Amazon Dig",
+      "category": 1,
+      "dateOff": "2025-12-02"
+    },
+    {
+      "id": 281,
+      "name": "MercadoLibreBFOCA",
+      "title": "10% de dto. adicional en productos seleccionados de Mercado Libre pagando con tarjetas de crédito Mastercard de OCA.",
+      "description": "#mercadopagolegal{ display:none; } Promoción válida para el territorio de la República Oriental del Uruguay (el “Territorio”) para compras de productos seleccionados publicados en http://www.mercadolibre.com.uy/ (el “Sitio Web”) realizadas entre las 00:00 horas del 28/11/2025 hasta las 23:59 horas del 01/12/2025, o hasta agotar el presupuesto de descuentos asignados por Mastercard International In",
+      "category": 1,
+      "dateOff": "2025-12-02"
+    },
+    {
+      "id": 282,
+      "name": "MacroYmicromercadoOCAMastercard",
+      "title": "20% de dto. con tarjetas de crédito Mastercard de OCA en Macromercado y MicroMacro",
+      "description": "#mercadopagolegal{ display:none; } 20% de descuento en Macromercado y MicroMacro todos los días, pagando exclusivamente con el celular desde App OCA y/o Google Pay de forma presencial (funcionalidad disponible en dispositivos Android con NFC y/o Google Pay, no es compatible con IOS). Promoción válida para tarjetas de crédito Mastercard de OCA, del 1 al 31 de diciembre del 2025 inclusive. Tope de d",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 283,
+      "name": "PromoBlue",
+      "title": "¡Abrí tu cuenta OCA Blue con 5.000 Metros de regalo!",
+      "description": "#mercadopagolegal{ display:none; } Válido para cuentas OCA Blue solicitadas desde el 01 al 08 de diciembre 2025. Los Metros serán acreditados hasta 10 días hábiles luego de realizada la primer compra*. La misma deberá realizarse antes del 31 de enero de 2026 *No se consideran compras los pagos de servicios realizados a través de redes de cobranza o canales digitales.",
+      "category": 1,
+      "dateOff": "2025-12-09"
+    },
+    {
+      "id": 284,
+      "name": "PromoUA",
+      "title": "Del 1 al 31 de diciembre, contratá tu seguro de viajes ¡con 20% de dto en la póliza!",
+      "description": "#mercadopagolegal{ display:none; } 20% de descuento en la contratación de todos los seguros de asistencia al viajero (provisto por Universal Assistance) contratados entre el 01 y 31 de diciembre de 2025. OCA S.A. actúa como intermediario de seguros ofreciendo a sus clientes coberturas de seguro de vida, viajes, etc. que serán contratadas voluntariamente por los clientes con las empresas asegurador",
+      "category": 1,
+      "dateOff": "2026-01-01"
+    },
+    {
+      "id": 285,
+      "name": "SupervacacionesOCA",
+      "title": "30% de dto. en restaurantes, fast food, cafés, bares, pubs y heladerías* todos los días en Uruguay y el mundo, pagando con tarjetas de crédito y OCA Blue en tu celu desde App OCA y Google Pay",
+      "description": "#mercadopagolegal{ display:none; } strong.titulos{ font-size: 1.2rem; } 30% de descuento en restaurantes, fast food, cafés, bares, pubs y heladerías* pagando exclusivamente de forma presencial con el celular desde App OCA y/o Google Pay. Promoción válida del 15 de diciembre de 2025 al 28 de febrero de 2026, inclusive. *En heladerías la promoción será válida del 7 de enero al 28 de febrero del 2026",
+      "category": 1,
+      "dateOff": "2026-03-01"
+    },
+    {
+      "id": 286,
+      "name": "RetiroEfectivo",
+      "title": "Convertí el disponible de tu tarjeta de crédito en efectivo",
+      "description": "#mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; } Podés solicitar efectivo en los locales de OCA de todo el país con tu cédula y tarjeta. También podés retirar dinero en efectivo en cualquier cajero BANRED en Uruguay y en la red de cajeros CIRRUS en el exterior. Para usar el servicio de Banred y de los cajeros CIRRUS del exterior deberás solicitar un nuevo PIN que reemplazará ",
+      "category": 1,
+      "dateOff": "2026-12-31"
+    },
+    {
+      "id": 287,
+      "name": "ContribucionCanelonesOCA",
+      "title": "Pagá la contribución en hasta 6 cuotas con el beneficio de contado con tus tarjetas de crédito OCA",
+      "description": "#mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; } .video-responsive { width: 100%; max-width: 380px; margin-top: 20px; } .video-responsive iframe { width: 100%; aspect-ratio: 9/16; height: auto; display: block; } Promoción pago de contribución en hasta 6 cuotas, válida para tarjeta de crédito Mastercard y Visa de OCA del 4 al 18 de febrero de 2026 inclusive, sujeto a disponibi",
+      "category": 1,
+      "dateOff": "2026-02-19"
+    },
+    {
+      "id": 288,
+      "name": "ContribucionOCA",
+      "title": "Pagá la contribución en hasta 6 cuotas con tus tarjetas de crédito OCA",
+      "description": "#mercadopagolegal{ display:none; } #noacumulablelegal{ display:none; } .video-responsive { width: 100%; max-width: 380px; margin-top: 20px; } .video-responsive iframe { width: 100%; aspect-ratio: 9/16; height: auto; display: block; } Promoción pago de contribución en hasta 6 cuotas, válida para tarjeta de crédito Mastercard y Visa de OCA del 4 de febrero al 3 de mayo de 2026 inclusive, sujeto a di",
+      "category": 1,
+      "dateOff": "2026-05-04"
+    },
+    {
+      "id": 289,
+      "name": "ClassicoVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Classico",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 290,
+      "name": "JansportVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Jansport",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado al momento de la compra. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 291,
+      "name": "PochoKidsVueltaAclasesOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Librería Pocho kids",
+      "description": "20% de descuento con tarjetas de crédito + 12 cuotas*. Promoción válida del 18 de febrero al 6 de marzo del 2026 inclusive. El descuento se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-03-07"
+    },
+    {
+      "id": 292,
+      "name": "SamsungOCA",
+      "title": "10% de dto. en seleccionados Samsung Galaxy S26 en Mercado Libre",
+      "description": "Oferta válida para el territorio de la República Oriental del Uruguay para compras de productos seleccionados publicados en http://www.mercadolibre.com.uy/ realizadas entre las 16hs del 25/2/2026 y las 23:59hs del 25/3/2026 o hasta agotar el presupuesto de descuentos asignados a esta oferta. Ofertas en productos seleccionados de la *línea Samsung Galaxy S26, S26+ (Plus) y S26 Ultra a cargo de cada",
+      "category": 1,
+      "dateOff": "2026-03-26"
+    },
+    {
+      "id": 293,
+      "name": "Multas",
+      "title": "Con tus tarjetas de crédito, pagá las Multas en cuotas y con descuento",
+      "description": ".video-responsive { width: 100%; max-width: 380px; margin-top: 20px; } .video-responsive iframe { width: 100%; aspect-ratio: 9/16; height: auto; display: block; } #mercadopagolegal{ display:none } Promoción pago SUCIVE (Multas o patente) en hasta 6 cuotas, válida para tarjeta de crédito Mastercard y Visa de OCA del 2 al 31 de marzo de 2026 inclusive, sujeto a disponibilidad de crédito y aprobación",
+      "category": 1,
+      "dateOff": "2026-03-21"
+    },
+    {
+      "id": 295,
+      "name": "Multas",
+      "title": "Con tus tarjetas de crédito, pagá las Multas en cuotas y con descuento",
+      "description": ".video-responsive { width: 100%; max-width: 380px; margin-top: 20px; } .video-responsive iframe { width: 100%; aspect-ratio: 9/16; height: auto; display: block; } #mercadopagolegal{ display:none } Promoción pago SUCIVE (Multas o patente) en hasta 6 cuotas, válida para tarjeta de crédito Mastercard y Visa de OCA del 2 al 31 de marzo de 2026 inclusive, sujeto a disponibilidad de crédito y aprobación",
+      "category": 1,
+      "dateOff": "2026-04-01"
+    },
+    {
+      "id": 296,
+      "name": "BriqOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito en Briq",
+      "description": "#noacumulablelegal{ display:none } 20% de descuento con tarjetas de crédito + 12 cuotas* en Briq, válido del 6 al 13 de abril del 2026. Exclusivo para compras en locales físicos. El tope de descuento es de $3.000 por cuenta y se verá reflejado en el estado de cuenta. *Las 12 cuotas son exclusivas para Mastercard de OCA.",
+      "category": 1,
+      "dateOff": "2026-04-14"
+    },
+    {
+      "id": 297,
+      "name": "BriqOCA",
+      "title": "10% de dto. + 12 cuotas* con tarjetas de crédito OCA en Briq",
+      "description": "#noacumulablelegal{ display:none } 10% de descuento + 12 cuotas* todos los días en Briq, pagando con tarjetas de crédito (válido exclusivamente para compras en locales físicos). Promoción válida hasta el 31 de diciembre del 2026. El tope de descuento es de $1.500 por cuenta, por mes y se verá reflejado en el estado de cuenta. Conocé las sucursales adheridas acá *Las 12 cuotas son exclusivas para M",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 298,
+      "name": "espectaculosOCA",
+      "title": "¡Disfrutalo con OCA!",
+      "description": "\"Terapia de Murga\" es un espectáculo que cruza la potencia de la murga uruguaya con el candombe, el rock y la canción popular, reuniendo a Rubén Rada y Agarrate Catalina en un formato escénico vibrante y emocional. La propuesta reversiona clásicos de ambos repertorios, combinando humor, crítica social y momentos de gran intensidad musical, con un coro multitudinario y una puesta que invita al públ",
+      "category": 2,
+      "dateOff": "2026-04-19"
+    },
+    {
+      "id": 299,
+      "name": "PaniniOCA",
+      "title": "20% de dto. con tarjetas de crédito en Panini",
+      "description": "20% de descuento con tarjetas de crédito en Panini. Válido del 15 de abril al 15 de mayo del 2026. Descuento sin tope, que se verá reflejado en el estado de cuenta. Conocé el listado de las sucursales participantes Además canjeá figuritas con tus Metros acá: Panini - Canjeá tus Metros por lo que más te guste o en las sucursales de Metraje Centro y Portones. Para canje online tenés disponible dos o",
+      "category": 1,
+      "dateOff": "2026-06-08"
+    },
+    {
+      "id": 300,
+      "name": "2AñosGratis",
+      "title": "¡Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 años!",
+      "description": "#mercadopagolegal{ display:none } Promoción válida del 11 al 15 de mayo de 2026. Válido para tarjetas Mastercard y Visa de OCA solicitadas durante la promoción, aplica al costo anual de la tarjeta que se factura cada 3 meses. No aplica a costo de envío de estado de cuenta, costos de mora, financiación, retiro de efectivo ni ningún otro costo diferente al anual. En caso de renovaciones y rehabilita",
+      "category": 1,
+      "dateOff": "2026-05-16"
+    },
+    {
+      "id": 301,
+      "name": "AntelOCA",
+      "title": "12 cuotas todo el año con tarjetas de crédito Mastercard en Antel.",
+      "description": "*12 cuotas pagando con tarjetas de crédito Mastercard en Antel. Válido del 12 de mayo al 31 de diciembre de 2026, en los locales Antel listados a continuación. Conocé el listado de locales participantes aquí",
+      "category": 1,
+      "dateOff": "2027-01-01"
+    },
+    {
+      "id": 302,
+      "name": "PromoAddiuva",
+      "title": "Del 18 al 22/5 contratá tu seguro Asistencia 365 con tremendos beneficios.",
+      "description": "#mercadopagolegal{ display:none } Promoción válida para los seguros contratados entre el 18 al 22 de mayo de 2026. El beneficio de dos meses gratis + 1.500 metros aplica para el seguro de Asistencia 365 (provisto por Addiuva, tanto venta digital como sucurales, no aplica venta en call center). Los Metros serán ingresados en la cuenta del cliente antes del 30/06/2026. OCA S.A. actúa como intermedia",
+      "category": 1,
+      "dateOff": "2026-05-23"
+    },
+    {
+      "id": 303,
+      "name": "PromoUA",
+      "title": "Del 25/5 al 5/6 contratá tu seguro Universal Assistance con tremendos beneficios.",
+      "description": "#mercadopagolegal{ display:none } Promoción válida para los seguros contratados entre el 25 de mayo al 5 de junio de 2026. El beneficio de 20% de descuento en la contratación + 1.500 metros aplica para el seguro de asistencia al viajero (provisto por Universal Assistance). Los Metros serán ingresados en la cuenta del cliente antes del 30/06/2026. OCA S.A. actúa como intermediario de seguros ofreci",
+      "category": 1,
+      "dateOff": "2026-06-06"
+    },
+    {
+      "id": 304,
+      "name": "AcDelcoOCA",
+      "title": "20% de dto. + 12 cuotas* con tarjetas de crédito Mastercard en ACDELCO.",
+      "description": "#mercadopagolegal{ display:none } 20% de descuento y 12 cuotas* en dólares, pagando con tarjetas de crédito Mastercard en baterías ACDELCO. Promoción válida desde el 1 de junio al 30 de junio del 2026. El descuento se verá reflejado al momento de la compra. Beneficio no acumulable con otras promociones o descuentos vigentes, sin tope. *12 cuotas válidas únicamente para tarjetas de crédito Masterca",
+      "category": 1,
+      "dateOff": "2026-07-01"
+    },
+    {
+      "id": 305,
+      "name": "PromoPRAM",
+      "title": "Del 1 al 15/6 con tu préstamo de $50.000 o más, en 18 cuotas, sumás Metros para canjear por televisores, aires acondicionado, barras de sonido, ¡o lo que quieras!",
+      "description": "#mercadopagolegal{ display:none } Promoción valida para préstamos originados y desembolsados entre el 01 y el 15 de junio de 2026. Aplica exclusivamente para préstamos en 18 cuotas solicitados en canales digitales, sucursales OCA y Redpagos. Los Metros de regalo aplican según el monto del préstamo: Desde $ 50.000 y hasta $ 99.000 30.000 Metros de regalo. Desde $ 100.000 o más 50.000 Metros de rega",
+      "category": 1,
+      "dateOff": "2026-06-16"
+    },
+    {
+      "id": 306,
+      "name": "MundialExteriorOCA",
+      "title": "30% de dto. en restaurantes y Fast Food en EE.UU, México y Canadá, pagando con el celular*. Además 3 y 6 cuotas en todo el mundo con tarjetas de crédito y 0% de comisión** con tarjetas de crédito y OCA Blue.",
+      "description": "Promoción válida en Estados Unidos, México y Canadá: 30% de descuento todos los días, en compras presenciales en restaurantes y Fast Food, que se realicen del 8 de junio al 20 de julio del 2026, pagando con el celular (App de OCA, Google Pay y Apple Pay*). US$ 150 de tope de descuento, por cuenta, compartido entre las tarjetas de crédito OCA (MasterCard y Visa). US$ 150 de tope de descuento, por c",
+      "category": 1,
+      "dateOff": "2026-07-21"
+    },
+    {
+      "id": 307,
+      "name": "MundialUruguayOCA",
+      "title": "30% de dto. en cualquier supermercado los días de partido de Uruguay, pagando con el celular.",
+      "description": "Promoción válida en Uruguay. 30% de descuento los días de partido de Uruguay, en compras presenciales en cualquier supermercado, pagando con el celular (App OCA*, Google Pay y Apple Pay). Tope de $300 por compra, $1.500 por cuenta. Tope compartido entre las tarjetas de crédito (MasterCard y Visa). Tope de $1.500 por cuenta para OCA Blue. Tope válido durante todo el período de la promoción. *Apple ",
+      "category": 1,
+      "dateOff": "2026-06-27"
+    },
+    {
+      "id": 308,
+      "name": "HandyOCA",
+      "title": "Hasta 20% de dto. + 5% de dto extra pagando con el celular con OCA Blue y tarjetas de crédito, en comercios identificados de Handy",
+      "description": "Pagá en comercios adheridos con POS Handy y accedé a un 10%, 15% o 20% según el comercio y la campaña vigente, con tarjetas de crédito y OCA Blue. Además, si pagás con la App OCA, Apple Pay o Google Pay, tenés +5% extra. *Apple Pay: Aplica solo a tarjeta de crédito Mastercard. *Google Pay: Aplica para OCA Blue y tarjetas de crédito Mastercard y Visa. *App OCA: Aplica mediante NFC, solo en Android,",
+      "category": 1,
+      "dateOff": "2027-06-10"
+    },
+    {
+      "id": 309,
+      "name": "VisaOCA",
+      "title": "40% de dto. con tarjetas de crédito Visa en productos seleccionados en los comercios participantes",
+      "description": "40% de dto. en productos seleccionados* para pagos realizados con tecnología NFC con tarjetas de crédito Visa emitidas en Uruguay y está destinada exclusivamente para consumo personal y final, sin RUT asociado, y se limita a un descuento máximo de $1.000 por ticket para todos los artículos promocionados o hasta agotar stock. Válido hasta el 19 de julio del 2026 o hasta agotar stock. Compras que ex",
+      "category": 1,
+      "dateOff": "2027-07-20"
+    }
+  ]
+}

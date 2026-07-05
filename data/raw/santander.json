@@ -1,0 +1,516 @@
+{
+  "source": "santander",
+  "bank": "Santander",
+  "scraped_note": "extraído manualmente vía WebFetch",
+  "merchants": [
+    {
+      "merchant": "Optica Estela Jinchuk",
+      "category": "salud/optica",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Iber",
+      "category": "bienestar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Bruta",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Bigg",
+      "category": "bienestar",
+      "discounts": [
+        { "card": "Select", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Mónaco Calzados",
+      "category": "calzado",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Heladeria Lekker",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Infinite/Black/Select débito", "amount": "50%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "30%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Nora Rey",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "La Pasiva Arocena",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": "Arocena, Carrasco, Montevideo"
+    },
+    {
+      "merchant": "Facal",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Parador El Paso",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Disco",
+      "category": "supermercado",
+      "discounts": [
+        { "card": "Hipermás Santander", "amount": null, "days": null, "conditions": "Descuentos exclusivos cada mes del año con Hipermás" }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Suóptica",
+      "category": "salud/optica",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Merrell",
+      "category": "calzado",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Magnolio Sala",
+      "category": "entretenimiento",
+      "discounts": [
+        { "card": "todas", "amount": null, "days": null, "conditions": "Descuento sujeto a promociones" }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Nona",
+      "category": "hogar",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Tienda Ezquerra",
+      "category": "otros",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Kave Home",
+      "category": "hogar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Renart Libros",
+      "category": "otros",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Extreme Force",
+      "category": "bienestar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Rotunda",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Balcony Shop",
+      "category": "hogar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "La Rural",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Geant",
+      "category": "supermercado",
+      "discounts": [
+        { "card": "Hipermás Santander", "amount": null, "days": null, "conditions": "Descuentos exclusivos cada mes del año con Hipermás" }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Optica Lombardi",
+      "category": "salud/optica",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Smart",
+      "category": "otros",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Shoe Express",
+      "category": "calzado",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Crepas",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": "Montevideo"
+    },
+    {
+      "merchant": "Indian",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Fivisa",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Isidora Restaurant",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Restaurante Oscar",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Savia",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "De Arcos",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Principes del Sur",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Oriundo",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Devoto",
+      "category": "supermercado",
+      "discounts": [
+        { "card": "Hipermás Santander", "amount": null, "days": null, "conditions": "Descuentos exclusivos cada mes del año con Hipermás" }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Lemon",
+      "category": "hogar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Hush Puppies",
+      "category": "calzado",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "ML Center",
+      "category": "otros",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Posto 5",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Cafe del Sol",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Porto Vanila",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Los Leños",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "La Trattoria",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Pizzorno Family States",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Vivero los Suspiros",
+      "category": "hogar",
+      "discounts": [
+        { "card": "Puntos Soy Santander", "amount": null, "days": null, "conditions": "Canje de puntos" }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Nicolini",
+      "category": "hogar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Viasono",
+      "category": "hogar",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "La Cigale",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Select débito", "amount": "50%", "days": null, "conditions": null },
+        { "card": "débito", "amount": "30%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Las Nazarenas",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Mis Petates",
+      "category": "otros",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Columbia",
+      "category": "moda/vestimenta",
+      "discounts": [
+        { "card": "todas", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    },
+    {
+      "merchant": "Late",
+      "category": "gastronomia",
+      "discounts": [
+        { "card": "Platinum/Select/Private", "amount": "25%", "days": null, "conditions": null },
+        { "card": "crédito/débito", "amount": "15%", "days": null, "conditions": null }
+      ],
+      "location_type": "fisico",
+      "address_hint": null
+    },
+    {
+      "merchant": "Farmashop",
+      "category": "salud/optica",
+      "discounts": [
+        { "card": "Farmacard", "amount": "10%", "days": "todos los días", "conditions": null },
+        { "card": "Farmacard", "amount": "15%-25%", "days": "martes, jueves y domingo", "conditions": "Descuento varía según tarjeta y día" }
+      ],
+      "location_type": "cadena",
+      "address_hint": null
+    }
+  ]
+}

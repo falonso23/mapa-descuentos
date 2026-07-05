@@ -1,0 +1,319 @@
+[
+ {
+  "id": 345,
+  "merchant": "Dos Hermanas",
+  "resolved_name": "Dos Hermanas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 346,
+  "merchant": "El Amor es Tiempo",
+  "resolved_name": "El Amor es Tiempo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 347,
+  "merchant": "El Fondin",
+  "resolved_name": "El Fondín",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 348,
+  "merchant": "El Secreto",
+  "resolved_name": "El Secreto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 349,
+  "merchant": "Ferona",
+  "resolved_name": "Ferona",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 350,
+  "merchant": "Fish Market",
+  "resolved_name": "Fish Market",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 351,
+  "merchant": "Frances Co",
+  "resolved_name": "Frances Co",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 352,
+  "merchant": "Gualicho",
+  "resolved_name": "Gualicho",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 353,
+  "merchant": "Hola que Tal",
+  "resolved_name": "Hola que Tal",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 354,
+  "merchant": "Hoy Café",
+  "resolved_name": "Hoy Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 355,
+  "merchant": "Juana",
+  "resolved_name": "Juana Cocina Bar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Atalaya esq. Héctor Soria, La Juanita, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.realestate-in-uruguay.com/resources/restaurants/jose-ignacio-restaurants-and-bars/juana-cocina-bar-in-jose-ignacio/"
+   }
+  ]
+ },
+ {
+  "id": 356,
+  "merchant": "La Cantina del Vigia",
+  "resolved_name": "Cantina del Vigía",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Maldonado",
+    "address": "Zelmar Michelini 744, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.latinoplaces.com/maldonado/cantina-del-vigia-119518"
+   }
+  ]
+ },
+ {
+  "id": 357,
+  "merchant": "La Cava",
+  "resolved_name": "La Cava Restaurant & Parrilla",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Bulevar Gral. José Gervasio Artigas esq. Av. Chiverta, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://parrilladalacava.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 358,
+  "merchant": "La Despensa",
+  "resolved_name": "La Despensa (Casagrande Hotel & Beach Club)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Ruta 10 Km 182,5, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://casagrande.club/es/menu"
+   }
+  ]
+ },
+ {
+  "id": 359,
+  "merchant": "La Huella",
+  "resolved_name": "Parador La Huella",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Los Cisnes y Playa Brava, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://paradorlahuella.com/en/contact/"
+   }
+  ]
+ },
+ {
+  "id": 360,
+  "merchant": "La Susana",
+  "resolved_name": "La Susana Beach Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Ruta 10 Km 192,5, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.lasusana.com/contact-us"
+   }
+  ]
+ },
+ {
+  "id": 361,
+  "merchant": "La Taberna",
+  "resolved_name": "La Taberna",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Chiverta esq. Bulevar Artigas, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://triptap.com/places/uy/maldonado/maldonado/la-taberna-t01609f2"
+   }
+  ]
+ },
+ {
+  "id": 362,
+  "merchant": "Las Brisas (Enjoy)",
+  "resolved_name": "Las Brisas - Enjoy Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Enjoy Punta del Este",
+    "address": "Rambla Claudio Williman, Parada 4, Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://enjoypuntadeleste.uy/restaurantes/las-brisas/"
+   }
+  ]
+ },
+ {
+  "id": 363,
+  "merchant": "Las Terrazas",
+  "resolved_name": "Restaurante Las Terrazas (Casapueblo)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Carlos Páez Vilaró s/n, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.puntadelestegourmet.com/restaurante-las-terrazas-casapueblo.htm"
+   }
+  ]
+ },
+ {
+  "id": 364,
+  "merchant": "Lighthouse",
+  "resolved_name": "Lighthouse Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla Lorenzo Batlle Pacheco y Avenida del Mar, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.sluurpy.com/punta-del-este/restaurante/6046828/restaurante-lighthouse"
+   }
+  ]
+ },
+ {
+  "id": 365,
+  "merchant": "Majuga",
+  "resolved_name": "Majuga",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 366,
+  "merchant": "Mansa Beach Club",
+  "resolved_name": "Mansa Beach Club",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 367,
+  "merchant": "Mar de Fondo",
+  "resolved_name": "Mar de Fondo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 368,
+  "merchant": "Mi Piace",
+  "resolved_name": "Mi Piace",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 369,
+  "merchant": "Mia Bistro",
+  "resolved_name": "Mia Bistro",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 370,
+  "merchant": "Muelle 3",
+  "resolved_name": "Muelle 3",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 371,
+  "merchant": "Olivia",
+  "resolved_name": "Olivia",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 372,
+  "merchant": "Ovo Beach (Enjoy)",
+  "resolved_name": "Ovo Beach - Enjoy Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Enjoy Punta del Este",
+    "address": "Rambla Claudio Williman, Parada 4, Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.enjoy.cl/enjoy-punta-del-este"
+   }
+  ]
+ },
+ {
+  "id": 373,
+  "merchant": "Parada Barra",
+  "resolved_name": "Parada Barra",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 374,
+  "merchant": "Parador Bikini",
+  "resolved_name": "Parador Bikini",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

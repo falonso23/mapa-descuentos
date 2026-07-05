@@ -1,0 +1,213 @@
+[
+  {
+    "id": 8,
+    "merchant": "La Pasiva Arocena",
+    "resolved_name": "La Pasiva",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Carrasco", "address": "Arocena 1644 esq. Schroeder, Carrasco, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://1122.com.uy/local/la-pasiva-carrasco/LOC360130001" },
+      { "sucursal": "Pocitos", "address": "Juan Benito Blanco 920 esq. Av. Brasil, Pocitos, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d17139306-Reviews-La_Pasiva-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Punta Carretas", "address": "Ellauri 350, Local 117, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://lapasivapuntacarretas.com.uy/" },
+      { "sucursal": "Centro", "address": "Av. 18 de Julio 1022, Centro, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.lapasiva.uy/" },
+      { "sucursal": "Centro", "address": "Av. 18 de Julio 899, Centro, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://www.lapasiva.uy/" },
+      { "sucursal": "Tres Cruces", "address": "Bulevar Artigas 1825, Local 66, Tres Cruces, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.trescruces.com.uy/shopping/local/la-pasiva/" },
+      { "sucursal": "Maldonado", "address": "Av. Roosevelt esq. Francisco Acuña de Figueroa, Maldonado, Uruguay", "confidence": 0.7, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1202854-d10148268-Reviews-La_Pasiva_Roosevelt-Maldonado_Maldonado_Department.html" },
+      { "sucursal": "Punta del Este", "address": "Av. Gorlero esq. Calle 30, Punta del Este, Maldonado, Uruguay", "confidence": 0.65, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d2342682-Reviews-La_Pasiva-Punta_del_Este_Maldonado_Department.html" },
+      { "sucursal": "Las Piedras", "address": "Bulevar del Bicentenario 318, Las Piedras, Canelones, Uruguay", "confidence": 0.65, "source_url": "https://www.laspiedrasshopping.com.uy/La-Pasiva.asp" }
+    ]
+  },
+  {
+    "id": 11,
+    "merchant": "Disco",
+    "resolved_name": "Disco",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Cordón (Arenal Grande)", "address": "Arenal Grande 1376, Cordón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Cordón (Fernández Crespo)", "address": "Av. Daniel Fernández Crespo 1727, Cordón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Curva de Maroñas", "address": "Av. 8 de Octubre 4786, Curva de Maroñas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Villa Muñoz", "address": "Cnel. Marcelino Sosa 2706, Villa Muñoz, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Buceo (Ayacucho)", "address": "Ayacucho 3370, Buceo, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Centro (Maldonado)", "address": "Maldonado 1024, Centro, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Centro (Ejido)", "address": "Ejido 1530, Centro, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Cordón (Barrios Amorín)", "address": "Dr. Javier Barrios Amorín 859, Cordón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Buceo (Solano López)", "address": "Av. Mcal. Fco. Solano López 1680, Buceo, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://supermercadosenuruguay.com/disco/" },
+      { "sucursal": "Bella Vista (Agraciada)", "address": "Av. Agraciada 2986, Bella Vista, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/disco/sucursales/contacts?shop=16" },
+      { "sucursal": "Punta Carretas Shopping", "address": "Ellauri 350 esq. García Cortinas, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://1122.com.uy/local/disco-punta-carretas/LOC300920012" },
+      { "sucursal": "Punta Carretas (20 de Setiembre)", "address": "20 de Setiembre 1521, Punta Carretas, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/disco/sucursales/contacts?shop=16" },
+      { "sucursal": "Pocitos (Scoseria)", "address": "Dr. José Scoseria 2628, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/disco/sucursales/contacts?shop=16" },
+      { "sucursal": "Pocitos (Obligado)", "address": "Obligado 966, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/disco/sucursales/contacts?shop=16" },
+      { "sucursal": "Carrasco Norte (Legrand)", "address": "Av. Legrand 5085, Carrasco Norte, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.yoper.com.uy/disco/sucursales/contacts?shop=16" }
+    ]
+  },
+  {
+    "id": 23,
+    "merchant": "Geant",
+    "resolved_name": "Geant",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Nuevocentro Shopping", "address": "Av. Luis Alberto de Herrera 3401, La Blanqueada, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://1122.com.uy/local/geant-nuevo-centro/LOC119500002" },
+      { "sucursal": "Parque Roosevelt", "address": "Av. Giannattasio y Av. a la Playa, Parque Roosevelt, Ciudad de la Costa, Canelones, Uruguay", "confidence": 0.6, "source_url": "https://1122.com.uy/local/geant-parque-roosevelt/LOC119500001" }
+    ]
+  },
+  {
+    "id": 36,
+    "merchant": "Devoto",
+    "resolved_name": "Devoto",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "8 de Octubre", "address": "Av. 8 de Octubre 3621, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Cordón (18 de Julio)", "address": "Av. 18 de Julio 1492, Cordón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Arenal Grande", "address": "Arenal Grande 2006, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Avenida Italia", "address": "Av. Italia 2484, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Pocitos (Benito Blanco)", "address": "Benito Blanco 919, Pocitos, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Bulevar y Canelones", "address": "Bulevar Artigas 1205, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Camino Carrasco", "address": "Camino Carrasco 6955, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Carrasco", "address": "Bolivia 1413, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Colón", "address": "Av. Garzón 1945, Colón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Centro (Libertador)", "address": "Av. Libertador 1895, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Malvín", "address": "Hipólito Yrigoyen 1444, Malvín, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Portal Américas", "address": "Av. de las Américas 6000, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Portones", "address": "Av. Italia 5779, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Punta Gorda", "address": "General Paz 1404, Punta Gorda, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" },
+      { "sucursal": "Santa Mónica", "address": "Av. Italia 6958, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://sucursales.net/devoto-montevideo/" }
+    ]
+  },
+  {
+    "id": 54,
+    "merchant": "Farmashop",
+    "resolved_name": "Farmashop",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Carrasco", "address": "Av. Italia 6958, Carrasco, Montevideo, Uruguay", "confidence": 0.95, "source_url": "https://1122.com.uy/local/farmashop-6/LOC151020006" },
+      { "sucursal": "Punta del Este (Península)", "address": "Av. Gorlero 993 esq. Calle 31, Península, Punta del Este, Uruguay", "confidence": 0.95, "source_url": "https://1122.com.uy/local/farmashop-75/LOC151020077" },
+      { "sucursal": "Tres Cruces", "address": "Av. Italia 2490, Tres Cruces, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://1122.com.uy/local/farmashop-20/LOC151020020" },
+      { "sucursal": "Pocitos", "address": "21 de Setiembre 2453, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-24" },
+      { "sucursal": "Pocitos", "address": "Bulevar España 2856, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-26" },
+      { "sucursal": "Punta Carretas", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-139" },
+      { "sucursal": "Cordón", "address": "Av. 18 de Julio 1644, Cordón, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-133" },
+      { "sucursal": "Punta Carretas", "address": "José Ellauri 411, Punta Carretas, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-111" },
+      { "sucursal": "Cordón", "address": "Av. 8 de Octubre 3268, Cordón, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.sucursales24uy.com/montevideo/farmashop/av--8-de-octubre-3268-17/" },
+      { "sucursal": "Carrasco", "address": "Camino Carrasco 4471, Carrasco, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.sucursales24uy.com/montevideo/farmashop/cno-carrasco-4471-18/" },
+      { "sucursal": "Centro", "address": "Av. 18 de Julio 1331, Centro, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://1122.com.uy/rubro-zona/18-de-julio-y-ejido/farmashop/PRD0/Z01046" },
+      { "sucursal": "Punta Carretas", "address": "Luis Franzini 806, Punta Carretas, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://tienda.farmashop.com.uy/sucursales/farmashop-22" },
+      { "sucursal": "Centro", "address": "Colonia 903 esq. Convención, Centro, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://tienda.farmashop.com.uy/sucursales" },
+      { "sucursal": "Centro", "address": "Av. 18 de Julio 1951, Centro, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://tienda.farmashop.com.uy/sucursales" },
+      { "sucursal": "Buceo", "address": "Av. Italia 3815, Buceo, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://1122.com.uy/rubro-zona/buceo/farmacias/PRD1000500/Z01009" }
+    ]
+  },
+  {
+    "id": 69,
+    "merchant": "McDonald's",
+    "resolved_name": "McDonald's",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Centro (18 de Julio y Ejido)", "address": "Av. 18 de Julio 1353, Centro, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo/18-de-julio-y-ejido-18e" },
+      { "sucursal": "Centro (18 de Julio y Río Negro)", "address": "Av. 18 de Julio 1056, Centro, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d8732654-Reviews-McDonald_s-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "La Blanqueada (8 de Octubre)", "address": "Av. 8 de Octubre 3395, La Blanqueada, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.rappi.com.uy/restaurantes/delivery/4502-mcdonalds" },
+      { "sucursal": "Cordón (Bulevar Artigas)", "address": "Bulevar Artigas 1454, Cordón, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.rappi.com.uy/restaurantes/delivery/4502-mcdonalds" },
+      { "sucursal": "Ciudad Vieja (Sarandí)", "address": "Sarandí 558, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d7035433-Reviews-McDonald_s-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Montevideo Shopping", "address": "Av. Luis Alberto de Herrera 1290, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo" },
+      { "sucursal": "Portones Shopping", "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://portones.com.uy/locales/mcdonald-039-s-nivel-1" },
+      { "sucursal": "Nuevocentro Shopping", "address": "Av. Luis Alberto de Herrera 1720, La Blanqueada, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://nuevocentroshopping.com.uy/locales/mcdonalds/" },
+      { "sucursal": "Tres Cruces Shopping", "address": "Bulevar Artigas 1825, Tres Cruces, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo" },
+      { "sucursal": "Punta Carretas Shopping", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo" },
+      { "sucursal": "Punta del Este (Gorlero)", "address": "Av. Gorlero esq. Calle 27, Punta del Este, Maldonado, Uruguay", "confidence": 0.9, "source_url": "https://www.mcdonalds.com.uy/restaurantes/punta-del-este/gorlero-gor" },
+      { "sucursal": "Punta del Este (Roosevelt Parada 6)", "address": "Av. Franklin D. Roosevelt Parada 6, Punta del Este, Maldonado, Uruguay", "confidence": 0.75, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d9768913-Reviews-McDonald_s-Punta_del_Este_Maldonado_Department.html" }
+    ]
+  },
+  {
+    "id": 55,
+    "merchant": "Cauce",
+    "resolved_name": "Cauce",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Rambla República del Perú 1371, Pocitos, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://costanero.uy/cauce" }
+    ]
+  },
+  {
+    "id": 58,
+    "merchant": "Delishop",
+    "resolved_name": "Delishop",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Benito Blanco 705, Punta Carretas, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://www.delishop.com.uy/contacto/" }
+    ]
+  },
+  {
+    "id": 73,
+    "merchant": "Sudestada",
+    "resolved_name": "Sudestada",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Dr. Luis Bonavita 1315, Buceo, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://www.saliracomer.com/index.php/s/restaurant/2865" }
+    ]
+  },
+  {
+    "id": 232,
+    "merchant": "Starbucks",
+    "resolved_name": "Starbucks",
+    "es_cadena": true,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": "Montevideo Shopping", "address": "Av. Luis Alberto de Herrera 1290, Pocitos, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://uy.latinoplaces.com/montevideo/starbucks-1006785" },
+      { "sucursal": "Punta Carretas Shopping", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d16693849-Reviews-Starbucks_Coffee-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Tres Cruces Shopping", "address": "Bulevar Gral. Artigas 1825, Tres Cruces, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.trescruces.com.uy/shopping/local/starbucks/" },
+      { "sucursal": "Nuevocentro Shopping", "address": "Av. Luis Alberto de Herrera 1720, La Blanqueada, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://nuevocentroshopping.com.uy/wt_fc_local/starbucks/" },
+      { "sucursal": "Carrasco (Arocena)", "address": "Av. Dr. Alfredo Arocena 1590, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d15188230-Reviews-Starbucks_Coffee-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Ciudad Vieja (Peatonal Sarandí)", "address": "Peatonal Sarandí 640 esq. Bartolomé Mitre, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Starbucks-abrio-un-nuevo-local-en-Ciudad-Vieja-uc733333" },
+      { "sucursal": "Cordón (La Española)", "address": "Palmar 2324 esq. Bulevar Gral. Artigas, Cordón, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d15347655-Reviews-Starbucks-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Centro (18 de Julio)", "address": "Av. 18 de Julio 1002, Centro, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://www.starbucks.com.uy/stores" },
+      { "sucursal": "Carrasco (Herrera)", "address": "Av. Dr. Luis Alberto de Herrera 3365, Carrasco, Montevideo, Uruguay", "confidence": 0.6, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d16697356-Reviews-Starbucks_Coffee-Montevideo_Montevideo_Department.html" },
+      { "sucursal": "Punta del Este (Roosevelt)", "address": "Av. Franklin D. Roosevelt esq. Pedragosa Sierra, Punta del Este, Maldonado, Uruguay", "confidence": 0.8, "source_url": "https://historias.starbucks.com/press/2022/starbucks-abre-su-primera-tienda-en-punta-del-este/" }
+    ]
+  },
+  {
+    "id": 240,
+    "merchant": "1921",
+    "resolved_name": "1921",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Rambla República de México 6451, Carrasco, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://www.alacarta.com.uy/1921-sofitel/" }
+    ]
+  },
+  {
+    "id": 241,
+    "merchant": "Artesia",
+    "resolved_name": "Artesia",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Rostand 1555, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.lanacion.com.ar/revista-living/piezas-con-alma-cafe-y-arte-asi-es-artesia-el-nuevo-local-en-la-calle-mas-linda-de-carrasco-nid17122025/" }
+    ]
+  },
+  {
+    "id": 242,
+    "merchant": "Asencio",
+    "resolved_name": "Asencio",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Av. Dr. Alfredo Arocena 1999, Carrasco, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://uy.sluurpy.com/montevideo/restaurante/6218384/asencio-bar" }
+    ]
+  },
+  {
+    "id": 243,
+    "merchant": "Basílico",
+    "resolved_name": "Basílico",
+    "es_cadena": false,
+    "status": "ok",
+    "addresses": [
+      { "sucursal": null, "address": "Av. Alfredo Arocena 1601, Carrasco, Montevideo, Uruguay", "confidence": 1.0, "source_url": "https://www.basilico.com.uy/" }
+    ]
+  }
+]

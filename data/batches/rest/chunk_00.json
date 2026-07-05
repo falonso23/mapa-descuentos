@@ -1,0 +1,710 @@
+[
+ {
+  "id": 10,
+  "merchant": "Parador El Paso",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "merchant": "Suóptica",
+  "category": "salud",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "merchant": "Merrell",
+  "category": "calzado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander",
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "merchant": "Magnolio Sala",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": null,
+    "days": null,
+    "conditions": "Descuento sujeto a promociones"
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "merchant": "Nona",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "merchant": "Tienda Ezquerra",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "merchant": "Kave Home",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "merchant": "Renart Libros",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "merchant": "Extreme Force",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "merchant": "Rotunda",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "merchant": "Balcony Shop",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "merchant": "La Rural",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "merchant": "Optica Lombardi",
+  "category": "salud",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "merchant": "Smart",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "merchant": "Shoe Express",
+  "category": "calzado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "merchant": "Crepas",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Santander",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "merchant": "Indian",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "merchant": "Fivisa",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "merchant": "Isidora Restaurant",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "merchant": "Restaurante Oscar",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "merchant": "De Arcos",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "merchant": "Principes del Sur",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "merchant": "Oriundo",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "merchant": "Lemon",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "merchant": "Hush Puppies",
+  "category": "calzado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander",
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "merchant": "ML Center",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "merchant": "Posto 5",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "merchant": "Cafe del Sol",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "merchant": "Porto Vanila",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "merchant": "Los Leños",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ }
+]

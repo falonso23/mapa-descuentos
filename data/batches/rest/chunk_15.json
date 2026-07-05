@@ -1,0 +1,616 @@
+[
+ {
+  "id": 546,
+  "merchant": "StadiumVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Stadium"
+   }
+  ]
+ },
+ {
+  "id": 547,
+  "merchant": "StadiumSportVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Stadium Sport"
+   }
+  ]
+ },
+ {
+  "id": 548,
+  "merchant": "TimeOutVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Time Out"
+   }
+  ]
+ },
+ {
+  "id": 549,
+  "merchant": "UmbroVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Umbro"
+   }
+  ]
+ },
+ {
+  "id": 550,
+  "merchant": "LibreriaPochoOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Librería Pocho"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas con tarjetas de crédito Librería Pocho"
+   }
+  ]
+ },
+ {
+  "id": 551,
+  "merchant": "BoomerangVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Boomerang"
+   }
+  ]
+ },
+ {
+  "id": 552,
+  "merchant": "UnishopVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Unishop"
+   }
+  ]
+ },
+ {
+  "id": 553,
+  "merchant": "PromoCarnaval",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Pedí tu tarjeta de crédito o cuenta OCA Blue con 20% de dto en todas tus compras!"
+   }
+  ]
+ },
+ {
+  "id": 554,
+  "merchant": "TodoSumaMetros",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Sumá Metros con todas tus compras con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 555,
+  "merchant": "LapiedadentradasconOCA",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Disfrutalo con OCA"
+   }
+  ]
+ },
+ {
+  "id": 556,
+  "merchant": "EnotraspalabrasentradasconOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Disfrutalo con OCA"
+   }
+  ]
+ },
+ {
+  "id": 557,
+  "merchant": "DisaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Metros X3 en tus cargas de combustible en DISA"
+   }
+  ]
+ },
+ {
+  "id": 558,
+  "merchant": "espectaculosOCA",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Disfrutalo con OCA!"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Disfrutalo con OCA!"
+   }
+  ]
+ },
+ {
+  "id": 559,
+  "merchant": "Recargasx2conMovistar",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Hacé tus recargas a través de la App o Mi Cuenta!"
+   }
+  ]
+ },
+ {
+  "id": 561,
+  "merchant": "PedidosYaMarketOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "15% o 20% de dto. los martes y jueves con tarjetas de crédito Mastercard en Pedidos Ya Market"
+   }
+  ]
+ },
+ {
+  "id": 564,
+  "merchant": "AsistenciaGlobalOCAMaster",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Asistencia en todo el mundo las 24 hs."
+   }
+  ]
+ },
+ {
+  "id": 565,
+  "merchant": "ProteccionDeCompraOCAMaster",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Con tarjetas de crédito Mastercard, tus compras están protegidas."
+   }
+  ]
+ },
+ {
+  "id": 566,
+  "merchant": "OCABluePromoJunio",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu tarjeta OCA BLUE y recibí 3.500 Metros de regalo con tu primera compra"
+   }
+  ]
+ },
+ {
+  "id": 567,
+  "merchant": "masterlibertadores",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Conocé a los ganadores"
+   }
+  ]
+ },
+ {
+  "id": 568,
+  "merchant": "McDonaldsOCAMastercard",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "40% de dto. de lunes a viernes con tarjetas de crédito Mastercard contactless en McDonald´s"
+   }
+  ]
+ },
+ {
+  "id": 569,
+  "merchant": "WooferFiestasOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas con tarjetas de crédito* en Woofer"
+   }
+  ]
+ },
+ {
+  "id": 570,
+  "merchant": "WislyOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Wisly"
+   }
+  ]
+ },
+ {
+  "id": 572,
+  "merchant": "12CuotasAnualesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "12 cuotas en cientos de comercios con tarjeta de crédito Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 574,
+  "merchant": "CasaPracticaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Casa Práctica"
+   }
+  ]
+ },
+ {
+  "id": 575,
+  "merchant": "PagáConelCelularOCA",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. en supermercado todos los días con Oca Blue o tarjetas de crédito pagando con la App OCA o Google Pay"
+   }
+  ]
+ },
+ {
+  "id": 576,
+  "merchant": "ZanettiOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. todos los días con tarjetas de crédito en Zanetti"
+   }
+  ]
+ },
+ {
+  "id": 577,
+  "merchant": "AmazonOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 6 cuotas con tarjetas de crédito Mastercard de OCA en Amazon"
+   }
+  ]
+ },
+ {
+  "id": 579,
+  "merchant": "MacroYmicromercadoOCAMastercard",
+  "category": "supermercado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. con tarjetas de crédito Mastercard de OCA en Macromercado y MicroMacro"
+   }
+  ]
+ },
+ {
+  "id": 580,
+  "merchant": "PromoBlue",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Abrí tu cuenta OCA Blue con 5.000 Metros de regalo!"
+   }
+  ]
+ },
+ {
+  "id": 582,
+  "merchant": "RetiroEfectivo",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Convertí el disponible de tu tarjeta de crédito en efectivo"
+   }
+  ]
+ }
+]

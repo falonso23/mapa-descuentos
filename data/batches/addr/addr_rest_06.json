@@ -1,0 +1,431 @@
+[
+ {
+  "id": 255,
+  "merchant": "Coffe Point",
+  "resolved_name": "Coffee Point",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 256,
+  "merchant": "Crazy Crepes",
+  "resolved_name": "Crazy Crepes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Zonamerica",
+    "address": "Camino de los Olivos, Local 008, Zonamerica, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://1122.com.uy/local/crazy-crepes/LOC559380001"
+   }
+  ]
+ },
+ {
+  "id": 257,
+  "merchant": "Cuervo",
+  "resolved_name": "Cuervo Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Santa María 1519, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.tripadvisor.co/ShowUserReviews-g1938799-d25339487-r940148783-Cuervo_Restaurant-Ciudad_de_la_Costa_Canelones_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 258,
+  "merchant": "Demorondanga",
+  "resolved_name": "Demorondanga",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Mario Cassinoni 1200 esquina Charrúa, Cordón, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/3052"
+   }
+  ]
+ },
+ {
+  "id": 259,
+  "merchant": "Dos Orientales",
+  "resolved_name": "Dos Orientales Pizza al Paso",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Chaná 2024, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.dosorientales.com/contacto"
+   }
+  ]
+ },
+ {
+  "id": 260,
+  "merchant": "El Puesto",
+  "resolved_name": "El Puesto Parrilla Tradicional",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Dr. Alejandro Schroeder 6415, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.guias.com.uy/empresa/el-puesto-carrasco-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 261,
+  "merchant": "Eladio",
+  "resolved_name": "Eladio Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Boulevard 26 de Marzo 1000, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.rappi.com.uy/restaurantes/125491-eladio"
+   }
+  ]
+ },
+ {
+  "id": 262,
+  "merchant": "Escaramuza",
+  "resolved_name": "Escaramuza Libros y Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Dr. Pablo de María 1185 esquina Charrúa, Cordón, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://escaramuza.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 263,
+  "merchant": "Fabric Sushi",
+  "resolved_name": "Fabric Sushi",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "21 de Setiembre 3098, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://fabricsushi.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 264,
+  "merchant": "Familia Deicas",
+  "resolved_name": "Bodega Familia Deicas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Bodega Juanicó",
+    "address": "Ruta 5 Km 38.200, Juanicó, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.familiadeicas.com/en/bodega-familia-deicas/"
+   }
+  ]
+ },
+ {
+  "id": 265,
+  "merchant": "Hasami",
+  "resolved_name": "Hasami Sushi & Food",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Cordón",
+    "address": "Constituyente 1734, Cordón, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://hasami.uy/ver-sucursales/"
+   }
+  ]
+ },
+ {
+  "id": 266,
+  "merchant": "Hoy te Quiero",
+  "resolved_name": "Hoy te Quiero",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Jaime Zudáñez 2601 esquina Luis de la Torre, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d3668240-Reviews-Hoy_te_Quiero-Montevideo_Montevideo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 267,
+  "merchant": "Hugo Soca",
+  "resolved_name": "Almacén Hugo Soca",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Luis Franzini 955 esquina Carlos Berg, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.alacarta.com.uy/tona/"
+   }
+  ]
+ },
+ {
+  "id": 268,
+  "merchant": "La Campeona",
+  "resolved_name": "La Campeona Empanadas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Cordón",
+    "address": "Coronel Brandzen 2040 esquina Joaquín de Salterain, Cordón, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://lacampeona.uy/"
+   }
+  ]
+ },
+ {
+  "id": 269,
+  "merchant": "La Cocina de Pedro",
+  "resolved_name": "La Cocina de Pedro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Palermo",
+    "address": "Av. Gonzalo Ramírez 1483 esquina Barrios Amorín, Palermo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/2102"
+   }
+  ]
+ },
+ {
+  "id": 270,
+  "merchant": "La Corte",
+  "resolved_name": "La Corte Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Peatonal Sarandí 586, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.alacarta.com.uy/la-corte/"
+   }
+  ]
+ },
+ {
+  "id": 271,
+  "merchant": "La Criolla",
+  "resolved_name": "La Criolla Parrillada",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Gregorio Suárez 2746 esquina Luis de la Torre, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://uy.sluurpy.com/montevideo/restaurante/6219104/la-criolla"
+   }
+  ]
+ },
+ {
+  "id": 272,
+  "merchant": "La Croissanteria",
+  "resolved_name": "La Croissantería",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 534, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/la-croissanteria-1473578"
+   }
+  ]
+ },
+ {
+  "id": 273,
+  "merchant": "La Domenica",
+  "resolved_name": "La Doménica Pastas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Libertad 2935 esquina Gabriel Pereira, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.latinoplaces.com/montevideo/la-domenica-298246"
+   }
+  ]
+ },
+ {
+  "id": 274,
+  "merchant": "La Dulceria de Xime Torres",
+  "resolved_name": "La Dulcería de Xime Torres",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Jaime Zudáñez 2855, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.waze.com/es-419/live-map/directions/la-dulceria-de-xime-torres-jaime-zudanez-2855-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 275,
+  "merchant": "La Molienda",
+  "resolved_name": "La Molienda",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "18 de Julio 888, Centro, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.lamolienda.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 276,
+  "merchant": "La Panera Rosa",
+  "resolved_name": "La Panera Rosa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d25090079-Reviews-La_Panera_Rosa-Montevideo_Montevideo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 277,
+  "merchant": "La Pantalla",
+  "resolved_name": "La Pantalla",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 278,
+  "merchant": "La Parrillita de Viñoly",
+  "resolved_name": "La Parrillita de Viñoly",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Ramón Fernández 256, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://uy.latinoplaces.com/montevideo/la-parrillita-de-vinoly-135670"
+   }
+  ]
+ },
+ {
+  "id": 279,
+  "merchant": "La Peatonal",
+  "resolved_name": "La Peatonal Beer Garden",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6697, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://opina.com.uy/cerveceria-al-aire-libre/la-peatonal-montevideo_36440.php"
+   }
+  ]
+ },
+ {
+  "id": 280,
+  "merchant": "La Perdiz",
+  "resolved_name": "La Perdiz Restaurant & Parrillada",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Guipúzcoa 350 esquina Bolívar Baliñas, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://uy.latinoplaces.com/montevideo/la-perdiz-107925"
+   }
+  ]
+ },
+ {
+  "id": 281,
+  "merchant": "La Resistance",
+  "resolved_name": "La Resistance Boulangerie",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Libertad 2500, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/7505"
+   }
+  ]
+ },
+ {
+  "id": 282,
+  "merchant": "La Social",
+  "resolved_name": "La Social Restaurante",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 283,
+  "merchant": "Le Pain Quotidien",
+  "resolved_name": "Le Pain Quotidien",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350 esquina Solano García, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Le-Pain-Quotidien-desembarca-en-Uruguay-en-Punta-Carretas-Shopping-uc828678"
+   }
+  ]
+ },
+ {
+  "id": 284,
+  "merchant": "Malafama Cervecería",
+  "resolved_name": "Cervecería Malafama",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Rodó",
+    "address": "Maldonado 1970, Parque Rodó, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://cervezamalafama.com/locales"
+   }
+  ]
+ }
+]

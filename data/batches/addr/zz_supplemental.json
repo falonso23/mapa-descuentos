@@ -1,0 +1,71 @@
+[
+  { "id": 122, "merchant": "Natalia Antolin", "resolved_name": "Natalia Antolín", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Carrasco", "address": "San Lúcar 1595, Carrasco, Montevideo, Uruguay", "confidence": 0.5, "source_url": "https://www.clubelpais.com.uy/comercio/natalia-antolin/" } ] },
+  { "id": 123, "merchant": "NC Joyas", "resolved_name": "NC Joyas", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Ciudad Vieja", "address": "Sarandí 441, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.ncjoyas.com.uy/tiendas" },
+    { "sucursal": "Punta Carretas", "address": "21 de Septiembre 2821, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.ncjoyas.com.uy/tiendas" } ] },
+  { "id": 124, "merchant": "Óptica Garese", "resolved_name": "Óptica Garese", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Pocitos", "address": "Av. Sarmiento 2601 esq. Luis de la Torre, Pocitos, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.opticagarese.com/contacto" },
+    { "sucursal": "Centro", "address": "Zelmar Michelini 1311, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.opticagarese.com/contacto" },
+    { "sucursal": "Ciudad de la Costa", "address": "Av. Giannattasio y Av. a la Playa, Local 28, Ciudad de la Costa, Canelones, Uruguay", "confidence": 0.85, "source_url": "https://www.opticagarese.com/contacto" } ] },
+  { "id": 125, "merchant": "Panthai", "resolved_name": "Panthai", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Pocitos", "address": "26 de Marzo 1029, Pocitos, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://panthai.com.uy/tiendas" },
+    { "sucursal": "Carrasco", "address": "Rostand 1571, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://panthai.com.uy/tiendas" },
+    { "sucursal": "Punta del Este", "address": "Calle 20 entre 29 y 30, Punta del Este, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://panthai.com.uy/tiendas" } ] },
+  { "id": 126, "merchant": "Pasqualini", "resolved_name": "Pasqualini", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Centro - 18 de Julio", "address": "18 de Julio 943, Centro, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://1122.com.uy/local/pasqualini/LOC34830001" },
+    { "sucursal": "Montevideo Shopping", "address": "Av. Dr. Luis Alberto de Herrera 1290, Local 234, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.forus.uy/tiendas/pasqualini-montevideo-shopping_14" },
+    { "sucursal": "Tres Cruces Shopping", "address": "Bulevar General Artigas 1825, Tres Cruces, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" },
+    { "sucursal": "Punta Carretas Shopping", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" },
+    { "sucursal": "Nuevocentro Shopping", "address": "Av. Dr. Luis Alberto de Herrera 3365, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" },
+    { "sucursal": "Maldonado", "address": "Sarandí 874, Maldonado, Uruguay", "confidence": 0.7, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" },
+    { "sucursal": "Paysandú", "address": "Bvar. Artigas esq. 25 de Mayo, Paysandú, Uruguay", "confidence": 0.7, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" },
+    { "sucursal": "Salto Shopping", "address": "Av. Armando I. Barbieri 2265, Salto, Uruguay", "confidence": 0.7, "source_url": "https://www.yoper.com.uy/tiendas/pasqualini" } ] },
+  { "id": 127, "merchant": "Pattytas", "resolved_name": "Pattytas Shoes", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Mercedes", "address": "Colón 251, Mercedes, Soriano, Uruguay", "confidence": 0.8, "source_url": "https://www.clubelpais.com.uy/comercio/pattytas/" } ] },
+  { "id": 128, "merchant": "Pecarí", "resolved_name": "Pecarí", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas", "address": "José Ellauri 591 bis esq. Gregorio Suárez, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.pecari.com.uy/tiendas" },
+    { "sucursal": "Carrasco", "address": "Av. Alfredo Arocena 1552, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.pecari.com.uy/tiendas" },
+    { "sucursal": "Punta del Este", "address": "Calle 20 entre 27 y 28, Punta del Este, Maldonado, Uruguay", "confidence": 0.9, "source_url": "https://www.pecari.com.uy/tiendas" } ] },
+  { "id": 129, "merchant": "Petra", "resolved_name": "Petra Store", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas", "address": "21 de Setiembre 2895, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://petrastore.com.uy/tiendas" },
+    { "sucursal": "Carrasco", "address": "Arocena 1693 esq. Rivera, Carrasco, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://petrastore.com.uy/tiendas" },
+    { "sucursal": "La Barra", "address": "Ruta 10 esq. Ensueños, La Barra, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://petrastore.com.uy/tiendas" } ] },
+  { "id": 130, "merchant": "Petrichor", "resolved_name": "Petrichor", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Centro", "address": "Jackson 894/896, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://petrichor.com.uy/tiendas" } ] },
+  { "id": 131, "merchant": "Polanco", "resolved_name": "Polanco", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas", "address": "Solano García 2494, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.polanco.uy/tiendas" },
+    { "sucursal": "Durazno", "address": "18 de Julio 571, Durazno, Uruguay", "confidence": 0.85, "source_url": "https://www.polanco.uy/tiendas" },
+    { "sucursal": "Florida", "address": "Independencia 731, Florida, Uruguay", "confidence": 0.85, "source_url": "https://www.polanco.uy/tiendas" },
+    { "sucursal": "Paysandú", "address": "18 de Julio 1254, Paysandú, Uruguay", "confidence": 0.85, "source_url": "https://www.polanco.uy/tiendas" } ] },
+
+  { "id": 345, "merchant": "Dos Hermanas", "resolved_name": "Dos Hermanas", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Manantiales", "address": "18 de Julio y Ruta 10, Manantiales, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://1122.com.uy/local/dos-hermanas/LOC554770001" } ] },
+  { "id": 347, "merchant": "El Fondin", "resolved_name": "El Fondín de Manantiales", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Manantiales", "address": "Ruta 10, Manantiales, Maldonado, Uruguay", "confidence": 0.45, "source_url": "https://www.instagram.com/elfondin.manantiales/" } ] },
+  { "id": 348, "merchant": "El Secreto", "resolved_name": "El Secreto", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Rambla Portuaria casi Calle 28, Punta del Este, Maldonado, Uruguay", "confidence": 0.9, "source_url": "https://1122.com.uy/local/el-secreto/LOC401710001" } ] },
+  { "id": 349, "merchant": "Ferona", "resolved_name": "Ferona", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "José Ignacio", "address": "La Juanita, José Ignacio, Maldonado, Uruguay", "confidence": 0.4, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d15740010" } ] },
+  { "id": 350, "merchant": "Fish Market", "resolved_name": "Fish Market Manantiales", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Manantiales", "address": "Ruta 10 Km 163.5, Manantiales, Maldonado, Uruguay", "confidence": 0.8, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g2431794-d3836110" } ] },
+  { "id": 351, "merchant": "Frances Co", "resolved_name": "Frances.co", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Calle 20, Edificio Biarritz, Punta del Este, Maldonado, Uruguay", "confidence": 0.6, "source_url": "https://gopunta.uy/noticias/2023/07/07/frances-co" } ] },
+  { "id": 352, "merchant": "Gualicho", "resolved_name": "Gualicho - Cocina Mestiza", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "La Barra", "address": "Ruta 10 entre Duende Azul y Los Sueños, La Barra, Maldonado, Uruguay", "confidence": 0.6, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d27063330" } ] },
+
+  { "id": 366, "merchant": "Mansa Beach Club", "resolved_name": "Mansa Beach Club", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Playa Mansa", "address": "Parada 24, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.6, "source_url": "https://www.opina.com.uy/restaurante/punta-del-este/mansa-beach-club-punta-del-este_117090.php" } ] },
+  { "id": 368, "merchant": "Mi Piace", "resolved_name": "Mi Piace", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Calle 18 780, Punta del Este, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://www.opina.com.uy/restaurante-italiano/punta-del-este/mi-piace-punta-del-este_38120.php" } ] },
+  { "id": 369, "merchant": "Mia Bistro", "resolved_name": "Mía Bistró", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Playa Brava", "address": "Rambla L. Batlle, Parada 19, Playa Brava, Punta del Este, Maldonado, Uruguay", "confidence": 0.75, "source_url": "https://1122.com.uy/local/mia-bistro/LOC440350001" } ] },
+  { "id": 370, "merchant": "Muelle 3", "resolved_name": "Muelle Tres", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Playa Mansa", "address": "Rambla Claudio Williman, Parada 3, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.7, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d23094656" } ] },
+  { "id": 371, "merchant": "Olivia", "resolved_name": "Olivia Restó", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Calle 21 esq. Rambla del Puerto, Punta del Este, Maldonado, Uruguay", "confidence": 0.65, "source_url": "https://1122.com.uy/local/olivia-resto-snack-bar/LOC534780001" } ] },
+  { "id": 372, "merchant": "Ovo Beach (Enjoy)", "resolved_name": "OVO Beach (Enjoy)", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Playa Mansa", "address": "Rambla Williman, Parada 4, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://enjoypuntadeleste.uy/restaurantes/ovo-beach/" } ] },
+  { "id": 374, "merchant": "Parador Bikini", "resolved_name": "Parador Bikini", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Manantiales", "address": "Playa Bikini, Ruta 10 Km 165.5, Manantiales, Maldonado, Uruguay", "confidence": 0.5, "source_url": "https://www.tripadvisor.com/Attraction_Review-g2431794-d12214942" } ] }
+]

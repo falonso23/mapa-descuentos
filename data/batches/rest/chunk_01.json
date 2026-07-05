@@ -1,0 +1,678 @@
+[
+ {
+  "id": 44,
+  "merchant": "La Trattoria",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "merchant": "Pizzorno Family States",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "merchant": "Vivero los Suspiros",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Puntos Soy Santander",
+    "amount": null,
+    "days": null,
+    "conditions": "Canje de puntos"
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "merchant": "Nicolini",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "merchant": "Viasono",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander",
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "merchant": "La Cigale",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Select débito",
+    "amount": "50%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "débito",
+    "amount": "30%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "merchant": "Las Nazarenas",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "merchant": "Mis Petates",
+  "category": "ninos",
+  "city": null,
+  "address_hint": "también figura en Hogar",
+  "es_cadena": false,
+  "providers": [
+   "Santander",
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "todas",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "merchant": "Late",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Santander"
+  ],
+  "benefits": [
+   {
+    "provider": "Santander",
+    "product": "Platinum/Select/Private",
+    "amount": "25%",
+    "days": null,
+    "conditions": null
+   },
+   {
+    "provider": "Santander",
+    "product": "crédito/débito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "merchant": "deVino",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "merchant": "Il Baretto",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Club El País",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "merchant": "Il Belvedere",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "también figura en Turismo",
+  "es_cadena": false,
+  "providers": [
+   "Club El País",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "merchant": "Kakao Chocolates",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "merchant": "La Carola",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "merchant": "La Corniche",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "merchant": "La Sin Rival",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "merchant": "Las Ánimas Casa de Campo",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "merchant": "Los Fontanes",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "merchant": "Los Lagos",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "merchant": "Misushi MVD",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "merchant": "Moby Dick",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "merchant": "Olivia Restó",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "merchant": "Sushi Go",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "merchant": "Sushimi",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Club El País",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "merchant": "Tomás Restaurant",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "merchant": "View Point",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "merchant": "Watashi",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Club El País",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "merchant": "Zule",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "merchant": "Sushi Company",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": "Take Away"
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "merchant": "Alma Boutique",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ }
+]

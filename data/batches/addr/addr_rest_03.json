@@ -1,0 +1,382 @@
+[
+ {
+  "id": 112,
+  "merchant": "Limite",
+  "resolved_name": "Límite",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 1257 esquina Yi, Centro, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.limite.com.uy/tiendas/centro_6"
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "merchant": "Ludovic",
+  "resolved_name": "Ludovic Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercedes",
+    "address": "Colón esquina W. F. Aldunate, Mercedes, Soriano, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.facebook.com/LudovicUy/"
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "merchant": "M Concept",
+  "resolved_name": "MConcept",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 3365, Local 126, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mconcept.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "merchant": "Magnolia",
+  "resolved_name": "Magnolia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6467, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/magnolia/LOC401640001"
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "merchant": "Mandinga",
+  "resolved_name": "Mandinga",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Gabriel Pereira 3200, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.yelu.uy/company/213402/Mandinga"
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "merchant": "Manos del Uruguay",
+  "resolved_name": "Manos del Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "San José 1111, entre Paraguay y Héctor Gutiérrez Ruiz, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://manos.uy/locales-manos-del-uruguay"
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "merchant": "Margara Shaw",
+  "resolved_name": "Margara Shaw",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos F. Sáez 6524, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://moweek.com.uy/b/margara-shaw"
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "merchant": "María Cher",
+  "resolved_name": "María Cher",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Local 5103, Nivel 1, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.localpx.com/v/es/cher-punta-carretas-shopping-montevideo.html"
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "merchant": "Marina Nature",
+  "resolved_name": "Marina Nature",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "José Ellauri 495 esquina Montero, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.facebook.com/marina.nature/"
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "merchant": "Mistral",
+  "resolved_name": "Mistral",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 953 esquina Río Branco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://mistral.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "merchant": "Natalia Antolin",
+  "resolved_name": "Natalia Antolin",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 123,
+  "merchant": "NC Joyas",
+  "resolved_name": "NC Joyas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 124,
+  "merchant": "Óptica Garese",
+  "resolved_name": "Óptica Garese",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 125,
+  "merchant": "Panthai",
+  "resolved_name": "Panthai",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 126,
+  "merchant": "Pasqualini",
+  "resolved_name": "Pasqualini",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 127,
+  "merchant": "Pattytas",
+  "resolved_name": "Pattytas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 128,
+  "merchant": "Pecarí",
+  "resolved_name": "Pecarí",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 129,
+  "merchant": "Petra",
+  "resolved_name": "Petra",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 130,
+  "merchant": "Petrichor",
+  "resolved_name": "Petrichor",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 131,
+  "merchant": "Polanco",
+  "resolved_name": "Polanco",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 132,
+  "merchant": "Pompeya joyas",
+  "resolved_name": "Pompeya Joyas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Av. Gral. Rivera 2696, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://guiacomercial.uy/joyerias/montevideo-10/pompeya-joyas"
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "merchant": "Puro Punto",
+  "resolved_name": "Puro Punto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Solano García 2454, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://puropunto.com/"
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "merchant": "Rockford",
+  "resolved_name": "Rockford",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 971, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/rockford/LOC348520004"
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "merchant": "Rodwil",
+  "resolved_name": "Rodwil",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Salto",
+    "address": "Uruguay 1163, Salto, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.clubelpais.com.uy/comercio/rodwil/"
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "merchant": "Samsonite",
+  "resolved_name": "Samsonite (tienda oficial)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "Punta Carretas Shopping, José Ellauri 350, Nivel 1, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.busqueda.com.uy/sociales/samsonite-desembarco-uruguay-su-primera-tienda-fisica-punta-carretas-shopping-n5397622"
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "merchant": "Shift",
+  "resolved_name": "Shift",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Alfredo Arocena 1598, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://shift.shop/pages/encontra-el-local-mas-cercano/"
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "merchant": "Srta. Peel",
+  "resolved_name": "Srta. Peel",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Berro 640 esquina 21 de Setiembre, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.srtapeel.com/locales"
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "merchant": "Under Armour",
+  "resolved_name": "Under Armour (tienda oficial)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Montevideo Shopping, Av. Dr. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://store-locator.underarmour.com/es-es/store/MONTE-ALADH12901/"
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "merchant": "Uniform & Co",
+  "resolved_name": "Uniform & Co.",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "26 de Marzo 1344 esquina Pagola, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.instagram.com/p/DDrsN-1pkl4/"
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "merchant": "Urban Haus",
+  "resolved_name": "The Urban Haus",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Sarandí 483, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://outletsenmontevideo.blogspot.com/2016/09/urban-haus-montevideo.html"
+   }
+  ]
+ }
+]

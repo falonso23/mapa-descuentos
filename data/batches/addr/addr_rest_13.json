@@ -1,0 +1,389 @@
+[
+ {
+  "id": 478,
+  "merchant": "PromoUnifer",
+  "resolved_name": "Unifer",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Barraca y Ferretería Luis Fontán",
+    "address": "Juan Benito Blanco 716, Buceo, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/unifer-barraca-y-ferreteria-luis-fontan"
+   }
+  ]
+ },
+ {
+  "id": 479,
+  "merchant": "UniferOCA",
+  "resolved_name": "Unifer",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Barraca y Ferretería Luis Fontán",
+    "address": "Juan Benito Blanco 716, Buceo, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/unifer-barraca-y-ferreteria-luis-fontan"
+   }
+  ]
+ },
+ {
+  "id": 482,
+  "merchant": "PromoSopranos",
+  "resolved_name": "Soprano's",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Malvín (principal)",
+    "address": "Río de la Plata 1395 esq. Orinoco, Malvín, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.sopranos.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 483,
+  "merchant": "PromoSopranosPocitos",
+  "resolved_name": "Soprano's Pocitos",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Bv. España 2496 esq. Libertad, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.sopranos.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 484,
+  "merchant": "PromoPalermoviejo",
+  "resolved_name": "Palermo Viejo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Gonzalo Ramírez 1446 esq. Barrios Amorín, Palermo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.alacarta.com.uy/palermo-viejo/"
+   }
+  ]
+ },
+ {
+  "id": 485,
+  "merchant": "PromoBritanicoPrado",
+  "resolved_name": "Británico Prado",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Prado",
+    "address": "Av. Millán 2949, Prado, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.britanico.com.uy/prado/"
+   }
+  ]
+ },
+ {
+  "id": 486,
+  "merchant": "PromoBritanicoPocitos",
+  "resolved_name": "Británico Pocitos",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "26 de Marzo 3248, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.britanico.com.uy/pocitos/"
+   }
+  ]
+ },
+ {
+  "id": 487,
+  "merchant": "PromoBartv",
+  "resolved_name": "Bar TV",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "General Flores 3359, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.bartv.com.uy/montevideo/index.html"
+   }
+  ]
+ },
+ {
+  "id": 488,
+  "merchant": "PromoValerio",
+  "resolved_name": "Valerio",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "José Ellauri 1102, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.guias.com.uy/empresa/bar-y-cafe-valerio-pocitos-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 489,
+  "merchant": "PromoElTigre",
+  "resolved_name": "El Tigre",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Dr. José Scoseria 2501, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.latinoplaces.com/montevideo/el-tigre-45447"
+   }
+  ]
+ },
+ {
+  "id": 490,
+  "merchant": "PrestamoOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 491,
+  "merchant": "CopaAmericaconMastercard",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 493,
+  "merchant": "Mastercard-2-gratis",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 495,
+  "merchant": "Herracor",
+  "resolved_name": "Herracor",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro (principal)",
+    "address": "Cerro Largo 1065 esq. Paraguay, Centro, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.herracor.com.uy/ubicacion/"
+   }
+  ]
+ },
+ {
+  "id": 496,
+  "merchant": "HerracorOCA",
+  "resolved_name": "Herracor",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro (principal)",
+    "address": "Cerro Largo 1065 esq. Paraguay, Centro, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.herracor.com.uy/ubicacion/"
+   }
+  ]
+ },
+ {
+  "id": 497,
+  "merchant": "DíaDeLaMadre",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 498,
+  "merchant": "BuhoStoreOCA",
+  "resolved_name": "Búho Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Luis Alberto de Herrera 1349, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.buhostore.uy/tiendas/sucursal-pocitos-tienda_3"
+   }
+  ]
+ },
+ {
+  "id": 500,
+  "merchant": "SodimacFiestasOCA",
+  "resolved_name": "Sodimac",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sayago",
+    "address": "Bv. José Batlle y Ordóñez esq. Bellini, Sayago, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://uy.latinoplaces.com/montevideo/sodimac-sayago-93968"
+   }
+  ]
+ },
+ {
+  "id": 501,
+  "merchant": "ElEmporiodelHogarOCA",
+  "resolved_name": "El Emporio del Hogar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Unión Central",
+    "address": "8 de Octubre 3569, La Unión, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.smartservices.uy/tienda-de-articulos-para-el-hogar/11400-montevideo/el-emporio-del-hogar-la-union-central-11400-montevideo_553628.php"
+   }
+  ]
+ },
+ {
+  "id": 502,
+  "merchant": "DivinoOCA",
+  "resolved_name": "Divino",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Irlanda 2014, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.divino.com.uy/locales/casa-central_20"
+   }
+  ]
+ },
+ {
+  "id": 503,
+  "merchant": "BelaOCA",
+  "resolved_name": "Bela (Pañalera y Perfumería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "01",
+    "address": "Av. 8 de Octubre 3800, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/bela-panalera-y-perfumeria-01"
+   }
+  ]
+ },
+ {
+  "id": 504,
+  "merchant": "1000pesosregalo",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 506,
+  "merchant": "JuanConstruyeOCA",
+  "resolved_name": "Juan Construye",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Av. Italia 3888, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://uy.latinoplaces.com/montevideo/juan-construye-332979"
+   }
+  ]
+ },
+ {
+  "id": 507,
+  "merchant": "RecargatucelularconMetros",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 508,
+  "merchant": "Prestamoregalo",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 509,
+  "merchant": "CopaAmericaOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 510,
+  "merchant": "DíadelPadreOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 511,
+  "merchant": "GripperOCA",
+  "resolved_name": "Gripper",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina Uruguay",
+    "address": "Av. Italia 6530 entre Cooper y Jamaica, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.gripper.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 512,
+  "merchant": "SodimacOCA",
+  "resolved_name": "Sodimac",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sayago",
+    "address": "Bv. José Batlle y Ordóñez esq. Bellini, Sayago, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://uy.latinoplaces.com/montevideo/sodimac-sayago-93968"
+   }
+  ]
+ },
+ {
+  "id": 513,
+  "merchant": "BarracaMalvinOCA",
+  "resolved_name": "Barraca Malvín",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Av. Estanislao López 4849, Malvín, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://barracamalvin.com.uy/index.php"
+   }
+  ]
+ }
+]

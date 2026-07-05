@@ -1,0 +1,609 @@
+[
+ {
+  "id": 375,
+  "merchant": "Picniqueria",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 376,
+  "merchant": "Portal del Bosque",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 377,
+  "merchant": "Provence (Enjoy)",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 378,
+  "merchant": "Pueblo Narakan",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 379,
+  "merchant": "Salón Número 3",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 380,
+  "merchant": "Santa Leoncia",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 381,
+  "merchant": "Societé",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 382,
+  "merchant": "Tierra Cocina Fernando Trocca",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 383,
+  "merchant": "Tommy",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 384,
+  "merchant": "Unido",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 385,
+  "merchant": "Virazón",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 386,
+  "merchant": "Vitaminas",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 387,
+  "merchant": "Yacht Club Uruguayo",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 388,
+  "merchant": "Zunino",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 389,
+  "merchant": "Anima",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 390,
+  "merchant": "Gourmeat",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Carmelo"
+   }
+  ]
+ },
+ {
+  "id": 391,
+  "merchant": "Anita",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 392,
+  "merchant": "Bohemia",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 393,
+  "merchant": "Casa Viera",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 394,
+  "merchant": "Delicatessen",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 395,
+  "merchant": "Las Liebres",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 396,
+  "merchant": "Sio Sushi",
+  "category": "gastronomia",
+  "city": "Colonia",
+  "address_hint": "Colonia",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 397,
+  "merchant": "El Barco",
+  "category": "gastronomia",
+  "city": "Mercedes",
+  "address_hint": "Mercedes",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Mercedes"
+   }
+  ]
+ },
+ {
+  "id": 398,
+  "merchant": "El Chajá",
+  "category": "gastronomia",
+  "city": "Paysandú",
+  "address_hint": "Paysandú",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Paysandú"
+   }
+  ]
+ },
+ {
+  "id": 399,
+  "merchant": "Panz",
+  "category": "gastronomia",
+  "city": "Paysandú",
+  "address_hint": "Paysandú",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Paysandú"
+   }
+  ]
+ },
+ {
+  "id": 400,
+  "merchant": "París Londres",
+  "category": "gastronomia",
+  "city": "Paysandú",
+  "address_hint": "Paysandú",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Paysandú"
+   }
+  ]
+ },
+ {
+  "id": 401,
+  "merchant": "Cardumen",
+  "category": "gastronomia",
+  "city": "Rocha",
+  "address_hint": "Rocha",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Rocha"
+   }
+  ]
+ },
+ {
+  "id": 402,
+  "merchant": "Las Eduardas",
+  "category": "gastronomia",
+  "city": "Rocha",
+  "address_hint": "Rocha",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Rocha"
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "merchant": "Orishas Sushi",
+  "category": "gastronomia",
+  "city": "Rocha",
+  "address_hint": "Rocha",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Rocha"
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "merchant": "Don Diego",
+  "category": "gastronomia",
+  "city": "Salto",
+  "address_hint": "Salto",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Salto"
+   }
+  ]
+ }
+]

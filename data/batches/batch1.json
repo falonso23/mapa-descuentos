@@ -1,0 +1,993 @@
+[
+  {
+    "id": 8,
+    "merchant": "La Pasiva Arocena",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": "Arocena, Carrasco, Montevideo",
+    "es_cadena": true,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Platinum/Select/Private",
+        "amount": "25%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito/débito",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 11,
+    "merchant": "Disco",
+    "category": "supermercado",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": true,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Hipermás Santander",
+        "amount": null,
+        "days": null,
+        "conditions": "Descuentos exclusivos cada mes del año con Hipermás"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 23,
+    "merchant": "Geant",
+    "category": "supermercado",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": true,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Hipermás Santander",
+        "amount": null,
+        "days": null,
+        "conditions": "Descuentos exclusivos cada mes del año con Hipermás"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 36,
+    "merchant": "Devoto",
+    "category": "supermercado",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": true,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Hipermás Santander",
+        "amount": null,
+        "days": null,
+        "conditions": "Descuentos exclusivos cada mes del año con Hipermás"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 54,
+    "merchant": "Farmashop",
+    "category": "salud",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": true,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Farmacard",
+        "amount": "10%",
+        "days": "todos los días",
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "Farmacard",
+        "amount": "15%-25%",
+        "days": "martes, jueves y domingo",
+        "conditions": "Descuento varía según tarjeta y día"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 69,
+    "merchant": "McDonald's",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": true,
+    "providers": [
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": null,
+        "days": "Todos los días",
+        "conditions": "Sundae de cortesía"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 55,
+    "merchant": "Cauce",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Club El País",
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Todos los días",
+        "conditions": null
+      },
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 58,
+    "merchant": "Delishop",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Club El País",
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Todos los días",
+        "conditions": null
+      },
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 73,
+    "merchant": "Sudestada",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Club El País",
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Todos los días",
+        "conditions": null
+      },
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 232,
+    "merchant": "Starbucks",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": true,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito",
+        "amount": "15%",
+        "days": null,
+        "conditions": "en bebidas"
+      },
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      },
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Punta del Este"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 240,
+    "merchant": "1921",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 241,
+    "merchant": "Artesia",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 242,
+    "merchant": "Asencio",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 243,
+    "merchant": "Basílico",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 244,
+    "merchant": "Bisiesto",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 245,
+    "merchant": "Brot Haus",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 246,
+    "merchant": "Café Haus",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 247,
+    "merchant": "Café Misterio",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 248,
+    "merchant": "Café Misterio Carrasco",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 249,
+    "merchant": "Café Santana",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 250,
+    "merchant": "Café Valderama",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 251,
+    "merchant": "Casa Dispensa",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 252,
+    "merchant": "Caudillo",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 253,
+    "merchant": "Chester House",
+    "category": "gastronomia",
+    "city": "Montevideo",
+    "address_hint": "Montevideo",
+    "es_cadena": false,
+    "providers": [
+      "Itaú"
+    ],
+    "benefits": [
+      {
+        "provider": "Itaú",
+        "product": "crédito Itaú + débito Volar + débito Junior",
+        "amount": "15%",
+        "days": "todos los días",
+        "conditions": "Programa restaurantes Montevideo"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 1,
+    "merchant": "Optica Estela Jinchuk",
+    "category": "salud",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "todas",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 2,
+    "merchant": "Iber",
+    "category": "bienestar",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander",
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "todas",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Lunes a Miércoles",
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 3,
+    "merchant": "Bruta",
+    "category": "moda",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Platinum/Select/Private",
+        "amount": "25%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito/débito",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 4,
+    "merchant": "Bigg",
+    "category": "bienestar",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Select",
+        "amount": "25%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 5,
+    "merchant": "Mónaco Calzados",
+    "category": "calzado",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "todas",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 6,
+    "merchant": "Heladeria Lekker",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Infinite/Black/Select débito",
+        "amount": "50%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito/débito",
+        "amount": "30%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 7,
+    "merchant": "Nora Rey",
+    "category": "moda",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Platinum/Select/Private",
+        "amount": "25%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito/débito",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 9,
+    "merchant": "Facal",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "Platinum/Select/Private",
+        "amount": "25%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Santander",
+        "product": "crédito/débito",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 32,
+    "merchant": "Savia",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander",
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "todas",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Lunes a Miércoles",
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 52,
+    "merchant": "Columbia",
+    "category": "moda",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Santander",
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Santander",
+        "product": "todas",
+        "amount": "15%",
+        "days": null,
+        "conditions": null
+      },
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Lunes a Miércoles",
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 56,
+    "merchant": "Charo Cocina y Café",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Todos los días",
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 57,
+    "merchant": "Del Carmen",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "Club El País"
+    ],
+    "benefits": [
+      {
+        "provider": "Club El País",
+        "product": "Club El País",
+        "amount": "20%",
+        "days": "Todos los días",
+        "conditions": null
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 411,
+    "merchant": "20dtodelunesajuevesenBK",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "OCA"
+    ],
+    "benefits": [
+      {
+        "provider": "OCA",
+        "product": "crédito/débito",
+        "amount": null,
+        "days": null,
+        "conditions": "20% de dto. de lunes a jueves en Burger King con tarjetas de crédito"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 412,
+    "merchant": "20menosconlosviernesenBela",
+    "category": "gastronomia",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "OCA"
+    ],
+    "benefits": [
+      {
+        "provider": "OCA",
+        "product": "crédito/débito",
+        "amount": null,
+        "days": null,
+        "conditions": "20% de dto. todos los viernes con tarjetas de crédito en Bela"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 414,
+    "merchant": "TataOCA",
+    "category": "supermercado",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "OCA"
+    ],
+    "benefits": [
+      {
+        "provider": "OCA",
+        "product": "crédito/débito",
+        "amount": null,
+        "days": null,
+        "conditions": "20% de dto. de lunes a viernes en categorías seleccionadas con tarjetas de crédito en TaTa"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  },
+  {
+    "id": 425,
+    "merchant": "FirestoneOCA",
+    "category": "hogar",
+    "city": null,
+    "address_hint": null,
+    "es_cadena": false,
+    "providers": [
+      "OCA"
+    ],
+    "benefits": [
+      {
+        "provider": "OCA",
+        "product": "crédito/débito",
+        "amount": null,
+        "days": null,
+        "conditions": "20% de dto. + 12 cuotas* en dólares con tarjetas de crédito en Firestone"
+      }
+    ],
+    "locations": [],
+    "geocode_status": "pending"
+  }
+]

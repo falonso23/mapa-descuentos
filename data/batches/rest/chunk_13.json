@@ -1,0 +1,630 @@
+[
+ {
+  "id": 478,
+  "merchant": "PromoUnifer",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. en Unifer con tarjetas de crédito OCA + 12 cuotas con Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 479,
+  "merchant": "UniferOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Unifer"
+   }
+  ]
+ },
+ {
+  "id": 482,
+  "merchant": "PromoSopranos",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 483,
+  "merchant": "PromoSopranosPocitos",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 484,
+  "merchant": "PromoPalermoviejo",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 485,
+  "merchant": "PromoBritanicoPrado",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 486,
+  "merchant": "PromoBritanicoPocitos",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 487,
+  "merchant": "PromoBartv",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 488,
+  "merchant": "PromoValerio",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 489,
+  "merchant": "PromoElTigre",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves."
+   }
+  ]
+ },
+ {
+  "id": 490,
+  "merchant": "PrestamoOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu préstamo ahora, en 26 o 36 cuotas y te regalamos hasta $2.000 en tu tarjeta"
+   }
+  ]
+ },
+ {
+  "id": 491,
+  "merchant": "CopaAmericaconMastercard",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "⚽ ¿Te imaginás en la final de la CONMEBOL Copa América 2024 ™?"
+   }
+  ]
+ },
+ {
+  "id": 493,
+  "merchant": "Mastercard-2-gratis",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu tarjeta de crédito Mastercard de OCA gratis por 2 años"
+   }
+  ]
+ },
+ {
+  "id": 495,
+  "merchant": "Herracor",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. en Herracor con tarjetas de crédito OCA + 12 cuotas con Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 496,
+  "merchant": "HerracorOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Herracor"
+   }
+  ]
+ },
+ {
+  "id": 497,
+  "merchant": "DíaDeLaMadre",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Llega el día de la madre y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras!"
+   }
+  ]
+ },
+ {
+  "id": 498,
+  "merchant": "BuhoStoreOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Búho Store"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas con tarjetas de crédito en Búho Store"
+   }
+  ]
+ },
+ {
+  "id": 500,
+  "merchant": "SodimacFiestasOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas con tarjetas de crédito* en Sodimac"
+   }
+  ]
+ },
+ {
+  "id": 501,
+  "merchant": "ElEmporiodelHogarOCA",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en El Emporio del Hogar"
+   }
+  ]
+ },
+ {
+  "id": 502,
+  "merchant": "DivinoOCA",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Divino"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Divino"
+   }
+  ]
+ },
+ {
+  "id": 503,
+  "merchant": "BelaOCA",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas con tarjetas de crédito en Bela"
+   }
+  ]
+ },
+ {
+  "id": 504,
+  "merchant": "1000pesosregalo",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 1 año y $1.000 de regalo."
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 1 año y $1.000 de regalo."
+   }
+  ]
+ },
+ {
+  "id": 506,
+  "merchant": "JuanConstruyeOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. con tarjetas de crédito + 12 cuotas* en seleccionados en Juan Construye"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. con tarjetas de crédito + 12 cuotas* en Juan Construye"
+   }
+  ]
+ },
+ {
+  "id": 507,
+  "merchant": "RecargatucelularconMetros",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Cargar saldo en tu celular con Metros ¡es muy fácil!"
+   }
+  ]
+ },
+ {
+  "id": 508,
+  "merchant": "Prestamoregalo",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Con tu préstamo en 18 cuotas, ¡una Smart TV Samsung de regalo!"
+   }
+  ]
+ },
+ {
+  "id": 509,
+  "merchant": "CopaAmericaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. en supermercados* los días que juega Uruguay con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 510,
+  "merchant": "DíadelPadreOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Llega el Día del Padre y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras! Del 6 al 12 de julio"
+   }
+  ]
+ },
+ {
+  "id": 511,
+  "merchant": "GripperOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. en envíos internacionales de Estados Unidos a Uruguay con tarjetas de crédito y OCA Blue"
+   }
+  ]
+ },
+ {
+  "id": 512,
+  "merchant": "SodimacOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Sodimac"
+   }
+  ]
+ },
+ {
+  "id": 513,
+  "merchant": "BarracaMalvinOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Barraca Malvin"
+   }
+  ]
+ }
+]

@@ -1,0 +1,46 @@
+{
+  "source": "itau",
+  "bank": "Itaú",
+  "scraped_note": "Extraído manualmente. La página beneficios.html es un landing curado (no un catálogo completo). Los beneficios named-merchant mappables vienen sobre todo de restaurantes.html. moda.html NO nombra comercios ('locales adheridos'). Programa de restaurantes válido para tarjetas de crédito Itaú, débito Volar y débito Junior. Vigencia campaña restaurantes: 1 mar - 30 jun 2026.",
+  "limitations": [
+    "Beneficios genéricos por rubro ('15% en moda', '15% en restaurantes') no listan comercio => solo mappables los nombrados.",
+    "La ruta #/tarjetas-debito comparte en gran parte el mismo programa de restaurantes/moda; no se re-extrajo en detalle.",
+    "moda.html no publica lista de comercios."
+  ],
+  "featured_named_merchants": [
+    { "merchant": "Cantegrill Joyas", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": "Punta del Este" },
+    { "merchant": "Duty Free Uruguay", "category": "otros", "discounts": [{ "card": "crédito", "amount": "Millas X3 o X5", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": "aeropuerto/fronteras" },
+    { "merchant": "Starbucks", "category": "gastronomia", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "en bebidas" }], "location_type": "cadena", "address_hint": null },
+    { "merchant": "Bosch y Cia", "category": "hogar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
+    { "merchant": "Wikimusculos", "category": "bienestar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
+    { "merchant": "Farmacia El Túnel", "category": "salud", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": null },
+    { "merchant": "San Roque", "category": "salud", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": null },
+    { "merchant": "Espacio Aroma", "category": "bienestar", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
+    { "merchant": "CIR Acondicionamiento térmico", "category": "hogar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
+    { "merchant": "Movigroup (iPhone/Apple)", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "12 cuotas" }], "location_type": "cadena", "address_hint": null },
+    { "merchant": "Loop Bikes", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "hasta 24 cuotas" }], "location_type": "online", "address_hint": null }
+  ],
+  "generic_category_benefits_not_mappable": [
+    { "benefit": "25% menos con Platinum, Infinite, Black y Personal", "note": "tier-based, sin comercio" },
+    { "benefit": "15% menos en restaurantes", "note": "ver lista restaurants[]" },
+    { "benefit": "15% menos en moda", "note": "locales adheridos no publicados" }
+  ],
+  "restaurants_program": {
+    "discount": "15%",
+    "card": "crédito Itaú + débito Volar + débito Junior",
+    "days": "todos los días",
+    "by_city": {
+      "Montevideo": ["1921","Artesia","Asencio","Basílico","Bisiesto","Brot Haus","Café Haus","Café Misterio","Café Misterio Carrasco","Café Santana","Café Valderama","Casa Dispensa","Cauce","Caudillo","Chester House","Chivipizza","Coffe Point","Crazy Crepes","Cuervo","Demorondanga","Dos Orientales","El Puesto","Eladio","Escaramuza","Fabric Sushi","Familia Deicas","Hasami","Hoy te Quiero","Hugo Soca","La Campeona","La Cocina de Pedro","La Corte","La Criolla","La Croissanteria","La Domenica","La Dulceria de Xime Torres","La Molienda","La Panera Rosa","La Pantalla","La Parrillita de Viñoly","La Peatonal","La Perdiz","La Resistance","La Social","Le Pain Quotidien","Malafama Cervecería","Manzanar","Massey Familia","Milajo","Misushi","Morelia","No tan Santos","Norimoto","Nueva Malvín","Obra","Ola Poke","Panini's","Pez Globo","Piso 40","Polo Bamba","Pompier","Quinquela","Rio","Rudy","Sablée","Sanguche","Silver Cantina","St. Germain","Starbucks","Sudestada","Sushi Club","Sushi Wok Perú","Tandory","Tintos y Rubias","Tomás","Trouville","Tsubo","Varela Zarranz","Vela"],
+      "Montevideo_gourmet": ["Bacan","Belvedere Bakery","DeGuarda","Del Campo","Delishop","Gourmeat Carrasco","Gourmeat Market","Mar Austral","Mercado Verde","Say Cheese","Sofía Dulce Sofía","Vinos del Mundo"],
+      "Montevideo_librerias": ["El Virrey","Escaramuza Libros"],
+      "Punta del Este": ["Abstrakto","Almacén de Campo","Antonino","Atrevida","Betty's","Bigote","Blend (Enjoy)","Brote","Bungalow Suizo - Café","Cactus y Pescados","Café El Tesoro","Casa Astigarraga","Casa Proa","Casa Vilaró","Chivipizza","Club de los Balleneros","Cofre Café","Crepas","Dos Hermanas","El Amor es Tiempo","El Fondin","El Secreto","Fabric Sushi","Ferona","Fish Market","Frances Co","Gualicho","Hasami","Hola que Tal","Hoy Café","Il Baretto","Il Belvedere","Juana","La Cantina del Vigia","La Cava","La Despensa","La Huella","La Panera Rosa","La Susana","La Taberna","Las Brisas (Enjoy)","Las Terrazas","Lighthouse","Majuga","Malafama Cervecería","Mansa Beach Club","Mar de Fondo","Mi Piace","Mia Bistro","Misushi","Muelle 3","Ola Poke","Olivia","Ovo Beach (Enjoy)","Parada Barra","Parador Bikini","Pez Globo","Picniqueria","Portal del Bosque","Provence (Enjoy)","Pueblo Narakan","Salón Número 3","Santa Leoncia","Societé","Starbucks","Sushi Club","Sushimi","Tierra Cocina Fernando Trocca","Tommy","Unido","Virazón","Vitaminas","Watashi","Yacht Club Uruguayo","Zunino"],
+      "Punta del Este_gourmet": ["Anima","DeGuarda","Del Campo","Gourmeat","Mar Austral","Mercado Verde","Vinos del Mundo"],
+      "Colonia": ["Anita","Bohemia","Casa Viera","Delicatessen","Las Liebres","Sio Sushi","Vinos del Mundo"],
+      "Mercedes": ["El Barco"],
+      "Paysandú": ["El Chajá","Panz","París Londres"],
+      "Rocha": ["Cardumen","Las Eduardas","Orishas Sushi"],
+      "Salto": ["Don Diego","Jefris","La Estación"],
+      "Carmelo": ["Gourmeat"]
+    }
+  }
+}

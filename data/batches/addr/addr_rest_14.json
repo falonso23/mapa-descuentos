@@ -1,0 +1,367 @@
+[
+ {
+  "id": 514,
+  "merchant": "ArhoOCA",
+  "resolved_name": "Arho (ARHO Equipamiento Sanitario Total)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Paysandú 1067, Centro, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.arho.uy/sucursales-arho-equipamiento-sanitario"
+   }
+  ],
+  "notes": "No se encontró marca de indumentaria/accesorios llamada Arho en Uruguay; el único comercio identificado con ese nombre es una cadena de equipamiento sanitario (baños/cocinas). Confianza baja por posible discrepancia de rubro."
+ },
+ {
+  "id": 515,
+  "merchant": "MiBellezaOCA",
+  "resolved_name": "Mi Belleza",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Mi Belleza (mibelleza.uy) opera 100% online, vende productos L'Oréal y marcas asociadas con envíos a todo el país. No tiene locales físicos de venta al público confirmados."
+ },
+ {
+  "id": 516,
+  "merchant": "MetrosX3conOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Es una promoción genérica del programa de puntos 'Metros' de OCA (multiplicación de puntos pagando con la app), no corresponde a un comercio físico."
+ },
+ {
+  "id": 518,
+  "merchant": "DiaDelNinoOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Promoción genérica de OCA por el Día del Niño, no es un comercio."
+ },
+ {
+  "id": 519,
+  "merchant": "HomeopatiaAlemanaOCA",
+  "resolved_name": "Homeopatía Alemana",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Carlos Roxlo 1494, Cordón, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://homeopatiaalemana.com/sucursales/"
+   }
+  ]
+ },
+ {
+  "id": 520,
+  "merchant": "VacacionesPorElMundoConVISA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Promoción genérica de tarjetas VISA/OCA para vacaciones, no es un comercio específico."
+ },
+ {
+  "id": 521,
+  "merchant": "DesembolsodeEmergenciaVISA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Es un servicio financiero (desembolso de efectivo de emergencia) de tarjetas VISA/OCA, no un comercio."
+ },
+ {
+  "id": 522,
+  "merchant": "RemplazodeTarjetasVISA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Servicio financiero (reemplazo de tarjetas), no un comercio."
+ },
+ {
+  "id": 523,
+  "merchant": "ProtecciondeprecioVISA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Cobertura/servicio financiero de tarjetas VISA, no un comercio."
+ },
+ {
+  "id": 524,
+  "merchant": "3y6CuotasExterior",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Promoción genérica de cuotas en el exterior con tarjetas de crédito, no un comercio."
+ },
+ {
+  "id": 525,
+  "merchant": "BuquebusOCA",
+  "resolved_name": "Buquebus",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Terminal Fluvio-Marítima Montevideo",
+    "address": "Rambla Franklin D. Roosevelt y Pérez Castellano, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.buquebus.com/informacion-util/terminales"
+   }
+  ]
+ },
+ {
+  "id": 526,
+  "merchant": "MercadoLibreFiestasOCA",
+  "resolved_name": "Mercado Libre (plataforma online)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Se refiere a la plataforma de e-commerce MercadoLibre.com.uy, negocio online sin local físico de venta al público."
+ },
+ {
+  "id": 527,
+  "merchant": "GelateríaDelClubOCA",
+  "resolved_name": "Gelatería del Club",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Centro/Cordón",
+    "address": "San José 1312, Centro, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.waze.com/es/live-map/directions/uy/departamento-de-montevideo/montevideo/gelateria-del-club"
+   }
+  ],
+  "notes": "No se encontró sitio oficial con listado de sucursales; dirección obtenida de mapa de terceros, no de fuente oficial de la marca. Confianza baja."
+ },
+ {
+  "id": 528,
+  "merchant": "KentuckyOCA",
+  "resolved_name": "Kentucky (Pizzerías Kentucky)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "San José 1193, Centro, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://kentucky.com.ar/sucursales"
+   }
+  ],
+  "notes": "En Uruguay 'Kentucky' corresponde a Pizzerías Kentucky, cadena argentina de pizza al molde que abrió locales en Montevideo (no una cadena de chivitos)."
+ },
+ {
+  "id": 529,
+  "merchant": "ElClubdelaPapaFritaOCA",
+  "resolved_name": "El Club de la Papa Frita",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Malvín",
+    "address": "Av. Enrique Legrand 5161 esq. Misouri, Malvín, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/el-club-de-la-papa-frita/LOC575400003"
+   }
+  ]
+ },
+ {
+  "id": 530,
+  "merchant": "DisneyOCA",
+  "resolved_name": "Disney+",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Servicio de streaming (suscripción), no tiene local físico en Uruguay."
+ },
+ {
+  "id": 531,
+  "merchant": "H&MOCA",
+  "resolved_name": "H&M",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Bvar. Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.UY0001.html"
+   }
+  ]
+ },
+ {
+  "id": 532,
+  "merchant": "MercadoLibreOCA",
+  "resolved_name": "Mercado Libre (supermercado online)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "El texto de la condición menciona 'Supermercado Mercado Libre', pero no existe una cadena física de supermercados con ese nombre en Uruguay; corresponde al servicio de compra online de MercadoLibre, sin local físico de venta."
+ },
+ {
+  "id": 533,
+  "merchant": "MundoColorOCA",
+  "resolved_name": "Mundocolor Pinturas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (Aguada/Cordón)",
+    "address": "Miguelete 1622, Aguada, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://mundocolorpinturas.com.uy/wp/sucursales/"
+   }
+  ],
+  "notes": "El único comercio verificado con el nombre 'Mundo Color'/'Mundocolor' en Uruguay es una cadena de pinturerías; no se halló bazar/juguetería con ese nombre. Confianza moderada por posible discrepancia de rubro."
+ },
+ {
+  "id": 534,
+  "merchant": "IngenieroTugentmanOCA",
+  "resolved_name": "Ingeniero Tugentman",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo (Casa Central)",
+    "address": "Juan D. Jackson 1202 esq. Constituyente, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.ingenierotugentman.com/empresa"
+   }
+  ],
+  "notes": "Empresa uruguaya de climatización (aires acondicionados) y electrodomésticos, operando desde 1985."
+ },
+ {
+  "id": 535,
+  "merchant": "ViaConfortOCA",
+  "resolved_name": "Vía Confort",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Av. 8 de Octubre 3883, Unión, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://viaconfort.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 536,
+  "merchant": "RecargasX3ClaroOCA",
+  "resolved_name": "Claro Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Local K-41, Nivel 1, Tres Cruces Shopping, Bvar. Artigas 1825, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.trescruces.com.uy/shopping/local/claro/"
+   }
+  ]
+ },
+ {
+  "id": 537,
+  "merchant": "PreBlackFriday",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Promoción genérica de OCA para pedir tarjeta de crédito, no es un comercio."
+ },
+ {
+  "id": 538,
+  "merchant": "OCAFiestas",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Promoción/campaña genérica de OCA (tarjeta, cuenta OCA Blue, préstamos y seguros), no es un comercio."
+ },
+ {
+  "id": 539,
+  "merchant": "TiendaInglesaOCA",
+  "resolved_name": "Tienda Inglesa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Central",
+    "address": "Av. Italia 5820, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://institucional.tiendainglesa.com.uy/sucursales.html"
+   }
+  ]
+ },
+ {
+  "id": 540,
+  "merchant": "TransferenciasTc",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Servicio financiero (transferencias desde tarjeta de crédito), no un comercio."
+ },
+ {
+  "id": 542,
+  "merchant": "DitricompVueltaAclasesOCA",
+  "resolved_name": "Districomp",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Magallanes 1688, Cordón, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://districomp.com.uy/c/tienda"
+   }
+  ]
+ },
+ {
+  "id": 543,
+  "merchant": "ForumVueltaAclasesOCA",
+  "resolved_name": "Forum",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 967, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.forum.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 544,
+  "merchant": "HeringVueltaAclasesOCA",
+  "resolved_name": "Hering",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping Center",
+    "address": "Luis A. de Herrera 1290, Local 169, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.hering.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 545,
+  "merchant": "PepposVueltaAclasesOCA",
+  "resolved_name": "Peppos",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": [],
+  "notes": "Peppos opera 100% online (confirmado en su sitio oficial), sin locales físicos de venta al público."
+ }
+]

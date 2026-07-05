@@ -1,0 +1,373 @@
+[
+  {
+    "id": 5,
+    "merchant": "Mónaco Calzados",
+    "resolved_name": "Mónaco Calzados",
+    "es_cadena": true,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Tacuarembó",
+        "address": "18 de Julio 227, Centro, Tacuarembó, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://dapie.com.uy/tiendas/monaco-calzados_27"
+      },
+      {
+        "sucursal": "Artigas",
+        "address": "Av. Cnel. Carlos Lecueder 349, Centro, Artigas, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://dapie.com.uy/tiendas/monaco-calzados_29"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "merchant": "Heladeria Lekker",
+    "resolved_name": "Heladería Lekker",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa central",
+        "address": "Ejido 1380, Centro, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.heladeriaslekker.uy/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "merchant": "Nora Rey",
+    "resolved_name": "Nora Rey",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Boutique Pocitos",
+        "address": "26 de Marzo 1153, Pocitos, Montevideo, Uruguay",
+        "confidence": 0.6,
+        "source_url": "https://uy.todosnegocios.com/nora-rey-boutique_1f-2601-8602"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "merchant": "Facal",
+    "resolved_name": "Facal (Bar Facal)",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa central",
+        "address": "Av. 18 de Julio 1249 esq. Yí, Centro, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.facal.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "merchant": "Savia",
+    "resolved_name": "Savia Café y Cultura",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa central",
+        "address": "Juan D. Jackson 1301 esq. Guaná, Cordón, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.rappi.com.uy/restaurantes/125083-savia-cafe-y-cultura"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "merchant": "Columbia",
+    "resolved_name": "Columbia",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Tienda principal / Oficina central",
+        "address": "Av. Italia 4346, Malvín, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.columbia.com.uy/pages/contacto"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "merchant": "Charo Cocina y Café",
+    "resolved_name": "Charo Cocina y Café",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa central (Casa Viasono)",
+        "address": "Rambla República de México 6363, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.clubelpais.com.uy/gastronomia/charo-cocina-y-cafe/"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "merchant": "Del Carmen",
+    "resolved_name": "Del Carmen",
+    "es_cadena": false,
+    "status": "not_found",
+    "addresses": []
+  },
+  {
+    "id": 411,
+    "merchant": "20dtodelunesajuevesenBK",
+    "resolved_name": "Burger King",
+    "es_cadena": true,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "18 de Julio y Ejido",
+        "address": "Av. 18 de Julio 1350 esq. Ejido, Centro, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "18 de Julio y Río Negro",
+        "address": "Av. 18 de Julio 1034, Centro, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Av. 8 de Octubre",
+        "address": "Av. 8 de Octubre 3604 esq. Pernas, La Blanqueada, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Av. Italia y Caldas",
+        "address": "Av. Italia 4386 esq. Caldas, Malvín, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Av. L. A. Herrera Drive",
+        "address": "Plácido Ellauri 3494 esq. Luis Alberto de Herrera, Buceo, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Av. Palmar",
+        "address": "Bv. Artigas 1522 esq. Palmar, Cordón, Montevideo, Uruguay",
+        "confidence": 0.95,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Clínicas",
+        "address": "Av. Italia 2877, Tres Cruces, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "La Comercial",
+        "address": "Arenal Grande 2246, La Comercial, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Paso Molino",
+        "address": "Av. Agraciada 4252, Paso Molino, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Shopping Nuevocentro",
+        "address": "Luis Alberto de Herrera 3365, Nivel 2 Local 231, La Blanqueada, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Shopping Portones",
+        "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Shopping Punta Carretas",
+        "address": "José Ellauri 350, Nivel 3, Punta Carretas, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Shopping Tres Cruces",
+        "address": "Bv. Gral. Artigas 1825, Nivel 2, Tres Cruces, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Punta del Este - Gorlero",
+        "address": "Av. Gorlero esq. Calle 27, Península, Punta del Este, Maldonado, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      },
+      {
+        "sucursal": "Shopping Costa Urbana",
+        "address": "Av. Giannattasio Km 21, Ciudad de la Costa, Canelones, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://www.burgerking.com.uy/restaurantes/"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "merchant": "20menosconlosviernesenBela",
+    "resolved_name": "Bela (Pañalería y Perfumería)",
+    "es_cadena": true,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Fernández Crespo",
+        "address": "Fernández Crespo 1696 esq. Av. Uruguay, Cordón, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.bela.com.uy/locales"
+      },
+      {
+        "sucursal": "Agraciada",
+        "address": "Av. Agraciada 4159, Paso Molino, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.bela.com.uy/locales"
+      },
+      {
+        "sucursal": "Gral. Artigas / Solís",
+        "address": "Gral. José Gervasio Artigas 863 esq. Solís, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.bela.com.uy/locales"
+      },
+      {
+        "sucursal": "Tres Cruces Shopping",
+        "address": "Bv. Gral. Artigas 1825, Nivel 2 Local 220, Tres Cruces, Montevideo, Uruguay",
+        "confidence": 0.8,
+        "source_url": "https://www.trescruces.com.uy/local/bela/"
+      },
+      {
+        "sucursal": "Av. 8 de Octubre",
+        "address": "Av. 8 de Octubre 3800, La Blanqueada, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/bela-panalera-y-perfumeria-01"
+      },
+      {
+        "sucursal": "Piedras Blancas / José Belloni",
+        "address": "Av. José Belloni 4281, Piedras Blancas, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/bela-panalera-y-perfumeria-02"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "merchant": "TataOCA",
+    "resolved_name": "TaTa",
+    "es_cadena": true,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "18 de Julio / Centro",
+        "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo"
+      },
+      {
+        "sucursal": "Rodó",
+        "address": "José Enrique Rodó 1802, Cordón, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-jose-enrique-rodo-1802-montevideo"
+      },
+      {
+        "sucursal": "Paso Molino",
+        "address": "Av. Agraciada 4214, Paso Molino, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-(paso-molino)-av-agraciada-4214-montevideo"
+      },
+      {
+        "sucursal": "Agraciada / Bella Vista",
+        "address": "Av. Agraciada 2560, Bella Vista, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Gral. San Martín",
+        "address": "Gral. San Martín 2700, Reducto, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Av. Italia",
+        "address": "Av. Italia 3796, Malvín, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Batlle y Ordóñez",
+        "address": "Bv. José Batlle y Ordóñez 1703, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "José Belloni",
+        "address": "Av. José Belloni 4393, Piedras Blancas, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Gral. Rivera",
+        "address": "Av. Gral. Rivera 4250, Malvín, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Canelones",
+        "address": "Canelones 888, Cordón, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+      },
+      {
+        "sucursal": "Comercio",
+        "address": "Comercio 2445, Unión, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.sucursales24uy.com/montevideo/tata/comercio-2445-21/"
+      },
+      {
+        "sucursal": "Tres Cruces Shopping",
+        "address": "Bv. Gral. Artigas 1825, Tres Cruces, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.trescruces.com.uy/local/ta-ta/"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "merchant": "FirestoneOCA",
+    "resolved_name": "Firestone (RASA)",
+    "es_cadena": true,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa Central",
+        "address": "Av. Agraciada 2720, Reducto, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://rasa.com.uy/"
+      },
+      {
+        "sucursal": "Sucursal Portones",
+        "address": "Av. Italia 5686, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://rasa.com.uy/"
+      },
+      {
+        "sucursal": "Sucursal Centro",
+        "address": "La Paz 1320, Centro, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://rasa.com.uy/"
+      }
+    ]
+  }
+]

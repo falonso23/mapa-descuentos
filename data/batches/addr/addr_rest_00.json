@@ -1,0 +1,778 @@
+[
+ {
+  "id": 10,
+  "merchant": "Parador El Paso",
+  "resolved_name": "Parador El Paso",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Paso de los Toros",
+    "address": "Ruta 5 km 252, Paso de los Toros, Tacuarembó, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g612488-d10494444-Reviews-Parador_El_Paso-Tacuarembo_Tacuarembo_Department.html"
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "merchant": "Suóptica",
+  "resolved_name": "SuÓptica",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Melo - Aparicio Saravia",
+    "address": "Aparicio Saravia 684, Melo, Cerro Largo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/suoptica/LOC560070001"
+   },
+   {
+    "sucursal": "Melo - 18 de Julio",
+    "address": "18 de Julio 731, Melo, Cerro Largo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.instagram.com/suoptica_melo/"
+   },
+   {
+    "sucursal": "Fraile Muerto",
+    "address": "Ricardo Echenique 1078, Fraile Muerto, Cerro Largo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.instagram.com/suoptica_melo/"
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "merchant": "Merrell",
+  "resolved_name": "Merrell Uruguay",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Local 284, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Local 249, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Maldonado",
+    "address": "Sarandí 874, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Paysandú",
+    "address": "Bvar. Artigas esq. 25 de Mayo, Paysandú, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "merchant": "Magnolio Sala",
+  "resolved_name": "Magnolio Sala",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Rodó",
+    "address": "Pablo de María 1015, Parque Rodó, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://magnoliosala.uy/"
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "merchant": "Nona",
+  "resolved_name": "Nona",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 16,
+  "merchant": "Tienda Ezquerra",
+  "resolved_name": "Tienda Ezquerra",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Tacuarembó",
+    "address": "25 de Mayo 325 esq. Catalina, Tacuarembó, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://1122.com.uy/local/tienda-ezquerra/LOC342440001"
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "merchant": "Kave Home",
+  "resolved_name": "Kave Home",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 18,
+  "merchant": "Renart Libros",
+  "resolved_name": "Renart Libros",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 19,
+  "merchant": "Extreme Force",
+  "resolved_name": "Extreme Force",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 20,
+  "merchant": "Rotunda",
+  "resolved_name": "Rotunda",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 21,
+  "merchant": "Balcony Shop",
+  "resolved_name": "Balcony Shop",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 22,
+  "merchant": "La Rural",
+  "resolved_name": "La Rural",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 24,
+  "merchant": "Optica Lombardi",
+  "resolved_name": "Óptica Lombardi",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "18 de Julio 515, Durazno, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/optica-lombardi/LOC195930001"
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "merchant": "Smart",
+  "resolved_name": "Smart",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 26,
+  "merchant": "Shoe Express",
+  "resolved_name": "Shoe Express",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2178, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.waze.com/live-map/directions/shoe-express-arenal-grande-2178-montevideo"
+   },
+   {
+    "sucursal": "8 de Octubre",
+    "address": "Av. 8 de Octubre 3430, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://uy.latinoplaces.com/montevideo/shoe-express-813527"
+   },
+   {
+    "sucursal": "Agraciada",
+    "address": "Av. Agraciada 4116, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.waze.com/es-419/live-map/directions/shoe-express-av-agraciada-4116-montevideo"
+   },
+   {
+    "sucursal": "Dionisio Oribe",
+    "address": "Dionisio Oribe 3090, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://uy.latinoplaces.com/montevideo/shoe-express-646854"
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "merchant": "Crepas",
+  "resolved_name": "Crêpas (Crêpes & Jugos Naturales)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 27 (Los Muergos) entre Gorlero y El Foque, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.crepas.com.uy/puntadeleste.php"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Paseo Gourmet, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.crepas.com.uy/puntacarretas.php"
+   },
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Arocena 1556, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/crepas-82636"
+   },
+   {
+    "sucursal": "José Ignacio",
+    "address": "Saíz Martínez y Los Cisnes, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.crepas.com.uy/"
+   },
+   {
+    "sucursal": "La Barra",
+    "address": "Ruta 10 esquina Las Estrellas, La Barra, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.crepas.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "merchant": "Indian",
+  "resolved_name": "Indian",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis A. de Herrera 1290, Local 163, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "Ellauri 350, Locales 1244 y 1245, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Local 227-228, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Tres Cruces",
+    "address": "Bvar. Artigas 1867, Local 44, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Luis A. de Herrera 3365, Local 252-253-254, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "18 de Julio y Roxlo",
+    "address": "18 de Julio 1601 esquina Roxlo, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "18 de Julio y Gaboto",
+    "address": "18 de Julio 1763 esquina Gaboto, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Agraciada",
+    "address": "Agraciada 4115 esquina M. Sagasta, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2147, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Punta del Este (Gorlero)",
+    "address": "Av. Gorlero 993 y Calle 31, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Maldonado (Sarandí)",
+    "address": "Sarandí 935, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Salto",
+    "address": "Uruguay 869, Salto, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Paysandú",
+    "address": "18 de Julio 1121, Paysandú, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "Av. Franklin D. Roosevelt 458, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.indian.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "merchant": "Fivisa",
+  "resolved_name": "Fivisa",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Avda. Uruguay 1280, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Mercado Modelo",
+    "address": "Bvar. José Batlle y Ordoñez 3207 esq. Emilio Raña, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Carlos María Ramírez",
+    "address": "Av. Carlos María Ramírez 452 esq. Celestino Bauzá, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Las Piedras",
+    "address": "Dr. Enrique Pouey 547, Las Piedras, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Solymar",
+    "address": "Av. Giannattasio Km 23.500, Solymar, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Mercedes",
+    "address": "Av. Juan A. Lavalleja 532, Mercedes, Soriano, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "Soriano 500, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Salto",
+    "address": "Brasil 699, Salto, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Tacuarembó",
+    "address": "Ituzaingó 321, Tacuarembó, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Maldonado",
+    "address": "18 de Julio 933, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt Parada 7 esquina Marsella, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Paysandú",
+    "address": "Av. España 1413, Paysandú, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Durazno",
+    "address": "Manuel Oribe 700 esquina Arrospide, Durazno, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "San José de Mayo",
+    "address": "Luis Batlle Berres 596, San José de Mayo, San José, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Rivera",
+    "address": "Av. Presidente Viera 1065, Rivera, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fivisa.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "merchant": "Isidora Restaurant",
+  "resolved_name": "Isidora Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla Gral. José Artigas esq. Calle 21 (La Galerna), Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.yelu.uy/company/241535/Isidora_Restaurante"
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "merchant": "Restaurante Oscar",
+  "resolved_name": "Oscar Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 8 (El Trinquete) esq. Calle 11 (Juan Díaz de Solís), Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/oscar-restaurant/LOC666640001"
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "merchant": "De Arcos",
+  "resolved_name": "De Arcos",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 34,
+  "merchant": "Principes del Sur",
+  "resolved_name": "Príncipes del Sur",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercedes - Central",
+    "address": "Gral. Eusebio Giménez 747 esq. Artigas, Mercedes, Soriano, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/principes-del-sur-central/LOC484510002"
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "merchant": "Oriundo",
+  "resolved_name": "Oriundo (wine bar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Dr. Pablo de María 1013, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.alacarta.com.uy/oriundo-el-wine-bar-contemporaneo/"
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "merchant": "Lemon",
+  "resolved_name": "Lemon",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 3365, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Bulevar General Artigas 1825, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "18 de Julio & Yí",
+    "address": "18 de Julio 1231, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Bartolomé Mitre 649, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Costa Urbana Shopping",
+    "address": "Av. Giannattasio Km 21, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Las Piedras Shopping",
+    "address": "Bulevar del Bicentenario 318, Las Piedras, Canelones, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Colonia",
+    "address": "General Flores 435, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Durazno",
+    "address": "18 de Julio 384, Durazno, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Salto",
+    "address": "Uruguay 744, Salto, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "San José",
+    "address": "Sarandí 541, San José de Mayo, San José, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Paysandú",
+    "address": "Leandro Gómez 1157, Paysandú, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://lemon.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Melo",
+    "address": "18 de Julio 730, Melo, Cerro Largo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://lemon.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "merchant": "Hush Puppies",
+  "resolved_name": "Hush Puppies",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.forus.uy/tiendas/hush-puppies-montevideo-shopping_39"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Nivel 2, Punta Carretas Shopping, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.localpx.com/v/es/hush-puppies-punta-carretas-shopping-montevideo.html"
+   },
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Bulevar General Artigas 1825, Local 164, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.trescruces.com.uy/shopping/local/hush-puppies/"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Local 264, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://portones.com.uy/"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Luis Alberto de Herrera 3365, Local 217, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://compararautos.com.uy/local/hush-puppies-nuevo-centro-shopping/LOC183490010"
+   },
+   {
+    "sucursal": "Costa Urbana Shopping",
+    "address": "Av. Giannattasio Km 21, Local 276, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.costaurbana.com.uy/hush-puppies.asp"
+   },
+   {
+    "sucursal": "Punta Shopping",
+    "address": "Av. Roosevelt y Parada 7, Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://puntashopping.com.uy/hush-puppies/"
+   },
+   {
+    "sucursal": "Colonia Shopping",
+    "address": "Av. Roosevelt 458, Local 21, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://1122.com.uy/local/hush-puppies-colonia-shopping/LOC183490008"
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "merchant": "ML Center",
+  "resolved_name": "ML Center",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Dr. Salvador Ferrer Serra 1909, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://ml.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Car One",
+    "address": "Ruta Interbalnearia y Camino de los Horneros, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://ml.com.uy/tiendas/car-one-ml-center_2"
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "merchant": "Posto 5",
+  "resolved_name": "Parador Posto 5",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Parada 5, Playa Mansa, Rambla Dr. Claudio Williman, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.paradorposto5.com/"
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "merchant": "Cafe del Sol",
+  "resolved_name": "Café del Sol",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 42,
+  "merchant": "Porto Vanila",
+  "resolved_name": "Porto Vanila",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Doctor José Scoseria 2942, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d15144029-Reviews-Porto_Vanila-Montevideo_Montevideo_Department.html"
+   },
+   {
+    "sucursal": "Carrasco (Arocena)",
+    "address": "Arocena 1558, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://1122.com.uy/local/porto-vanila-pasteleria/LOC237460007"
+   },
+   {
+    "sucursal": "Carrasco Norte",
+    "address": "Av. Italia 7519 esquina Barradas, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://1122.com.uy/local/porto-vanila-cafeteria/LOC237460011"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Nivel 1, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://portones.com.uy/locales/porto-vanila-nivel-1"
+   },
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt y Parada 7, Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.opina.com.uy/cafeteria/porto-vanila-punta-del-este_84110.php"
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "merchant": "Los Leños",
+  "resolved_name": "Los Leños",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "San José 909, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://montevideo.restorando.com.uy/restaurante/los-lenos-uruguayos"
+   }
+  ]
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "id": 345,
+  "merchant": "Dos Hermanas",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 346,
+  "merchant": "El Amor es Tiempo",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 347,
+  "merchant": "El Fondin",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 348,
+  "merchant": "El Secreto",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 349,
+  "merchant": "Ferona",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 350,
+  "merchant": "Fish Market",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 351,
+  "merchant": "Frances Co",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 352,
+  "merchant": "Gualicho",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 353,
+  "merchant": "Hola que Tal",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 354,
+  "merchant": "Hoy Café",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 355,
+  "merchant": "Juana",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 356,
+  "merchant": "La Cantina del Vigia",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 357,
+  "merchant": "La Cava",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 358,
+  "merchant": "La Despensa",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 359,
+  "merchant": "La Huella",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 360,
+  "merchant": "La Susana",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 361,
+  "merchant": "La Taberna",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 362,
+  "merchant": "Las Brisas (Enjoy)",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 363,
+  "merchant": "Las Terrazas",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 364,
+  "merchant": "Lighthouse",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 365,
+  "merchant": "Majuga",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 366,
+  "merchant": "Mansa Beach Club",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 367,
+  "merchant": "Mar de Fondo",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 368,
+  "merchant": "Mi Piace",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 369,
+  "merchant": "Mia Bistro",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 370,
+  "merchant": "Muelle 3",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 371,
+  "merchant": "Olivia",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 372,
+  "merchant": "Ovo Beach (Enjoy)",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 373,
+  "merchant": "Parada Barra",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 374,
+  "merchant": "Parador Bikini",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ }
+]

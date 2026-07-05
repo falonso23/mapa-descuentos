@@ -1,0 +1,623 @@
+[
+ {
+  "id": 445,
+  "merchant": "AprovechateconOCAsumachancesygana",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Ganadores de los premios de la promoción Aprovechate"
+   }
+  ]
+ },
+ {
+  "id": 446,
+  "merchant": "CartoonsOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* en Cartoons"
+   }
+  ]
+ },
+ {
+  "id": 447,
+  "merchant": "BeneficioSecuritas",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Promo Débito Automático Securitas"
+   }
+  ]
+ },
+ {
+  "id": 448,
+  "merchant": "PromoKroser",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% dto. en Kroser con tarjetas de crédito OCA + 12 cuotas con Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 449,
+  "merchant": "KroserOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Kroser"
+   }
+  ]
+ },
+ {
+  "id": 450,
+  "merchant": "DisaLitoral",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% dto en Estaciones de servicio DISA seleccionadas"
+   }
+  ]
+ },
+ {
+  "id": 452,
+  "merchant": "AprovechateBelaSemanaAniversario",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. en Semana Aniversario Bela"
+   }
+  ]
+ },
+ {
+  "id": 454,
+  "merchant": "DiasOCAdelHogar",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Renová tus espacios en todos estos comercios! Del 6 al 13 de abril"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡La excusa perfecta para dejar tu casa más linda!"
+   }
+  ]
+ },
+ {
+  "id": 455,
+  "merchant": "BeneficioMundoagua",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de descuento en Mundo Agua - Purificadores de Agua"
+   }
+  ]
+ },
+ {
+  "id": 456,
+  "merchant": "Jetmar12cuotasConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Hasta el 31/01/2024"
+   }
+  ]
+ },
+ {
+  "id": 457,
+  "merchant": "Buemes12cuotasConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Hasta el 31/01/2024"
+   }
+  ]
+ },
+ {
+  "id": 459,
+  "merchant": "BeneficioNFC",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% dto pagando con la app OCA"
+   }
+  ]
+ },
+ {
+  "id": 460,
+  "merchant": "BasVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Bas"
+   }
+  ]
+ },
+ {
+  "id": 461,
+  "merchant": "AprovechateConMotorola",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% dto. en la tienda oficial Motorola con Oca Blue y tarjetas de crédito + 12 cuotas*"
+   }
+  ]
+ },
+ {
+  "id": 462,
+  "merchant": "TelepeajeConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Hacé el débito automático de Telepeaje con OCA y llevate el TAG gratis y 10 pasadas con 30% de dto. con tarjetas de crédito Mastercard de OC"
+   }
+  ]
+ },
+ {
+  "id": 463,
+  "merchant": "CartoonsVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Cartoons"
+   }
+  ]
+ },
+ {
+  "id": 464,
+  "merchant": "LaNuevaRoma",
+  "category": "gastronomia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de descuento todos los días en Heladería La Nueva Roma"
+   }
+  ]
+ },
+ {
+  "id": 465,
+  "merchant": "Ichef",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Disfrutá de tu Ichef hoy mismo, en cuotas y sin ocupar el saldo de tu tarjeta"
+   }
+  ]
+ },
+ {
+  "id": 466,
+  "merchant": "MovistarOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "24 cuotas en Movistar con tarjetas de crédito Mastercard de OCA"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Todas las recargas de $300 o más a celulares Movistar realizadas a través de la App de OCA y Mi Cuenta web valen X3"
+   }
+  ]
+ },
+ {
+  "id": 467,
+  "merchant": "FarmacityOCAMastercard",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. todos los miércoles en Farmacity con tarjetas de crédito Mastercard contactless"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de descuento con el Celular vía NFC y con Débito, Crédito o Prepago Sin Contacto"
+   }
+  ]
+ },
+ {
+  "id": 468,
+  "merchant": "CabifyOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% o 50% de dto. en tus viajes de Cabify con tarjetas de crédito Mastercard de OCA"
+   }
+  ]
+ },
+ {
+  "id": 469,
+  "merchant": "6cuotasArgentinaBrasilEstadosUnidos",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Comprá en Argentina, Brasil y Estados Unidos en 6 cuotas sin recargo con tus tarjetas de crédito."
+   }
+  ]
+ },
+ {
+  "id": 470,
+  "merchant": "10menosconOCAenMundocolor",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% dto. con tarjetas de crédito OCA"
+   }
+  ]
+ },
+ {
+  "id": 471,
+  "merchant": "VuelvenLasClases",
+  "category": "supermercado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Comprá todo para la vuelta a clases con OCA en 12 cuotas"
+   }
+  ]
+ },
+ {
+  "id": 472,
+  "merchant": "3milMetrosregalo",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "3.000 Metros de regalo, con tu nueva tarjeta Mastercard y Visa."
+   }
+  ]
+ },
+ {
+  "id": 473,
+  "merchant": "SemanaDeDescuentosEnLaWeb",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Volvió la semana de descuentos en la web! Disfrutá los beneficios con tus tarjetas de crédito!"
+   }
+  ]
+ },
+ {
+  "id": 474,
+  "merchant": "20dtoenprimeracompra",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de Dto en tu primera compra con tu nueva tarjeta Mastercard o Visa de OCA"
+   }
+  ]
+ },
+ {
+  "id": 475,
+  "merchant": "5milMetrosregalo",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "5.000 metros de regalo para préstamos en 24 y 36 cuotas"
+   }
+  ]
+ },
+ {
+  "id": 476,
+  "merchant": "OpticaFloridaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "12 cuotas en Óptica Florida con tarjeta de crédito Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 477,
+  "merchant": "OpticaFloridaVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Óptica Florida"
+   }
+  ]
+ }
+]

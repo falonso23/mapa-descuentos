@@ -1,0 +1,617 @@
+[
+ {
+  "id": 179,
+  "merchant": "Fumaya",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "merchant": "Galería de Arte 6280",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "merchant": "Glass Defender",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Martes",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "merchant": "Kratki",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "merchant": "Lavakan",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Martes a Jueves",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "merchant": "Le Blanc",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "merchant": "Lyte Iluminación",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "merchant": "Macadar",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "merchant": "Martinika Deco",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "merchant": "Movelart",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "merchant": "Natuzzi",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "merchant": "Pacifica Casa",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "merchant": "Punto Color",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "merchant": "Punto Design",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "merchant": "Serlux",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "merchant": "Soho",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "merchant": "Tuttodeco",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "merchant": "Uruguay Tapices",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "merchant": "FutVolt",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "2x1",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "merchant": "Movie",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": "cines",
+  "es_cadena": true,
+  "providers": [
+   "Club El País",
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "2x1",
+    "days": "Todos los días",
+    "conditions": null
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Movie a la Mitad + Metros"
+   }
+  ]
+ },
+ {
+  "id": 228,
+  "merchant": "Mundo Cartoon",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "2x1",
+    "days": "Todos los días",
+    "conditions": "A partir de $400"
+   }
+  ]
+ },
+ {
+  "id": 229,
+  "merchant": "Palacio de la Música",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "15%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 231,
+  "merchant": "Duty Free Uruguay",
+  "category": "otros",
+  "city": "aeropuerto/fronteras",
+  "address_hint": "aeropuerto/fronteras",
+  "es_cadena": true,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "Millas X3 o X5",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 233,
+  "merchant": "Bosch y Cia",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 234,
+  "merchant": "Wikimusculos",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 235,
+  "merchant": "Farmacia El Túnel",
+  "category": "salud",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "25% y 15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 236,
+  "merchant": "San Roque",
+  "category": "salud",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": true,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "25% y 15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 237,
+  "merchant": "CIR Acondicionamiento térmico",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 238,
+  "merchant": "Movigroup (iPhone/Apple)",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "15%",
+    "days": null,
+    "conditions": "12 cuotas"
+   }
+  ]
+ },
+ {
+  "id": 254,
+  "merchant": "Chivipizza",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ }
+]

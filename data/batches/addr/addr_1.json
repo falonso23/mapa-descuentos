@@ -1,0 +1,205 @@
+[
+  {
+    "id": 244,
+    "merchant": "Bisiesto",
+    "resolved_name": "Bisiesto",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Punta Carretas",
+        "address": "Prudencio Vázquez y Vega 864, Punta Carretas, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://superfuture.com/2025/05/new-restaurants-bars/montevideo-bisiesto-restaurant-opening/"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "merchant": "Brot Haus",
+    "resolved_name": "Brothaus",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Pocitos (principal)",
+        "address": "26 de Marzo 1399, Pocitos, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://brothaus.uy/"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "merchant": "Café Haus",
+    "resolved_name": "Café Haus",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Malvín",
+        "address": "Velsen 4040, Malvín, Montevideo, Uruguay",
+        "confidence": 0.6,
+        "source_url": "https://1122.com.uy/local/cafe-haus/LOC850740001"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "merchant": "Café Misterio",
+    "resolved_name": "Café Misterio",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Carrasco",
+        "address": "Costa Rica 1700 esquina Rivera, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.cafemisterio.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "merchant": "Café Misterio Carrasco",
+    "resolved_name": "Café Misterio (Carrasco)",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Carrasco",
+        "address": "Costa Rica 1700 esquina Rivera, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.cafemisterio.com.uy/"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "merchant": "Café Santana",
+    "resolved_name": "Santana Café",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Carrasco",
+        "address": "Avenida Doctor Alfredo Arocena 1996, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://carta.menu/restaurants/carrasco-uruguay/santana-cafe-2"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "merchant": "Café Valderama",
+    "resolved_name": "Café Valderrama",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Carrasco (complejo Obra)",
+        "address": "Gabriel Otero 6437 esquina Cambará, Carrasco, Montevideo, Uruguay",
+        "confidence": 0.8,
+        "source_url": "https://cafe-valderrama.reorder.io/"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "merchant": "Casa Dispensa",
+    "resolved_name": "Casa Dispensa",
+    "es_cadena": false,
+    "status": "not_found",
+    "addresses": []
+  },
+  {
+    "id": 252,
+    "merchant": "Caudillo",
+    "resolved_name": "Caudillo",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Montevideo",
+        "address": "Millán 3641, Atahualpa, Montevideo, Uruguay",
+        "confidence": 0.6,
+        "source_url": "https://www.smartservices.uy/restaurante/11600-montevideo/caudillo-11600-montevideo_733897.php"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "merchant": "Chester House",
+    "resolved_name": "Chesterhouse",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Centro (principal)",
+        "address": "Ciudadela 1397, Centro, Montevideo, Uruguay",
+        "confidence": 0.75,
+        "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d13004625-Reviews-Chesterhouse-Montevideo_Montevideo_Department.html"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "merchant": "Optica Estela Jinchuk",
+    "resolved_name": "Óptica Estela Jinchuk",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Casa Central Sarmiento",
+        "address": "Avenida Domingo Sarmiento 2494 esquina Franzini, Parque Rodó, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://opticaestelajinchuk.com/sucursales"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "merchant": "Iber",
+    "resolved_name": "Iber",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Eduardo Acevedo (principal)",
+        "address": "18 de Julio 1852 esquina Eduardo Acevedo, Cordón, Montevideo, Uruguay",
+        "confidence": 0.7,
+        "source_url": "https://iber.uy/tiendas"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "merchant": "Bruta",
+    "resolved_name": "Bruta",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Punta Carretas",
+        "address": "Luis de la Torre 818, Punta Carretas, Montevideo, Uruguay",
+        "confidence": 0.9,
+        "source_url": "https://www.santander.com.uy/beneficios/bruta"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "merchant": "Bigg",
+    "resolved_name": "BIGG Fitness",
+    "es_cadena": false,
+    "status": "found",
+    "addresses": [
+      {
+        "sucursal": "Pocitos (principal)",
+        "address": "José Martí 3439 esquina Rambla, Pocitos, Montevideo, Uruguay",
+        "confidence": 0.85,
+        "source_url": "https://bigg.fit/faq/"
+      }
+    ]
+  }
+]

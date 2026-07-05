@@ -1,0 +1,212 @@
+[
+ {
+  "id": 583,
+  "merchant": "ContribucionCanelonesOCA",
+  "resolved_name": "Intendencia de Canelones (Contribución Inmobiliaria)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede central",
+    "address": "Tomás Berreta 370, Canelones, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.imcanelones.gub.uy/servicios/atenci%C3%B3n-ciudadana/tel%C3%A9fonos"
+   }
+  ]
+ },
+ {
+  "id": 584,
+  "merchant": "ContribucionOCA",
+  "resolved_name": "Contribución Inmobiliaria (genérico, sin comercio específico)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 585,
+  "merchant": "ClassicoVueltaAclasesOCA",
+  "resolved_name": "Clássico (ropa y calzado deportivo)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Clássico Arenal Grande (Casa Central)",
+    "address": "Arenal Grande 2225, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.classico.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Clássico Unión",
+    "address": "8 de Octubre 3792, Unión, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.classico.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Clássico Aramburú",
+    "address": "Arenal Grande esq. Domingo Aramburú 2454, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.classico.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 586,
+  "merchant": "JansportVueltaAclasesOCA",
+  "resolved_name": "Jansport",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Jansport Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo Shopping, Buceo, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://uruguaypymes.com/info/jansport-montevideo-shopping-DE831A9D92E11929"
+   }
+  ]
+ },
+ {
+  "id": 587,
+  "merchant": "PochoKidsVueltaAclasesOCA",
+  "resolved_name": "Librería Pocho",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sucursal Central (La Blanqueada)",
+    "address": "Av. 8 de Octubre 3172, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/libreria-pocho/LOC303830001"
+   },
+   {
+    "sucursal": "Sucursal 18 de Julio",
+    "address": "18 de Julio 2198, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.libreriapocho.com.uy/pages/sucursales"
+   },
+   {
+    "sucursal": "Sucursal 8 de Octubre 3615",
+    "address": "8 de Octubre 3615, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.libreriapocho.com.uy/pages/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 589,
+  "merchant": "Multas",
+  "resolved_name": "Pago de multas (genérico, sin comercio específico)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 590,
+  "merchant": "BriqOCA",
+  "resolved_name": "Briq (no identificado con certeza)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 591,
+  "merchant": "PaniniOCA",
+  "resolved_name": "Panini (tienda oficial de cromos/stickers)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Panini Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo Shopping, Buceo, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://tiendapanini.uy/"
+   },
+   {
+    "sucursal": "Club Panini",
+    "address": "San José 1192 esq. Zelmar Michelini, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.instagram.com/paninis.uy/?hl=en"
+   }
+  ]
+ },
+ {
+  "id": 592,
+  "merchant": "2AñosGratis",
+  "resolved_name": "Promoción tarjeta OCA (sin comercio físico)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 593,
+  "merchant": "AntelOCA",
+  "resolved_name": "Antel",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Telecentro Ciudad Vieja",
+    "address": "Rincón 501, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.sucursales24uy.com/montevideo/antel/rincon-501-3/"
+   },
+   {
+    "sucursal": "Local Edificio El Gaucho (18 de Julio)",
+    "address": "18 de Julio 1450, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.gub.uy/presidencia/comunicacion/noticias/antel-amplia-atencion-publico-nuevo-local-edificio-gaucho"
+   },
+   {
+    "sucursal": "Telecentro Cordón",
+    "address": "Colonia 1930, Cordón, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.near-place.com/antel-telecentro-cordon-colonia-1930-montevideo"
+   },
+   {
+    "sucursal": "Salto Shopping",
+    "address": "Av. José B. y Ordóñez 2265, Local K16, Salto Shopping, Salto, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/salto/antel/"
+   },
+   {
+    "sucursal": "Paysandú - Montevideo 875",
+    "address": "Montevideo 875, Paysandú, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.sucursales24uy.com/paysandu/antel/montevideo-875-0/"
+   },
+   {
+    "sucursal": "Paysandú - Bulevar Artigas",
+    "address": "Bulevar Artigas 770, Paysandú, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/paysandu/antel/bulevar-artigas-770-1/"
+   },
+   {
+    "sucursal": "Maldonado Centro",
+    "address": "Joaquín de Viana esq. Florida, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/maldonado/antel/"
+   },
+   {
+    "sucursal": "Atlántico Shopping (Punta del Este)",
+    "address": "Av. Roosevelt, Atlántico Shopping, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.antel.com.uy/centros-comerciales-y-tiendas?departamento=maldonado"
+   }
+  ]
+ },
+ {
+  "id": 594,
+  "merchant": "AcDelcoOCA",
+  "resolved_name": "ACDelco (sin tienda física propia en Uruguay)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 596,
+  "merchant": "MundialUruguayOCA",
+  "resolved_name": "Promoción genérica en supermercados (sin comercio específico)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

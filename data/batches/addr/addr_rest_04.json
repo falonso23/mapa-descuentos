@@ -1,0 +1,452 @@
+[
+ {
+  "id": 142,
+  "merchant": "Urban Haus Kids",
+  "resolved_name": "The Urban Haus (línea Kids)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Dr. Alejandro Schroeder 6455, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.guias.com.uy/empresa/the-urban-haus-carrasco-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "merchant": "VDamiani",
+  "resolved_name": "VDamiani",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Luis Alberto de Herrera 1161, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://vdamiani.com/como-comprar"
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "merchant": "Veroca Joyas",
+  "resolved_name": "Veroca Joyas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Arocena 1571, Locales 8, 9 y 10, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.verocajoyas.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "merchant": "Vichi Bijou",
+  "resolved_name": "Vichi Bijou Accesorios",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Dr. Alejandro Schroeder 6444, local 009, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://vichibijou.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "merchant": "Watchme",
+  "resolved_name": "Watch Me",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, Local 271, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://watchme.com.uy/tiendas/watch-me-montevideo-shopping_2"
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "merchant": "Escool",
+  "resolved_name": "Escool.uy",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Zelmar Michelini 1287, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.escool.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "merchant": "Petit Baby",
+  "resolved_name": "Petit Baby",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Megastore",
+    "address": "Av. Luis Alberto de Herrera 3309, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.latinoplaces.com/montevideo/petit-baby-megastore-373022"
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "merchant": "Papelería Goya",
+  "resolved_name": "Papelería Goya",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Justicia 1967, Aguada, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/papeleria-goya-204259"
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "merchant": "Bath & Body Works",
+  "resolved_name": "Bath & Body Works Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Local 5109, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.bathandbodyworks.uy/35-2/"
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "merchant": "Bethel Spa",
+  "resolved_name": "Bethel Spa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "José Ellauri 795, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.clubelpais.com.uy/cuidado-personal/bethel-spa/"
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "merchant": "Club del Bosque",
+  "resolved_name": "Club Social y Deportivo El Bosque",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede",
+    "address": "Parada 6 de Roosevelt, Calle Mónaco y Marne, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.lacosta.com.uy/club-social-deportivo-bosque/"
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "merchant": "Fabián Sciuto",
+  "resolved_name": "Fabián Sciuto Coiffeur",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Gorda",
+    "address": "Gral. Paz 1496, Punta Gorda, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.paginasamarillas.com.uy/compania/Montevideo+PUNTA+GORDA/L155804/Fabian+Sciuto+Coiffeur/"
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "merchant": "Horneros Racket Club",
+  "resolved_name": "Horneros Racket Club",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede",
+    "address": "Camino de los Horneros Km 1.4, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.hornerosracketclub.com/"
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "merchant": "Pulso",
+  "resolved_name": "Pulso Servicio de Acompañantes (UCM)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina central",
+    "address": "Rbla. República de México esq. San Marino, Buceo, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.pulso.com.uy/contacto/"
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "merchant": "PuntoVet",
+  "resolved_name": "Clínica Veterinaria PuntoVet",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa central",
+    "address": "Av. Brasil 2807, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.puntovet.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "merchant": "Acher",
+  "resolved_name": "Acher Cerámicas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Showroom Montevideo",
+    "address": "Av. 8 de Octubre 2645, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://acher.com.uy/tiendas/showroom-montevideo_2"
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "merchant": "Aguerrebere",
+  "resolved_name": "Aguerrebere Pinturas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Constituyente 1489, Cordón, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.aguerrebere.com.uy/cantacto"
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "merchant": "Ai Haus",
+  "resolved_name": "Ai Haus",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Consulado / Warehaus",
+    "address": "Consulado 3314, Buceo, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.aihaus.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "merchant": "Alfombras Zurtan",
+  "resolved_name": "Zurtan Casa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Juan Bautista Alberdi 6280 esq. Córcega, Carrasco Norte, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://zurtan.com/contacto/"
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "merchant": "Arredo",
+  "resolved_name": "Arredo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 335, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.arredo.com.uy/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "merchant": "Bagno and Company",
+  "resolved_name": "Bagno and Company",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Showroom Buceo",
+    "address": "Av. Italia 3918, Buceo, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.paginasamarillas.com.uy/compania/Montevideo+BUCEO/L101980/Bagno+And+Company/"
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "merchant": "Barraca Malvín",
+  "resolved_name": "Barraca Malvín",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Estanislao López 4849, Malvín, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://barracamalvin.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "merchant": "BBQ",
+  "resolved_name": "BBQ Uruguay (Barbacoas de Origen USA y Canadá)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Pesaro 2917, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.bbq.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "merchant": "Cala Blanquería",
+  "resolved_name": "Cala Blanquería",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Tomás Diago 617, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/cala-blanqueria-1471666"
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "merchant": "Darko Lighting",
+  "resolved_name": "Darko Lighting",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Showroom Montevideo",
+    "address": "Joaquín Núñez 2868, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://darkolighting.com.uy/c/contacto"
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "merchant": "Deco Hogar",
+  "resolved_name": "Deco Hogar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "18 de Julio 1191, Centro, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.decohogar.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "merchant": "Duciel",
+  "resolved_name": "Duciel Colchones & Sommier",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Italia 3711 esq. Hernandarias, Buceo, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://duciel.com.uy/locales/"
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "merchant": "Espacio Aroma",
+  "resolved_name": "Espacio Aroma",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Showroom Pocitos",
+    "address": "Gabriel Pereira 2832 esq. Charrúa, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://espacioaroma.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "merchant": "Fábrica Italiana",
+  "resolved_name": "Fábrica Italiana de Muebles",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Av. Gral. Flores 2710 esq. Vilardebó, Goes, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fabricaitaliana.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "merchant": "Florencia Tapices",
+  "resolved_name": "Florencia Tapices",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "San José 943 esq. Río Branco, Centro, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://florenciatapices.com.uy/locales/"
+   }
+  ]
+ }
+]

@@ -1,0 +1,256 @@
+[
+ {
+  "id": 583,
+  "merchant": "ContribucionCanelonesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pagá la contribución en hasta 6 cuotas con el beneficio de contado con tus tarjetas de crédito OCA"
+   }
+  ]
+ },
+ {
+  "id": 584,
+  "merchant": "ContribucionOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pagá la contribución en hasta 6 cuotas con tus tarjetas de crédito OCA"
+   }
+  ]
+ },
+ {
+  "id": 585,
+  "merchant": "ClassicoVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Classico"
+   }
+  ]
+ },
+ {
+  "id": 586,
+  "merchant": "JansportVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Jansport"
+   }
+  ]
+ },
+ {
+  "id": 587,
+  "merchant": "PochoKidsVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Librería Pocho kids"
+   }
+  ]
+ },
+ {
+  "id": 589,
+  "merchant": "Multas",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Con tus tarjetas de crédito, pagá las Multas en cuotas y con descuento"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Con tus tarjetas de crédito, pagá las Multas en cuotas y con descuento"
+   }
+  ]
+ },
+ {
+  "id": 590,
+  "merchant": "BriqOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Briq"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito OCA en Briq"
+   }
+  ]
+ },
+ {
+  "id": 591,
+  "merchant": "PaniniOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. con tarjetas de crédito en Panini"
+   }
+  ]
+ },
+ {
+  "id": 592,
+  "merchant": "2AñosGratis",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 años!"
+   }
+  ]
+ },
+ {
+  "id": 593,
+  "merchant": "AntelOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "12 cuotas todo el año con tarjetas de crédito Mastercard en Antel."
+   }
+  ]
+ },
+ {
+  "id": 594,
+  "merchant": "AcDelcoOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito Mastercard en ACDELCO."
+   }
+  ]
+ },
+ {
+  "id": 596,
+  "merchant": "MundialUruguayOCA",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. en cualquier supermercado los días de partido de Uruguay, pagando con el celular."
+   }
+  ]
+ }
+]

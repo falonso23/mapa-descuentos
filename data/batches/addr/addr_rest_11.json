@@ -1,0 +1,319 @@
+[
+ {
+  "id": 405,
+  "merchant": "Jefris",
+  "resolved_name": "Jefri's Gelato & Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 406,
+  "merchant": "La Estación",
+  "resolved_name": "La Estación (cafetería/restaurante, Salto)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Salto",
+    "address": "Ruta 3 km 484 y Av. Carlos Reyles, Salto, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://yorugupino.com/cafeteria/salto/la-estacion-salto/"
+   }
+  ]
+ },
+ {
+  "id": 407,
+  "merchant": "IPlaceOCA",
+  "resolved_name": "iPlace (Apple Premium Reseller)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas Shopping, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.todosnegocios.com/iplace-2713-3197"
+   }
+  ]
+ },
+ {
+  "id": 408,
+  "merchant": "MacroMercado",
+  "resolved_name": "Macromercado Mayorista S.A.",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "San Martín",
+    "address": "Av. Gral. San Martín 3222, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.latinoplaces.com/montevideo/macromercado-mayorista-sa-85379"
+   }
+  ]
+ },
+ {
+  "id": 409,
+  "merchant": "3CuotasEnElExterior",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 410,
+  "merchant": "ElectroventasOCA",
+  "resolved_name": "Electroventas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Soriano 932 esq. Convención, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://electroventas.com.uy/tiendas/montevideo-centro-electroventas-casa-central-ps_1"
+   }
+  ]
+ },
+ {
+  "id": 413,
+  "merchant": "Ferreterias",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 416,
+  "merchant": "BeneficioChajáconTCyBlue",
+  "resolved_name": "Chajá Bistró",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Rincón 609 esq. Juan Carlos Gómez, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://uy.near-place.com/chaja-bistro-ciudad-vieja-rincon-609-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 417,
+  "merchant": "Metros",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 419,
+  "merchant": "12cuotasOCAMastercard",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 420,
+  "merchant": "Telepeaje",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 421,
+  "merchant": "PagaLaPatenteConOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 423,
+  "merchant": "LOiVueltaAclasesOCA",
+  "resolved_name": "LOi (La Oferta Irresistible)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Wilson Ferreira Aldunate 1301, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/montevideo/loi/"
+   }
+  ]
+ },
+ {
+  "id": 424,
+  "merchant": "DiasOCAdeLaModa",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 426,
+  "merchant": "OCAInca",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 427,
+  "merchant": "EstudiaConOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 428,
+  "merchant": "ViernesDeInteriorconBeneficios",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 429,
+  "merchant": "CiberlunesConOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 430,
+  "merchant": "Volvieronlas12cuotas",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 431,
+  "merchant": "DebitosPublicosOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 432,
+  "merchant": "30dtoDirectvGO",
+  "resolved_name": "DirecTV GO (servicio de streaming, sin local físico)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 433,
+  "merchant": "OCAJuanConstruye",
+  "resolved_name": "Juan Construye",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Av. Italia 3888, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.opina.com.uy/proveedor-de-materiales-de-construccion/montevideo/juan-construye-montevideo_414825.php"
+   }
+  ]
+ },
+ {
+  "id": 434,
+  "merchant": "EmporioDelHogarOCA",
+  "resolved_name": "El Emporio del Hogar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Unión",
+    "address": "8 de Octubre 3569, La Unión, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.smartservices.uy/tienda-de-articulos-para-el-hogar/11400-montevideo/el-emporio-del-hogar-la-union-central-11400-montevideo_553628.php"
+   }
+  ]
+ },
+ {
+  "id": 436,
+  "merchant": "PromoMundial",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 437,
+  "merchant": "HeladosConaproleTata",
+  "resolved_name": "Supermercados Ta-Ta",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 438,
+  "merchant": "DivinoFiestasOCA",
+  "resolved_name": "Divino",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Irlanda 2014, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.divino.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 440,
+  "merchant": "FlorDeSemanaOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 441,
+  "merchant": "ColeccionablesTaTa",
+  "resolved_name": "Supermercados Ta-Ta",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 443,
+  "merchant": "FlorDeDia",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 444,
+  "merchant": "SorteoConmebolLibertadores",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

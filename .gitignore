@@ -1,0 +1,16 @@
+# Entorno del agente / skills vendored (no son parte del proyecto)
+.claude/
+.playwright-mcp/
+
+# Dependencias
+node_modules/
+
+# Capturas de trabajo / temporales
+map-check.png
+map-check2.png
+map-full.png
+*.tmp
+
+# SO
+Thumbs.db
+.DS_Store

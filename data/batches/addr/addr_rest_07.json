@@ -1,0 +1,452 @@
+[
+ {
+  "id": 285,
+  "merchant": "Manzanar",
+  "resolved_name": "Manzanar Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos F. Sáez 6463, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.sluurpy.com/en/montevideo/restaurant/6218548/manzanar"
+   }
+  ]
+ },
+ {
+  "id": 286,
+  "merchant": "Massey Familia",
+  "resolved_name": "Massey Familia (Mercado Arocena)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco - Mercado Arocena",
+    "address": "Av. Alfredo Arocena 1806, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.forbesuruguay.com/negocios/massey-familia-desembarca-uruguay-una-inversion-mas-us-700000-n83766"
+   }
+  ]
+ },
+ {
+  "id": 287,
+  "merchant": "Milajo",
+  "resolved_name": "Milajó Casa de Amigos",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Libertad 2919, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://salimostour.com/lugares/libertad-2919-11300-montevideo-uruguay-milajo/"
+   }
+  ]
+ },
+ {
+  "id": 288,
+  "merchant": "Misushi",
+  "resolved_name": "Misushi MVD",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Ing. Luis Franzini 907 esq. Sarmiento, Buceo, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.facebook.com/misushimvd/"
+   }
+  ]
+ },
+ {
+  "id": 289,
+  "merchant": "Morelia",
+  "resolved_name": "Morelia Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Guipúzcoa 447 esq. Joaquín Núñez, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.morelia.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 290,
+  "merchant": "No tan Santos",
+  "resolved_name": "No Tan Santos Montevideo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Cambará 1614 esq. Otero, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://saliracomer.com/index.php/s/restaurant/7423"
+   }
+  ]
+ },
+ {
+  "id": 291,
+  "merchant": "Norimoto",
+  "resolved_name": "Norimoto Carrasco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Rivera esq. Costa Rica, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.uypress.net/Actualidad/Inauguracion-NORIMOTO-Carrasco-uc149206"
+   }
+  ]
+ },
+ {
+  "id": 292,
+  "merchant": "Nueva Malvín",
+  "resolved_name": "Nueva Malvín (panadería/rotisería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Malvín",
+    "address": "Hipólito Irigoyen 1419, Malvín, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.opina.com.uy/panaderia/nueva-malvin-montevideo_100200.php"
+   }
+  ]
+ },
+ {
+  "id": 293,
+  "merchant": "Obra",
+  "resolved_name": "Obra Multiespacio Gastronómico",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Gabriel Otero 6437 esq. Cambará, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.alacarta.com.uy/obra-cuatro-propuestas-en-un-mismo-espacio/"
+   }
+  ]
+ },
+ {
+  "id": 294,
+  "merchant": "Ola Poke",
+  "resolved_name": "Ola Poke",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercado Ferrando",
+    "address": "Chaná 2120, Cordón, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://salimos.uy/listado/ola-poke/"
+   }
+  ]
+ },
+ {
+  "id": 295,
+  "merchant": "Panini's",
+  "resolved_name": "Panini's Restaurante Italiano",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Bulevar 26 de Marzo 3586, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.restaurantepaninis.com/"
+   }
+  ]
+ },
+ {
+  "id": 296,
+  "merchant": "Pez Globo",
+  "resolved_name": "Pez Globo - Sushi & Salads",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Dr. Scoseria 2904, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.paginasamarillas.com.uy/compania/Montevideo+POCITOS/L104067/Pez+Globo+-+Sushi+&+Salads/"
+   }
+  ]
+ },
+ {
+  "id": 297,
+  "merchant": "Piso 40",
+  "resolved_name": "Restaurant Piso 40",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "WTC Torre 4",
+    "address": "Dr. Luis Bonavita 1266, Piso 40, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://piso40.org.uy/contacto/"
+   }
+  ]
+ },
+ {
+  "id": 298,
+  "merchant": "Polo Bamba",
+  "resolved_name": "Polo Bamba Café/Bar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Hotel Montevideo",
+    "address": "26 de Marzo 958, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://polobamba.com/cafe.html"
+   }
+  ]
+ },
+ {
+  "id": 299,
+  "merchant": "Pompier",
+  "resolved_name": "Pompier (Carrasco)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Rivera esq. Costa Rica (frente a Café Misterio), Carrasco, Montevideo, Uruguay",
+    "confidence": 0.35,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/el-nuevo-pompier-combina-tradicion-y-modernidad-en-carrasco/"
+   }
+  ]
+ },
+ {
+  "id": 300,
+  "merchant": "Quinquela",
+  "resolved_name": "Quinquela - Distrito El Globo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Rambla 25 de Agosto 296, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://elglobodistrict.com/quinquela/"
+   }
+  ]
+ },
+ {
+  "id": 301,
+  "merchant": "Rio",
+  "resolved_name": "Rio Café y Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6430, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://saliracomer.com/index.php/s/restaurant/7373"
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "merchant": "Rudy",
+  "resolved_name": "Rudy Burgers",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "26 de Marzo 3471, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://rudyburgers.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "merchant": "Sablée",
+  "resolved_name": "Sablée Pastelería Moderna",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Máximo Tajes 7165 esq. Nariño, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.facebook.com/sableepasteleriamoderna/"
+   }
+  ]
+ },
+ {
+  "id": 304,
+  "merchant": "Sanguche",
+  "resolved_name": "Sanguche",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Cordón",
+    "address": "Tristán Narvaja 1648 esq. Av. Uruguay, Cordón, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://infostyle.info/gastronomia/no-le-digan-sandwich-es-sanguche-y-llego-a-la-esquina-mas-transitada-los-domingos-en-el-centro-de-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 305,
+  "merchant": "Silver Cantina",
+  "resolved_name": "Silver Cantina",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Jaime Zudañez 2733, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.facebook.com/61566397989438"
+   }
+  ]
+ },
+ {
+  "id": 306,
+  "merchant": "St. Germain",
+  "resolved_name": "Saint Germain Boulangerie",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Gral. Oscar Gestido 2805, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://saintgermain.uy/pages/locales"
+   }
+  ]
+ },
+ {
+  "id": 307,
+  "merchant": "Sushi Club",
+  "resolved_name": "SushiClub",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Ellauri 397, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://argentina.ladevi.info/sushiclub/sushiclub-apertura-uruguay-y-expansion-america-latina-n30282"
+   }
+  ]
+ },
+ {
+  "id": 308,
+  "merchant": "Sushi Wok Perú",
+  "resolved_name": "Sushi Wok Perú",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Manuel Vicente Pagola 3247, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.sushiwokperu.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 309,
+  "merchant": "Tandory",
+  "resolved_name": "Tandory Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Libertad 2851 esq. Masini, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tandory.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 310,
+  "merchant": "Tintos y Rubias",
+  "resolved_name": "Tintos & Rubias Parrillada",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Bolivia 1505 esq. Pablo Podestá, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.opina.com.uy/parrilla/montevideo/tintos-y-rubias-montevideo_36130.php"
+   }
+  ]
+ },
+ {
+  "id": 311,
+  "merchant": "Tomás",
+  "resolved_name": "Tomás Restaurant (Hotel SORO)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "SORO Curio Collection by Hilton",
+    "address": "Federico Abadie 2912, Buceo, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.sluurpy.com/montevideo/restaurante/10620650/tomas-restaurant"
+   }
+  ]
+ },
+ {
+  "id": 312,
+  "merchant": "Trouville",
+  "resolved_name": "Trouville Pizza & Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Francisco Vidal 650, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/pizzeria-trouville-358542"
+   }
+  ]
+ },
+ {
+  "id": 313,
+  "merchant": "Tsubo",
+  "resolved_name": "Tsubo Cafetería Asiática",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Juan Benito Blanco 708 bis esq. Solano Antuña, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://infonegocios.biz/plus/tsubo-el-bar-asiatico-que-marco-tendencia-en-montevideo-y-proyecta-abrir-en-carrasco-en-2026"
+   }
+  ]
+ },
+ {
+  "id": 314,
+  "merchant": "Varela Zarranz",
+  "resolved_name": "Bodega Viña Varela Zarranz",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Bodega",
+    "address": "Ruta 74 Km 29, Joaquín Suárez, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.varelazarranz.com/contacto/?lang=en"
+   }
+  ]
+ }
+]

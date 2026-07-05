@@ -1,0 +1,616 @@
+[
+ {
+  "id": 514,
+  "merchant": "ArhoOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Arho"
+   }
+  ]
+ },
+ {
+  "id": 515,
+  "merchant": "MiBellezaOCA",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas con tarjetas de crédito en Mi Belleza"
+   }
+  ]
+ },
+ {
+  "id": 516,
+  "merchant": "MetrosX3conOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Multiplicá tus Metros X3 en todas tus compras, pagando con la App OCA"
+   }
+  ]
+ },
+ {
+  "id": 518,
+  "merchant": "DiaDelNinoOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Llega el día del niño y con tus tarjetas de crédito OCA tenés descuentos y 12 cuotas*, para regalarle lo que quieras! Del 11 al 17 de agost"
+   }
+  ]
+ },
+ {
+  "id": 519,
+  "merchant": "HomeopatiaAlemanaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. los viernes con tarjetas de crédito en Homeopatía Alemana"
+   }
+  ]
+ },
+ {
+  "id": 520,
+  "merchant": "VacacionesPorElMundoConVISA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Promociones para disfrutar en tus próximas vacaciones por el mundo con tarjetas de crédito VISA"
+   }
+  ]
+ },
+ {
+  "id": 521,
+  "merchant": "DesembolsodeEmergenciaVISA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Desembolso de efectivo de emergencia con tarjetas de crédito VISA"
+   }
+  ]
+ },
+ {
+  "id": 522,
+  "merchant": "RemplazodeTarjetasVISA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Servicio de reemplazo de tarjetas de crédito VISA"
+   }
+  ]
+ },
+ {
+  "id": 523,
+  "merchant": "ProtecciondeprecioVISA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Cobertura de Protección de Precio con tarjetas de crédito VISA"
+   }
+  ]
+ },
+ {
+  "id": 524,
+  "merchant": "3y6CuotasExterior",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "3 y 6 cuotas en todo el mundo + 0% de comisión en Argentina, Brasil y Chile con tarjetas de crédito."
+   }
+  ]
+ },
+ {
+  "id": 525,
+  "merchant": "BuquebusOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "25% + 10% de dto. y 12 cuotas* en pasajes y bodegas con tarjetas de crédito en Buquebus"
+   }
+  ]
+ },
+ {
+  "id": 526,
+  "merchant": "MercadoLibreFiestasOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas con tarjetas de crédito* en Mercado Libre"
+   }
+  ]
+ },
+ {
+  "id": 527,
+  "merchant": "GelateríaDelClubOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves en Gelatería del Club pagando con tarjeta de crédito."
+   }
+  ]
+ },
+ {
+  "id": 528,
+  "merchant": "KentuckyOCA",
+  "category": "entretenimiento",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves en Kentucky pagando con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 529,
+  "merchant": "ElClubdelaPapaFritaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. de lunes a jueves en El Club de la Papa Frita pagando con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 530,
+  "merchant": "DisneyOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% dto. en tu suscripción a Disney+ con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 531,
+  "merchant": "H&MOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. todos los miércoles con tarjetas de crédito Mastercard en H&M"
+   }
+  ]
+ },
+ {
+  "id": 532,
+  "merchant": "MercadoLibreOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de descuento todos los miércoles en Supermercado Mercado Libre con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 533,
+  "merchant": "MundoColorOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Mundocolor"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Mundo Color"
+   }
+  ]
+ },
+ {
+  "id": 534,
+  "merchant": "IngenieroTugentmanOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. todos los días + 12 cuotas* con tarjetas de crédito en Ingeniero Tugentman"
+   }
+  ]
+ },
+ {
+  "id": 535,
+  "merchant": "ViaConfortOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Vía Confort"
+   }
+  ]
+ },
+ {
+  "id": 536,
+  "merchant": "RecargasX3ClaroOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Triplicá tus recargas Claro, con OCA Blue, tarjetas de crédito OCA y con Metros."
+   }
+  ]
+ },
+ {
+  "id": 537,
+  "merchant": "PreBlackFriday",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 años!"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Abrí tu cuenta OCA Blue con 20% de dto en tus compras + 2.000 Metros y pedí tu tarjeta de crédito Mastercard o Visa de OCA gratis por 2 año"
+   }
+  ]
+ },
+ {
+  "id": 538,
+  "merchant": "OCAFiestas",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pedí tu tarjeta de crédito, cuenta OCA Blue, préstamos y seguros, y preparate para estas Fiestas"
+   }
+  ]
+ },
+ {
+  "id": 539,
+  "merchant": "TiendaInglesaOCA",
+  "category": "supermercado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. todos los jueves con tarjeta de crédito Mastercard en Tienda Inglesa"
+   }
+  ]
+ },
+ {
+  "id": 540,
+  "merchant": "TransferenciasTc",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Transferí dinero desde tu tarjeta de crédito a tu OCA Blue o cualquier institución financiera"
+   }
+  ]
+ },
+ {
+  "id": 542,
+  "merchant": "DitricompVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Districomp"
+   }
+  ]
+ },
+ {
+  "id": 543,
+  "merchant": "ForumVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Forum"
+   }
+  ]
+ },
+ {
+  "id": 544,
+  "merchant": "HeringVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Hering"
+   }
+  ]
+ },
+ {
+  "id": 545,
+  "merchant": "PepposVueltaAclasesOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas* con tarjetas de crédito en Peppos"
+   }
+  ]
+ }
+]

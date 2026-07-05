@@ -1,0 +1,445 @@
+[
+ {
+  "id": 82,
+  "merchant": "Amadeus",
+  "resolved_name": "Amadeus (tienda multimarca masculina - Kevingston, El Ganso, Blue Banana, Brixton)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri esq. Montero, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://amadeuspde.com.uy/tiendas/amadeus-montevideo_2"
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "merchant": "Amén Shoes",
+  "resolved_name": "Amén Shoes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Showroom Punta Carretas",
+    "address": "Solano García 2454, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://amenshop.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "merchant": "Araliz",
+  "resolved_name": "Araliz (lencería y ropa interior)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Zelmar Michelini 1287, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.araliz.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "merchant": "Baby City",
+  "resolved_name": "Baby City",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Punta Carretas",
+    "address": "Solano García 2529, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.babycity.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "merchant": "Ballon",
+  "resolved_name": "Ballon (tienda para bebés y niños)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Carrasco",
+    "address": "Solano Antuña 2711 bis, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.clubelpais.com.uy/ninos/ballon-2/"
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "merchant": "Be Ganesha",
+  "resolved_name": "Be Ganesha",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Solano García 2476, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.beganesha.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "merchant": "Benson And Thomas",
+  "resolved_name": "Benson & Thomas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, local 5103/5104, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://shop.bensonandthomas.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "merchant": "Black",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 90,
+  "merchant": "Blue glass",
+  "resolved_name": "Blue Glass (ex Casa Peñalba, ropa masculina)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Salto",
+    "address": "Uruguay 1040, Salto, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://1122.com.uy/local/blue-glass/LOC515210001"
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "merchant": "Brooksfield",
+  "resolved_name": "Brooksfield",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, local 210, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://brooksfield.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "merchant": "Bubba",
+  "resolved_name": "Bubba (mochilas, carteras y accesorios)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, local 122, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://bubbauruguay.com/pages/contact"
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "merchant": "Cantegrill Joyas",
+  "resolved_name": "Cantegrill Joyas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (no se halló sucursal confirmada en Punta del Este pese al hint)",
+    "address": "Wilson Ferreira Aldunate 1330, Centro, Montevideo, Uruguay",
+    "confidence": 0.4,
+    "source_url": "https://shop.cantegrilljoyas.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "merchant": "Caro Criado",
+  "resolved_name": "Caro Criado (ropa femenina)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Solano García 2487, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://1122.com.uy/local/caro-criado/LOC485070002"
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "merchant": "CAT",
+  "resolved_name": "CAT Lifestyle (Caterpillar - calzado)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Centro",
+    "address": "18 de Julio 935, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.yoper.com.uy/tiendas/cat/sucursales/contacts?shop=136"
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "merchant": "Clary Sage",
+  "resolved_name": "Clary Sage (indumentaria femenina)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Sarandí 362, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.clarysage.com.uy/la-empresa"
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "merchant": "Club House",
+  "resolved_name": "Club House",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, local T2BN2, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.clubhouse.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "merchant": "Cuatroases",
+  "resolved_name": "Cuatroases (indumentaria masculina)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Centro (Universidad)",
+    "address": "Av. 18 de Julio 1797, Centro, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://cuatroases.com.uy/nuestras-tiendas"
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "merchant": "D House",
+  "resolved_name": "D House (tienda multimarca)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Malvín",
+    "address": "Av. Italia 4348, Malvín, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.forus.uy/tiendas/dhouse-malvin_1"
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "merchant": "Don Baez",
+  "resolved_name": "Don Baez (lana sostenible)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 514 esq. Montero, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/don-baez/LOC565830001"
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "merchant": "El Volcán",
+  "resolved_name": "El Volcán (tienda de ropa, fundada 1954 en Mercedes)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Punta Carretas (Montevideo)",
+    "address": "Solano García 2494, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://infonegocios.biz/default/el-volcan-la-tienda-que-se-reinventa-a-sus-65-anos"
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "merchant": "Estela Jinchuk",
+  "resolved_name": "Óptica Estela Jinchuk",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Sarmiento 2494 esq. Franzini, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://opticaestelajinchuk.com/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "merchant": "Fahoma",
+  "resolved_name": "Fahoma (bijouterie de diseño)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Carrasco",
+    "address": "Joaquín Núñez 2910, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://fahomauy.com/"
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "merchant": "GAP",
+  "resolved_name": "GAP Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://gap.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "merchant": "Garnié",
+  "resolved_name": "Garnié (carteras, calzado y accesorios de cuero)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Principal",
+    "address": "Juan Carlos Gómez 1386, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.garnie.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "merchant": "Gladys T",
+  "resolved_name": "Gladys T (vestidos de fiesta y novia)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Principal",
+    "address": "Bulevar España 2840, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://gladyst.com/"
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "merchant": "Hush Puppies Kids",
+  "resolved_name": "Hush Puppies Kids",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, local 248, Malvín Norte, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://1122.com.uy/local/hush-puppies-kids/LOC517090002"
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "merchant": "Joyería Revello",
+  "resolved_name": "Joyería Revello",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, local 239, Malvín Norte, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.joyeriarevello.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "merchant": "Kokino",
+  "resolved_name": "Kókino (concept store familiar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Carrasco",
+    "address": "Líbano 1491, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://kokino.uy/"
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "merchant": "La Dolfina",
+  "resolved_name": "La Dolfina Polo Lifestyle",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis A. de Herrera 1290, local 215, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://ladolfinapolo.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "merchant": "Lanka",
+  "resolved_name": "Lanka (calzado femenino de cuero)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Carrasco",
+    "address": "Arocena 1691, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://lanka.com.uy/"
+   }
+  ]
+ }
+]

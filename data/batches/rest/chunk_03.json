@@ -1,0 +1,602 @@
+[
+ {
+  "id": 112,
+  "merchant": "Limite",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "merchant": "Ludovic",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "merchant": "M Concept",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "merchant": "Magnolia",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "merchant": "Mandinga",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "merchant": "Manos del Uruguay",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "merchant": "Margara Shaw",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "merchant": "María Cher",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "merchant": "Marina Nature",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "merchant": "Mistral",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "merchant": "Natalia Antolin",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "merchant": "NC Joyas",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 124,
+  "merchant": "Óptica Garese",
+  "category": "salud",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "25%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "merchant": "Panthai",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 126,
+  "merchant": "Pasqualini",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "merchant": "Pattytas",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 128,
+  "merchant": "Pecarí",
+  "category": "calzado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "merchant": "Petra",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "merchant": "Petrichor",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "merchant": "Polanco",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "merchant": "Pompeya joyas",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "merchant": "Puro Punto",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "merchant": "Rockford",
+  "category": "calzado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "merchant": "Rodwil",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "merchant": "Samsonite",
+  "category": "moda",
+  "city": null,
+  "address_hint": "también figura en Turismo",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "merchant": "Shift",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "merchant": "Srta. Peel",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "merchant": "Under Armour",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "merchant": "Uniform & Co",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "merchant": "Urban Haus",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ }
+]

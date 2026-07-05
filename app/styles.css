@@ -1,0 +1,104 @@
+:root {
+  --bg: #0f1115;
+  --surface: #1a1d24;
+  --surface-2: #242832;
+  --text: #e8eaed;
+  --muted: #9aa0aa;
+  --accent: #4f8cff;
+  --border: #2c313c;
+  --santander: #ec0000;
+  --itau: #ff7a00;
+  --oca: #0072ce;
+  --clubelpais: #16a34a;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; height: 100%; }
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg); color: var(--text);
+  display: flex; flex-direction: column; height: 100dvh; overflow: hidden;
+}
+
+/* Topbar */
+#topbar {
+  background: var(--surface); padding: 10px 12px calc(8px);
+  border-bottom: 1px solid var(--border); z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,.3);
+}
+.title-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+#topbar h1 { font-size: 17px; margin: 0; font-weight: 700; letter-spacing: .2px; }
+#filterBtn {
+  background: var(--surface-2); color: var(--text); border: 1px solid var(--border);
+  border-radius: 999px; padding: 7px 14px; font-size: 14px; font-weight: 600; cursor: pointer;
+}
+#search {
+  width: 100%; margin-top: 8px; padding: 10px 12px; font-size: 15px;
+  background: var(--surface-2); border: 1px solid var(--border); border-radius: 10px; color: var(--text);
+}
+#search::placeholder { color: var(--muted); }
+
+/* Chips activos */
+.chips { display: flex; gap: 6px; margin-top: 8px; overflow-x: auto; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: 0 0 auto; font-size: 12px; padding: 5px 10px; border-radius: 999px;
+  background: var(--surface-2); border: 1px solid var(--border); color: var(--muted);
+  white-space: nowrap; cursor: pointer;
+}
+.chip.active { color: #fff; border-color: transparent; }
+
+/* Map */
+#map { flex: 1; width: 100%; background: #0b0d10; z-index: 1; }
+
+/* Count pill */
+.count-pill {
+  position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: calc(16px + var(--safe-bottom)); z-index: 900;
+  background: var(--surface); border: 1px solid var(--border); color: var(--text);
+  padding: 8px 16px; border-radius: 999px; font-size: 13px; font-weight: 600;
+  box-shadow: 0 4px 16px rgba(0,0,0,.4);
+}
+
+/* Popup */
+.leaflet-popup-content-wrapper { background: var(--surface); color: var(--text); border-radius: 12px; }
+.leaflet-popup-tip { background: var(--surface); }
+.leaflet-popup-content { margin: 12px 14px; font-size: 14px; line-height: 1.35; }
+.pop-name { font-size: 16px; font-weight: 700; margin: 0 0 2px; }
+.pop-meta { font-size: 12px; color: var(--muted); margin-bottom: 8px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.pop-badge { font-size: 11px; padding: 2px 7px; border-radius: 6px; background: var(--surface-2); }
+.pop-benefit { border-top: 1px solid var(--border); padding: 7px 0; }
+.pop-benefit:last-child { padding-bottom: 0; }
+.pb-head { display: flex; align-items: center; gap: 6px; }
+.pb-dot { width: 9px; height: 9px; border-radius: 50%; flex: 0 0 auto; }
+.pb-provider { font-weight: 700; font-size: 13px; }
+.pb-amount { margin-left: auto; font-weight: 800; font-size: 15px; }
+.pb-detail { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+/* Bottom sheet */
+#sheetOverlay { position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 1500; }
+#sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 1600;
+  background: var(--surface); border-radius: 18px 18px 0 0; padding: 8px 18px calc(20px + var(--safe-bottom));
+  max-height: 82dvh; overflow-y: auto; box-shadow: 0 -6px 30px rgba(0,0,0,.5);
+}
+.sheet-handle { width: 40px; height: 4px; border-radius: 999px; background: var(--border); margin: 6px auto 12px; }
+#sheet h2 { margin: 0 0 12px; font-size: 18px; }
+#sheet h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .5px; color: var(--muted); margin: 16px 0 8px; }
+.filter-group { display: flex; flex-wrap: wrap; gap: 8px; }
+.filter-opt {
+  padding: 8px 14px; border-radius: 10px; background: var(--surface-2);
+  border: 1px solid var(--border); font-size: 14px; cursor: pointer; user-select: none;
+}
+.filter-opt.on { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 22%, var(--surface-2)); color: #fff; }
+.sheet-actions { display: flex; gap: 10px; margin-top: 22px; }
+.btn-primary, .btn-secondary {
+  flex: 1; padding: 13px; border-radius: 12px; font-size: 15px; font-weight: 700; cursor: pointer; border: none;
+}
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-secondary { background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
+.hidden { display: none !important; }
+
+/* Cluster + markers legibility on dark map */
+.leaflet-container { background: #0b0d10; }

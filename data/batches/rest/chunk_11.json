@@ -1,0 +1,679 @@
+[
+ {
+  "id": 405,
+  "merchant": "Jefris",
+  "category": "gastronomia",
+  "city": "Salto",
+  "address_hint": "Salto",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Salto"
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "merchant": "La Estación",
+  "category": "gastronomia",
+  "city": "Salto",
+  "address_hint": "Salto",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Salto"
+   }
+  ]
+ },
+ {
+  "id": 407,
+  "merchant": "IPlaceOCA",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "24 cuotas en pesos y en dólares pagando con tarjetas de crédito Mastercard en IPlace"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "24 cuotas - 1 (Última cuota gratis) con tarjetas de crédito Mastercard en iPlace"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Con todas tus compras en iPlace 🙂"
+   }
+  ]
+ },
+ {
+  "id": 408,
+  "merchant": "MacroMercado",
+  "category": "supermercado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Accedé a la mejor escala de precios del Macro"
+   }
+  ]
+ },
+ {
+  "id": 409,
+  "merchant": "3CuotasEnElExterior",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "3 cuotas en el exterior"
+   }
+  ]
+ },
+ {
+  "id": 410,
+  "merchant": "ElectroventasOCA",
+  "category": "tecnologia",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Electroventas"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de descuento en seleccionados de Electroventas + 12 cuotas* con tarjetas de crédito"
+   }
+  ]
+ },
+ {
+  "id": 413,
+  "merchant": "Ferreterias",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + Metros dobles en Ferreterías"
+   }
+  ]
+ },
+ {
+  "id": 416,
+  "merchant": "BeneficioChajáconTCyBlue",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. con tarjetas de crédito en Chajá"
+   }
+  ]
+ },
+ {
+  "id": 417,
+  "merchant": "Metros",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Presentá un amigo y ganá 2.000 Metros"
+   }
+  ]
+ },
+ {
+  "id": 419,
+  "merchant": "12cuotasOCAMastercard",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "12 cuotas con tarjetas de crédito Mastercard"
+   }
+  ]
+ },
+ {
+  "id": 420,
+  "merchant": "Telepeaje",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Hacé el débito de Telepeaje Y llevá el TAG de regalo"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Hacé el débito de Telepeaje y llevá el TAG de regalo"
+   }
+  ]
+ },
+ {
+  "id": 421,
+  "merchant": "PagaLaPatenteConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Pagá la patente en hasta 6 cuotas + 20% de dto. con tu tarjeta de crédito Mastercard y Visa de OCA"
+   }
+  ]
+ },
+ {
+  "id": 423,
+  "merchant": "LOiVueltaAclasesOCA",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en LOi"
+   }
+  ]
+ },
+ {
+  "id": 424,
+  "merchant": "DiasOCAdeLaModa",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": ""
+   }
+  ]
+ },
+ {
+  "id": 426,
+  "merchant": "OCAInca",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto. + 12 cuotas con tarjetas de crédito Mastercard en Inca"
+   }
+  ]
+ },
+ {
+  "id": 427,
+  "merchant": "EstudiaConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Desde el 19/2/24"
+   }
+  ]
+ },
+ {
+  "id": 428,
+  "merchant": "ViernesDeInteriorconBeneficios",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Todos los viernes de noviembre en comercios seleccionados de interior del país."
+   }
+  ]
+ },
+ {
+  "id": 429,
+  "merchant": "CiberlunesConOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "¡Nos sumamos a CIBERLUNES del 1 al 8 de junio!"
+   }
+  ]
+ },
+ {
+  "id": 430,
+  "merchant": "Volvieronlas12cuotas",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Válido en comercios participantes"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Comprá todo lo que querés con OCA en 12 cuotas"
+   }
+  ]
+ },
+ {
+  "id": 431,
+  "merchant": "DebitosPublicosOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "2.000 Metros de regalo por cada nueva adhesión a débito automático de instituciones públicas ¡Además, generás Metros adicionales todos los m"
+   }
+  ]
+ },
+ {
+  "id": 432,
+  "merchant": "30dtoDirectvGO",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de descuento por 3 meses en DGO Full"
+   }
+  ]
+ },
+ {
+  "id": 433,
+  "merchant": "OCAJuanConstruye",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "30% de dto. con tarjetas de crédito + 12 cuotas* en Juan Construye"
+   }
+  ]
+ },
+ {
+  "id": 434,
+  "merchant": "EmporioDelHogarOCA",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Metros X3 en todas tus compras en El Emporio del Hogar"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Emporio del Hogar"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Emporio del Hogar"
+   }
+  ]
+ },
+ {
+  "id": 436,
+  "merchant": "PromoMundial",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Promo mundial"
+   }
+  ]
+ },
+ {
+  "id": 437,
+  "merchant": "HeladosConaproleTata",
+  "category": "supermercado",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "20% de dto comprando Helados Conaprole en Supermercados TATA"
+   }
+  ]
+ },
+ {
+  "id": 438,
+  "merchant": "DivinoFiestasOCA",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "10% de dto. + 12 cuotas* con tarjetas de crédito en Divino"
+   }
+  ]
+ },
+ {
+  "id": 440,
+  "merchant": "FlorDeSemanaOCA",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Toda una semana con flor de beneficios"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Toda una semana con flor de beneficios"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Toda una semana con flor de beneficios"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Toda una semana con flor de beneficios"
+   }
+  ]
+ },
+ {
+  "id": 441,
+  "merchant": "ColeccionablesTaTa",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Términos y Condiciones de la promoción \"Coleccionables Ta-Ta\""
+   }
+  ]
+ },
+ {
+  "id": 443,
+  "merchant": "FlorDeDia",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Solicitá tu tarjeta de crédito y tu cuenta OCA Blue con flor de beneficios"
+   }
+  ]
+ },
+ {
+  "id": 444,
+  "merchant": "SorteoConmebolLibertadores",
+  "category": "otros",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "OCA"
+  ],
+  "benefits": [
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Ganate una entrada doble + Previa con Picada"
+   },
+   {
+    "provider": "OCA",
+    "product": "crédito/débito",
+    "amount": null,
+    "days": null,
+    "conditions": "Ganate una entrada doble"
+   }
+  ]
+ }
+]

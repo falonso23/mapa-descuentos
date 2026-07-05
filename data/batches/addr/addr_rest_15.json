@@ -1,0 +1,333 @@
+[
+ {
+  "id": 546,
+  "merchant": "StadiumVueltaAclasesOCA",
+  "resolved_name": "Stadium",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 1061, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.stadium.com.uy/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 547,
+  "merchant": "StadiumSportVueltaAclasesOCA",
+  "resolved_name": "Stadium Sport",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Paso Molino",
+    "address": "Av. Agraciada 4097, Paso Molino, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.stadiumsport.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 548,
+  "merchant": "TimeOutVueltaAclasesOCA",
+  "resolved_name": "Time Out",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Intendencia",
+    "address": "18 de Julio 1405 esq. Germán Barbato, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.timeout.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 549,
+  "merchant": "UmbroVueltaAclasesOCA",
+  "resolved_name": "Umbro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Bulevar Artigas y Luis Alberto de Herrera, Nuevocentro Shopping, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://nuevocentroshopping.com.uy/wt_fc_local/umbro/"
+   }
+  ]
+ },
+ {
+  "id": 550,
+  "merchant": "LibreriaPochoOCA",
+  "resolved_name": "Librería Pocho",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central - La Blanqueada",
+    "address": "Av. 8 de Octubre 3172, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.libreriapocho.com.uy/pages/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 551,
+  "merchant": "BoomerangVueltaAclasesOCA",
+  "resolved_name": "Boomerang",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Solano García 2525, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://boomerang.uy/tiendas/casa-central_1"
+   }
+  ]
+ },
+ {
+  "id": 552,
+  "merchant": "UnishopVueltaAclasesOCA",
+  "resolved_name": "Unishop",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Unión",
+    "address": "Av. 8 de Octubre 3907, Unión, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.latinoplaces.com/montevideo/unishop-951392"
+   }
+  ]
+ },
+ {
+  "id": 553,
+  "merchant": "PromoCarnaval",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 554,
+  "merchant": "TodoSumaMetros",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 555,
+  "merchant": "LapiedadentradasconOCA",
+  "resolved_name": "La Piedad (espectáculo/entradas)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 556,
+  "merchant": "EnotraspalabrasentradasconOCA",
+  "resolved_name": "En otras palabras (espectáculo/entradas)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 557,
+  "merchant": "DisaOCA",
+  "resolved_name": "DISA",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Estación Gabriel Pereira",
+    "address": "Gabriel Pereira 2708, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.waze.com/es-419/live-map/directions/estacion-de-servicio-disa-gabriel-pereira-2708-montevideo"
+   }
+  ]
+ },
+ {
+  "id": 558,
+  "merchant": "espectaculosOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 559,
+  "merchant": "Recargasx2conMovistar",
+  "resolved_name": "Movistar (recargas, sin local físico asociado)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 561,
+  "merchant": "PedidosYaMarketOCA",
+  "resolved_name": "PedidosYa Market",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 564,
+  "merchant": "AsistenciaGlobalOCAMaster",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 565,
+  "merchant": "ProteccionDeCompraOCAMaster",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 566,
+  "merchant": "OCABluePromoJunio",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 567,
+  "merchant": "masterlibertadores",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 568,
+  "merchant": "McDonaldsOCAMastercard",
+  "resolved_name": "McDonald's",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "8 de Octubre",
+    "address": "Av. 8 de Octubre 3395, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo"
+   }
+  ]
+ },
+ {
+  "id": 569,
+  "merchant": "WooferFiestasOCA",
+  "resolved_name": "Woofer",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local Centro (Minorista - Pick up - Outlet)",
+    "address": "Soriano 1099, Centro, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://woofer.com.uy/tiendas/local-centro-minorista-pick-up-outlet_1"
+   }
+  ]
+ },
+ {
+  "id": 570,
+  "merchant": "WislyOCA",
+  "resolved_name": "Wisly (muebles, tienda online)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 572,
+  "merchant": "12CuotasAnualesOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 574,
+  "merchant": "CasaPracticaOCA",
+  "resolved_name": "Casa Práctica",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ejido",
+    "address": "Ejido 1417, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.opina.com.uy/tienda-de-articulos-para-el-hogar/11100-montevideo/casa-practica-11100-montevideo_702924.php"
+   }
+  ]
+ },
+ {
+  "id": 575,
+  "merchant": "PagáConelCelularOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 576,
+  "merchant": "ZanettiOCA",
+  "resolved_name": "Zanetti",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Colonia 917, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.zanetti.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 577,
+  "merchant": "AmazonOCA",
+  "resolved_name": "Amazon (sin local físico en Uruguay)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 579,
+  "merchant": "MacroYmicromercadoOCAMastercard",
+  "resolved_name": "Macromercado",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "San Martín",
+    "address": "San Martín 3222, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.macromercado.com.uy/sucursales/"
+   }
+  ]
+ },
+ {
+  "id": 580,
+  "merchant": "PromoBlue",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 582,
+  "merchant": "RetiroEfectivo",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

@@ -1,0 +1,368 @@
+[
+ {
+  "id": 445,
+  "merchant": "AprovechateconOCAsumachancesygana",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 446,
+  "merchant": "CartoonsOCA",
+  "resolved_name": "Cartoons",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2554, Aguada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.cartoons.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 447,
+  "merchant": "BeneficioSecuritas",
+  "resolved_name": "Securitas Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede Central",
+    "address": "Avenida Italia 4492, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.securitasuruguay.com/contacto-y-soporte/oficinas/"
+   }
+  ]
+ },
+ {
+  "id": 448,
+  "merchant": "PromoKroser",
+  "resolved_name": "Kroser",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Kroser Centro",
+    "address": "San José 1009, Centro, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.kroser.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 449,
+  "merchant": "KroserOCA",
+  "resolved_name": "Kroser",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Kroser Castelmar",
+    "address": "Bv. José Batlle y Ordóñez 3393, Buceo, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.kroser.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 450,
+  "merchant": "DisaLitoral",
+  "resolved_name": "DISA (estaciones de servicio)",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 452,
+  "merchant": "AprovechateBelaSemanaAniversario",
+  "resolved_name": "Bela (Pañalera y Perfumería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Fernández Crespo",
+    "address": "Fernández Crespo 1696 esq. Av. Uruguay, Centro, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.bela.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 454,
+  "merchant": "DiasOCAdelHogar",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 455,
+  "merchant": "BeneficioMundoagua",
+  "resolved_name": "Mundo Agua (purificadores)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Cipriano Payán 3020 esq. Mac Eachen, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://mundoagua.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 456,
+  "merchant": "Jetmar12cuotasConOCA",
+  "resolved_name": "Jetmar Viajes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Centro",
+    "address": "18 de Julio 898, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.smartservices.uy/agencia-de-viajes/montevideo/jetmar-viajes-centro-montevideo_291975.php"
+   }
+  ]
+ },
+ {
+  "id": 457,
+  "merchant": "Buemes12cuotasConOCA",
+  "resolved_name": "Buemes Viajes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Colonia 979, Centro, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://uy.latinoplaces.com/montevideo/viajes-buemes-238610"
+   }
+  ]
+ },
+ {
+  "id": 459,
+  "merchant": "BeneficioNFC",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 460,
+  "merchant": "BasVueltaAclasesOCA",
+  "resolved_name": "Bas (Basic & Simple, papelería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Avda. Italia 4112, Buceo, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.bas.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 461,
+  "merchant": "AprovechateConMotorola",
+  "resolved_name": "Motorola (tienda oficial)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Flagship Store",
+    "address": "Avenida 18 de Julio 951 esq. Río Branco, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://infonegocios.biz/nota-principal/motorola-inaugura-su-primera-tienda-fisica-en-uruguay"
+   }
+  ]
+ },
+ {
+  "id": 462,
+  "merchant": "TelepeajeConOCA",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 463,
+  "merchant": "CartoonsVueltaAclasesOCA",
+  "resolved_name": "Cartoons",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2554, Aguada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.cartoons.com.uy/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 464,
+  "merchant": "LaNuevaRoma",
+  "resolved_name": "Heladería La Nueva Roma",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Reducto",
+    "address": "Vilardebó 1581, Reducto, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.foodyas.com/UY/Montevideo/400865649977566/Heladeria-La-Nueva-Roma"
+   }
+  ]
+ },
+ {
+  "id": 465,
+  "merchant": "Ichef",
+  "resolved_name": "iChef Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina/Local",
+    "address": "Río Negro 1201, Centro, Montevideo, Uruguay",
+    "confidence": 0.4,
+    "source_url": "https://www.zoominfo.com/pic/ichef-uruguay/1314915141"
+   }
+  ]
+ },
+ {
+  "id": 466,
+  "merchant": "MovistarOCA",
+  "resolved_name": "Movistar Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José L. Terra",
+    "address": "José L. Terra 2220, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://ahorrar.com.uy/gastar-menos/sucursales-de-movistar-en-montevideo/"
+   }
+  ]
+ },
+ {
+  "id": 467,
+  "merchant": "FarmacityOCAMastercard",
+  "resolved_name": "Farmacity",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Av. Italia",
+    "address": "Av. Italia 3250, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.farmacity.com.uy/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 468,
+  "merchant": "CabifyOCA",
+  "resolved_name": "Cabify",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 469,
+  "merchant": "6cuotasArgentinaBrasilEstadosUnidos",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 470,
+  "merchant": "10menosconOCAenMundocolor",
+  "resolved_name": "Mundocolor Pinturas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (Aguada)",
+    "address": "Miguelete 1622, Aguada, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://1122.com.uy/local/mundocolor/LOC200580001"
+   }
+  ]
+ },
+ {
+  "id": 471,
+  "merchant": "VuelvenLasClases",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 472,
+  "merchant": "3milMetrosregalo",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 473,
+  "merchant": "SemanaDeDescuentosEnLaWeb",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 474,
+  "merchant": "20dtoenprimeracompra",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 475,
+  "merchant": "5milMetrosregalo",
+  "resolved_name": null,
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 476,
+  "merchant": "OpticaFloridaOCA",
+  "resolved_name": "Óptica Florida",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina Central",
+    "address": "Juan Paullier 1769, Cordón, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.opticaflorida.com.uy/contacto"
+   }
+  ]
+ },
+ {
+  "id": 477,
+  "merchant": "OpticaFloridaVueltaAclasesOCA",
+  "resolved_name": "Óptica Florida",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina Central",
+    "address": "Juan Paullier 1769, Cordón, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.opticaflorida.com.uy/contacto"
+   }
+  ]
+ }
+]

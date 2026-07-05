@@ -1,0 +1,644 @@
+[
+ {
+  "id": 315,
+  "merchant": "Vela",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 316,
+  "merchant": "Bacan",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 317,
+  "merchant": "Belvedere Bakery",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 318,
+  "merchant": "DeGuarda",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 319,
+  "merchant": "Del Campo",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 320,
+  "merchant": "Gourmeat Carrasco",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 321,
+  "merchant": "Gourmeat Market",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 322,
+  "merchant": "Mar Austral",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 323,
+  "merchant": "Mercado Verde",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 324,
+  "merchant": "Say Cheese",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 325,
+  "merchant": "Sofía Dulce Sofía",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 326,
+  "merchant": "Vinos del Mundo",
+  "category": "gastronomia",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Colonia"
+   }
+  ]
+ },
+ {
+  "id": 327,
+  "merchant": "El Virrey",
+  "category": "otros",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 328,
+  "merchant": "Escaramuza Libros",
+  "category": "otros",
+  "city": "Montevideo",
+  "address_hint": "Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Montevideo"
+   }
+  ]
+ },
+ {
+  "id": 329,
+  "merchant": "Abstrakto",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 330,
+  "merchant": "Almacén de Campo",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 331,
+  "merchant": "Antonino",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 332,
+  "merchant": "Atrevida",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 333,
+  "merchant": "Betty's",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 334,
+  "merchant": "Bigote",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 335,
+  "merchant": "Blend (Enjoy)",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 336,
+  "merchant": "Brote",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 337,
+  "merchant": "Bungalow Suizo - Café",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 338,
+  "merchant": "Cactus y Pescados",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 339,
+  "merchant": "Café El Tesoro",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 340,
+  "merchant": "Casa Astigarraga",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 341,
+  "merchant": "Casa Proa",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 342,
+  "merchant": "Casa Vilaró",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 343,
+  "merchant": "Club de los Balleneros",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ },
+ {
+  "id": 344,
+  "merchant": "Cofre Café",
+  "category": "gastronomia",
+  "city": "Punta del Este",
+  "address_hint": "Punta del Este",
+  "es_cadena": false,
+  "providers": [
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Itaú",
+    "product": "crédito Itaú + débito Volar + débito Junior",
+    "amount": "15%",
+    "days": "todos los días",
+    "conditions": "Programa restaurantes Punta del Este"
+   }
+  ]
+ }
+]

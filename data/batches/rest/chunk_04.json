@@ -1,0 +1,610 @@
+[
+ {
+  "id": 142,
+  "merchant": "Urban Haus Kids",
+  "category": "ninos",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "merchant": "VDamiani",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "merchant": "Veroca Joyas",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "merchant": "Vichi Bijou",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "merchant": "Watchme",
+  "category": "moda",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "merchant": "Escool",
+  "category": "ninos",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "merchant": "Petit Baby",
+  "category": "ninos",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "merchant": "Papelería Goya",
+  "category": "hogar",
+  "city": null,
+  "address_hint": "también figura en Niños",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "merchant": "Bath & Body Works",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "35%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "merchant": "Bethel Spa",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "merchant": "Club del Bosque",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": "también figura en Entretenimiento",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "15%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "merchant": "Fabián Sciuto",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Martes a Viernes",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "merchant": "Horneros Racket Club",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": "también figura en Entretenimiento",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "merchant": "Pulso",
+  "category": "bienestar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "50%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "merchant": "PuntoVet",
+  "category": "salud",
+  "city": null,
+  "address_hint": "veterinaria",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "50%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "merchant": "Acher",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "merchant": "Aguerrebere",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "merchant": "Ai Haus",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "merchant": "Alfombras Zurtan",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "merchant": "Arredo",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "merchant": "Bagno and Company",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "merchant": "Barraca Malvín",
+  "category": "hogar",
+  "city": null,
+  "address_hint": "Malvín, Montevideo",
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "25%",
+    "days": "Todos los días",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "merchant": "BBQ",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "merchant": "Cala Blanquería",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "merchant": "Darko Lighting",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "merchant": "Deco Hogar",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "merchant": "Duciel",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "merchant": "Espacio Aroma",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País",
+   "Itaú"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   },
+   {
+    "provider": "Itaú",
+    "product": "crédito",
+    "amount": "25% y 15%",
+    "days": null,
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "merchant": "Fábrica Italiana",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "merchant": "Florencia Tapices",
+  "category": "hogar",
+  "city": null,
+  "address_hint": null,
+  "es_cadena": false,
+  "providers": [
+   "Club El País"
+  ],
+  "benefits": [
+   {
+    "provider": "Club El País",
+    "product": "Club El País",
+    "amount": "20%",
+    "days": "Lunes a Miércoles",
+    "conditions": null
+   }
+  ]
+ }
+]
