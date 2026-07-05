@@ -1,3 +1,4 @@
+import { DEPARTMENTS } from '../lib/departments';
 import { CATEGORIES, type CategoryKey } from '../data/categories';
 import { PROVIDER_COLOR, PROVIDERS } from '../data/providers';
 
@@ -5,20 +6,26 @@ export function FilterSheet({
   open,
   providers,
   categories,
+  departments,
   presentCategories,
+  presentDepartments,
   resultCount,
   onToggleProvider,
   onToggleCategory,
+  onToggleDepartment,
   onClear,
   onClose,
 }: {
   open: boolean;
   providers: Set<string>;
   categories: Set<string>;
+  departments: Set<string>;
   presentCategories: Set<string>;
+  presentDepartments: Set<string>;
   resultCount: number;
   onToggleProvider: (p: string) => void;
   onToggleCategory: (c: string) => void;
+  onToggleDepartment: (d: string) => void;
   onClear: () => void;
   onClose: () => void;
 }) {
@@ -64,6 +71,21 @@ export function FilterSheet({
                   </div>
                 );
               })}
+          </div>
+        </section>
+
+        <section>
+          <h3>Departamento</h3>
+          <div className="filter-group">
+            {DEPARTMENTS.filter((d) => presentDepartments.has(d)).map((d) => (
+              <div
+                key={d}
+                className={`filter-opt ${departments.has(d) ? 'on' : ''}`}
+                onClick={() => onToggleDepartment(d)}
+              >
+                {d}
+              </div>
+            ))}
           </div>
         </section>
 

@@ -1,11 +1,18 @@
 import { Link2, MapPinned } from 'lucide-react';
 import { categoryOf } from '../data/categories';
 import { PROVIDER_COLOR } from '../data/providers';
+import { dedupeBenefits } from '../lib/dedupeBenefits';
 import type { Merchant, MerchantLocation } from '../types';
+
+// Atributo del botón "ver sucursales": MapView lo busca dentro del popup (HTML estático) y
+// le engancha el click ya que este componente se renderiza a markup, sin handlers de React.
+export const VIEW_CHAIN_ATTR = 'data-view-chain';
 
 export function MerchantPopup({ merchant, location }: { merchant: Merchant; location: MerchantLocation }) {
   const cat = categoryOf(merchant.category);
   const CatIcon = cat.icon;
+  const benefits = dedupeBenefits(merchant.benefits || []);
+  const showChainButton = merchant.es_cadena && merchant.locations.length > 1;
 
   return (
     <div>
@@ -29,7 +36,7 @@ export function MerchantPopup({ merchant, location }: { merchant: Merchant; loca
         )}
       </div>
       {location.address && <div className="pb-detail pop-address">{location.address}</div>}
-      {(merchant.benefits || []).map((b, i) => {
+      {benefits.map((b, i) => {
         const color = PROVIDER_COLOR[b.provider] ?? '#888';
         const detail = [b.product && b.product !== 'todas' ? b.product : '', b.days ?? '', b.conditions ?? '']
           .filter(Boolean)
@@ -45,6 +52,11 @@ export function MerchantPopup({ merchant, location }: { merchant: Merchant; loca
           </div>
         );
       })}
+      {showChainButton && (
+        <button type="button" className="pop-chain-btn" {...{ [VIEW_CHAIN_ATTR]: 'true' }}>
+          Ver las {merchant.locations.length} sucursales
+        </button>
+      )}
     </div>
   );
 }
