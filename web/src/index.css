@@ -1,0 +1,379 @@
+:root {
+  --bg: #0f1115;
+  --surface: #1a1d24;
+  --surface-2: #242832;
+  --text: #e8eaed;
+  --muted: #9aa0aa;
+  --accent: #4f8cff;
+  --border: #2c313c;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+}
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+/* Topbar */
+#topbar {
+  background: var(--surface);
+  padding: 10px 12px 8px;
+  border-bottom: 1px solid var(--border);
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+#topbar h1 {
+  font-size: 17px;
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.filter-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+}
+.search-row {
+  position: relative;
+  margin-top: 8px;
+}
+.search-icon {
+  position: absolute;
+  left: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--muted);
+  pointer-events: none;
+}
+.search-row input {
+  width: 100%;
+  padding: 10px 12px 10px 34px;
+  font-size: 15px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text);
+}
+.search-row input::placeholder {
+  color: var(--muted);
+}
+
+/* Chips activos */
+.chips {
+  display: flex;
+  gap: 6px;
+  padding: 8px 12px 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+.chips::-webkit-scrollbar {
+  display: none;
+}
+.chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  padding: 5px 10px;
+  margin-bottom: 8px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  white-space: nowrap;
+  cursor: default;
+}
+.chip.active {
+  color: #fff;
+  border-color: transparent;
+  background: var(--accent);
+  cursor: pointer;
+}
+
+/* Map */
+#map-wrap {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+}
+/* Higher specificity than maplibre-gl.css's own `.maplibregl-map { position: relative }` */
+#map-wrap .map-container {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: #0b0d10;
+}
+.map-status {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  font-size: 14px;
+}
+.map-status-error {
+  color: #f87171;
+}
+
+/* Markers */
+.marker-anchor {
+  line-height: 0;
+}
+.marker-pin {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+/* Count pill */
+.count-pill {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: calc(16px + var(--safe-bottom));
+  z-index: 5;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+/* Popup (rendered as static HTML inside maplibre popup, styled globally).
+   Selectors are doubled up to out-specificity maplibre-gl.css's own same-specificity rules,
+   which load after index.css in the bundle and would otherwise win the cascade. */
+.maplibregl-popup.maplibregl-popup .maplibregl-popup-content {
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-size: 14px;
+  line-height: 1.35;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+}
+.maplibregl-popup.maplibregl-popup .maplibregl-popup-tip {
+  border-top-color: var(--surface);
+  border-bottom-color: var(--surface);
+}
+.maplibregl-popup.maplibregl-popup .maplibregl-popup-close-button {
+  color: var(--muted);
+  font-size: 18px;
+  padding: 4px 8px;
+}
+.maplibregl-popup.maplibregl-popup .maplibregl-popup-close-button:hover {
+  background: var(--surface-2);
+  color: var(--text);
+}
+.pop-name {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 2px;
+}
+.pop-meta {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 8px;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.pop-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  padding: 2px 7px;
+  border-radius: 6px;
+  background: var(--surface-2);
+}
+.pop-address {
+  margin-bottom: 6px;
+}
+.pop-benefit {
+  border-top: 1px solid var(--border);
+  padding: 7px 0;
+}
+.pop-benefit:last-child {
+  padding-bottom: 0;
+}
+.pb-head {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.pb-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+.pb-provider {
+  font-weight: 700;
+  font-size: 13px;
+}
+.pb-amount {
+  margin-left: auto;
+  font-weight: 800;
+  font-size: 15px;
+}
+.pb-detail {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+/* Bottom sheet */
+.sheet-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1500;
+}
+.sheet {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1600;
+  background: var(--surface);
+  border-radius: 18px 18px 0 0;
+  padding: 8px 18px calc(20px + var(--safe-bottom));
+  max-height: 82dvh;
+  overflow-y: auto;
+  box-shadow: 0 -6px 30px rgba(0, 0, 0, 0.5);
+}
+.sheet-handle {
+  width: 40px;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--border);
+  margin: 6px auto 12px;
+}
+.sheet h2 {
+  margin: 0 0 12px;
+  font-size: 18px;
+}
+.sheet h3 {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+  margin: 16px 0 8px;
+}
+.filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.filter-opt {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 14px;
+  border-radius: 10px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+.filter-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+.filter-opt.on {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 22%, var(--surface-2));
+  color: #fff;
+}
+.sheet-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 22px;
+}
+.btn-primary,
+.btn-secondary {
+  flex: 1;
+  padding: 13px;
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+}
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+.btn-secondary {
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+.hidden {
+  display: none !important;
+}

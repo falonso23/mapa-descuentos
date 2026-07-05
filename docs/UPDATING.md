@@ -37,7 +37,7 @@ lotes de 30) y se geocodificó con `geocode-addr.mjs`.
    cambió el orden. Mejor: comparar contra `data/batches/addr/` y **buscar direcciones solo
    de los comercios nuevos** (los ya conocidos ya tienen dirección guardada).
 4. Buscar direcciones de los comercios nuevos (agentes IA) → nuevos `addr_*.json`.
-5. `node scripts/geocode-addr.mjs` → regenera `app/map-data.js` (usa caché para los viejos).
+5. `node scripts/geocode-addr.mjs` → regenera `web/public/map-data.json` (usa caché para los viejos).
 
 > Como las direcciones y la caché de geocoding persisten, un refresh típico solo investiga
 > los **comercios nuevos**, no los 500 de nuevo.
@@ -48,7 +48,7 @@ lotes de 30) y se geocodificó con `geocode-addr.mjs`.
    `{ source, bank, merchants: [{ merchant, category, discounts:[{card,amount,days,conditions}], location_type, address_hint }] }`).
 2. Agregar un **adaptador** en `scripts/consolidate.mjs` (array `ADAPTERS`). Si el esquema es
    igual a Santander/Club El País, es una línea: `() => adaptStandard('nuevoBanco.json', 'NuevoBanco')`.
-3. Agregar su color en `app/app.js` (objeto `PROVIDER_COLOR`).
+3. Agregar su color en `web/src/data/providers.ts` (objeto `PROVIDER_COLOR`).
 4. Correr consolidate → select-rest → agentes de direcciones (solo los nuevos) → geocode-addr.
 
 El dedup por nombre hace que si el comercio ya existía (otra tarjeta), se **fusione**: queda
@@ -59,8 +59,9 @@ un pin con los beneficios de ambas tarjetas.
 - **Categoría / beneficio:** editar `data/unified.json` y re-correr `geocode-addr.mjs`.
 - **Dirección / coordenada / sucursales:** editar/añadir la entrada en
   `data/batches/addr/zz_supplemental.json` (se lee último y pisa lo demás) y re-correr
-  `geocode-addr.mjs`. Para forzar una coordenada exacta a mano, se puede extender el script
-  para respetar `lat`/`lng` si vienen en la dirección (hoy siempre geocodifica el texto).
+  `geocode-addr.mjs`. Para forzar una coordenada exacta a mano (paradores sin numeración que
+  Nominatim no ubica), agregá `lat`/`lng` directamente en esa dirección — el script los
+  respeta y no geocodifica ese punto.
 
 ---
 

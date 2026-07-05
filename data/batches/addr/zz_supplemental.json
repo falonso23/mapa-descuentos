@@ -67,5 +67,81 @@
   { "id": 372, "merchant": "Ovo Beach (Enjoy)", "resolved_name": "OVO Beach (Enjoy)", "es_cadena": false, "status": "found", "addresses": [
     { "sucursal": "Playa Mansa", "address": "Rambla Williman, Parada 4, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://enjoypuntadeleste.uy/restaurantes/ovo-beach/" } ] },
   { "id": 374, "merchant": "Parador Bikini", "resolved_name": "Parador Bikini", "es_cadena": false, "status": "found", "addresses": [
-    { "sucursal": "Manantiales", "address": "Playa Bikini, Ruta 10 Km 165.5, Manantiales, Maldonado, Uruguay", "confidence": 0.5, "source_url": "https://www.tripadvisor.com/Attraction_Review-g2431794-d12214942" } ] }
+    { "sucursal": "Manantiales", "address": "Playa Bikini, Ruta 10 Km 165.5, Manantiales, Maldonado, Uruguay", "confidence": 0.5, "source_url": "https://www.tripadvisor.com/Attraction_Review-g2431794-d12214942" } ] },
+
+  { "id": 17, "merchant": "Kave Home", "resolved_name": "Kave Home", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Casa Central (Pocitos)", "address": "Alejandro Chucarro 1100, Pocitos, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.kavehome.com.uy/tiendas/casa-central-montevideo_1" },
+    { "sucursal": "Calle 20 - Punta del Este", "address": "Calle 20 esq. Calle 30, Punta del Este, Maldonado, Uruguay", "confidence": 0.85, "source_url": "https://www.kavehome.com.uy/tiendas" } ] },
+  { "id": 18, "merchant": "Renart Libros", "resolved_name": "Renart Libros", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Sede única (Universidad Católica)", "address": "Av. 8 de Octubre 2738, Parque Batlle, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://www.findglocal.com/UY/Montevideo/949294065122335/Librer%C3%ADa-Renart" } ] },
+  { "id": 19, "merchant": "Extreme Force", "resolved_name": "Extreme Force", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Centro", "address": "Av. 18 de Julio 1540, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://www.santander.com.uy/beneficios/extreme-force" },
+    { "sucursal": "Punta Carretas", "address": "Dr. Scoseria 2548, Punta Carretas, Montevideo, Uruguay", "confidence": 0.9, "source_url": "https://extremeforce.uy/en/contact-us" } ] },
+  { "id": 20, "merchant": "Rotunda", "resolved_name": "Rotunda", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Carrasco", "address": "Av. Alfredo Arocena 1680, Carrasco, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Montevideo Shopping", "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Ciudad Vieja Garage", "address": "Sarandí 671, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Otero Garage", "address": "Gabriel Otero 6590, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Calle 20 - Punta del Este", "address": "Calle 20 esq. Calle 27, Punta del Este, Maldonado, Uruguay", "confidence": 0.8, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "La Barra", "address": "Ruta 10 esq. Las Estrellas, La Barra, Maldonado, Uruguay", "confidence": 0.8, "source_url": "https://www.rotundastore.com/tiendas" },
+    { "sucursal": "Salto", "address": "Uruguay 620, Salto, Uruguay", "confidence": 0.75, "source_url": "https://www.rotundastore.com/tiendas" } ] },
+  { "id": 21, "merchant": "Balcony Shop", "resolved_name": "Balcony Shop", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Carrasco", "address": "Potosí 1666, Carrasco, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://balcony.uy/contacto" },
+    { "sucursal": "La Barra / Manantiales", "address": "Ruta 10 y Costanera, La Barra, Maldonado, Uruguay", "confidence": 0.75, "source_url": "https://www.santander.com.uy/beneficios/balcony-shop" } ] },
+  { "id": 22, "merchant": "La Rural", "resolved_name": "La Rural (Melo)", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Melo", "address": "Gral. Justino Muñiz 703, Melo, Cerro Largo, Uruguay", "confidence": 0.8, "source_url": "https://www.santander.com.uy/beneficios/la-rural" } ] },
+
+  { "id": 2, "merchant": "Iber", "resolved_name": "Iber", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "18 de Julio (Eduardo Acevedo)", "address": "Av. 18 de Julio 1852 esq. Eduardo Acevedo, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Salto Shopping", "address": "Salto Shopping, Local 113, Salto, Uruguay", "confidence": 0.85, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Soriano", "address": "Soriano 1249 esq. Carlos Quijano, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Costa Urbana Shopping", "address": "Costa Urbana Shopping, Ciudad de la Costa, Canelones, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Tres Cruces Shopping", "address": "Bulevar General Artigas 1825, Tres Cruces, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.trescruces.com.uy/local/iber/" },
+    { "sucursal": "Mercado Agrícola de Montevideo", "address": "José L. Terra 2222, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Iber House - Punta Carretas Shopping", "address": "Ellauri 1321, Punta Carretas, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Las Piedras Shopping", "address": "Las Piedras Shopping, Las Piedras, Canelones, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "IberHouse - Punta Shopping", "address": "Av. Roosevelt Parada 7, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Colonia Shopping", "address": "Av. Franklin D. Roosevelt 458, Colonia del Sacramento, Colonia, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "Nuevocentro Shopping", "address": "Bulevar José Batlle y Ordóñez, Jacinto Vera, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://nuevocentroshopping.com.uy/locales/iber/" },
+    { "sucursal": "Paysandú Shopping", "address": "Paysandú Shopping, Paysandú, Uruguay", "confidence": 0.8, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "IberStore - Mercedes", "address": "Don Bosco 734, Mercedes, Soriano, Uruguay", "confidence": 0.75, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "IberStore - Portones Shopping", "address": "Av. Bolivia y Rambla República de México, Carrasco, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://portones.com.uy/locales/iber-nivel-2" },
+    { "sucursal": "IberPoint - Minas", "address": "Terminal Minas Shopping, Minas, Lavalleja, Uruguay", "confidence": 0.75, "source_url": "https://iber.uy/tiendas" },
+    { "sucursal": "IberStore - Atlántico Shopping", "address": "Av. Franklin D. Roosevelt Parada 22, Maldonado, Uruguay", "confidence": 0.75, "source_url": "https://iber.uy/tiendas" } ] },
+  { "id": 253, "merchant": "Chester House", "resolved_name": "Chesterhouse", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Ciudad Vieja (principal)", "address": "Ciudadela 1397 casi Rincón, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d13004625-Reviews-Chesterhouse-Montevideo_Montevideo_Department.html" },
+    { "sucursal": "WTC Torre 2", "address": "Av. Luis Alberto de Herrera 1248, Montevideo, Uruguay", "confidence": 0.65, "source_url": "https://www.instagram.com/chesterhouseuy/?hl=es" },
+    { "sucursal": "WTC Torre 4", "address": "Av. Luis Alberto de Herrera 1248, Montevideo, Uruguay", "confidence": 0.6, "source_url": "https://www.instagram.com/chesterhouseuy/?hl=es" },
+    { "sucursal": "Zonamerica", "address": "Ruta 8 Km 17.500, Montevideo, Uruguay", "confidence": 0.65, "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Sushiapp-y-Chesterhouse-llegaron-a-Ciudad-Vieja-y-ya-alcanzan-los-9-locales-uc341032" } ] },
+  { "id": 307, "merchant": "Sushi Club", "resolved_name": "Sushi Club", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas", "address": "Guipúzcoa 454, Punta Carretas, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://todoestaenmontevideo.com/en/shops/sushiclub-punta-carretas-deli-take" },
+    { "sucursal": "Punta del Este", "address": "Rambla General José Artigas esq. Calle 28, Punta del Este, Maldonado, Uruguay", "confidence": 0.7, "source_url": "https://www.instagram.com/p/Cxax2YZARhI/" } ] },
+
+  { "id": 57, "merchant": "Del Carmen", "resolved_name": "Del Carmen", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Colonia del Sacramento", "address": "Washington Barbot 283, Colonia del Sacramento, Colonia, Uruguay", "confidence": 0.75, "source_url": "https://www.clubelpais.com.uy/comercio/del-carmen/" } ] },
+  { "id": 15, "merchant": "Nona", "resolved_name": "Nona", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Nona", "address": "Costa Rica 1555, Montevideo, Uruguay", "confidence": 0.55, "source_url": "https://www.santander.com.uy/beneficios/nona" } ] },
+  { "id": 25, "merchant": "Smart", "resolved_name": "Smart Megajuguetería", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Montevideo Shopping", "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.smartjugueteria.com/pages/tiendas" } ] },
+  { "id": 33, "merchant": "De Arcos", "resolved_name": "De Arcos", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "De Arcos", "address": "Potosí 1658, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://www.santander.com.uy/beneficios/de-arcos" } ] },
+  { "id": 41, "merchant": "Cafe del Sol", "resolved_name": "Café del Sol", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Café del Sol", "address": "Nicolás N. Piaggio 1155, Montevideo, Uruguay", "confidence": 0.55, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d10052358-Reviews-Cafe_del_Sol-Montevideo_Montevideo_Department.html" } ] },
+  { "id": 50, "merchant": "Las Nazarenas", "resolved_name": "Las Nazarenas", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Melo", "address": "Luis A. de Herrera 612, Melo, Cerro Largo, Uruguay", "confidence": 0.5, "source_url": "https://www.santander.com.uy/beneficios/las-nazarenas" } ] },
+  { "id": 53, "merchant": "Late", "resolved_name": "Late", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Parada 7, Playa Mansa, Punta del Este, Maldonado, Uruguay", "confidence": 0.75, "source_url": "https://www.santander.com.uy/beneficios/late" } ] },
+  { "id": 68, "merchant": "Los Lagos", "resolved_name": "Los Lagos", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Los Lagos", "address": "Zelmar Michelini 1287, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://www.clubelpais.com.uy/comercio/los-lagos/" } ] },
+  { "id": 89, "merchant": "Black", "resolved_name": "Black", "es_cadena": true, "status": "found", "addresses": [
+    { "sucursal": "Punta Carretas Shopping", "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay", "confidence": 0.75, "source_url": "https://www.clubelpais.com.uy/comercio/black/" } ] },
+  { "id": 182, "merchant": "Kratki", "resolved_name": "Kratki Uruguay", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Via Disegno Mall", "address": "Ruta 101 Km 19.400, Via Disegno, Ciudad de la Costa, Canelones, Uruguay", "confidence": 0.55, "source_url": "https://www.clubelpais.com.uy/comercio/kratki/" } ] },
+  { "id": 255, "merchant": "Coffe Point", "resolved_name": "The Coffee Point", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Punta del Este", "address": "Av. Juan Gorlero y Calle 29, Punta del Este, Maldonado, Uruguay", "confidence": 0.6, "source_url": "https://1122.com.uy/local/the-coffee-point/LOC667870001" } ] },
+  { "id": 277, "merchant": "La Pantalla", "resolved_name": "La Pantalla", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Malvín", "address": "Michigan 1404, Malvín, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://www.tiktok.com/@cafecitos.uy/video/7456181054026665221" } ] },
+  { "id": 400, "merchant": "París Londres", "resolved_name": "París Londres Beer House", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Paysandú", "address": "Treinta y Tres Orientales 909, Paysandú, Uruguay", "confidence": 0.65, "source_url": "https://salimos.uy/listado/paris-londres-beer-house/" } ] }
 ]

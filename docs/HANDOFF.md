@@ -23,7 +23,8 @@ mismo comercio dé % distinto según **producto/tier** (Platinum, Visa/Master, c
 | Método de ubicación | 2 pasos: (1) IA busca **dirección en texto**, (2) script geocodifica dirección→**coordenadas**. Se separó a propósito: la IA es confiable encontrando direcciones, NO inventando lat/lng |
 | Geocoder | **Nominatim (OpenStreetMap)** — gratis, sin API key, 1 req/s, con caché |
 | Modelo de los agentes | **Sonnet** (equilibrio costo/calidad) para buscar direcciones |
-| Hosting | Ninguno. `map-data.js` es `window.MAP_DATA` (evita CORS de `file://` y no necesita servidor para los datos; sí un server estático para el navegador de prueba) |
+| Hosting | Ninguno. `map-data.json` se lee con `fetch()` (necesita un server estático — `file://` no permite fetch de JSON local por CORS) |
+| Frontend | **React + TypeScript + Vite** (`web/`), mapa con **MapLibre GL** (raster CARTO dark, no vector — sin API key), pines **sin clustering**, iconos **lucide-react** (no emojis). Reemplazó la versión anterior de HTML/JS plano (`app/`, removida). |
 
 ## 3. Pipeline (de fuente a mapa)
 
@@ -31,8 +32,8 @@ mismo comercio dé % distinto según **producto/tier** (Platinum, Visa/Master, c
 data/raw/*.json ──consolidate.mjs──▶ data/unified.json
 unified.json ──select-rest.mjs──▶ data/batches/rest/chunk_XX.json   (lotes de 30)
 chunk_XX.json ──[agentes IA Sonnet]──▶ data/batches/addr/addr_rest_XX.json   (DIRECCIONES)
-addr/*.json ──geocode-addr.mjs──▶ app/map-data.js   (COORDENADAS + merge con beneficios)
-app/map-data.js ──app/──▶ mapa en el navegador
+addr/*.json ──geocode-addr.mjs──▶ web/public/map-data.json   (COORDENADAS + merge con beneficios)
+web/public/map-data.json ──fetch() en useMapData.ts──▶ mapa en el navegador (React + MapLibre)
 ```
 
 ### Scripts (en `scripts/`, Node, sin dependencias)
@@ -42,8 +43,7 @@ app/map-data.js ──app/──▶ mapa en el navegador
 | `consolidate.mjs` | Junta `data/raw/*` → `unified.json`. **Un adaptador por fuente** (extensible). Normaliza categorías, deduplica por nombre, marca `commercial`. | ✅ |
 | `select-rest.mjs` | Genera los lotes `data/batches/rest/chunk_XX.json` de comercios comerciales a investigar. | ✅ |
 | `select-batch.mjs` | Generó el lote de validación inicial de 40 (`data/batches/batch1.json`). | histórico |
-| `geocode-addr.mjs` | **PASO 2 actual**: lee TODAS las direcciones de `data/batches/addr/`, geocodifica con Nominatim (cascada exacta→calle→zona), escribe `app/map-data.js`. Reanudable (caché). | ✅ |
-| `serve.mjs` | Servidor estático local (`http://localhost:8099`). | ✅ |
+| `geocode-addr.mjs` | **PASO 2 actual**: lee TODAS las direcciones de `data/batches/addr/`, geocodifica con Nominatim (cascada exacta→calle→zona→ciudad, con fallback y soporte para `lat`/`lng` manuales), escribe `web/public/map-data.json`. Reanudable (caché). | ✅ |
 | `geocode.mjs` | Intento viejo: geocodificar por **nombre** (no por dirección). **Reemplazado** por geocode-addr. | legacy, no usar |
 | `build-mapdata.mjs` | Merge viejo (solo batch1). **Reemplazado** por geocode-addr. | legacy, no usar |
 
@@ -80,48 +80,80 @@ Array de comercios. Campos clave:
 - `zz_supplemental.json` se lee **último** (orden alfabético) → **pisa** los `not_found` de
   otros lotes. Es el patrón para corregir/completar sin editar 17 archivos.
 
-### `app/map-data.js` — lo que consume el mapa
-`window.MAP_DATA = [ { id, merchant, category, providers, benefits, es_cadena, locations:[{lat,lng,address,sucursal,confidence,precision}] } ]`.
-El front ignora los que tienen `locations: []`.
+### `web/public/map-data.json` — lo que consume el mapa
+`[ { id, merchant, category, providers, benefits, es_cadena, locations:[{lat,lng,address,sucursal,confidence,precision,source}] } ]`.
+El hook `web/src/hooks/useMapData.ts` hace `fetch('map-data.json')` y filtra los que tienen
+`locations: []`. Tipos en `web/src/types.ts`.
 
 ## 5. Estado actual (con números)
 
 - `unified.json`: **597** comercios (dedup), **532** `commercial`.
-- Direcciones guardadas: **421** comercios con dirección, **648** direcciones/sucursales
-  (en `data/batches/addr/`, 21 archivos).
-- `map-data.js`: **400** comercios con ubicación, **611** pines.
-- Distribución por tarjeta (con ubicación): Itaú 158 · Club El País 134 · OCA 86 · Santander 40.
+- Direcciones guardadas: **440** comercios con dirección (en `data/batches/addr/`, 22 archivos).
+- `map-data.json`: **440** comercios con ubicación, **696** pines.
+- De los **92** `commercial` sin ubicación: ~75 son promociones sin local físico (cuotas,
+  sorteos, telepeaje, tiendas 100% online, genéricos "sin comercio específico") y no
+  corresponden al mapa. El resto (~17) son comercios reales investigados sin éxito o con
+  confianza demasiado baja para cargar (ver punto D).
 
-## 6. Qué falta (cómo cerrarlo)
+### D. Comercios reales investigados sin resultado confiable
+Se investigó una segunda tanda de ~29 comercios reales que nunca habían tenido búsqueda de
+dirección (mayormente restaurantes/cafés del programa Itaú). 13 se resolvieron y cargaron
+(Del Carmen, Nona, Smart, De Arcos, Café del Sol, Las Nazarenas, Late, Los Lagos, Black,
+Kratki, Coffe Point, La Pantalla, París Londres). De paso se corrigieron 3 categorías más
+mal clasificadas (Nona: hogar→gastronomia, es cafetería; Smart: otros→ninos, es juguetería;
+De Arcos: gastronomia→hogar, es mueblería).
 
-### A. Recuperar ~21 comercios reales sin geocodificar
-Dos causas (ver lista completa al final del output de `geocode-addr.mjs`):
-1. **Direcciones sin número** (paradores de playa de Punta del Este: Ovo Beach, Parador
-   Bikini, Mansa Beach Club, etc.). Nominatim no las ubica. → Bajar a coordenada de zona,
-   o cargar lat/lng a mano en `zz_supplemental.json` (agregar campos `lat`/`lng` y ajustar
-   geocode-addr para respetarlos).
-2. **Quedaron como `not_found` pero SÍ tienen dirección** en el historial de la sesión
-   (ids 17-22: Kave Home, Renart Libros, Extreme Force, Rotunda, Balcony Shop, La Rural).
-   Su lote padre (chunk_00) los marcó not_found porque su sub-agente no había vuelto.
-   → Volver a investigarlos (1 agente) o cargarlos en `zz_supplemental.json` y re-correr geocode.
+Quedaron sin cargar por baja confianza (no inventar direcciones dudosas):
+- **Bacán.uy** (id 316): solo domicilio fiscal de una tienda mayormente online, confianza 0.35.
+- **Majuga** (id 365): identidad del comercio no verificada con el beneficio Itaú, confianza 0.4.
+- **Parada Barra** (id 373): solo "Ruta 10, La Barra" sin número, confianza 0.35.
+- **Jefri's Gelato & Café** (id 405): solo ciudad (Salto), sin calle, confianza 0.3.
 
-### B. Corregir categorías mal clasificadas en origen
-La categoría viene de la fuente y a veces está mal. Conocidos:
-- **Bela** (OCA): es pañalería/perfumería, no gastronomía.
-- **Bruta** (Santander): es restaurante, no moda.
-- **Kentucky** (OCA): pizzería, no chivitos.
-- **Mundo Color** (OCA): pinturería.
-→ Corregir en `data/unified.json` (campo `category`) o con un archivo de override + re-correr.
+Y sin ninguna dirección encontrada: Casa Dispensa (251), deVino (59), La Social Restaurante
+(282), Cofre Café (344), El Amor es Tiempo (346), Hola que Tal (353), Hoy Café (354), Mar de
+Fondo (367), Anima (389), Delicatessen (394), Cardumen (401), Mi Belleza (515).
 
-### C. Expandir sucursales de cadenas marcadas como no-cadena
-Varias marcas multisucursal quedaron con 1 pin porque la fuente las tenía `es_cadena=false`
-(Iber, Chesterhouse, Sushi Club, Farmashop en algunos casos, etc.). Mejora incremental.
+→ Si se quiere cerrar del todo, re-investigar estos ~17 a mano (Google Maps, Instagram,
+llamando al comercio) y cargarlos en `zz_supplemental.json`.
 
-### Para aplicar cualquier corrección
+## 6. Qué faltaba (cerrado)
+
+### A. ~21 comercios reales sin geocodificar — ✅ resuelto
+Dos causas, ambas corregidas:
+1. **Bugs en `variants()` de `geocode-addr.mjs`**: la detección de ciudad hacía match por
+   substring y confundía nombres de calle ("Salto 946" → ciudad "Salto") o nombres de
+   shopping ("Montevideo Shopping" → ciudad mal detectada) con la ciudad real. Se corrigió
+   buscando la ciudad solo entre las partes que no son la calle, excluyendo las que
+   contienen "shopping", y se agregaron variantes de fallback (calle sin abreviatura del
+   nombre propio, y como último recurso el centro de la ciudad/zona). Con esto, 20 de los
+   21 comercios con dirección conocida pasaron a geocodificar.
+2. **`geocode-addr.mjs` ahora respeta `lat`/`lng` manuales** si vienen en la dirección
+   (útil para paradores/zonas rurales que Nominatim no ubica).
+3. Los 6 que estaban `not_found` sin ninguna dirección guardada (ids 17-22: Kave Home,
+   Renart Libros, Extreme Force, Rotunda, Balcony Shop, La Rural) se investigaron y se
+   cargaron en `zz_supplemental.json`.
+
+### B. Categorías mal clasificadas — ✅ resuelto
+Corregidas en `data/unified.json`:
+- **Bela** (OCA, id 503): gastronomia → **otros** (pañalería/perfumería).
+- **Bruta** (Santander, id 3): moda → **gastronomia** (restaurante).
+- **Kentucky** (OCA, id 528): entretenimiento → **gastronomia** (pizzería).
+- **Mundo Color** (OCA, id 533): otros → **hogar** (pinturería).
+- **Iber** (Santander/Club El País, id 2): bienestar → **tecnologia** (se descubrió al
+  investigar sus sucursales — es una cadena de electrónica/Apple reseller, no bienestar).
+
+### C. Cadenas marcadas como no-cadena — ✅ resuelto (las 3 que faltaban)
+- **Farmashop** ya tenía 15 sucursales cargadas y `es_cadena=true` — no requería cambios.
+- **Iber**: 1 → 16 sucursales (tiendas propias + locales en shoppings de todo el país).
+- **Chester House / Chesterhouse**: 1 → 4 sucursales (Ciudad Vieja, WTC Torres 2 y 4,
+  Zonamerica) — es una cadena de catering corporativo, no un único restaurante.
+- **Sushi Club**: 1 → 2 sucursales (Punta Carretas, Punta del Este).
+
+### Para aplicar cualquier corrección futura
 ```bash
 # tras editar unified.json o zz_supplemental.json:
-node scripts/geocode-addr.mjs     # regenera app/map-data.js (rápido: usa caché)
-node scripts/serve.mjs            # verificar en http://localhost:8099
+node scripts/geocode-addr.mjs     # regenera web/public/map-data.json (rápido: usa caché)
+cd web && npm run dev             # verificar (recarga sola al cambiar el JSON)
 ```
 
 ## 7. Ideas de mejora de la app (no bloqueantes)
@@ -142,5 +174,14 @@ node scripts/serve.mjs            # verificar en http://localhost:8099
   spawnearon sub-agentes y terminaron su turno **sin escribir el archivo**. Hubo que
   reactivarlos (SendMessage) para que ensamblaran. Si repetís el flujo, o das lotes más
   chicos, o instruís explícitamente "no spawnees sub-agentes, escribí vos el archivo".
-- **`map-data.js` no es JSON**: es `window.MAP_DATA = [...];`. Para parsearlo en Node, sacar
-  el prefijo/`;`.
+- **La detección de ciudad en `variants()` hace match por substring**: si buscás la ciudad
+  entre TODAS las partes de la dirección (incluida la calle), un nombre de calle como
+  "Salto 946" o un nombre de shopping como "Montevideo Shopping" se confunde con la ciudad.
+  Por eso la búsqueda de ciudad excluye la parte de la calle (`parts[0]`) y cualquier parte
+  que contenga "shopping".
+- **`maplibre-gl.css` pisa reglas propias de la misma especificidad**: como se importa desde
+  un componente (`MapView.tsx`), termina más abajo que `index.css` en el bundle final, y sus
+  reglas base (`.maplibregl-map { position: relative }`, `.maplibregl-popup-content { background: #fff }`)
+  ganan el empate de especificidad. Solución: selectores más específicos (`#map-wrap .map-container`,
+  `.maplibregl-popup.maplibregl-popup .maplibregl-popup-content`), no `!important`. Si tocás
+  `web/src/index.css` y algo de MapLibre no se ve como esperás, sospechá de esto primero.
