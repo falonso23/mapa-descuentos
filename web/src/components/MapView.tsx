@@ -2,7 +2,8 @@ import { useEffect, useRef } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { renderToStaticMarkup } from 'react-dom/server';
-import type { Merchant } from '../types';
+import type { Merchant, MerchantLocation } from '../types';
+import { coordGroupKey, spiralOffset } from '../lib/spiderfy';
 import { MarkerIcon } from './MarkerIcon';
 import { MerchantPopup, VIEW_CHAIN_ATTR } from './MerchantPopup';
 
@@ -97,10 +98,27 @@ export function MapView({
       if (cancelled) return;
       clearMarkers();
 
+      // Varios locales suelen geocodificar exactamente al mismo punto (ej. un shopping: cada
+      // comercio resuelve a la dirección del edificio). Se agrupan por coordenada para poder
+      // repartirlos en espiral y que ninguno quede tapado/inclickeable.
+      interface Entry {
+        merchant: Merchant;
+        loc: MerchantLocation;
+        locationIndex: number;
+      }
+      const groups = new Map<string, Entry[]>();
       for (const merchant of merchants) {
         merchant.locations.forEach((loc, locationIndex) => {
           if (typeof loc.lat !== 'number' || typeof loc.lng !== 'number') return;
+          const key = coordGroupKey(loc.lat, loc.lng);
+          const group = groups.get(key);
+          if (group) group.push({ merchant, loc, locationIndex });
+          else groups.set(key, [{ merchant, loc, locationIndex }]);
+        });
+      }
 
+      for (const group of groups.values()) {
+        group.forEach(({ merchant, loc, locationIndex }, i) => {
           // Markers son puramente presentacionales (sin interactividad propia), así que se
           // renderizan a HTML estático en vez de montar un React root por pin: evita una
           // condición de carrera de React al desmontar/remontar cientos de roots en filtros rápidos.
@@ -123,7 +141,7 @@ export function MapView({
             });
           }
 
-          const marker = new maplibregl.Marker({ element: el, anchor: 'bottom' })
+          const marker = new maplibregl.Marker({ element: el, anchor: 'center', offset: spiralOffset(i) })
             .setLngLat([loc.lng, loc.lat])
             .setPopup(popup)
             .addTo(map);

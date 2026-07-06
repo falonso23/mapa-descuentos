@@ -311,6 +311,19 @@ body {
   border-radius: 50%;
   flex: 0 0 auto;
 }
+.list-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 8px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
 .list-locations {
   margin-top: 8px;
   display: flex;
