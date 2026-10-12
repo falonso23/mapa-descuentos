@@ -1,0 +1,4638 @@
+[
+ {
+  "id": 344,
+  "merchant": "Cofre Café",
+  "resolved_name": "Cofre Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Cno. La Aguada S/N, La Barra, Maldonado, Uruguay",
+    "lat": -34.898367,
+    "lng": -54.848191,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Cofre+caf%C3%A9-cantina/data=!4m7!3m6!1s0x95751d004e41c2cd:0x698a0790c9eaf66c!8m2!3d-34.898367!4d-54.8481911!16s%2Fg%2F11xkpdkcyd!19sChIJzcJBTgAddZURbPbqyZAHimk"
+   }
+  ]
+ },
+ {
+  "id": 346,
+  "merchant": "El amor es tiempo",
+  "resolved_name": "El amor es tiempo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Enrique Tarigo parada 46, Maldonado, Uruguay",
+    "lat": -34.904518,
+    "lng": -55.027206,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/El+Amor+es+Tiempo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751100082359c1:0xc91d88eb930d7588!8m2!3d-34.904518!4d-55.0272061!16s%2Fg%2F11wwg355zv"
+   }
+  ]
+ },
+ {
+  "id": 353,
+  "merchant": "Hola que tal",
+  "resolved_name": "Hola que tal",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Franklin Delano Roosevelt, Maldonado, Uruguay",
+    "lat": -34.937127,
+    "lng": -54.936094,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Hola+Que+Tal+%7C+Rest%C3%B3+Wine+%26+Bar/data=!4m7!3m6!1s0x957505a68caaf7df:0xac22d4d56d6f5414!8m2!3d-34.9371269!4d-54.936094!16s%2Fg%2F11yhwc2szb!19sChIJ3_eqjKYFdZURFFRvbdXUIqw"
+   }
+  ]
+ },
+ {
+  "id": 354,
+  "merchant": "Hoy Café",
+  "resolved_name": "Hoy Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10 y Las Estrellas, La Barra, Maldonado, Uruguay",
+    "lat": -34.914666,
+    "lng": -54.859929,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Hoy+Caf%C3%A9/data=!4m7!3m6!1s0x957503507d69f52d:0x2add61db62ddaa9f!8m2!3d-34.9146659!4d-54.859929!16s%2Fg%2F11wtygz551!19sChIJLfVpfVADdZURn6rdYtth3So"
+   }
+  ]
+ },
+ {
+  "id": 367,
+  "merchant": "Mar de Fondo",
+  "resolved_name": "Mar de Fondo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Punta del Este, Maldonado, Uruguay",
+    "lat": -34.941671,
+    "lng": -54.947054,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Mar+de+Fondo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575054b93dd406d:0xaf4b7c88323ab143!8m2!3d-34.941671!4d-54.9470543!16s%2Fg%2F11rmp6dgrr"
+   }
+  ]
+ },
+ {
+  "id": 373,
+  "merchant": "Parada Barra",
+  "resolved_name": "Parada Barra",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "El Tesoro, Maldonado, Uruguay",
+    "lat": -34.910294,
+    "lng": -54.865551,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Parada+Barra/data=!4m7!3m6!1s0x957503007cf8daaf:0x866690f911667aa8!8m2!3d-34.9102942!4d-54.8655509!16s%2Fg%2F11wxs2k6vn!19sChIJr9r4fAADdZURqHpmEfmQZoY"
+   }
+  ]
+ },
+ {
+  "id": 389,
+  "merchant": "Anima",
+  "resolved_name": "Anima",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ave Pedragosa Sierra, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.945307,
+    "lng": -54.935914,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/%C3%81nima+Mercato+della+pasta/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505fdd700118d:0x223fb017fa2700a1!8m2!3d-34.9453072!4d-54.9359143!16s%2Fg%2F11nxvfphcp"
+   }
+  ]
+ },
+ {
+  "id": 394,
+  "merchant": "Delicatessen",
+  "resolved_name": "Delicatessen",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Libano 1411, Colonia del Sacramento, Colonia, Uruguay",
+    "lat": -34.466597,
+    "lng": -57.824267,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Delicatessen/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a30d000c016f5f:0xf175f72d0c638ed5!8m2!3d-34.4665972!4d-57.8242666!16s%2Fg%2F11ybvmqxhm"
+   }
+  ]
+ },
+ {
+  "id": 779,
+  "merchant": "Vang - The Kul Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Calle 30 y Av. Juan Gorlero, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.959099,
+    "lng": -54.940831,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/The+Kul+Store/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750586e7ad0d53:0x9a0c4188627b7ac7!8m2!3d-34.9590994!4d-54.9408309!16s%2Fg%2F11scjvzycs"
+   }
+  ]
+ },
+ {
+  "id": 807,
+  "merchant": "Frog",
+  "resolved_name": "Frog",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Maxishop 24",
+    "address": "Punta del Este, Maldonado, Uruguay",
+    "lat": -34.935983,
+    "lng": -54.937101,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+24/data=!4m7!3m6!1s0x957505c2133cfd59:0xf2505bf4156c0e31!8m2!3d-34.9359828!4d-54.9371008!16s%2Fg%2F11rjyrr6g4!19sChIJWf08E8IFdZURMQ5sFfRbUPI"
+   },
+   {
+    "sucursal": null,
+    "address": "Calle Perez Castellano 1479, Montevideo, Uruguay",
+    "lat": -34.90718,
+    "lng": -56.210803,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog/data=!4m7!3m6!1s0x959f7f83c152a7b7:0xdcb0ab61c78c7b8b!8m2!3d-34.9071797!4d-56.210803!16s%2Fg%2F11cjg44kwy!19sChIJt6dSwYN_n5URi3uMx2GrsNw"
+   },
+   {
+    "sucursal": "Maxishop 12",
+    "address": "Bv. Gral. Artigas 3750, Montevideo, Uruguay",
+    "lat": -34.870747,
+    "lng": -56.184747,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+12/data=!4m7!3m6!1s0x959f800c430a2eb3:0x282a7e46c540537!8m2!3d-34.8707472!4d-56.1847466!16s%2Fg%2F11cm0_rqnk!19sChIJsy4KQwyAn5URNwVUbOSnggI"
+   },
+   {
+    "sucursal": "Maxishop 5",
+    "address": "José Ellauri 668, Montevideo, Uruguay",
+    "lat": -34.918731,
+    "lng": -56.155663,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+5/data=!4m7!3m6!1s0x959f81742dd3a821:0xca079a13f813af1!8m2!3d-34.9187307!4d-56.1556628!16s%2Fg%2F11g702qbg5!19sChIJIajTLXSBn5UR8TqBP6F5oAw"
+   },
+   {
+    "sucursal": "Maxishop 20",
+    "address": "Montevideo, Uruguay",
+    "lat": -34.888271,
+    "lng": -56.105999,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+20/data=!4m7!3m6!1s0x959f87b9424b6397:0x654c737d14fc8cc0!8m2!3d-34.8882708!4d-56.1059992!16s%2Fg%2F11gyyx826_!19sChIJl2NLQrmHn5URwIz8FH1zTGU"
+   },
+   {
+    "sucursal": "Maxishop 18",
+    "address": "Defensa 1798, Montevideo, Uruguay",
+    "lat": -34.895214,
+    "lng": -56.173887,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+18/data=!4m7!3m6!1s0x959f804c27710ec1:0x50e1423618a6cb7a!8m2!3d-34.8952138!4d-56.1738874!16s%2Fg%2F11dfw84g3b!19sChIJwQ5xJ0yAn5UResumGDZC4VA"
+   },
+   {
+    "sucursal": "maxishop 19",
+    "address": "Avenida Ing. Luis 1486, Montevideo, Uruguay",
+    "lat": -34.900681,
+    "lng": -56.159589,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+maxishop+19/data=!4m7!3m6!1s0x959f81a9f7d55c71:0xd0d4678fa3995f51!8m2!3d-34.9006806!4d-56.1595893!16s%2Fg%2F11gf06lkgb!19sChIJcVzV96mBn5URUV-Zo49n1NA"
+   },
+   {
+    "sucursal": "Maxishop 23",
+    "address": "Av. Brasil 2365, Montevideo, Uruguay",
+    "lat": -34.905906,
+    "lng": -56.162962,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Frog+Maxishop+23/data=!4m7!3m6!1s0x959f81d4a72b7587:0x16143b68ffddd27d!8m2!3d-34.9059058!4d-56.162962!16s%2Fg%2F11jp02m8mp!19sChIJh3Urp9SBn5URfdLd_2g7FBY"
+   }
+  ]
+ },
+ {
+  "id": 811,
+  "merchant": "Area Design",
+  "resolved_name": "Area Design",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 101, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.843889,
+    "lng": -56.015677,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Area+Design+Carrasco/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8976428b6419:0x7b3206666c1f9340!8m2!3d-34.8438894!4d-56.0156771!16s%2Fg%2F11jt6812h3"
+   }
+  ]
+ },
+ {
+  "id": 812,
+  "merchant": "Trios Lighting",
+  "resolved_name": "Trios Lighting",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Punta del Este, Maldonado, Uruguay",
+    "lat": -34.948766,
+    "lng": -54.933154,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Trios+Lighting/data=!4m7!3m6!1s0x95750516059cf299:0xe0ac9719c602aff7!8m2!3d-34.9487665!4d-54.9331541!16s%2Fg%2F11bztg557n!19sChIJmfKcBRYFdZUR968CxhmXrOA"
+   },
+   {
+    "sucursal": "Montevideo",
+    "address": "Luis de la Torre 593, Montevideo, Uruguay",
+    "lat": -34.918263,
+    "lng": -56.158709,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/TRIOS+Lighting/data=!4m7!3m6!1s0x957505160f1658ef:0x7bac37386e19b5df!8m2!3d-34.9182632!4d-56.1587093!16s%2Fg%2F11xr3zp2y!19sChIJ71gWDxYFdZUR37UZbjg3rHs"
+   },
+   {
+    "sucursal": "Ciudad de la Costa",
+    "address": "Ruta 101, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.843736,
+    "lng": -56.015706,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/TRIOS+Lighting/data=!4m7!3m6!1s0x959f893068661cd1:0xc36e1bbd79bed429!8m2!3d-34.8437358!4d-56.0157057!16s%2Fg%2F11tcr0np1z!19sChIJ0RxmaDCJn5URKdS-eb0bbsM"
+   }
+  ]
+ },
+ {
+  "id": 813,
+  "merchant": "Prat Pádel",
+  "resolved_name": "Prat Pádel",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.843645,
+    "lng": -56.011347,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Prat+P%C3%A1del/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f896566b2c5bf:0x48299bfd72d77e26!8m2!3d-34.8436445!4d-56.0113473!16s%2Fg%2F11ntfq1684"
+   }
+  ]
+ },
+ {
+  "id": 816,
+  "merchant": "Baco",
+  "resolved_name": "Baco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "José Luis Zorrilla de San Martín 93, Montevideo, Uruguay",
+    "lat": -34.927621,
+    "lng": -56.160116,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Baco+Vino+y+Bistro/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81805a800cdd:0xba0885ac558167b0!8m2!3d-34.9276211!4d-56.1601158!16s%2Fg%2F11f8_yzns7"
+   }
+  ]
+ },
+ {
+  "id": 817,
+  "merchant": "Bar Carretas",
+  "resolved_name": "Bar Carretas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Guipúzcoa 454, Montevideo, Uruguay",
+    "lat": -34.923392,
+    "lng": -56.155654,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Bar+Carretas/data=!4m7!3m6!1s0x959f81482650c16f:0xdcecfbf5b5bf4330!8m2!3d-34.9233921!4d-56.1556538!16s%2Fg%2F11zxt_81tm!19sChIJb8FQJkiBn5URMEO_tfX77Nw"
+   }
+  ]
+ },
+ {
+  "id": 822,
+  "merchant": "Gourmet Marti",
+  "resolved_name": "Gourmet Marti",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Jose Marti 8062, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.866019,
+    "lng": -56.032292,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Restaurante+Gourmet+Marti/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f86258e0371a1:0x5838a66b120e3d74!8m2!3d-34.8660188!4d-56.0322918!16s%2Fg%2F11cmbly9tg"
+   }
+  ]
+ },
+ {
+  "id": 824,
+  "merchant": "La Vinoteca",
+  "resolved_name": "La Vinoteca",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Mariano Moreno, Montevideo, Uruguay",
+    "lat": -34.882494,
+    "lng": -56.154719,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/La+Vinoteca/data=!4m7!3m6!1s0x959f80f71865c1bf:0xf8825b151d61ec95!8m2!3d-34.8824941!4d-56.1547187!16s%2Fg%2F11c1n267kb!19sChIJv8FlGPeAn5URlexhHRVbgvg"
+   }
+  ]
+ },
+ {
+  "id": 825,
+  "merchant": "Las Croabas",
+  "resolved_name": "Las Croabas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av.Gral Rivera 2666, Montevideo, Uruguay",
+    "lat": -34.903249,
+    "lng": -56.157174,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Las+Croabas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8107bc1cb96d:0xd6c7353098696c60!8m2!3d-34.9032491!4d-56.1571741!16s%2Fg%2F1hhhl1dl3"
+   }
+  ]
+ },
+ {
+  "id": 826,
+  "merchant": "Las Vizcarras",
+  "resolved_name": "Las Vizcarras",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Bacacay, Montevideo, Uruguay",
+    "lat": -34.906934,
+    "lng": -56.201409,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Licorer%C3%ADa+Las+Vizcarras/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f802afa7d72a7:0xa06e1db3d7b15be!8m2!3d-34.9069335!4d-56.2014091!16s%2Fg%2F11h0f12j1"
+   }
+  ]
+ },
+ {
+  "id": 827,
+  "merchant": "Pomelo",
+  "resolved_name": "Pomelo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Miñones 461, Montevideo, Uruguay",
+    "lat": -34.921383,
+    "lng": -56.159297,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Pomelo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81d5fed45f8f:0xadc1e1dfb2d6c162!8m2!3d-34.9213827!4d-56.1592967!16s%2Fg%2F11sccmq90m"
+   }
+  ]
+ },
+ {
+  "id": 830,
+  "merchant": "Vicenta",
+  "resolved_name": "Vicenta",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Tomás Diago 796 esq. Jaime Zudáñez, Montevideo, Uruguay",
+    "lat": -34.916829,
+    "lng": -56.152213,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Vicenta/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8173eb135bd1:0x14ec6a7bde5766b1!8m2!3d-34.9168289!4d-56.1522131!16s%2Fg%2F11h9w7glmh"
+   }
+  ]
+ },
+ {
+  "id": 834,
+  "merchant": "Sinfonía blends",
+  "resolved_name": "Sinfonía blends",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Alfredo Arocena 1976, Montevideo, Uruguay",
+    "lat": -34.881552,
+    "lng": -56.060682,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Sinfon%C3%ADa+Blends/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f865958884937:0x37a422b132280bb1!8m2!3d-34.8815521!4d-56.0606821!16s%2Fg%2F11fyl9d5yj"
+   }
+  ]
+ },
+ {
+  "id": 835,
+  "merchant": "Aguaverde",
+  "resolved_name": "Aguaverde",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Cam. del Cerro Eguzquiza Km.7, La Barra, Maldonado, Uruguay",
+    "lat": -34.843634,
+    "lng": -54.878651,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Estancia+Aguaverde/@-34.6,-55.8,8z/data=!4m9!3m8!1s0x95751be35b57acad:0xbbf7e6f2a152c88e!5m2!4m1!1i2!8m2!3d-34.843634!4d-54.8786511!16s%2Fg%2F11clgd_8_g"
+   }
+  ]
+ },
+ {
+  "id": 836,
+  "merchant": "Al fin y al cabo",
+  "resolved_name": "Al fin y al cabo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10, La Barra, Maldonado, Uruguay",
+    "lat": -34.915591,
+    "lng": -54.851311,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Al+Fin+y+Al+Cabo+Montoya/data=!4m7!3m6!1s0x95750342ffc73139:0xae61c2436a11682!8m2!3d-34.9155911!4d-54.8513108!16s%2Fg%2F11lz5qbv3k!19sChIJOTHH_0IDdZURghahNiQc5go"
+   }
+  ]
+ },
+ {
+  "id": 838,
+  "merchant": "Alison Pizza",
+  "resolved_name": "Alison Pizza",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10, La Barra, Maldonado, Uruguay",
+    "lat": -34.914985,
+    "lng": -54.859083,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Alison+Pizza/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957503007dca9271:0xecd642b6f8b6ff4d!8m2!3d-34.914985!4d-54.8590831!16s%2Fg%2F11lz6mkjpm"
+   }
+  ]
+ },
+ {
+  "id": 839,
+  "merchant": "Arenas",
+  "resolved_name": "Arenas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Parada 19 Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.927299,
+    "lng": -54.962488,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Arenas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751146997698bb:0x28fe032bb00f8767!8m2!3d-34.9272993!4d-54.9624881!16s%2Fg%2F11sg3bqxct"
+   }
+  ]
+ },
+ {
+  "id": 841,
+  "merchant": "Bodega Oceánica",
+  "resolved_name": "Bodega Oceánica José Ignacio",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "José Ignacio, Maldonado, Uruguay",
+    "lat": -34.756188,
+    "lng": -54.721688,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Bodega+Oce%C3%A1nica+Jos%C3%A9+Ignacio/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9574e116672b63f1:0xbeaa5bcb105d8fd4!8m2!3d-34.7561875!4d-54.7216875!16s%2Fg%2F11cnp1h6j_"
+   }
+  ]
+ },
+ {
+  "id": 842,
+  "merchant": "Boulevard de las Palmeras",
+  "resolved_name": "Boulevard de las Palmeras",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Juan Díaz de Solís, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.965597,
+    "lng": -54.951207,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Boulevard+de+Las+Palmeras/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505005c4d91d7:0x74a4bf3e6d87861e!8m2!3d-34.9655971!4d-54.9512068!16s%2Fg%2F11ypm5zt6m"
+   }
+  ]
+ },
+ {
+  "id": 846,
+  "merchant": "Crudo",
+  "resolved_name": "Crudo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Calle 17 y Av. Juan Gorlero, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.965759,
+    "lng": -54.946709,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Crudo+Cafe+%26+Sandwiches/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575052648037597:0x2a9fb8bd7cc7b608!8m2!3d-34.9657589!4d-54.946709!16s%2Fg%2F11yswz3c20"
+   }
+  ]
+ },
+ {
+  "id": 848,
+  "merchant": "Estero",
+  "resolved_name": "Estero",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "La Barra, Maldonado, Uruguay",
+    "lat": -34.914901,
+    "lng": -54.859935,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Estero+Viner%C3%ADa/data=!4m7!3m6!1s0x9575033004bea27f:0xd2a9306c1a566e5!8m2!3d-34.9149013!4d-54.8599354!16s%2Fg%2F11rms3w4tf!19sChIJf6K-BDADdZUR5WalwQaTKg0"
+   }
+  ]
+ },
+ {
+  "id": 850,
+  "merchant": "Grand Cru",
+  "resolved_name": "Grand Cru",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Lido, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.93884,
+    "lng": -54.935139,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Grand+Cru+S.A./@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505376713c16d:0xe0ddc3c459e0ab25!8m2!3d-34.9388403!4d-54.9351388!16s%2Fg%2F11hc_vl7_8"
+   }
+  ]
+ },
+ {
+  "id": 851,
+  "merchant": "Harvest",
+  "resolved_name": "Harvest",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ave Pedragosa Sierra, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.943888,
+    "lng": -54.933231,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Harvest+Punta+del+Este/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750517eb069195:0xe3c3c9fa102d800f!8m2!3d-34.9438876!4d-54.9332314!16s%2Fg%2F11jt0yl75f"
+   }
+  ]
+ },
+ {
+  "id": 855,
+  "merchant": "La Proveeduría",
+  "resolved_name": "La Proveeduría del Mar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10 y 18 de Julio, Manantiales, Maldonado, Uruguay",
+    "lat": -34.906005,
+    "lng": -54.824683,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/La+Proveeduria+del+Mar/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957502d96c45f145:0x4d7cebcbb5262d3!8m2!3d-34.9060052!4d-54.8246827!16s%2Fg%2F11f2pp_5fq"
+   }
+  ]
+ },
+ {
+  "id": 858,
+  "merchant": "Miró",
+  "resolved_name": "Miró",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Calle 26 (El Resalsero), Punta del Este, Maldonado, Uruguay",
+    "lat": -34.963202,
+    "lng": -54.941091,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Miro+Restobar/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505731ce60e3f:0x12ecb706370f07fd!8m2!3d-34.9632024!4d-54.941091!16s%2Fg%2F11bxd86tk5"
+   }
+  ]
+ },
+ {
+  "id": 861,
+  "merchant": "Proita",
+  "resolved_name": "Proita",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Francia, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.946669,
+    "lng": -54.937223,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Proita+Cantina/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505cbaf0df05b:0xb99a21f70cf5f837!8m2!3d-34.9466691!4d-54.937223!16s%2Fg%2F11mt4yx7dn"
+   }
+  ]
+ },
+ {
+  "id": 862,
+  "merchant": "Sacromonte",
+  "resolved_name": "Sacromonte",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Sierra de Carapé, Pueblo Edén, Maldonado, Uruguay",
+    "lat": -34.520622,
+    "lng": -55.058697,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Sacromonte/@-34.6,-55.8,8z/data=!4m9!3m8!1s0x957534a31bd4d1e1:0x2719dd23cf64981d!5m2!4m1!1i2!8m2!3d-34.5206216!4d-55.0586972!16s%2Fg%2F11bysjsl3x"
+   }
+  ]
+ },
+ {
+  "id": 863,
+  "merchant": "Teodoro",
+  "resolved_name": "Teodoro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "San Ciro, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.94098,
+    "lng": -54.930366,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Teodoro+Parrilla+Y+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575052476f2c385:0xedac61c278ae1188!8m2!3d-34.9409804!4d-54.9303662!16s%2Fg%2F11vbjvcmvx"
+   }
+  ]
+ },
+ {
+  "id": 864,
+  "merchant": "Teodoro Puerto",
+  "resolved_name": "Teodoro Puerto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Juan Diaz de Solis 595, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.964929,
+    "lng": -54.953384,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Teodoro+Puerto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575050045899131:0x22db5368a7793ef7!8m2!3d-34.9649292!4d-54.9533843!16s%2Fg%2F11mkyt34jp"
+   }
+  ]
+ },
+ {
+  "id": 866,
+  "merchant": "La Folie",
+  "resolved_name": "La Folie",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. del Navio, La Paloma, Rocha, Uruguay",
+    "lat": -34.661229,
+    "lng": -54.16667,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Restaurante+La+Folie/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95749ca67e539b95:0x7744a8ae7255a5cf!8m2!3d-34.6612294!4d-54.1666697!16s%2Fg%2F11cjkdfljs"
+   }
+  ]
+ },
+ {
+  "id": 867,
+  "merchant": "Essenza",
+  "resolved_name": "Essenza",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Agraciada 745, Salto, Uruguay",
+    "lat": -31.384176,
+    "lng": -57.965418,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Essenza+Salto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95adc3541ac9fd3d:0x895d746116466798!8m2!3d-31.3841757!4d-57.9654181!16s%2Fg%2F11pwybz119"
+   }
+  ]
+ },
+ {
+  "id": 871,
+  "merchant": "Actitud Sur",
+  "resolved_name": "Actitud Sur",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Esteban A. Elena 6390, Montevideo, Uruguay",
+    "lat": -34.890204,
+    "lng": -56.064569,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Actitud+Sur+Carrasco/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8728c7e1b4d9:0xb42f27a54b090de3!8m2!3d-34.8902038!4d-56.064569!16s%2Fg%2F11h79ngh8l"
+   }
+  ]
+ },
+ {
+  "id": 872,
+  "merchant": "Agnès Lenoble",
+  "resolved_name": "Agnès Lenoble",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "El Remanso entre 23 y 25, Punta del Este, Maldonado, Uruguay",
+    "lat": -34.961823,
+    "lng": -54.945206,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Agnes+Lenoble/data=!4m7!3m6!1s0x9575054397203bb5:0x7eff71051d40c273!8m2!3d-34.9618226!4d-54.9452063!16s%2Fg%2F11v4zgrm7c!19sChIJtTsgl0MFdZURc8JAHQVx_34"
+   },
+   {
+    "sucursal": "Carrasco",
+    "address": "Esteban A. Elena 6390, Montevideo, Uruguay",
+    "lat": -34.890204,
+    "lng": -56.064569,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Agnes+Lenoble+Carrasco/data=!4m7!3m6!1s0x959f873965195bbd:0x7ccf1c2f7f659388!8m2!3d-34.8902038!4d-56.064569!16s%2Fg%2F11q1mdvlc2!19sChIJvVsZZTmHn5URiJNlfy8cz3w"
+   },
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Solano García 2463, Montevideo, Uruguay",
+    "lat": -34.922284,
+    "lng": -56.160011,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Agnes+Lenoble+Punta+Carretas/data=!4m7!3m6!1s0x959f812512cd9fc7:0x80858baca295df48!8m2!3d-34.9222836!4d-56.1600114!16s%2Fg%2F11rc9t_twc!19sChIJx5_NEiWBn5URSN-VoqyLhYA"
+   }
+  ]
+ },
+ {
+  "id": 873,
+  "merchant": "Benicia Store",
+  "resolved_name": "Benicia Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Dr. Alejandro Schroeder 6475, Montevideo, Uruguay",
+    "lat": -34.887029,
+    "lng": -56.057194,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Benicia/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8763c1ffe207:0xdab6b809ad9df3b1!8m2!3d-34.8870294!4d-56.0571942!16s%2Fg%2F11mvm146mz"
+   }
+  ]
+ },
+ {
+  "id": 877,
+  "merchant": "By Florencia",
+  "resolved_name": "By Florencia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Miraflores 1482, Montevideo, Uruguay",
+    "lat": -34.890981,
+    "lng": -56.061585,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/By+Florencia/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f879f5fcdcf75:0x4d82b7b37dcc7c23!8m2!3d-34.8909809!4d-56.0615854!16s%2Fg%2F11mbqfcm_1"
+   }
+  ]
+ },
+ {
+  "id": 881,
+  "merchant": "Jazmín Chebar",
+  "resolved_name": "Jazmín Chebar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "José Ellauri 350, Montevideo, Uruguay",
+    "lat": -34.924122,
+    "lng": -56.158586,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Jazm%C3%ADn+Chebar/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f817be76a9157:0x279067d5940f18f6!8m2!3d-34.9241222!4d-56.1585856!16s%2Fg%2F11h3zn79dv"
+   }
+  ]
+ },
+ {
+  "id": 887,
+  "merchant": "Mutma",
+  "resolved_name": "Mutma",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av.Gral Rivera 6692, Montevideo, Uruguay",
+    "lat": -34.885902,
+    "lng": -56.057194,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Mutma/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8668c943ffff:0x5de1248b8b630dfb!8m2!3d-34.8859022!4d-56.0571942!16s%2Fg%2F11h_6p_sw3"
+   }
+  ]
+ },
+ {
+  "id": 890,
+  "merchant": "SierraMora",
+  "resolved_name": "SierraMora",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Solano García 2463, Montevideo, Uruguay",
+    "lat": -34.922284,
+    "lng": -56.160011,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/SierraMora/data=!4m7!3m6!1s0x959f81e27c51a28f:0xbd241fed0bbfb573!8m2!3d-34.9222836!4d-56.1600114!16s%2Fg%2F11jdj5p5n5!19sChIJj6JRfOKBn5URc7W_C-0fJL0"
+   }
+  ]
+ },
+ {
+  "id": 891,
+  "merchant": "Rosa Rosa",
+  "resolved_name": "Rosa Rosa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Mantua 6681, Montevideo, Uruguay",
+    "lat": -34.887469,
+    "lng": -56.051468,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Rosa+Rosa/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8722eb955c7f:0x6cd791f8d60e69bb!8m2!3d-34.8874691!4d-56.0514676!16s%2Fg%2F11tt5n8nq0"
+   }
+  ]
+ },
+ {
+  "id": 898,
+  "merchant": "Ferrero Studio",
+  "resolved_name": "Ferrero Studio",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Gral. Leandro Gomez 1157, Paysandú, Uruguay",
+    "lat": -32.318175,
+    "lng": -58.082614,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Ferrero+Studio/data=!4m7!3m6!1s0x95afc944e44a95cf:0xd006cbc4a2e7cd65!8m2!3d-32.3181747!4d-58.082614!16s%2Fg%2F11svwkns16!19sChIJz5VK5ETJr5URZc3nosTLBtA"
+   }
+  ]
+ },
+ {
+  "id": 900,
+  "merchant": "La Boutique Paris",
+  "resolved_name": "La Boutique Paris",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10 km 164, Manantiales, Maldonado, Uruguay",
+    "lat": -34.905019,
+    "lng": -54.827836,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/La+Boutique+Paris/data=!4m7!3m6!1s0x957502d8540dfcbb:0xf37cfac1bab14bee!8m2!3d-34.9050187!4d-54.8278357!16s%2Fg%2F11c61m62mj!19sChIJu_wNVNgCdZUR7kuxusH6fPM"
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "merchant": "Perpetua",
+  "resolved_name": "Perpetua",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "21 de Setiembre 3091, Montevideo, Uruguay",
+    "lat": -34.920025,
+    "lng": -56.150531,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/PERPETUA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81a22edd2287:0x40d7a2b22833fbd5!8m2!3d-34.920025!4d-56.1505311!16s%2Fg%2F11h002hy8m"
+   }
+  ]
+ },
+ {
+  "id": 909,
+  "merchant": "SB",
+  "resolved_name": "Shill (Shill Bidder)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "José Ellauri 493 BIS, Montevideo, Uruguay",
+    "lat": -34.921489,
+    "lng": -56.157958,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Shill+Bidder/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81d98ae0845d:0xb5250df1ae5c025a!8m2!3d-34.9214891!4d-56.1579579!16s%2Fg%2F11rnnzks8c"
+   }
+  ]
+ },
+ {
+  "id": 913,
+  "merchant": "Wanama",
+  "resolved_name": "Wanama",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Montevideo Shopping, Av. Dr. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "lat": -34.924073,
+    "lng": -56.158525,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/WANAMA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8177e36005a7:0x13ead81b342b7fd!8m2!3d-34.9240735!4d-56.1585246!16s%2Fg%2F11c1p36ncy"
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "merchant": "Jefris",
+  "resolved_name": "Jefris",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Calle Uruguay, Salto, Uruguay",
+    "lat": -31.387916,
+    "lng": -57.962567,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Jefri's+Gelato+%26+Caf%C3%A9/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95addd12cfc102e3:0x38d0653267252d41!8m2!3d-31.3879159!4d-57.9625667!16s%2Fg%2F11vjq98sb9"
+   }
+  ]
+ },
+ {
+  "id": 814,
+  "merchant": "Riviera Joyería",
+  "resolved_name": "Riviera Joyas",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Montevideo, Uruguay",
+    "lat": -34.923791,
+    "lng": -56.15852,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Riviera+Joyas/data=!4m7!3m6!1s0x959f81968916657f:0x19fc22a1749f3e09!8m2!3d-34.9237906!4d-56.1585199!16s%2Fg%2F11t9ls5l10!19sChIJf2UWiZaBn5URCT6fdKEi_Bk"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Nuevocentro Shopping, Av. Luis Alberto de Herrera, Montevideo, Uruguay",
+    "lat": -34.868659,
+    "lng": -56.170011,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Riviera+Joyas/data=!4m7!3m6!1s0x959f80700fa04a73:0x3bd719edf696a365!8m2!3d-34.8686592!4d-56.1700108!16s%2Fg%2F11dyxdbc46!19sChIJc0qgD3CAn5URZaOW9u0Z1zs"
+   }
+  ]
+ },
+ {
+  "id": 823,
+  "merchant": "La Bodeguita Sacromonte",
+  "resolved_name": "La Bodeguita Sacromonte",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Sir Eugen Millington Drake 1703, Montevideo, Uruguay",
+    "lat": -34.885346,
+    "lng": -56.05633,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/La+Bodeguita+de+Sacromonte/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f87007e7a8869:0xf6a8b5d35449f724!8m2!3d-34.8853457!4d-56.0563296!16s%2Fg%2F11mc9yppkk"
+   }
+  ]
+ },
+ {
+  "id": 844,
+  "merchant": "Cerro del Toro",
+  "resolved_name": "Bodega Cerro del Toro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Piriápolis, Maldonado, Uruguay",
+    "lat": -34.859669,
+    "lng": -55.235109,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Bodega+Cerro+del+Toro/data=!4m7!3m6!1s0x9575435bd8549907:0x12bfe61ad4057117!8m2!3d-34.8596687!4d-55.2351087!16s%2Fg%2F11spvmv_9n!19sChIJB5lU2FtDdZURF3EF1BrmvxI"
+   }
+  ]
+ },
+ {
+  "id": 845,
+  "merchant": "Compañía Uruguaya de Vinos del Mar",
+  "resolved_name": "Compañía Uruguaya de Vinos del Mar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Pueblo Garzón, Maldonado, Uruguay",
+    "lat": -34.591613,
+    "lng": -54.543011,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Compa%C3%B1%C3%ADa+Uruguaya+de+Vinos+de+Mar+(CUVdM)/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9574c37a8ec9c6c1:0x16e90c0c5f78ee9f!8m2!3d-34.5916129!4d-54.5430109!16s%2Fg%2F11j6zb9tc4"
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "merchant": "La Panadería de José Ignacio",
+  "resolved_name": "La Panadería de José Ignacio",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10, La Juanita, Maldonado, Uruguay",
+    "lat": -34.835342,
+    "lng": -54.642826,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Panader%C3%ADa+Jos%C3%A9+Ignacio/data=!4m7!3m6!1s0x9574fb3c25513cab:0x85b2a00e11d093b!8m2!3d-34.8353416!4d-54.6428256!16s%2Fg%2F11fjy3y731!19sChIJqzxRJTz7dJUROwkd4QAqWwg"
+   }
+  ]
+ },
+ {
+  "id": 856,
+  "merchant": "LaLinda",
+  "resolved_name": "LaLinda",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "18 de julio y Montevideo, Manantiales, Maldonado, Uruguay",
+    "lat": -34.90477,
+    "lng": -54.824429,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/La+Linda+Panader%C3%ADa+y+Caf%C3%A9/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957502d99c8f1137:0xb79ee5de7ec2e9e8!8m2!3d-34.90477!4d-54.8244291!16s%2Fg%2F11c30r3sm_"
+   }
+  ]
+ },
+ {
+  "id": 868,
+  "merchant": "Sweet Angie",
+  "resolved_name": "Sweet Ange Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Misiones 184, Salto, Uruguay",
+    "lat": -31.390482,
+    "lng": -57.958967,
+    "confidence": 0.6,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Sweet+Ange+Caf%C3%A9/data=!4m7!3m6!1s0x95addd004707c497:0x782a3548f7e0c0f2!8m2!3d-31.390482!4d-57.9589669!16s%2Fg%2F11vrszyx9r!19sChIJl8QHRwDdrZUR8sDg90g1Kng"
+   }
+  ]
+ },
+ {
+  "id": 886,
+  "merchant": "Mariacher",
+  "resolved_name": "María Cher",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Alfredo Arocena 1584, Montevideo, Uruguay",
+    "lat": -34.889447,
+    "lng": -56.056736,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Maria+Cher/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866f13b1d78b:0xff8b3d80345298f8!8m2!3d-34.8894471!4d-56.0567363!16s%2Fg%2F11h461dzbh"
+   }
+  ]
+ },
+ {
+  "id": 892,
+  "merchant": "Amén",
+  "resolved_name": "Amén",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Solano García 2454, Montevideo, Uruguay",
+    "lat": -34.9224,
+    "lng": -56.160419,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Am%C3%A9n/data=!4m7!3m6!1s0x959f817829f4809f:0x6032f3bce8a579b4!8m2!3d-34.9224003!4d-56.1604194!16s%2Fg%2F11dynbr660!19sChIJn4D0KXiBn5URtHml6LzzMmA"
+   }
+  ]
+ },
+ {
+  "id": 897,
+  "merchant": "El Beso",
+  "resolved_name": "El Beso",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 10 km 160, La Barra, Maldonado, Uruguay",
+    "lat": -34.914519,
+    "lng": -54.861971,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/EL+BESO+STORE/data=!4m7!3m6!1s0x9575032f41020dcb:0xd887773977fe7b2b!8m2!3d-34.9145187!4d-54.8619707!16s%2Fg%2F11pdvts905!19sChIJyw0CQS8DdZURK3v-dzl3h9g"
+   }
+  ]
+ },
+ {
+  "id": 907,
+  "merchant": "Puropunto",
+  "resolved_name": "Puro Punto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Solano García 2454, Montevideo, Uruguay",
+    "lat": -34.9224,
+    "lng": -56.160419,
+    "confidence": 0.8,
+    "source": "gmaps",
+    "source_url": "https://www.google.com/maps/place/Puro+Punto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8173b6af22e5:0xc1e01b8c2f373092!8m2!3d-34.9224003!4d-56.1604194!16s%2Fg%2F11b6ch1qz9"
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "merchant": "Crepas",
+  "resolved_name": "Crêpas (Crêpes & Jugos Naturales)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 27 (Los Muergos) entre Gorlero y El Foque, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.crepas.com.uy/puntadeleste.php",
+    "lat": -34.961798,
+    "lng": -54.942524,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cr%C3%AApas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575057273daee67:0xcf98ad2fb3f827be!8m2!3d-34.9617979!4d-54.9425244!16s%2Fg%2F11b6_vftd1"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Paseo Gourmet, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.crepas.com.uy/puntacarretas.php"
+   },
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Arocena 1556, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/montevideo/crepas-82636",
+    "lat": -34.889848,
+    "lng": -56.056407,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Alfredo+Arocena+1556,+11500+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866f08b1b6a5:0xa1bdba18a5888103!8m2!3d-34.8898482!4d-56.0564074!16s%2Fg%2F11y26y4qyq"
+   },
+   {
+    "sucursal": "José Ignacio",
+    "address": "Saíz Martínez y Los Cisnes, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.crepas.com.uy/",
+    "lat": -34.842386,
+    "lng": -54.637853,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cr%C3%AApas+Jos%C3%A9+Ignacio/data=!4m7!3m6!1s0x9574fac433ba4ef5:0x18921f65b556c7fb!8m2!3d-34.842386!4d-54.6378529!16s%2Fg%2F11f3m8sr7v!19sChIJ9U66M8T6dJUR-8dWtWUfkhg"
+   },
+   {
+    "sucursal": "La Barra",
+    "address": "Ruta 10 esquina Las Estrellas, La Barra, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.crepas.com.uy/",
+    "lat": -34.9149,
+    "lng": -54.859968,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cr%C3%AApas+La+Barra/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957503459e80c7e7:0x6b7bc109bc500f6b!8m2!3d-34.9149004!4d-54.8599684!16s%2Fg%2F11bxdwbv_2"
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "merchant": "Viasono",
+  "resolved_name": "Viasono",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Matriz",
+    "address": "Rambla de México 6363 esq. Puntas de Santiago, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.viasono.com.uy/sucursales",
+    "lat": -34.8924,
+    "lng": -56.05735,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Casa+Viasono/data=!4m7!3m6!1s0x959f871273233fc9:0x6c3799f54f959e17!8m2!3d-34.8923999!4d-56.0573497!16s%2Fg%2F11vlvp9tnk!19sChIJyT8jcxKHn5URF56VT_WZN2w"
+   },
+   {
+    "sucursal": "Pocitos",
+    "address": "Rambla República del Perú 809 esq. Plaza Gomensoro, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.viasono.com.uy/sucursales"
+   },
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Italia 6190, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.viasono.com.uy/sucursales"
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "merchant": "Cauce",
+  "resolved_name": "Cauce",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Rambla República del Perú 1371, Pocitos, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://costanero.uy/cauce",
+    "lat": -34.909309,
+    "lng": -56.141673,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cauce+Restaurante/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f813209be7613:0xb06837f21987cd68!8m2!3d-34.9093089!4d-56.1416731!16s%2Fg%2F11sg85xj8f"
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "merchant": "Delishop",
+  "resolved_name": "Delishop",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Benito Blanco 705, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://www.delishop.com.uy/contacto/",
+    "lat": -34.91888,
+    "lng": -56.15102,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Delishop/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f817259207469:0x7f4254678a126c65!8m2!3d-34.9188796!4d-56.15102!16s%2Fg%2F11cllzcrdy"
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "merchant": "Kakao Chocolates",
+  "resolved_name": "Kakao Chocolates",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Ingeniero García de Zúñiga 2368, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.facebook.com/kakaochocolatesuy/photos/bienvenidos-a-kakao-ingeniero-garc%C3%ADa-de-z%C3%BA%C3%B1iga-2368punta-carretas/4263607557068928/",
+    "lat": -34.918511,
+    "lng": -56.161726,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Chocolates+Kakao/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f819cafa1f241:0x1377a72061960a7b!8m2!3d-34.9185107!4d-56.1617256!16s%2Fg%2F11rxrz7l17"
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "merchant": "La Corniche",
+  "resolved_name": "La Corniche",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "El Embarcadero entre Avenida Central y Rambla de los Argentinos, Punta Colorada, Piriápolis, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://1122.com.uy/local/la-corniche/LOC538090001",
+    "lat": -34.901309,
+    "lng": -55.260009,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Restaurante+La+Corniche/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575428b91c2d039:0x54f3370ebfdc6008!8m2!3d-34.9013092!4d-55.2600088!16s%2Fg%2F11bwhb0999"
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "merchant": "Las Ánimas Casa de Campo",
+  "resolved_name": "Las Ánimas Casa de Campo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Ruta 60 Km. 19, Paraje Betete, Nueva Carrara, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.facebook.com/photo.php?fbid=120298073245912&id=105074428101610&set=a.111068650835521",
+    "lat": -34.669612,
+    "lng": -55.295612,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/LAS+ANIMAS+-+Casa+de+Campo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95754f809de46bf9:0x9ebcd8764c16abfb!8m2!3d-34.6696124!4d-55.2956119!16s%2Fg%2F11mv_4n6l7"
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "merchant": "McDonald's",
+  "resolved_name": "McDonald's",
+  "es_cadena": true,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": "Centro (18 de Julio y Ejido)",
+    "address": "Av. 18 de Julio 1353, Centro, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo/18-de-julio-y-ejido-18e",
+    "lat": -34.90549,
+    "lng": -56.186784,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x959f802d497307c5:0xe8fc7e0e290f3c72!8m2!3d-34.9054897!4d-56.1867844!16s%2Fg%2F11ddxqz8v5!19sChIJxQdzSS2An5URcjwPKQ5-_Og"
+   },
+   {
+    "sucursal": "Centro (18 de Julio y Río Negro)",
+    "address": "Av. 18 de Julio 1056, Centro, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d8732654-Reviews-McDonald_s-Montevideo_Montevideo_Department.html",
+    "lat": -34.906167,
+    "lng": -56.193416,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+18+de+Julio+1056,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f802d4bf62877:0x46f3a7bf14d92522!8m2!3d-34.9061668!4d-56.1934163!16s%2Fg%2F11q2nddsch"
+   },
+   {
+    "sucursal": "La Blanqueada (8 de Octubre)",
+    "address": "Av. 8 de Octubre 3395, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.rappi.com.uy/restaurantes/delivery/4502-mcdonalds",
+    "lat": -34.879298,
+    "lng": -56.148304,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f80f1dad837bf:0x68a78aade62bb913!8m2!3d-34.8792982!4d-56.148304!16s%2Fg%2F1hm44ymmp"
+   },
+   {
+    "sucursal": "Cordón (Bulevar Artigas)",
+    "address": "Bulevar Artigas 1454, Cordón, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.rappi.com.uy/restaurantes/delivery/4502-mcdonalds",
+    "lat": -34.902356,
+    "lng": -56.163947,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Bv.+Gral.+Artigas+1454,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m5!3m4!1s0x959f81a9516ce1fd:0xfdb954a425c9610f!8m2!3d-34.9023559!4d-56.1639465"
+   },
+   {
+    "sucursal": "Ciudad Vieja (Sarandí)",
+    "address": "Sarandí 558, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d7035433-Reviews-McDonald_s-Montevideo_Montevideo_Department.html",
+    "lat": -34.907151,
+    "lng": -56.203602,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f7f807fe2f9a5:0x9404b552a046b36d!8m2!3d-34.9071505!4d-56.2036017!16s%2Fg%2F1tw_pff3"
+   },
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo",
+    "lat": -34.902733,
+    "lng": -56.136807,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1290,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8116034ba2df:0xb920b859e8502c17!8m2!3d-34.9027327!4d-56.1368072!16s%2Fg%2F11jcq8l0kr"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://portones.com.uy/locales/mcdonald-039-s-nivel-1",
+    "lat": -34.880996,
+    "lng": -56.07961,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x959f86f01276fd55:0x83e328bb00d16611!8m2!3d-34.880996!4d-56.0796101!16s%2Fg%2F1tgxk6tr!19sChIJVf12EvCGn5UREWbRALso44M"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Nuevocentro Shopping, Av. Luis Alberto de Herrera 3365, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://nuevocentroshopping.com.uy/locales/mcdonalds/",
+    "lat": -34.869703,
+    "lng": -56.169883,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f814cbed67fbb:0x75c678b75c350e8!8m2!3d-34.8697028!4d-56.1698834!16s%2Fg%2F11h2fdtv3j"
+   },
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Bulevar Artigas 1825, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo",
+    "lat": -34.893894,
+    "lng": -56.166386,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8053dc6e87fd:0xd0bb08eae8f115b!8m2!3d-34.8938944!4d-56.1663862!16s%2Fg%2F11g_dpcl8"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/montevideo",
+    "lat": -34.92354,
+    "lng": -56.159224,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f819d61332fb1:0xc6af551d1096ca76!8m2!3d-34.9235403!4d-56.1592235!16s%2Fg%2F11r9w60ch"
+   },
+   {
+    "sucursal": "Punta del Este (Gorlero)",
+    "address": "Av. Gorlero esq. Calle 27, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.mcdonalds.com.uy/restaurantes/punta-del-este/gorlero-gor",
+    "lat": -34.961589,
+    "lng": -54.942692,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald's/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505727014556f:0x71840152e2ab7c0e!8m2!3d-34.9615886!4d-54.942692!16s%2Fg%2F1wc4942m"
+   },
+   {
+    "sucursal": "Punta del Este (Roosevelt Parada 6)",
+    "address": "Av. Franklin D. Roosevelt Parada 6, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d9768913-Reviews-McDonald_s-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.940914,
+    "lng": -54.933274,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x957505f87a3b732d:0x69720a93fa729ecb!8m2!3d-34.9409139!4d-54.9332741!16s%2Fg%2F11g_xz3f9m!19sChIJLXM7evgFdZURy55y-pMKcmk"
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "merchant": "Misushi MVD",
+  "resolved_name": "Misushi MVD",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal (Punta Carretas)",
+    "address": "Ing. Luis Franzini 907, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d15852644-Reviews-Misushi_Mvd-Montevideo_Montevideo_Department.html",
+    "lat": -34.914198,
+    "lng": -56.15898,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Misushi/data=!4m7!3m6!1s0x959f81bf7e199f97:0x1e2585ff111ccbee!8m2!3d-34.914198!4d-56.1589803!16s%2Fg%2F11gmcdll8z!19sChIJl58Zfr-Bn5UR7sscEf-FJR4"
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "merchant": "Olivia Restó",
+  "resolved_name": "Olivia Resto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 21 entre Gorlero y Rambla Artigas, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://uy.sluurpy.com/punta-del-este/restaurante/6034285/olivia-resto",
+    "lat": -34.963576,
+    "lng": -54.946103,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Olivia+Rest%C3%B3/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750571bdfd9a53:0x3faf52dfc26cb04e!8m2!3d-34.9635763!4d-54.946103!16s%2Fg%2F11bw4ycyl8"
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "merchant": "Sudestada",
+  "resolved_name": "Sudestada",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Dr. Luis Bonavita 1315, Buceo, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/2865",
+    "lat": -34.903168,
+    "lng": -56.135302,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Sudestada+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f813e094e6991:0x93b715d288318e9f!8m2!3d-34.9031675!4d-56.1353024!16s%2Fg%2F11bzxc1wks"
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "merchant": "Watashi",
+  "resolved_name": "Watashi Sushi & Wok",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Calle 27 (Los Muergos) entre Calle 22 y Av. Juan Gorlero, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://uy.latinoplaces.com/maldonado/watashi-sushi-asian-restaurant-321417",
+    "lat": -34.962043,
+    "lng": -54.942486,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Watashi+Sushi+%26+Wok/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505723f7eac3f:0xe3f1e09fe96b9474!8m2!3d-34.9620428!4d-54.9424858!16s%2Fg%2F11btxl569p"
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "merchant": "Zule",
+  "resolved_name": "Zule - Panadería y Café",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Camino a la Laguna entre Las Orquídeas y Dr. Elbio Rivero, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://panaderias.org/zule-panaderia-y-cafe-punta-del-este/",
+    "lat": -34.91281,
+    "lng": -54.970337,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Zule+-+Panader%C3%ADa+y+Caf%C3%A9/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575110040582b1f:0x476e9d15fc391eeb!8m2!3d-34.9128099!4d-54.9703372!16s%2Fg%2F11wj13d79t"
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "merchant": "La Dolfina",
+  "resolved_name": "La Dolfina Polo Lifestyle",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis A. de Herrera 1290, local 215, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://ladolfinapolo.com.uy/tiendas",
+    "lat": -34.902733,
+    "lng": -56.136807,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Dolfina/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8115f77806b1:0x1dab3dd4ba362b1a!8m2!3d-34.9027327!4d-56.1368072!16s%2Fg%2F11fzd130zq"
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "merchant": "Magnolia",
+  "resolved_name": "Magnolia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6467, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://1122.com.uy/local/magnolia/LOC401640001",
+    "lat": -34.890001,
+    "lng": -56.055959,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Magnolia/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f87293c546ed5:0x4d1396ec2fb228ed!8m2!3d-34.890001!4d-56.055959!16s%2Fg%2F11vb39v6jv"
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "merchant": "Margara Shaw",
+  "resolved_name": "Margara Shaw",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos F. Sáez 6524, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://moweek.com.uy/b/margara-shaw",
+    "lat": -34.889611,
+    "lng": -56.054231,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Margara+Shaw/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f871c4aca8751:0xdf5db40af3abba11!8m2!3d-34.8896111!4d-56.054231!16s%2Fg%2F11c1sj96kc"
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "merchant": "Puro Punto",
+  "resolved_name": "Puro Punto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Solano García 2454, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://puropunto.com/",
+    "lat": -34.9224,
+    "lng": -56.160419,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Puro+Punto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8173b6af22e5:0xc1e01b8c2f373092!8m2!3d-34.9224003!4d-56.1604194!16s%2Fg%2F11b6ch1qz9"
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "merchant": "Club del Bosque",
+  "resolved_name": "Club Social y Deportivo El Bosque",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede",
+    "address": "Parada 6 de Roosevelt, Calle Mónaco y Marne, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.lacosta.com.uy/club-social-deportivo-bosque/",
+    "lat": -34.836101,
+    "lng": -55.974227,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Club+Social+y+Deportivo+El+Bosque/data=!4m7!3m6!1s0x959f89a9f21a967f:0x755269999d455f0f!8m2!3d-34.8361009!4d-55.9742267!16s%2Fg%2F11c73f0r7w!19sChIJf5Ya8qmJn5URD19FnZlpUnU"
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "merchant": "Martinika Deco",
+  "resolved_name": "Martinika Home & Deco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales / La Barra",
+    "address": "Av. Eduardo Víctor Haedo, La Barra, Maldonado, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.estilosdeco.com/negocios/uy/decoracion/martinika-home-deco/",
+    "lat": -34.914472,
+    "lng": -54.862161,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Martinika+Deco/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81a206be30ef:0xd923bb0e2d63f9b4!8m2!3d-34.9144722!4d-54.8621611!16s%2Fg%2F1ptx46tcw"
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "merchant": "Pacifica Casa",
+  "resolved_name": "Pacífica Casa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Ruta 101 Km 19.300, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.clubelpais.com.uy/hogar-y-decoracion/pacifica-casa/",
+    "lat": -34.844161,
+    "lng": -56.016295,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pac%C3%ADfica+casa/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f89bc311732e7:0x5459c7ab7f8ff39b!8m2!3d-34.8441614!4d-56.016295!16s%2Fg%2F11vz9rjjbq"
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "merchant": "Movie",
+  "resolved_name": "Movie Cines (Cinemacenter)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Movie Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://mirandolacartelera.com/uruguay/cine/movie-montevideo"
+   },
+   {
+    "sucursal": "Movie Punta Carretas",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.puntacarretas.com.uy/cine/"
+   },
+   {
+    "sucursal": "Movie Nuevocentro",
+    "address": "Av. Luis Alberto de Herrera y Bv. Artigas, Nuevocentro Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://guiacomercial.uy/cines/montevideo-10/movie-nuevocentro"
+   },
+   {
+    "sucursal": "Movie Portones",
+    "address": "Av. Italia 5775 casi Bolivia, Portones Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.carteleradecine.live/uruguay/movie-nuevocentro/",
+    "lat": -34.881495,
+    "lng": -56.081209,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Movie/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f86efe48a391d:0x19c0b1ba9376f549!8m2!3d-34.8814947!4d-56.0812093!16s%2Fg%2F1tczg2c3"
+   }
+  ]
+ },
+ {
+  "id": 228,
+  "merchant": "Mundo Cartoon",
+  "resolved_name": "Mundo Cartoon (parque Cartoon Network)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Luis Alberto de Herrera y Bulevar Artigas, Nuevocentro Shopping nivel 3, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://nuevocentroshopping.com.uy/locales/mundo-cartoon/",
+    "lat": -34.868362,
+    "lng": -56.170331,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Mundo+Cartoon+Network/data=!4m7!3m6!1s0x959f8070754c0027:0x7c57094fa88c69d7!8m2!3d-34.8683619!4d-56.1703314!16s%2Fg%2F11c1r1xy01!19sChIJJwBMdXCAn5UR12mMqE8JV3w"
+   }
+  ]
+ },
+ {
+  "id": 240,
+  "merchant": "1921",
+  "resolved_name": "1921",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Rambla República de México 6451, Carrasco, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://www.alacarta.com.uy/1921-sofitel/",
+    "lat": -34.890555,
+    "lng": -56.055278,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/1921+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866e4d25eb9f:0x7668a0e07b798ea1!8m2!3d-34.890555!4d-56.055278!16s%2Fg%2F1pp2wwthv"
+   }
+  ]
+ },
+ {
+  "id": 241,
+  "merchant": "Artesia",
+  "resolved_name": "Artesia",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Rostand 1555, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.lanacion.com.ar/revista-living/piezas-con-alma-cafe-y-arte-asi-es-artesia-el-nuevo-local-en-la-calle-mas-linda-de-carrasco-nid17122025/",
+    "lat": -34.889697,
+    "lng": -56.055984,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Artesia/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f870069939f79:0x1ce797ae7a110f6e!8m2!3d-34.8896971!4d-56.0559842!16s%2Fg%2F11y0pf6qh1"
+   }
+  ]
+ },
+ {
+  "id": 242,
+  "merchant": "Asencio",
+  "resolved_name": "Asencio",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Dr. Alfredo Arocena 1999, Carrasco, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://uy.sluurpy.com/montevideo/restaurante/6218384/asencio-bar",
+    "lat": -34.880993,
+    "lng": -56.061783,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Asencio+Bar/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f873b89e9b733:0x658f98e1ca5dee4a!8m2!3d-34.8809933!4d-56.061783!16s%2Fg%2F11ff1xggp9"
+   }
+  ]
+ },
+ {
+  "id": 243,
+  "merchant": "Basílico",
+  "resolved_name": "Basílico",
+  "es_cadena": false,
+  "status": "ok",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Av. Alfredo Arocena 1601, Carrasco, Montevideo, Uruguay",
+    "confidence": 1.0,
+    "source_url": "https://www.basilico.com.uy/",
+    "lat": -34.888779,
+    "lng": -56.057465,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Basilico+Carrasco/data=!4m7!3m6!1s0x959f87d70b1dbfcb:0xf94b30b303a09ee6!8m2!3d-34.8887795!4d-56.0574654!16s%2Fg%2F11t6_xbr8v!19sChIJy78dC9eHn5UR5p6gA7MwS_k"
+   }
+  ]
+ },
+ {
+  "id": 244,
+  "merchant": "Bisiesto",
+  "resolved_name": "Bisiesto",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Prudencio Vázquez y Vega 864, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://superfuture.com/2025/05/new-restaurants-bars/montevideo-bisiesto-restaurant-opening/",
+    "lat": -34.915301,
+    "lng": -56.16103,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Bisiesto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f811d1ba04761:0x987887c06b2490c1!8m2!3d-34.9153011!4d-56.16103!16s%2Fg%2F11y8w7tngf"
+   }
+  ]
+ },
+ {
+  "id": 245,
+  "merchant": "Brot Haus",
+  "resolved_name": "Brothaus",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos (principal)",
+    "address": "26 de Marzo 1399, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://brothaus.uy/",
+    "lat": -34.907303,
+    "lng": -56.145639,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/BrotHaus+Panader%C3%ADa+Alemana/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8112547aba37:0x5eb449812b91b05d!8m2!3d-34.9073033!4d-56.1456389!16s%2Fg%2F11hbr89dfk"
+   }
+  ]
+ },
+ {
+  "id": 246,
+  "merchant": "Café Haus",
+  "resolved_name": "Café Haus",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Malvín",
+    "address": "Velsen 4040, Malvín, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://1122.com.uy/local/cafe-haus/LOC850740001",
+    "lat": -34.896062,
+    "lng": -56.115327,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Caf%C3%A9+Haus/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8123a24635c9:0xe176a3a4c9c4536c!8m2!3d-34.8960617!4d-56.1153266!16s%2Fg%2F11w2zwwwz7"
+   }
+  ]
+ },
+ {
+  "id": 252,
+  "merchant": "Caudillo",
+  "resolved_name": "Caudillo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Millán 3641, Atahualpa, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.smartservices.uy/restaurante/11600-montevideo/caudillo-11600-montevideo_733897.php",
+    "lat": -34.860546,
+    "lng": -56.195136,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Caudillo/data=!4m7!3m6!1s0x95a02b002e782061:0x11ef8e1a5dbbf7fb!8m2!3d-34.8605464!4d-56.1951365!16s%2Fg%2F11y9xh9p5q!19sChIJYSB4LgAroJUR-_e7XRqO7xE"
+   }
+  ]
+ },
+ {
+  "id": 261,
+  "merchant": "Eladio",
+  "resolved_name": "Eladio Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Boulevard 26 de Marzo 1000, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.rappi.com.uy/restaurantes/125491-eladio",
+    "lat": -34.912361,
+    "lng": -56.152657,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Eladio/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81003a25a4a5:0x42bcf8d4df760557!8m2!3d-34.9123607!4d-56.152657!16s%2Fg%2F11whpgn_mx"
+   }
+  ]
+ },
+ {
+  "id": 264,
+  "merchant": "Familia Deicas",
+  "resolved_name": "Bodega Familia Deicas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Bodega Juanicó",
+    "address": "Ruta 5 Km 38.200, Juanicó, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.familiadeicas.com/en/bodega-familia-deicas/",
+    "lat": -34.590122,
+    "lng": -56.262759,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Bodega+Familia+Deicas+-+COCINA+DEICAS/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a65d043dc72011:0xcb18f4ac189a9ede!8m2!3d-34.5901225!4d-56.2627594!16s%2Fg%2F11h994685d"
+   }
+  ]
+ },
+ {
+  "id": 276,
+  "merchant": "La Panera Rosa",
+  "resolved_name": "La Panera Rosa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d25090079-Reviews-La_Panera_Rosa-Montevideo_Montevideo_Department.html",
+    "lat": -34.923908,
+    "lng": -56.159499,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Panera+Rosa/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f819f0c0a57d1:0xa9d54adfa5149bfc!8m2!3d-34.923908!4d-56.1594993!16s%2Fg%2F11rsc139jy"
+   }
+  ]
+ },
+ {
+  "id": 279,
+  "merchant": "La Peatonal",
+  "resolved_name": "La Peatonal Beer Garden",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6697, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://opina.com.uy/cerveceria-al-aire-libre/la-peatonal-montevideo_36440.php",
+    "lat": -34.889806,
+    "lng": -56.055314,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Peatonal/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866e50b6c655:0x809f7b2799ca4630!8m2!3d-34.8898061!4d-56.0553137!16s%2Fg%2F11f_j298yf"
+   }
+  ]
+ },
+ {
+  "id": 285,
+  "merchant": "Manzanar",
+  "resolved_name": "Manzanar Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos F. Sáez 6463, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.sluurpy.com/en/montevideo/restaurant/6218548/manzanar",
+    "lat": -34.889901,
+    "lng": -56.05595,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Manzanar+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866faa649a69:0xdd1bf9339e07bb68!8m2!3d-34.8899005!4d-56.0559502!16s%2Fg%2F11fx7m74cx"
+   }
+  ]
+ },
+ {
+  "id": 288,
+  "merchant": "Misushi",
+  "resolved_name": "Misushi MVD",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Ing. Luis Franzini 907 esq. Sarmiento, Buceo, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.facebook.com/misushimvd/",
+    "lat": -34.914198,
+    "lng": -56.15898,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Misushi/data=!4m7!3m6!1s0x959f81bf7e199f97:0x1e2585ff111ccbee!8m2!3d-34.914198!4d-56.1589803!16s%2Fg%2F11gmcdll8z!19sChIJl58Zfr-Bn5UR7sscEf-FJR4"
+   }
+  ]
+ },
+ {
+  "id": 292,
+  "merchant": "Nueva Malvín",
+  "resolved_name": "Nueva Malvín (panadería/rotisería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Malvín",
+    "address": "Hipólito Irigoyen 1419, Malvín, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.opina.com.uy/panaderia/nueva-malvin-montevideo_100200.php",
+    "lat": -34.895004,
+    "lng": -56.108079,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Nueva+Malv%C3%ADn+NM1/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f86c95d25392f:0xa19808e7f9d8983c!8m2!3d-34.895004!4d-56.1080786!16s%2Fg%2F1tjkgzgs"
+   }
+  ]
+ },
+ {
+  "id": 301,
+  "merchant": "Rio",
+  "resolved_name": "Rio Café y Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Carlos Federico Sáez 6430, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://saliracomer.com/index.php/s/restaurant/7373",
+    "lat": -34.890672,
+    "lng": -56.056956,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/RIO+CAFE+RESTAURANT/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f872339225141:0x72c916070bbb0848!8m2!3d-34.8906715!4d-56.0569562!16s%2Fg%2F11k56t4rqq"
+   }
+  ]
+ },
+ {
+  "id": 308,
+  "merchant": "Sushi Wok Perú",
+  "resolved_name": "Sushi Wok Perú",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Manuel Vicente Pagola 3247, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.sushiwokperu.com.uy/",
+    "lat": -34.908457,
+    "lng": -56.145693,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Sushi+Wok+Per%C3%BA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8112ea1f2ce3:0x6c24df03b6adce39!8m2!3d-34.9084572!4d-56.1456925!16s%2Fg%2F11ddzfv9b2"
+   }
+  ]
+ },
+ {
+  "id": 314,
+  "merchant": "Varela Zarranz",
+  "resolved_name": "Bodega Viña Varela Zarranz",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Bodega",
+    "address": "Ruta 74 Km 29, Joaquín Suárez, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.varelazarranz.com/contacto/?lang=en",
+    "lat": -34.72426,
+    "lng": -56.040427,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Vi%C3%B1a+Varela+Zarranz/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a02f43b463d6e5:0xb10f0fe9a105ec19!8m2!3d-34.7242605!4d-56.0404272!16s%2Fg%2F1ptx542xy"
+   }
+  ]
+ },
+ {
+  "id": 315,
+  "merchant": "Vela",
+  "resolved_name": "Vela Restó",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Av. Gabriela Mistral 2231, Parque Miramar, Ciudad de la Costa, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://velaresto.uy/",
+    "lat": -34.86511,
+    "lng": -56.032398,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Restaurante+Vela+Rest%C3%B3/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f87ebfc0c2c5b:0xa421eed1edf61842!8m2!3d-34.8651101!4d-56.0323981!16s%2Fg%2F11kj4q9g49"
+   }
+  ]
+ },
+ {
+  "id": 320,
+  "merchant": "Gourmeat Carrasco",
+  "resolved_name": "Gourmeat Boutique de Carnes - Carrasco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Dr. Juan B. Alberdi 6548, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.smartservices.uy/carniceria/montevideo/gourmeat-carrasco-montevideo_405399.php",
+    "lat": -34.879969,
+    "lng": -56.065254,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Gourmeat/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f865946fadaaf:0x79c81a0960044207!8m2!3d-34.879969!4d-56.0652542!16s%2Fg%2F11cnbdgydm"
+   }
+  ]
+ },
+ {
+  "id": 322,
+  "merchant": "Mar Austral",
+  "resolved_name": "Mar Austral SRL (distribuidora de productos del mar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede/depósito",
+    "address": "Av. Dr. Juan Bautista Alberdi 2099 y Cooper, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.3,
+    "source_url": "https://www.comxport.com/co/mar_austral_srl-uruguay-434.php",
+    "lat": -34.880597,
+    "lng": -56.066972,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Mar+Austral/data=!4m7!3m6!1s0x959f8751682a5285:0xd7613427a1923bb0!8m2!3d-34.8805972!4d-56.0669718!16s%2Fg%2F11zcsqpbgj!19sChIJhVIqaFGHn5URsDuSoSc0Ydc"
+   }
+  ]
+ },
+ {
+  "id": 330,
+  "merchant": "Almacén de Campo",
+  "resolved_name": "Almacén de Campo - La Plantación",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales",
+    "address": "Ruta 104 km 5, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://puntadelesteinternacional.com/de-narbona-a-la-plantacion-by-pacha-canton-la-reinvencion-del-almacen-de-campo",
+    "lat": -34.859618,
+    "lng": -54.823007,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Almacen+de+Campo+LA+104/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751d007731161f:0x3c809e7990589f61!8m2!3d-34.8596184!4d-54.8230067!16s%2Fg%2F11vsktzrry"
+   }
+  ]
+ },
+ {
+  "id": 332,
+  "merchant": "Atrevida",
+  "resolved_name": "Atrevida Pizzería",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 8 y 9 (El Trinquete y La Salina), Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.atrevidapizzeria.com.uy/",
+    "lat": -34.96631,
+    "lng": -54.952109,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Atrevida/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750512e180ed29:0x542546ce32bb514c!8m2!3d-34.9663099!4d-54.9521088!16s%2Fg%2F11gntv8y1r"
+   }
+  ]
+ },
+ {
+  "id": 334,
+  "merchant": "Bigote",
+  "resolved_name": "Bigote Bar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 27 y Gorlero, Punta del Este, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d19838596-Reviews-Bigote_Bar-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.961921,
+    "lng": -54.943156,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Bigote/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750572662373d9:0xc94500748d73457a!8m2!3d-34.9619212!4d-54.943156!16s%2Fg%2F11c5_62w5q"
+   }
+  ]
+ },
+ {
+  "id": 335,
+  "merchant": "Blend (Enjoy)",
+  "resolved_name": "Blend Bar - Enjoy Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Hotel Enjoy Punta del Este",
+    "address": "Parada 4 Playa Mansa, Punta del Este, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.alacarta.com.uy/blend-bar-enjoy-punta-del-este/",
+    "lat": -34.950642,
+    "lng": -54.938653,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Blend+Bar/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505154e2b792f:0x1be15bcbd19768a6!8m2!3d-34.9506415!4d-54.9386533!16s%2Fg%2F11f0l484kr"
+   }
+  ]
+ },
+ {
+  "id": 337,
+  "merchant": "Bungalow Suizo - Café",
+  "resolved_name": "Bungalow Suizo",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt y Parada 8, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.bungalowsuizo.com.uy/",
+    "lat": -34.936879,
+    "lng": -54.936346,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Bungalow+Suizo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750536ff2c104b:0x5a6d2e9e0cfa85bc!8m2!3d-34.9368789!4d-54.9363464!16s%2Fg%2F1hf4cr279"
+   }
+  ]
+ },
+ {
+  "id": 338,
+  "merchant": "Cactus y Pescados",
+  "resolved_name": "Cactus y Pescados",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Playa Bikini",
+    "address": "Ruta 104, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d1139175-Reviews-Cactus_y_Pescados-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.905361,
+    "lng": -54.828836,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cactus+y+Pescados/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957502d8747d9f33:0x9af7bfcd7d1a38d1!8m2!3d-34.9053614!4d-54.8288357!16s%2Fg%2F11b6ghvqgz"
+   }
+  ]
+ },
+ {
+  "id": 342,
+  "merchant": "Casa Vilaró",
+  "resolved_name": "Casa Vilaró (sushi fusión)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Av. Panorámica Carlos Páez Vilaró, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.4,
+    "source_url": "https://puntadelesteinternacional.com/casa-vilaro",
+    "lat": -34.907731,
+    "lng": -55.038727,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Casa+Vilar%C3%B3/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957511181df6cbe1:0x6287ba492dc58c2b!8m2!3d-34.9077312!4d-55.0387272!16s%2Fg%2F11k4bbsv13"
+   }
+  ]
+ },
+ {
+  "id": 343,
+  "merchant": "Club de los Balleneros",
+  "resolved_name": "Club de los Balleneros",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Calle Mar Adriático s/n, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://clubdelosballeneros.com.uy/",
+    "lat": -34.902272,
+    "lng": -55.045195,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Restaurant+Balleneros/data=!4m7!3m6!1s0x95751159482ad1a5:0x76bda622603c7429!8m2!3d-34.902272!4d-55.045195!16s%2Fg%2F1ydddkx4j!19sChIJpdEqSFkRdZURKXQ8YCKmvXY"
+   }
+  ]
+ },
+ {
+  "id": 355,
+  "merchant": "Juana",
+  "resolved_name": "Juana Cocina Bar",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Atalaya esq. Héctor Soria, La Juanita, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.realestate-in-uruguay.com/resources/restaurants/jose-ignacio-restaurants-and-bars/juana-cocina-bar-in-jose-ignacio/",
+    "lat": -34.832642,
+    "lng": -54.656902,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Juana/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9574e4d428504cef:0xb0a86b10a07daa4e!8m2!3d-34.8326416!4d-54.6569023!16s%2Fg%2F11cl_kqkh0"
+   }
+  ]
+ },
+ {
+  "id": 358,
+  "merchant": "La Despensa",
+  "resolved_name": "La Despensa (Casagrande Hotel & Beach Club)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Ruta 10 Km 182,5, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://casagrande.club/es/menu",
+    "lat": -34.835465,
+    "lng": -54.64392,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Despensa/data=!4m7!3m6!1s0x9574fbdd5938ed7b:0xf452fc8fb883e9d4!8m2!3d-34.8354653!4d-54.6439204!16s%2Fg%2F11rq3gfbf5!19sChIJe-04Wd37dJUR1OmDuI_8UvQ"
+   }
+  ]
+ },
+ {
+  "id": 359,
+  "merchant": "La Huella",
+  "resolved_name": "Parador La Huella",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "José Ignacio",
+    "address": "Los Cisnes y Playa Brava, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://paradorlahuella.com/en/contact/",
+    "lat": -34.842234,
+    "lng": -54.633755,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Parador+La+Huella/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9574fac70280699f:0x6f4317d33fc8709!8m2!3d-34.8422344!4d-54.6337545!16s%2Fg%2F1hf8bsybx"
+   }
+  ]
+ },
+ {
+  "id": 364,
+  "merchant": "Lighthouse",
+  "resolved_name": "Lighthouse Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla Lorenzo Batlle Pacheco y Avenida del Mar, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.sluurpy.com/punta-del-este/restaurante/6046828/restaurante-lighthouse",
+    "lat": -34.944578,
+    "lng": -54.920262,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Lighthouse+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575051f7508a251:0xbcda0a41f69e172e!8m2!3d-34.9445775!4d-54.9202616!16s%2Fg%2F11cs949rxd"
+   }
+  ]
+ },
+ {
+  "id": 379,
+  "merchant": "Salón Número 3",
+  "resolved_name": "Salón N°3",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Barra",
+    "address": "Camino Eguzquiza esq. Ruta 10, La Barra, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.guruguay.com/es/salon-no-3-restaurante-la-barra/",
+    "lat": -34.908938,
+    "lng": -54.865687,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/SALON+N%C2%B03/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575032d7cc67767:0x6975110ad855daa!8m2!3d-34.9089375!4d-54.8656875!16s%2Fg%2F11j0vxztkn"
+   }
+  ]
+ },
+ {
+  "id": 380,
+  "merchant": "Santa Leoncia",
+  "resolved_name": "Santa Leoncia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Pedragosa Sierra y de los Eucaliptos, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://santaleoncia.uy/",
+    "lat": -34.936242,
+    "lng": -54.925521,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Santa+Leoncia+bar+%26+grill/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505fc6376bee3:0xd7d19ebb2dc942cb!8m2!3d-34.9362416!4d-54.9255207!16s%2Fg%2F11smd93p84"
+   }
+  ]
+ },
+ {
+  "id": 382,
+  "merchant": "Tierra Cocina Fernando Trocca",
+  "resolved_name": "Tierra (Fernando Trocca)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Camino La Aguada, La Barra, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.portalbosque.com/tierra",
+    "lat": -34.897689,
+    "lng": -54.847956,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Tierra/data=!4m7!3m6!1s0x95751d70285e8f81:0x4e55b926a09ecaf7!8m2!3d-34.8976895!4d-54.8479557!16s%2Fg%2F11wwzjbv49!19sChIJgY9eKHAddZUR98qeoCa5VU4"
+   }
+  ]
+ },
+ {
+  "id": 384,
+  "merchant": "Unido",
+  "resolved_name": "Unido (restaurante nikkei)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales",
+    "address": "Ruta 10 Km 163,5, Manantiales Club de la Playa, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.fondodeolla.com/nota/18634-unido-x-3/",
+    "lat": -34.906493,
+    "lng": -54.834606,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Unido+Restaurante/data=!4m7!3m6!1s0x95750300544b69fb:0x97e32ff6e556de07!8m2!3d-34.9064933!4d-54.8346057!16s%2Fg%2F11vrly0yjb!19sChIJ-2lLVAADdZURB95W5fYv45c"
+   }
+  ]
+ },
+ {
+  "id": 385,
+  "merchant": "Virazón",
+  "resolved_name": "Virazón",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla Portuaria esq. Calle 18, Puerto, Punta del Este, Uruguay",
+    "confidence": 0.9,
+    "source_url": "http://www.virazon.com.uy/en/",
+    "lat": -34.968512,
+    "lng": -54.950072,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Virazon,+20100+Punta+del+Este,+Departamento+de+Maldonado/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750577560904b9:0x3bdf6807ae1306e!8m2!3d-34.968512!4d-54.9500717!16s%2Fg%2F1tgjmgff"
+   }
+  ]
+ },
+ {
+  "id": 387,
+  "merchant": "Yacht Club Uruguayo",
+  "resolved_name": "Yacht Club Uruguayo (Restaurante)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Rambla General Artigas, Puerto de Punta del Este, Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d1085298-Reviews-Yacht_Club_Uruguayo-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.964504,
+    "lng": -54.952428,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Yacht+Club+Uruguayo+Restaurante/data=!4m7!3m6!1s0x9575057ad396a7eb:0x496f2fee68b570f9!8m2!3d-34.9645041!4d-54.9524284!16s%2Fg%2F1ttq38dn!19sChIJ66eW03oFdZUR-XC1aO4vb0k"
+   }
+  ]
+ },
+ {
+  "id": 390,
+  "merchant": "Gourmeat",
+  "resolved_name": "Gourmeat Boutique de Carnes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt esq. Av. Pedragosa Sierra, Punta del Este, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.waze.com/es/live-map/directions/gourmeat-av.-roosevelt-punta-del-este",
+    "lat": -34.941938,
+    "lng": -54.931849,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Gourmeat+Punta+del+este/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575053b973872e7:0xae33d61d200107b1!8m2!3d-34.9419384!4d-54.9318485!16s%2Fg%2F11c5_p03m_"
+   },
+   {
+    "sucursal": "Carmelo",
+    "address": "Av. Italia 986, Carmelo, Colonia, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.carmeloportal.com/71672-gourmeat-boutique-de-carnes-desembarca-en-carmelo",
+    "lat": -33.986673,
+    "lng": -58.282977,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Gourmeat+-+Carnicer%C3%ADa+Boutique/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a4b5e1b2c429c3:0xd2f92a0ef75a66a2!8m2!3d-33.986673!4d-58.2829766!16s%2Fg%2F11s7513k6g"
+   }
+  ]
+ },
+ {
+  "id": 397,
+  "merchant": "El Barco",
+  "resolved_name": "El Barco (Club Remeros Mercedes)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercedes",
+    "address": "De la Ribera 949, Mercedes, Soriano, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://elbarcoresto.com/",
+    "lat": -33.243037,
+    "lng": -58.026906,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/El+Barco+-+Rest%C3%B3+%26+Coffee/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a53f001f6ebd6f:0x8ccfea6ce913baf4!8m2!3d-33.243037!4d-58.0269058!16s%2Fg%2F11zz0tl79f"
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "merchant": "La Estación",
+  "resolved_name": "La Estación (cafetería/restaurante, Salto)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Salto",
+    "address": "Ruta 3 km 484 y Av. Carlos Reyles, Salto, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://yorugupino.com/cafeteria/salto/la-estacion-salto/",
+    "lat": -31.410951,
+    "lng": -57.940787,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+estacion+Salto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95addd4800d481d3:0xd009a29df0a7d1c1!8m2!3d-31.4109509!4d-57.9407868!16s%2Fg%2F11rhrt3h2n"
+   }
+  ]
+ },
+ {
+  "id": 411,
+  "merchant": "20dtodelunesajuevesenBK",
+  "resolved_name": "Burger King",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio y Ejido",
+    "address": "Av. 18 de Julio 1350 esq. Ejido, Centro, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "18 de Julio y Río Negro",
+    "address": "Av. 18 de Julio 1034, Centro, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Av. 8 de Octubre",
+    "address": "Av. 8 de Octubre 3604 esq. Pernas, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Av. Italia y Caldas",
+    "address": "Av. Italia 4386 esq. Caldas, Malvín, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.887549,
+    "lng": -56.114777,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Italia+4386,+11400+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f812cb790e151:0x3897a3ba909694cb!8m2!3d-34.8875494!4d-56.114777!16s%2Fg%2F11f66h0b9w"
+   },
+   {
+    "sucursal": "Av. L. A. Herrera Drive",
+    "address": "Plácido Ellauri 3494 esq. Luis Alberto de Herrera, Buceo, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Av. Palmar",
+    "address": "Bv. Artigas 1522 esq. Palmar, Cordón, Montevideo, Uruguay",
+    "confidence": 0.95,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.900413,
+    "lng": -56.164001,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x959f81ab88e8aae3:0x2a2d7365971ae282!8m2!3d-34.9004129!4d-56.1640013!16s%2Fg%2F11f3m9qy8w!19sChIJ46roiKuBn5URguIal2VzLSo"
+   },
+   {
+    "sucursal": "Clínicas",
+    "address": "Av. Italia 2877, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "La Comercial",
+    "address": "Arenal Grande 2246, La Comercial, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Paso Molino",
+    "address": "Av. Agraciada 4252, Paso Molino, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.855784,
+    "lng": -56.220456,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Burger+King/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a1d57e53b15e7d:0xc5dd4aaecfc8ebbe!8m2!3d-34.8557844!4d-56.2204565!16s%2Fg%2F11j0rfytks"
+   },
+   {
+    "sucursal": "Shopping Nuevocentro",
+    "address": "Luis Alberto de Herrera 3365, Nivel 2 Local 231, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Shopping Portones",
+    "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Shopping Punta Carretas",
+    "address": "José Ellauri 350, Nivel 3, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/"
+   },
+   {
+    "sucursal": "Shopping Tres Cruces",
+    "address": "Bv. Gral. Artigas 1825, Nivel 2, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.894556,
+    "lng": -56.166728,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Shopping+Tres+Cruces,+Bv.+Gral.+Artigas+1825,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8053b6e2f167:0x6d6b294182810e66!8m2!3d-34.8945557!4d-56.1667283!16s%2Fg%2F11pz_s0g97"
+   },
+   {
+    "sucursal": "Punta del Este - Gorlero",
+    "address": "Av. Gorlero esq. Calle 27, Península, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.961814,
+    "lng": -54.942935,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x957505726e04516b:0xf4d5041373c2146b!8m2!3d-34.9618142!4d-54.9429355!16s%2Fg%2F1jkvrx0t4!19sChIJa1EEbnIFdZURaxTCcxME1fQ"
+   },
+   {
+    "sucursal": "Shopping Costa Urbana",
+    "address": "Av. Giannattasio Km 21, Ciudad de la Costa, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.burgerking.com.uy/restaurantes/",
+    "lat": -34.841404,
+    "lng": -55.99343,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Burger+King/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8979e08016bf:0x4c5fddc08965f320!8m2!3d-34.8414036!4d-55.9934301!16s%2Fg%2F11bbw_zky6"
+   }
+  ]
+ },
+ {
+  "id": 412,
+  "merchant": "20menosconlosviernesenBela",
+  "resolved_name": "Bela (Pañalería y Perfumería)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Fernández Crespo",
+    "address": "Fernández Crespo 1696 esq. Av. Uruguay, Cordón, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.bela.com.uy/locales",
+    "lat": -34.899223,
+    "lng": -56.17681,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Daniel+Fern%C3%A1ndez+Crespo+1696,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f804b7253c8a5:0xf4899c183a49ce8f!8m2!3d-34.8992226!4d-56.1768102!16s%2Fg%2F11vt1_674v"
+   },
+   {
+    "sucursal": "Agraciada",
+    "address": "Av. Agraciada 4159, Paso Molino, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.bela.com.uy/locales",
+    "lat": -34.857089,
+    "lng": -56.219354,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/bela+Paso+Molino/data=!4m7!3m6!1s0x95a1d54f532b1493:0xc563af62c78e6ac7!8m2!3d-34.857089!4d-56.219354!16s%2Fg%2F11y3zzgt7g!19sChIJkxQrU0_VoZURx2qOx2KvY8U"
+   },
+   {
+    "sucursal": "Gral. Artigas / Solís",
+    "address": "Av. Gral. José Gervasio Artigas 863 esq. Solís, Pando, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.bela.com.uy/locales",
+    "lat": -34.717314,
+    "lng": -55.96152,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/bela+Pando/data=!4m7!3m6!1s0x95a027a7ee4f7247:0xe49d9781bf862c8!8m2!3d-34.717314!4d-55.96152!16s%2Fg%2F11sgl3ch69!19sChIJR3JP7qcnoJURyGL4G3jZSQ4"
+   },
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Bv. Gral. Artigas 1825, Nivel 2 Local 220, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.trescruces.com.uy/local/bela/",
+    "lat": -34.893861,
+    "lng": -56.166683,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/bela+Tres+Cruces+Shopping/data=!4m7!3m6!1s0x959f81e2e6645faf:0x3f50fc66f38ec2db!8m2!3d-34.893861!4d-56.166683!16s%2Fg%2F11t6h83yw8!19sChIJr19k5uKBn5UR28KO82b8UD8"
+   },
+   {
+    "sucursal": "Av. 8 de Octubre",
+    "address": "Av. 8 de Octubre 3800, La Blanqueada, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/bela-panalera-y-perfumeria-01",
+    "lat": -34.881081,
+    "lng": -56.153772,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/bela+La+Blanqueada/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81a419c16c4b:0xdad62e9238286db2!8m2!3d-34.8810805!4d-56.1537716!16s%2Fg%2F11nqsn6hj2"
+   },
+   {
+    "sucursal": "Piedras Blancas / José Belloni",
+    "address": "Av. José Belloni 4281, Piedras Blancas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.waze.com/live-map/directions/uy/departamento-de-montevideo/montevideo/bela-panalera-y-perfumeria-02",
+    "lat": -34.825663,
+    "lng": -56.141104,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/bela+Piedras+Blancas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a02bc895817917:0x5134084a9d8f11f4!8m2!3d-34.8256626!4d-56.1411041!16s%2Fg%2F11fpfqy7dm"
+   }
+  ]
+ },
+ {
+  "id": 414,
+  "merchant": "TataOCA",
+  "resolved_name": "TaTa",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio / Centro",
+    "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo",
+    "lat": -34.905833,
+    "lng": -56.188423,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/data=!4m7!3m6!1s0x959f81cd279bee3f:0xfbacc51b89e18218!8m2!3d-34.9058329!4d-56.1884229!16s%2Fg%2F11b7lbjnqq!19sChIJP-6bJ82Bn5URGILhiRvFrPs"
+   },
+   {
+    "sucursal": "Rodó",
+    "address": "José Enrique Rodó 1802, Cordón, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-jose-enrique-rodo-1802-montevideo",
+    "lat": -34.904729,
+    "lng": -56.177361,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/data=!4m7!3m6!1s0x959f81b44058f6c9:0xe03cde5676956373!8m2!3d-34.9047287!4d-56.177361!16s%2Fg%2F1tvymz91!19sChIJyfZYQLSBn5URc2OVdlbePOA"
+   },
+   {
+    "sucursal": "Paso Molino",
+    "address": "Av. Agraciada 4214, Paso Molino, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-(paso-molino)-av-agraciada-4214-montevideo",
+    "lat": -34.856255,
+    "lng": -56.219879,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a1d5475660da97:0x9590393c7ef4ddac!8m2!3d-34.8562548!4d-56.2198786!16s%2Fg%2F1hm219ydk"
+   },
+   {
+    "sucursal": "Agraciada / Bella Vista",
+    "address": "Av. Agraciada 2560, Bella Vista, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/",
+    "lat": -34.884625,
+    "lng": -56.193221,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/data=!4m7!3m6!1s0x959f8129be837507:0xc1f72a3608c4829d!8m2!3d-34.8846252!4d-56.1932213!16s%2Fg%2F11g1ktp1b3!19sChIJB3WDvimBn5URnYLECDYq98E"
+   },
+   {
+    "sucursal": "Gral. San Martín",
+    "address": "Gral. San Martín 2700, Reducto, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+   },
+   {
+    "sucursal": "Av. Italia",
+    "address": "Av. Italia 3796, Malvín, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/",
+    "lat": -34.887056,
+    "lng": -56.130097,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Italia+3796,+11400+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8127507a3dc9:0x6893bf5d39827ac0!8m2!3d-34.8870564!4d-56.1300968!16s%2Fg%2F11h3jhph26"
+   },
+   {
+    "sucursal": "Batlle y Ordóñez",
+    "address": "Bv. José Batlle y Ordóñez 1703, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/",
+    "lat": -34.893716,
+    "lng": -56.12933,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/4V4C%2BF7M,+Bv.+Jos%C3%A9+Batlle+y+Ord%C3%B3%C3%B1ez+1703,+11600+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8124f5b045b5:0xe02312c9e9b8cddc!8m2!3d-34.8937164!4d-56.1293301!16s%2Fg%2F11k4k6fhxr"
+   },
+   {
+    "sucursal": "José Belloni",
+    "address": "Av. José Belloni 4393, Piedras Blancas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/",
+    "lat": -34.82296,
+    "lng": -56.140871,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/TaTa+311+-+Piedras+Blancas/data=!4m7!3m6!1s0x95a02a4aefbcfae5:0xc06f91da8c97cba2!8m2!3d-34.8229603!4d-56.1408706!16s%2Fg%2F11bbrggbl2!19sChIJ5fq870oqoJURosuXjNqRb8A"
+   },
+   {
+    "sucursal": "Gral. Rivera",
+    "address": "Av. Gral. Rivera 4250, Malvín, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/"
+   },
+   {
+    "sucursal": "Canelones",
+    "address": "Canelones 888, Cordón, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/",
+    "lat": -34.909249,
+    "lng": -56.197084,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Canelones+888,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81d36f01c231:0x8933c10785623c23!8m2!3d-34.9092488!4d-56.1970838!16s%2Fg%2F11sbhs2ds5"
+   },
+   {
+    "sucursal": "Comercio",
+    "address": "Comercio 2445, Unión, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.sucursales24uy.com/montevideo/tata/comercio-2445-21/",
+    "lat": -34.87798,
+    "lng": -56.141468,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta+Comercio/data=!4m7!3m6!1s0x959f80e8d80f43db:0xcd2bbe7fb79cd4f8!8m2!3d-34.8779804!4d-56.1414683!16s%2Fg%2F1tg_bnw2!19sChIJ20MP2OiAn5UR-NSct3--K80"
+   },
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Bv. Gral. Artigas 1825, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.trescruces.com.uy/local/ta-ta/",
+    "lat": -34.893083,
+    "lng": -56.166388,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8053c3698a85:0x38afda7653e8d0af!8m2!3d-34.8930826!4d-56.1663878!16s%2Fg%2F1q62m7jm2"
+   }
+  ]
+ },
+ {
+  "id": 437,
+  "merchant": "HeladosConaproleTata",
+  "resolved_name": "Supermercados Ta-Ta",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo",
+    "lat": -34.905833,
+    "lng": -56.188423,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/data=!4m7!3m6!1s0x959f81cd279bee3f:0xfbacc51b89e18218!8m2!3d-34.9058329!4d-56.1884229!16s%2Fg%2F11b7lbjnqq!19sChIJP-6bJ82Bn5URGILhiRvFrPs"
+   }
+  ]
+ },
+ {
+  "id": 441,
+  "merchant": "ColeccionablesTaTa",
+  "resolved_name": "Supermercados Ta-Ta",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "18 de Julio",
+    "address": "Av. 18 de Julio 1280, Centro, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.waze.com/live-map/directions/supermercado-tata-av.-18-de-julio-1280-montevideo",
+    "lat": -34.905833,
+    "lng": -56.188423,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ta-Ta/data=!4m7!3m6!1s0x959f81cd279bee3f:0xfbacc51b89e18218!8m2!3d-34.9058329!4d-56.1884229!16s%2Fg%2F11b7lbjnqq!19sChIJP-6bJ82Bn5URGILhiRvFrPs"
+   }
+  ]
+ },
+ {
+  "id": 449,
+  "merchant": "KroserOCA",
+  "resolved_name": "Kroser",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Kroser Castelmar",
+    "address": "Bv. José Batlle y Ordóñez 3393, Buceo, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.kroser.com.uy/tiendas",
+    "lat": -34.899571,
+    "lng": -56.134344,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Kroser+Buceo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f815bbb3797dd:0x3c366e12e233ea9d!8m2!3d-34.899571!4d-56.1343438!16s%2Fg%2F11pv9hgxdq"
+   }
+  ]
+ },
+ {
+  "id": 483,
+  "merchant": "PromoSopranosPocitos",
+  "resolved_name": "Soprano's Pocitos",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Bv. España 2496 esq. Libertad, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.sopranos.com.uy/",
+    "lat": -34.91202,
+    "lng": -56.16055,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Soprano%E2%80%99s/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81a8d030254d:0x25143e16221c9faf!8m2!3d-34.9120197!4d-56.1605502!16s%2Fg%2F11v00hgb5s"
+   }
+  ]
+ },
+ {
+  "id": 511,
+  "merchant": "GripperOCA",
+  "resolved_name": "Gripper",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina Uruguay",
+    "address": "Av. Italia 6530 entre Cooper y Jamaica, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.gripper.com.uy/",
+    "lat": -34.878504,
+    "lng": -56.066856,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Gripper/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f7f86fce9196b:0x350b992b0121bb41!8m2!3d-34.8785042!4d-56.0668562!16s%2Fg%2F11b6ln56bj"
+   }
+  ]
+ },
+ {
+  "id": 531,
+  "merchant": "H&MOCA",
+  "resolved_name": "H&M",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Bvar. Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.UY0001.html",
+    "lat": -34.902724,
+    "lng": -56.137808,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/H%26M+Home/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f814a8dbe740f:0x3124debaa591a660!8m2!3d-34.9027241!4d-56.1378076!16s%2Fg%2F11f9cf1y66"
+   }
+  ]
+ },
+ {
+  "id": 544,
+  "merchant": "HeringVueltaAclasesOCA",
+  "resolved_name": "Hering",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping Center",
+    "address": "Luis A. de Herrera 1290, Local 169, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.hering.com.uy/tiendas",
+    "lat": -34.902669,
+    "lng": -56.137024,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Hering/data=!4m7!3m6!1s0x959f8115fce71c77:0x1e977cd7e80f7222!8m2!3d-34.9026694!4d-56.1370244!16s%2Fg%2F11cnrf97tm!19sChIJdxzn_BWBn5URInIP6Nd8lx4"
+   }
+  ]
+ },
+ {
+  "id": 549,
+  "merchant": "UmbroVueltaAclasesOCA",
+  "resolved_name": "Umbro",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Bulevar Artigas y Luis Alberto de Herrera, Nuevocentro Shopping, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://nuevocentroshopping.com.uy/wt_fc_local/umbro/",
+    "lat": -34.868941,
+    "lng": -56.169795,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Umbro/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81d1546994f9:0x5098a8fb4daa9b96!8m2!3d-34.8689412!4d-56.1697955!16s%2Fg%2F11tn09lftt"
+   }
+  ]
+ },
+ {
+  "id": 849,
+  "merchant": "Fasano",
+  "resolved_name": "Fasano Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Fasano Las Piedras",
+    "address": "Camino Cerro Egusquiza y Paso del Barranco s/n, La Barra, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://fasano.com.br/en/gastronomy/fasano-punta-del-este/",
+    "lat": -34.844204,
+    "lng": -54.891613,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Hotel+Fasano+Punta+del+Este/data=!4m10!3m9!1s0x95751bde1ed733db:0xd043e5bacee89c08!5m2!4m1!1i2!8m2!3d-34.8442036!4d-54.891613!16s%2Fg%2F1tjdmy3m!19sChIJ2zPXHt4bdZURCJzozrrlQ9A"
+   }
+  ]
+ },
+ {
+  "id": 852,
+  "merchant": "Huma",
+  "resolved_name": "Huma Rooftop",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "The Grand Hotel (piso 9)",
+    "address": "Rambla Lorenzo Batlle Pacheco y Avenida del Mar, Playa Brava, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.timeout.com/buenos-aires/the-grand-hotel-punta-del-este-uruguay-travel-tourism-beach-art-gastronomy",
+    "lat": -34.944708,
+    "lng": -54.920208,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/HUMA+Rooftop+Bar+%26+Lounge/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750595836765f5:0x958006e5eda6004c!8m2!3d-34.9447084!4d-54.9202077!16s%2Fg%2F11tjs96ngd"
+   }
+  ]
+ },
+ {
+  "id": 860,
+  "merchant": "O'Farrell Kitchen",
+  "resolved_name": "O'Farrell Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Manantiales",
+    "address": "Ruta 10 km 164.5, Manantiales, Maldonado, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://uk.trip.com/travel-guide/foods/Manantiales-1969467-restaurant/O'Farrell%20Restaurant-19879258",
+    "lat": -34.905316,
+    "lng": -54.823981,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/O'Farrell+Kitchen/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957502d807d72b1b:0x8d60e96221cb07bf!8m2!3d-34.9053159!4d-54.8239809!16s%2Fg%2F11bbrlmlg4"
+   }
+  ]
+ },
+ {
+  "id": 879,
+  "merchant": "Fitpoint",
+  "resolved_name": "Fitpoint",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Calle 20",
+    "address": "Calle 20 entre 28 y 29, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales",
+    "lat": -34.959477,
+    "lng": -54.942553,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Fitpoint/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505cadefb1731:0xae42d0214d02d400!8m2!3d-34.9594765!4d-54.9425526!16s%2Fg%2F11lh5qfwyq"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales",
+    "lat": -34.881539,
+    "lng": -56.081191,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Fitpoint/data=!4m7!3m6!1s0x959f87d763ad95e7:0x484a76b37af019b8!8m2!3d-34.881539!4d-56.0811907!16s%2Fg%2F11stdyybwp!19sChIJ55WtY9eHn5URuBnwerN2Skg"
+   },
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Las Piedras Shopping",
+    "address": "Blvr. del Bicentenario 318, Las Piedras, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Luis Alberto de Herrera 3365, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 882,
+  "merchant": "Lacoste",
+  "resolved_name": "Lacoste",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/lacoste-amplia-su-presencia-en-uruguay-con-nuevas-tiendas-y-colecciones/",
+    "lat": -34.924013,
+    "lng": -56.158856,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Lacoste/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81301b955e47:0xae19bed4ede5ac6f!8m2!3d-34.924013!4d-56.1588562!16s%2Fg%2F11t156gnz7"
+   }
+  ]
+ },
+ {
+  "id": 889,
+  "merchant": "Penguin",
+  "resolved_name": "Penguin",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/el-iconico-pinguino-regresa-a-uruguay-con-un-ambicioso-plan-comercial/",
+    "lat": -34.924057,
+    "lng": -56.159334,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/An+Original+Penguin/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81000b8d99e9:0xa60a1cfa7eaa77f6!8m2!3d-34.9240574!4d-56.159334!16s%2Fg%2F11yd_bfxv3"
+   }
+  ]
+ },
+ {
+  "id": 906,
+  "merchant": "Pura Lana",
+  "resolved_name": "Pura Lana",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "21 de Setiembre 2710 bis, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/pura.lana/"
+   },
+   {
+    "sucursal": "La Barra",
+    "address": "Ruta 10 esq. Las Sirenas, La Barra, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.instagram.com/pura.lana/",
+    "lat": -34.915107,
+    "lng": -54.858936,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pura+Lana+-+La+Barra/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750386f29a74b7:0x2e13cfdbeb83cefb!8m2!3d-34.9151068!4d-54.8589357!16s%2Fg%2F11yqbwqxck"
+   }
+  ]
+ },
+ {
+  "id": 912,
+  "merchant": "Vopero",
+  "resolved_name": "Vopero",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/vopero.uy/",
+    "lat": -34.92345,
+    "lng": -56.158436,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Vopero/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81b81f652c9d:0x89e94208aba812e4!8m2!3d-34.92345!4d-56.1584358!16s%2Fg%2F11w8ym44lz"
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "merchant": "Columbia",
+  "resolved_name": "Columbia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Tienda principal / Oficina central",
+    "address": "Av. Italia 4346, Malvín, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.columbia.com.uy/pages/contacto",
+    "lat": -34.887553,
+    "lng": -56.115923,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Italia+4346,+11400+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f812c90ae699d:0xbae0013577128db1!8m2!3d-34.8875526!4d-56.1159225!16s%2Fg%2F11q2nj5svm"
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "merchant": "Punto Design",
+  "resolved_name": "Punto Design (Concept Store)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Pedro F. Berro 658 esq. 21 de Setiembre, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.puntodesign.com.uy/",
+    "lat": -34.919268,
+    "lng": -56.154028,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pedro+Fco.+Berro+658,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8176ba65df91:0xa1c14976312a0dd0!8m2!3d-34.9192684!4d-56.1540277!16s%2Fg%2F11svnlychm"
+   }
+  ]
+ },
+ {
+  "id": 425,
+  "merchant": "FirestoneOCA",
+  "resolved_name": "Firestone (RASA)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Av. Agraciada 2720, Reducto, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://rasa.com.uy/",
+    "lat": -34.881497,
+    "lng": -56.194903,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Agraciada+2720,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f801a3473455b:0xf23cc2a453b4daae!8m2!3d-34.881497!4d-56.194903!16s%2Fg%2F11rp449kk4"
+   },
+   {
+    "sucursal": "Sucursal Portones",
+    "address": "Av. Italia 5686, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://rasa.com.uy/",
+    "lat": -34.88365,
+    "lng": -56.083812,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Italia+5686,+11400+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f86ef066065b1:0xa479b97f96da76a7!8m2!3d-34.8836499!4d-56.0838117!16s%2Fg%2F11wb2k8mfj"
+   },
+   {
+    "sucursal": "Sucursal Centro",
+    "address": "La Paz 1320, Centro, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://rasa.com.uy/",
+    "lat": -34.899174,
+    "lng": -56.188112,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Paz+1320,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f803142be146b:0x5f961e5d309f69ec!8m2!3d-34.899174!4d-56.188112!16s%2Fg%2F11snqxfsx4"
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "merchant": "Mis Petates",
+  "resolved_name": "Mis Petates",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central (Cagancha)",
+    "address": "Cagancha 2316 esq. Bulevar Artigas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://mispetates.com/tiendas",
+    "lat": -34.885227,
+    "lng": -56.166875,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Cagancha+2316,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f805ba5fed401:0x6134574178eb84f!8m2!3d-34.8852271!4d-56.1668754!16s%2Fg%2F11s4rznfwq"
+   },
+   {
+    "sucursal": "Shopping Tres Cruces",
+    "address": "Bulevar General Artigas 1825, Tres Cruces, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mispetates.com/tiendas"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mispetates.com/tiendas"
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "merchant": "Il Belvedere",
+  "resolved_name": "Il Belvedere Hotel & Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Rambla Lorenzo Batlle esq. Calle Da Vinci, Parada 29, Playa Brava, Punta del Este, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d7202674-Reviews-Il_Belvedere_Restaurante-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.923306,
+    "lng": -54.883913,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Il+Belvedere+Hotel/@-34.6,-55.8,8z/data=!4m9!3m8!1s0x957504a52377ad83:0x2e7a94419b36fb1b!5m2!4m1!1i2!8m2!3d-34.9233061!4d-54.8839127!16s%2Fg%2F1tdpbsrw"
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "merchant": "Moby Dick",
+  "resolved_name": "Moby Dick Pub",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal (Puerto)",
+    "address": "Rambla Gral. Artigas 650, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://mobydick.com.uy/",
+    "lat": -34.965336,
+    "lng": -54.950088,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Rbla.+Gral.+Artigas+650,+20100+Punta+del+Este,+Departamento+de+Maldonado/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505707815e255:0xd7666356694e47ee!8m2!3d-34.9653362!4d-54.9500882!16s%2Fg%2F11yjgkwsc3"
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "merchant": "Sushimi",
+  "resolved_name": "Sushimi Asian Premium & Delivery",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Torres Place Lafayette",
+    "address": "Pedragosa Sierra esq. Parada 5, Av. Roosevelt, Torres Place Lafayette Local 15, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://sushimi.uy/",
+    "lat": -34.942569,
+    "lng": -54.932106,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/SU+SHI+MI+Asian+Premium+-+Delivery+%26+Take+Away+-+Punta+del+Este/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505e62fcf3ce3:0x413e3c265f87a3a!8m2!3d-34.9425686!4d-54.9321061!16s%2Fg%2F11s39mm839"
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "merchant": "Amadeus",
+  "resolved_name": "Amadeus (tienda multimarca masculina - Kevingston, El Ganso, Blue Banana, Brixton)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "José Ellauri esq. Montero, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://amadeuspde.com.uy/tiendas/amadeus-montevideo_2",
+    "lat": -34.921488,
+    "lng": -56.157545,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Amadeus/data=!4m7!3m6!1s0x959f817643d79cbf:0x29e3c1cfd8dace1a!8m2!3d-34.9214884!4d-56.1575446!16s%2Fg%2F11bbwktlbj!19sChIJv5zXQ3aBn5URGs7a2M_B4yk"
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "merchant": "GAP",
+  "resolved_name": "GAP Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://gap.com.uy/tiendas",
+    "lat": -34.902733,
+    "lng": -56.136807,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1290,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8116034ba2df:0xb920b859e8502c17!8m2!3d-34.9027327!4d-56.1368072!16s%2Fg%2F11jcq8l0kr"
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "merchant": "Ludovic",
+  "resolved_name": "Ludovic Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Mercedes",
+    "address": "Colón esquina W. F. Aldunate, Mercedes, Soriano, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.facebook.com/LudovicUy/",
+    "lat": -33.249516,
+    "lng": -58.030311,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Ludovic+Store/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a53f98955ac849:0x7f1e407f6d57e154!8m2!3d-33.2495161!4d-58.0303109!16s%2Fg%2F11fd77mvtw"
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "merchant": "Samsonite",
+  "resolved_name": "Samsonite (tienda oficial)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "Punta Carretas Shopping, José Ellauri 350, Nivel 1, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.busqueda.com.uy/sociales/samsonite-desembarco-uruguay-su-primera-tienda-fisica-punta-carretas-shopping-n5397622",
+    "lat": -34.924057,
+    "lng": -56.159334,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Samsonite/data=!4m7!3m6!1s0x959f8122507711d1:0xeebddc316a08a0a4!8m2!3d-34.9240574!4d-56.159334!16s%2Fg%2F11wvkh96vr!19sChIJ0RF3UCKBn5URpKAIajHcve4"
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "merchant": "Under Armour",
+  "resolved_name": "Under Armour (tienda oficial)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Montevideo Shopping, Av. Dr. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://store-locator.underarmour.com/es-es/store/MONTE-ALADH12901/",
+    "lat": -34.903173,
+    "lng": -56.136022,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Under+Armour/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81161aba9edb:0x2d50f08fe96d0ce!8m2!3d-34.9031727!4d-56.1360224!16s%2Fg%2F11c6dlj7ff"
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "merchant": "Uniform & Co",
+  "resolved_name": "Uniform & Co.",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "26 de Marzo 1344 esquina Pagola, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.instagram.com/p/DDrsN-1pkl4/",
+    "lat": -34.908141,
+    "lng": -56.146473,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/26+de+Marzo+1344,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8112687f6543:0x3546253472d29cdc!8m2!3d-34.9081405!4d-56.1464729!16s%2Fg%2F11wv11dgcy"
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "merchant": "Veroca Joyas",
+  "resolved_name": "Veroca Joyas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Arocena 1571, Locales 8, 9 y 10, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.verocajoyas.com.uy/contacto",
+    "lat": -34.889876,
+    "lng": -56.05722,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Veroca+Joyas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f866f737ce3b9:0x2d189d84dcb8f7eb!8m2!3d-34.8898763!4d-56.0572195!16s%2Fg%2F1pp2x6934"
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "merchant": "Horneros Racket Club",
+  "resolved_name": "Horneros Racket Club",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede",
+    "address": "Camino de los Horneros Km 1.4, Canelones, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.hornerosracketclub.com/",
+    "lat": -34.809228,
+    "lng": -55.979991,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Horneros+Racket+Club/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f890e93aaefeb:0x47006a50b8725464!8m2!3d-34.8092278!4d-55.979991!16s%2Fg%2F11y1zsns77"
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "merchant": "Pulso",
+  "resolved_name": "Pulso Servicio de Acompañantes (UCM)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Oficina central",
+    "address": "Rbla. República de México esq. San Marino, Buceo, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.pulso.com.uy/contacto/",
+    "lat": -34.896554,
+    "lng": -56.073466,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pulso/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f87d815941d91:0x610d32a06e1d39d2!8m2!3d-34.8965544!4d-56.0734663!16s%2Fg%2F11wbjwqn79"
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "merchant": "Le Blanc",
+  "resolved_name": "Le Blanc (ropa de cama y decoración para el hogar)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Buceo",
+    "address": "Av. Dr. Luis Alberto de Herrera 1349, Buceo, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.estilosdeco.com/negocios/uy/decoracion/le-blanc/",
+    "lat": -34.902562,
+    "lng": -56.138235,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1349,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81166a1775d9:0xf9136590fe05e13f!8m2!3d-34.902562!4d-56.1382351!16s%2Fg%2F11vls28bf_"
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "merchant": "FutVolt",
+  "resolved_name": "FutVolt (fútbol y entretenimiento tecnológico)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local principal",
+    "address": "Andrés Lamas 3435, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://futvolt.com/",
+    "lat": -34.86693,
+    "lng": -56.168777,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Andr%C3%A9s+Lamas+3435,+11600+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f807a8a8f8b1b:0x929ff161c9d3bd68!8m2!3d-34.8669302!4d-56.1687772!16s%2Fg%2F11w3d27vmh"
+   }
+  ]
+ },
+ {
+  "id": 256,
+  "merchant": "Crazy Crepes",
+  "resolved_name": "Crazy Crepes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Zonamerica",
+    "address": "Camino de los Olivos, Local 008, Zonamerica, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://1122.com.uy/local/crazy-crepes/LOC559380001",
+    "lat": -34.78877,
+    "lng": -56.078817,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Crazy+Cr%C3%AApes/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a02906477852f1:0xad90e32f13ec35b1!8m2!3d-34.78877!4d-56.0788169!16s%2Fg%2F1hc21bxw9"
+   }
+  ]
+ },
+ {
+  "id": 258,
+  "merchant": "Demorondanga",
+  "resolved_name": "Demorondanga",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "Mario Cassinoni 1200 esquina Charrúa, Cordón, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/3052",
+    "lat": -34.905833,
+    "lng": -56.164853,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Dr.+Mario+Cassinoni+1200,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81af36881d41:0xb802db204ef1f270!8m2!3d-34.9058328!4d-56.164853!16s%2Fg%2F11w7r0fctk"
+   }
+  ]
+ },
+ {
+  "id": 270,
+  "merchant": "La Corte",
+  "resolved_name": "La Corte Restaurant",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Peatonal Sarandí 586, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.9,
+    "source_url": "https://www.alacarta.com.uy/la-corte/",
+    "lat": -34.907063,
+    "lng": -56.203148,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Corte+Restaurant/data=!4m7!3m6!1s0x959f802a80b0b037:0x2ac0134b161a2f6!8m2!3d-34.9070625!4d-56.2031479!16s%2Fg%2F1tgz1s2d!19sChIJN7CwgCqAn5UR9qJhsTQBrAI"
+   }
+  ]
+ },
+ {
+  "id": 284,
+  "merchant": "Malafama Cervecería",
+  "resolved_name": "Cervecería Malafama",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Rodó",
+    "address": "Maldonado 1970, Parque Rodó, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://cervezamalafama.com/locales",
+    "lat": -34.90843,
+    "lng": -56.172522,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Maldonado+1970,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81b060f647bb:0x1ae27e072ab5a1ce!8m2!3d-34.90843!4d-56.1725224!16s%2Fg%2F11tjd2qd35"
+   }
+  ]
+ },
+ {
+  "id": 291,
+  "merchant": "Norimoto",
+  "resolved_name": "Norimoto Carrasco",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Rivera esq. Costa Rica, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.uypress.net/Actualidad/Inauguracion-NORIMOTO-Carrasco-uc149206",
+    "lat": -34.885255,
+    "lng": -56.057192,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Norim%C5%8Dto/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f879bae1a37df:0xdfaa25329707cd08!8m2!3d-34.8852549!4d-56.0571921!16s%2Fg%2F11xrzjf1h7"
+   }
+  ]
+ },
+ {
+  "id": 299,
+  "merchant": "Pompier",
+  "resolved_name": "Pompier (Carrasco)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Av. Rivera esq. Costa Rica (frente a Café Misterio), Carrasco, Montevideo, Uruguay",
+    "confidence": 0.35,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/el-nuevo-pompier-combina-tradicion-y-modernidad-en-carrasco/",
+    "lat": -34.885127,
+    "lng": -56.057228,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pompier/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f87010f33ae3d:0x4ee3f8d7caa22977!8m2!3d-34.8851267!4d-56.0572279!16s%2Fg%2F11x6y5k74v"
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "merchant": "Rudy",
+  "resolved_name": "Rudy Burgers",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "26 de Marzo 3471, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://rudyburgers.com/tiendas",
+    "lat": -34.90578,
+    "lng": -56.137777,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/26+de+Marzo+3471,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f811598cb4635:0x9e53555ad8f5ef65!8m2!3d-34.9057805!4d-56.1377769!16s%2Fg%2F11q2n8q11h"
+   }
+  ]
+ },
+ {
+  "id": 317,
+  "merchant": "Belvedere Bakery",
+  "resolved_name": "Belvedere Bakery",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Gabriela Mistral 2127, Parque Miramar, Ciudad de la Costa, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://belvederebakery.com/pages/local",
+    "lat": -34.865541,
+    "lng": -56.033806,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Gabriela+Mistral+2127,+15000+Ciudad+de+la+Costa,+Departamento+de+Canelones/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f862f84397a0d:0xe403fdc29cc62340!8m2!3d-34.8655415!4d-56.0338056!16s%2Fg%2F11vls2bjzf"
+   }
+  ]
+ },
+ {
+  "id": 321,
+  "merchant": "Gourmeat Market",
+  "resolved_name": "Gourmeat Market - Punta Carretas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Dr. José María Montero 3061, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://1122.com.uy/local/gourmeat/LOC592360001",
+    "lat": -34.922623,
+    "lng": -56.154821,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Gourmeat/data=!4m7!3m6!1s0x959f81776bc6437d:0x77d88a435c9dae62!8m2!3d-34.9226229!4d-56.1548211!16s%2Fg%2F11cmc2wq58!19sChIJfUPGa3eBn5URYq6dXEOK2Hc"
+   }
+  ]
+ },
+ {
+  "id": 329,
+  "merchant": "Abstrakto",
+  "resolved_name": "Abstrakto Café de Especialidad",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calderón de la Barca, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.facebook.com/abstrakto.pde/",
+    "lat": -34.91919,
+    "lng": -54.942447,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Abstrakto+Caf%C3%A9+de+Especialidad/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751bc01b0b3337:0x41f6e89f725f095a!8m2!3d-34.9191895!4d-54.9424474!16s%2Fg%2F11ssf2tv8f"
+   }
+  ]
+ },
+ {
+  "id": 331,
+  "merchant": "Antonino",
+  "resolved_name": "Antonino Ristorante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Puerto",
+    "address": "Juan Díaz de Solís esquina El Trinquete, Puerto, Punta del Este, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d23028079-Reviews-Antonino_Ristorante-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.965645,
+    "lng": -54.951744,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Antonino+Ristorante/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505b4e39e9daf:0x925baae7af2fe715!8m2!3d-34.9656454!4d-54.9517442!16s%2Fg%2F11lh5r1yt7"
+   }
+  ]
+ },
+ {
+  "id": 340,
+  "merchant": "Casa Astigarraga",
+  "resolved_name": "Casa Astigarraga",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Lenzina esquina Bulevar Artigas (Parada 2), Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294066-d25271147-Reviews-Casa_Astigarraga-Punta_del_Este_Maldonado_Department.html",
+    "lat": -34.95366,
+    "lng": -54.937823,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Casa+Astigarraga/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575059e171b93cd:0x25c42e263420daa2!8m2!3d-34.9536601!4d-54.9378227!16s%2Fg%2F11k4t8v1_t"
+   }
+  ]
+ },
+ {
+  "id": 341,
+  "merchant": "Casa Proa",
+  "resolved_name": "Casa Proa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Bulevar Artigas esquina California, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.latinoplaces.com/maldonado/casa-proa-1628988",
+    "lat": -34.94658,
+    "lng": -54.937221,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/CASA+PROA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575052adee38537:0x42b3d0e861d124ea!8m2!3d-34.94658!4d-54.9372206!16s%2Fg%2F11tnk6sv2p"
+   }
+  ]
+ },
+ {
+  "id": 357,
+  "merchant": "La Cava",
+  "resolved_name": "La Cava Restaurant & Parrilla",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Bulevar Gral. José Gervasio Artigas esq. Av. Chiverta, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://parrilladalacava.com.uy/",
+    "lat": -34.951746,
+    "lng": -54.937464,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Cava/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505151be19ab1:0x1edfd4f303fb0b2!8m2!3d-34.9517463!4d-54.9374637!16s%2Fg%2F11c6s2q7jy"
+   }
+  ]
+ },
+ {
+  "id": 362,
+  "merchant": "Las Brisas (Enjoy)",
+  "resolved_name": "Las Brisas - Enjoy Punta del Este",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Enjoy Punta del Este",
+    "address": "Rambla Claudio Williman, Parada 4, Playa Mansa, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://enjoypuntadeleste.uy/restaurantes/las-brisas/",
+    "lat": -34.949961,
+    "lng": -54.939445,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Las+Brisas+Restaurant/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575054006b3dd23:0xf1d9d62433821d2a!8m2!3d-34.9499606!4d-54.939445!16s%2Fg%2F11clgqbswq"
+   }
+  ]
+ },
+ {
+  "id": 363,
+  "merchant": "Las Terrazas",
+  "resolved_name": "Restaurante Las Terrazas (Casapueblo)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Ballena",
+    "address": "Carlos Páez Vilaró s/n, Punta Ballena, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.puntadelestegourmet.com/restaurante-las-terrazas-casapueblo.htm",
+    "lat": -34.908736,
+    "lng": -55.04521,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Restaurante+%22Terrazas+de+Casapueblo%22/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751180bd33ed49:0x9256eedff02ae5e9!8m2!3d-34.9087364!4d-55.0452104!16s%2Fg%2F11fd8ghfnk"
+   }
+  ]
+ },
+ {
+  "id": 388,
+  "merchant": "Zunino",
+  "resolved_name": "Zunino Patisserie",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Roosevelt esq. Budapest, Parada 7, Punta del Este, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.alacarta.com.uy/zunino-patisserie/",
+    "lat": -34.939312,
+    "lng": -54.934773,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Zunino+Patisserie/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95750537a94843dd:0x859970f1c40e0987!8m2!3d-34.9393115!4d-54.9347729!16s%2Fg%2F11f2y0j38h"
+   }
+  ]
+ },
+ {
+  "id": 395,
+  "merchant": "Las Liebres",
+  "resolved_name": "Comarca Las Liebres (Restaurant Hotel & Viñedo)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Colonia del Sacramento",
+    "address": "Armonía Somers 1150, Colonia del Sacramento, Colonia, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.lasliebres.com.uy/",
+    "lat": -34.426352,
+    "lng": -57.851227,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Armonia+Somers+1150,+70000+Colonia+del+Sacramento,+Departamento+de+Colonia/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95a312cba0e1946b:0xfd634f607e90d408!8m2!3d-34.4263519!4d-57.8512274!16s%2Fg%2F11x2ksmvd7"
+   }
+  ]
+ },
+ {
+  "id": 402,
+  "merchant": "Las Eduardas",
+  "resolved_name": "Las Eduardas Restaurante (Apart Hotel)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Paloma",
+    "address": "Rambla Costanera, Playa Anaconda, La Paloma, Rocha, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.tripadvisor.com/Restaurant_Review-g776156-d7678235-Reviews-Las_Eduardas_Restaurante-La_Paloma_Rocha_Department.html",
+    "lat": -34.659911,
+    "lng": -54.178078,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Las+Eduardas+Apart+Hotel+y+Restaurante/@-34.6,-55.8,8z/data=!4m9!3m8!1s0x95749b5c2d9a9a45:0xb3eccbcf6dfe693d!5m2!4m1!1i2!8m2!3d-34.6599107!4d-54.1780777!16s%2Fg%2F1v1kr0py"
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "merchant": "Orishas Sushi",
+  "resolved_name": "Orishas (La Paloma)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Paloma",
+    "address": "Av. Nicolás Solari esq. De la Virgen, La Paloma, Rocha, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://turismorocha.gub.uy/destinos/la-paloma/restaurantes/orishas",
+    "lat": -34.661623,
+    "lng": -54.154753,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Restaurante+Orishas/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95749cb726884fe9:0xacb68d67492984f3!8m2!3d-34.6616235!4d-54.1547529!16s%2Fg%2F11cn5npn7m"
+   }
+  ]
+ },
+ {
+  "id": 446,
+  "merchant": "CartoonsOCA",
+  "resolved_name": "Cartoons",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2554, Aguada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.cartoons.com.uy/tiendas",
+    "lat": -34.882329,
+    "lng": -56.177669,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Arenal+Grande+2554,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8041da5ea965:0x372daf6899de660f!8m2!3d-34.8823295!4d-56.1776691!16s%2Fg%2F11qlf4pp7h"
+   }
+  ]
+ },
+ {
+  "id": 447,
+  "merchant": "BeneficioSecuritas",
+  "resolved_name": "Securitas Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Sede Central",
+    "address": "Avenida Italia 4492, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.securitasuruguay.com/contacto-y-soporte/oficinas/",
+    "lat": -34.887725,
+    "lng": -56.111883,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Italia+4492,+11400+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f86d304408481:0x9bba3bd5d8caa5d3!8m2!3d-34.8877246!4d-56.111883!16s%2Fg%2F11rqlfdwfq"
+   }
+  ]
+ },
+ {
+  "id": 452,
+  "merchant": "AprovechateBelaSemanaAniversario",
+  "resolved_name": "Bela (Pañalera y Perfumería)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Fernández Crespo",
+    "address": "Fernández Crespo 1696 esq. Av. Uruguay, Centro, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.bela.com.uy/locales",
+    "lat": -34.899223,
+    "lng": -56.17681,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Daniel+Fern%C3%A1ndez+Crespo+1696,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f804b7253c8a5:0xf4899c183a49ce8f!8m2!3d-34.8992226!4d-56.1768102!16s%2Fg%2F11vt1_674v"
+   }
+  ]
+ },
+ {
+  "id": 457,
+  "merchant": "Buemes12cuotasConOCA",
+  "resolved_name": "Buemes Viajes",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Colonia 979, Centro, Montevideo, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://uy.latinoplaces.com/montevideo/viajes-buemes-238610",
+    "lat": -34.905145,
+    "lng": -56.195425,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Colonia+979,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f802cfcbf7c0b:0xc57d5c939d1dd458!8m2!3d-34.9051454!4d-56.195425!16s%2Fg%2F11rny967r0"
+   }
+  ]
+ },
+ {
+  "id": 463,
+  "merchant": "CartoonsVueltaAclasesOCA",
+  "resolved_name": "Cartoons",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Arenal Grande",
+    "address": "Arenal Grande 2554, Aguada, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.cartoons.com.uy/tiendas",
+    "lat": -34.882329,
+    "lng": -56.177669,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Arenal+Grande+2554,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8041da5ea965:0x372daf6899de660f!8m2!3d-34.8823295!4d-56.1776691!16s%2Fg%2F11qlf4pp7h"
+   }
+  ]
+ },
+ {
+  "id": 487,
+  "merchant": "PromoBartv",
+  "resolved_name": "Bar TV",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Principal",
+    "address": "General Flores 3359, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.bartv.com.uy/montevideo/index.html",
+    "lat": -34.866354,
+    "lng": -56.171814,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Gral.+Flores+3359,+11700+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m5!3m4!1s0x959f8070bf3f4497:0x2493d00afbe3f930!8m2!3d-34.8663544!4d-56.1718141"
+   }
+  ]
+ },
+ {
+  "id": 498,
+  "merchant": "BuhoStoreOCA",
+  "resolved_name": "Búho Store",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "Luis Alberto de Herrera 1349, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.buhostore.uy/tiendas/sucursal-pocitos-tienda_3",
+    "lat": -34.902562,
+    "lng": -56.138235,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1349,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81166a1775d9:0xf9136590fe05e13f!8m2!3d-34.902562!4d-56.1382351!16s%2Fg%2F11vls28bf_"
+   }
+  ]
+ },
+ {
+  "id": 514,
+  "merchant": "ArhoOCA",
+  "resolved_name": "Arho (ARHO Equipamiento Sanitario Total)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Paysandú 1067, Centro, Montevideo, Uruguay",
+    "confidence": 0.45,
+    "source_url": "https://www.arho.uy/sucursales-arho-equipamiento-sanitario",
+    "lat": -34.902116,
+    "lng": -56.193657,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Paysand%C3%BA+1067,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f802de7b966c7:0x1e6167870f3b6af!8m2!3d-34.9021155!4d-56.1936568!16s%2Fg%2F11vjlr4xw6"
+   }
+  ],
+  "notes": "No se encontró marca de indumentaria/accesorios llamada Arho en Uruguay; el único comercio identificado con ese nombre es una cadena de equipamiento sanitario (baños/cocinas). Confianza baja por posible discrepancia de rubro."
+ },
+ {
+  "id": 536,
+  "merchant": "RecargasX3ClaroOCA",
+  "resolved_name": "Claro Uruguay",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Tres Cruces Shopping",
+    "address": "Local K-41, Nivel 1, Tres Cruces Shopping, Bvar. Artigas 1825, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.trescruces.com.uy/shopping/local/claro/",
+    "lat": -34.894556,
+    "lng": -56.166728,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Claro+Tres+Cruces+Shopping/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81d9b4517c23:0x81db7f7b4247d441!8m2!3d-34.8945557!4d-56.1667283!16s%2Fg%2F11zg9pvzfm"
+   }
+  ]
+ },
+ {
+  "id": 576,
+  "merchant": "ZanettiOCA",
+  "resolved_name": "Zanetti",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "Colonia 917, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.zanetti.com.uy/tiendas",
+    "lat": -34.905224,
+    "lng": -56.196855,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Colonia+917,+11100+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f802c8af75c97:0x5789f9bc8343538f!8m2!3d-34.9052238!4d-56.1968547!16s%2Fg%2F11f126pgjm"
+   }
+  ]
+ },
+ {
+  "id": 585,
+  "merchant": "ClassicoVueltaAclasesOCA",
+  "resolved_name": "Clássico (ropa y calzado deportivo)",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Clássico Arenal Grande (Casa Central)",
+    "address": "Arenal Grande 2225, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.classico.com.uy/tiendas",
+    "lat": -34.887883,
+    "lng": -56.181046,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Arenal+Grande+2225,+11800+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f804755294757:0xa9f4abc8b2250538!8m2!3d-34.8878834!4d-56.1810457!16s%2Fg%2F11sdzb2ghp"
+   },
+   {
+    "sucursal": "Clássico Unión",
+    "address": "8 de Octubre 3792, Unión, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.classico.com.uy/tiendas"
+   },
+   {
+    "sucursal": "Clássico Aramburú",
+    "address": "Arenal Grande esq. Domingo Aramburú 2454, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.classico.com.uy/tiendas",
+    "lat": -34.883625,
+    "lng": -56.178356,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Classico/data=!4m7!3m6!1s0x959f81cfa65d1a53:0x91b112c456ee4441!8m2!3d-34.8836245!4d-56.1783561!16s%2Fg%2F11wg2c4fyy!19sChIJUxpdps-Bn5URQUTuVsQSsZE"
+   }
+  ]
+ },
+ {
+  "id": 593,
+  "merchant": "AntelOCA",
+  "resolved_name": "Antel",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Telecentro Ciudad Vieja",
+    "address": "Rincón 501, Ciudad Vieja, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.sucursales24uy.com/montevideo/antel/rincon-501-3/"
+   },
+   {
+    "sucursal": "Local Edificio El Gaucho (18 de Julio)",
+    "address": "18 de Julio 1450, Centro, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.gub.uy/presidencia/comunicacion/noticias/antel-amplia-atencion-publico-nuevo-local-edificio-gaucho",
+    "lat": -34.905399,
+    "lng": -56.184599,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+18+de+Julio+1450,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f81cb1ac021a5:0xef7c7c7bafe0da1e!8m2!3d-34.9053989!4d-56.1845988!16s%2Fg%2F11pph1wvy5"
+   },
+   {
+    "sucursal": "Telecentro Cordón",
+    "address": "Colonia 1930, Cordón, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://uy.near-place.com/antel-telecentro-cordon-colonia-1930-montevideo",
+    "lat": -34.900484,
+    "lng": -56.175072,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Colonia+1930,+11200+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f804cad991959:0xdd0ca9592dddfca0!8m2!3d-34.9004844!4d-56.1750722!16s%2Fg%2F11tjpz93kd"
+   },
+   {
+    "sucursal": "Salto Shopping",
+    "address": "Av. José B. y Ordóñez 2265, Local K16, Salto Shopping, Salto, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.sucursales24uy.com/salto/antel/"
+   },
+   {
+    "sucursal": "Paysandú - Montevideo 875",
+    "address": "Montevideo 875, Paysandú, Uruguay",
+    "confidence": 0.65,
+    "source_url": "https://www.sucursales24uy.com/paysandu/antel/montevideo-875-0/",
+    "lat": -32.318528,
+    "lng": -58.08557,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Continuacion+Montevideo+875,+60000+Paysand%C3%BA,+Departamento+de+Paysand%C3%BA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95afc95813725fab:0x1d62c6932508468c!8m2!3d-32.3185277!4d-58.08557!16s%2Fg%2F11dfgr3_zv"
+   },
+   {
+    "sucursal": "Paysandú - Bulevar Artigas",
+    "address": "Bulevar Artigas 770, Paysandú, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.sucursales24uy.com/paysandu/antel/bulevar-artigas-770-1/",
+    "lat": -32.321665,
+    "lng": -58.070544,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Blvr.+Gral.+Artigas+770,+60000+Paysand%C3%BA,+Departamento+de+Paysand%C3%BA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95afc9666541a773:0x8569a89116a9002c!8m2!3d-32.3216646!4d-58.0705443!16s%2Fg%2F11q2x8mdg6"
+   },
+   {
+    "sucursal": "Maldonado Centro",
+    "address": "Joaquín de Viana esq. Florida, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://www.sucursales24uy.com/maldonado/antel/",
+    "lat": -34.90824,
+    "lng": -54.96286,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Antel/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575107840d9e2bb:0xf006cf20afef65ea!8m2!3d-34.9082404!4d-54.9628599!16s%2Fg%2F1trpmcr5"
+   },
+   {
+    "sucursal": "Atlántico Shopping (Punta del Este)",
+    "address": "Av. Roosevelt, Atlántico Shopping, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.antel.com.uy/centros-comerciales-y-tiendas?departamento=maldonado",
+    "lat": -34.915813,
+    "lng": -54.960437,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Atl%C3%A1ntico+Shopping/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95751b71afb77d61:0x31d0792d60764e3a!8m2!3d-34.9158125!4d-54.9604375!16s%2Fg%2F11t3d6h478"
+   }
+  ]
+ },
+ {
+  "id": 833,
+  "merchant": "Oakberry",
+  "resolved_name": "Oakberry",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Open Mall (M.O.M)",
+    "address": "Luis Alberto de Herrera 1274, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Una-fiesta-circense-para-la-inauguracion-de-Montevideo-Open-Mall-uc871276",
+    "lat": -34.90408,
+    "lng": -56.137261,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1274,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m5!3m4!1s0x959f8115e5a9f681:0xf929a7842d50d93e!8m2!3d-34.9040798!4d-56.1372609"
+   }
+  ]
+ },
+ {
+  "id": 883,
+  "merchant": "Lanhtropy",
+  "resolved_name": "Lanhtropy Uruguay",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Potosí 1671, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.instagram.com/lanhtropyuruguay/"
+   },
+   {
+    "sucursal": "José Ignacio",
+    "address": "Saiz Martínez esq. Los Biguá, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.instagram.com/lanhtropyuruguay/",
+    "lat": -34.843109,
+    "lng": -54.637861,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Lanhtropy+Jose+Ignacio/data=!4m7!3m6!1s0x9574fb46d48e92af:0xca0ad8a18628273e!8m2!3d-34.8431091!4d-54.6378609!16s%2Fg%2F11wp7c_vbz!19sChIJr5KO1Eb7dJURPicohqHYCso"
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "merchant": "Brooksfield",
+  "resolved_name": "Brooksfield",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, local 210, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://brooksfield.com.uy/locales",
+    "lat": -34.902733,
+    "lng": -56.136807,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1290,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8116034ba2df:0xb920b859e8502c17!8m2!3d-34.9027327!4d-56.1368072!16s%2Fg%2F11jcq8l0kr"
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "merchant": "Watchme",
+  "resolved_name": "Watch Me",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 1290, Local 271, Buceo, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://watchme.com.uy/tiendas/watch-me-montevideo-shopping_2",
+    "lat": -34.902733,
+    "lng": -56.136807,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+1290,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f8116034ba2df:0xb920b859e8502c17!8m2!3d-34.9027327!4d-56.1368072!16s%2Fg%2F11jcq8l0kr"
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "merchant": "M Concept",
+  "resolved_name": "MConcept",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Dr. Luis Alberto de Herrera 3365, Local 126, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://mconcept.com.uy/locales",
+    "lat": -34.869316,
+    "lng": -56.169687,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Av.+Luis+Alberto+de+Herrera+3365,+11600+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f807aa688b057:0xbae7044de25ca514!8m2!3d-34.8693164!4d-56.1696872!16s%2Fg%2F11g4c_98t2"
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "merchant": "Merrell",
+  "resolved_name": "Merrell Uruguay",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Local 284, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas Shopping, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Local 249, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Maldonado",
+    "address": "Sarandí 874, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140"
+   },
+   {
+    "sucursal": "Paysandú",
+    "address": "Bvar. Artigas esq. 25 de Mayo, Paysandú, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.yoper.com.uy/tiendas/merrell/sucursales/contacts?shop=140",
+    "lat": -32.322072,
+    "lng": -58.071407,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/25+De+Mayo+%26+Bulevar+General+Artigas,+60000+Paysand%C3%BA,+Departamento+de+Paysand%C3%BA/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x95afc9664310b457:0xc6f627d89e1dd208!8m2!3d-32.3220719!4d-58.0714073!16s%2Fg%2F11hb42bngd"
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "merchant": "Los Fontanes",
+  "resolved_name": "Los Fontanes (Confitería)",
+  "es_cadena": false,
+  "status": "partial",
+  "addresses": [
+   {
+    "sucursal": "Principal (Rivera y Pedro Bustamante)",
+    "address": "Rivera esq. Pedro Bustamante, Montevideo, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://infonegocios.biz/nota-principal/los-fontanes-busca-iniciar-su-sistema-de-franquicias-te-animas-a-llevar-la-confiteria-a-tu-barrio",
+    "lat": -34.899804,
+    "lng": -56.134491,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Pedro+Bustamante+%26+Av.Gral+Rivera,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f813d08b226b3:0x77e6ceb3079c159c!8m2!3d-34.8998037!4d-56.134491!16s%2Fg%2F11f34t63v_"
+   }
+  ]
+ },
+ {
+  "id": 179,
+  "merchant": "Fumaya",
+  "resolved_name": "Fumaya S.A. (Equipamientos Hogar, Oficina e Industriales)",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Casa Central",
+    "address": "F. García Cortinas 2357, Piso 5, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://tienda.fumaya.com/representantes/",
+    "lat": -34.923473,
+    "lng": -56.161315,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/F.+Garc%C3%ADa+Cortinas+2357,+11300+Montevideo,+Departamento+de+Montevideo/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x959f819d0152d6b5:0x6714f52b5564a615!8m2!3d-34.9234731!4d-56.1613151!16s%2Fg%2F11wbxtbm3x"
+   }
+  ]
+ },
+ {
+  "id": 361,
+  "merchant": "La Taberna",
+  "resolved_name": "La Taberna",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Av. Chiverta esq. Bulevar Artigas, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.55,
+    "source_url": "https://triptap.com/places/uy/maldonado/maldonado/la-taberna-t01609f2",
+    "lat": -34.951787,
+    "lng": -54.93735,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/La+Taberna/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575054ed92397bb:0xfe0aba22be035a16!8m2!3d-34.9517873!4d-54.9373497!16s%2Fg%2F11vjfsltyg"
+   }
+  ]
+ },
+ {
+  "id": 910,
+  "merchant": "Sonsoles",
+  "resolved_name": "Sonsoles",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Panthai Carrasco",
+    "address": "Rostand 1571, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/sonsoles.camino/"
+   },
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 20 esq. 29, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/sonsoles.camino/",
+    "lat": -34.959333,
+    "lng": -54.94218,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Calle+29+%26+Calle+20,+20100+Punta+del+Este,+Departamento+de+Maldonado/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x9575056da72b1e81:0x42b9270519ef65d2!8m2!3d-34.9593335!4d-54.94218!16s%2Fg%2F11f3dqg32f"
+   }
+  ]
+ },
+ {
+  "id": 336,
+  "merchant": "Brote",
+  "resolved_name": "Brote Restaurante",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle San Francisco, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://www.saliracomer.com/index.php/s/restaurant/7465",
+    "lat": -34.941807,
+    "lng": -54.935649,
+    "source": "gmaps",
+    "coords_url": "https://www.google.com/maps/place/Brote+Mercado+Saludable/@-34.6,-55.8,8z/data=!4m6!3m5!1s0x957505a0704f6135:0x48632990c5a8e4b8!8m2!3d-34.9418073!4d-54.9356491!16s%2Fg%2F11r05y7dlb"
+   }
+  ]
+ }
+]

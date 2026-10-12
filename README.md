@@ -43,14 +43,14 @@ siguen con la extracción de julio de 2026.
 | | |
 |---|---|
 | Comercios comerciales en el dataset | **816** |
-| Comercios con ubicación en el mapa | **664** |
-| Pines (sucursales) en el mapa | **1.426** (877 con la coordenada oficial del banco) |
-| Comercios reales sin dirección (solo en la lista) | **74** |
+| Comercios con ubicación en el mapa | **729** |
+| Pines (sucursales) en el mapa | **1.501** (877 con la coordenada oficial del banco, 296 tomados de Google Maps) |
+| Comercios reales sin dirección (solo en la lista) | **9** |
 | Fuentes | Santander, Itaú, OCA, Club El País |
 | Cobertura | Todo Uruguay |
 
-Los 74 comercios sin dirección son casi todos del programa de Itaú (restaurantes de Punta del
-Este / José Ignacio y marcas de moda): aparecen en la pestaña Lista con su ciudad y sin pin.
+Los 9 comercios sin dirección (plataformas online como PedidosYa y OrderEat, y algunos de Itaú
+que no se pudieron identificar) aparecen en la pestaña Lista con su ciudad y sin pin.
 Otros 78 beneficios (casi todos de OCA) no se muestran porque son promociones sin local físico
 (cuotas, sorteos, tiendas 100% online). Detalle en [`docs/HANDOFF.md`](docs/HANDOFF.md).
 

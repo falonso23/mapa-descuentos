@@ -59,6 +59,9 @@ function variants(addr) {
   const lastWord = streetNoNum.split(' ').filter((w) => w.length > 2).pop();
   const zone = parts[1] && parts[1] !== city && !/shopping/i.test(parts[1]) ? parts[1] : null; // barrio
   const V = [];
+  // "Paysandú Shopping, Paysandú, Uruguay" o "Salto Shopping, Local 113, Salto, Uruguay": no hay
+  // calle, así que se busca el shopping por nombre y, si no está, queda el centro de la ciudad.
+  if (!street || street === city) return [[`${parts[0]}, ${city}, ${country}`, 'exacta'], [`${city}, ${country}`, 'ciudad']];
   // "Ruta 10 km 164.5, Manantiales, Maldonado": el número es un kilómetro, no una puerta, y
   // Nominatim no los entiende: "Ruta 10, Maldonado" cae en cualquier punto de la ruta. Se busca
   // la ruta en cada localidad que nombra la dirección y, si no nombra ninguna, la calle del cruce
@@ -86,8 +89,23 @@ async function search(q) {
   return j[0] ? { lat: parseFloat(j[0].lat), lng: parseFloat(j[0].lon), display: j[0].display_name } : null;
 }
 
+// En el Centro de Montevideo las calles se llaman como los departamentos ("Colonia 979", "Maldonado
+// 1970", "Paysandú 1067") y Nominatim a veces devuelve la ciudad homónima, a cientos de km. Si la
+// dirección dice el departamento, el resultado tiene que caer ahí.
+const DEPARTMENTS = new Set(['Artigas', 'Canelones', 'Cerro Largo', 'Colonia', 'Durazno', 'Flores', 'Florida', 'Lavalleja', 'Maldonado', 'Montevideo',
+  'Paysandú', 'Río Negro', 'Rivera', 'Rocha', 'Salto', 'San José', 'Soriano', 'Tacuarembó', 'Treinta y Tres']);
+const deptName = (s) => s.trim().replace(/^departamento de\s+/i, '');
+function inDept(addr, r) {
+  const dept = deptName(addr.split(',').at(-2) || '');
+  if (!DEPARTMENTS.has(dept)) return true;
+  // `display` termina "..., <Departamento>, <código postal>, Uruguay" (hay un pueblo "Montevideo"
+  // en Tacuarembó: no alcanza con que el nombre aparezca en cualquier tramo).
+  const parts = (r.display || '').split(',').map(deptName).filter((p) => p !== 'Uruguay' && !/^\d{5}$/.test(p));
+  return DEPARTMENTS.has(parts.at(-1)) ? parts.at(-1) === dept : parts.includes(dept);
+}
+
 async function geocode(addr) {
-  if (cache[addr] && cache[addr].lat) return cache[addr];
+  if (cache[addr] && cache[addr].lat && inDept(addr, cache[addr])) return cache[addr];
   let out = null;
   for (const [q, precision] of variants(addr)) {
     if (cache[q] === null) continue;              // ya sabemos que falla
@@ -96,7 +114,7 @@ async function geocode(addr) {
       try { r = await search(q); } catch (e) { r = null; console.warn('  ! error', q.slice(0, 40), e.message); }
       cache[q] = r; writeFileSync(cachePath, JSON.stringify(cache));
     }
-    if (r && inUY(r.lat, r.lng)) { out = { ...r, precision }; break; }
+    if (r && inUY(r.lat, r.lng) && inDept(addr, r)) { out = { ...r, precision }; break; }
   }
   cache[addr] = out;
   writeFileSync(cachePath, JSON.stringify(cache));
@@ -158,8 +176,9 @@ for (const m of byId.values()) {
   }
   official += locations.length;
   // Las direcciones guardadas que sobran se suman solo si el beneficio también viene de una
-  // fuente sin locales oficiales, y nunca las aproximadas cuando ya hay un pin exacto.
-  const covered = new Set(fromBank.map((o) => SOURCE_PROVIDER[o.source]));
+  // fuente sin locales oficiales, y nunca las aproximadas cuando ya hay un pin exacto. Un local
+  // oficial fuera del país (coordenada mal cargada por el banco) no cuenta como local.
+  const covered = new Set(fromBank.filter((o) => inUY(o.lat, o.lng)).map((o) => SOURCE_PROVIDER[o.source]));
   if (!m.providers.every((p) => covered.has(p))) locations.push(...saved.filter((s) => !locations.length || !APPROX.has(s.precision)));
 
   pins += locations.length;

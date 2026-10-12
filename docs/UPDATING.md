@@ -45,14 +45,17 @@ resto con agentes IA que buscan en la web (lotes de ~30) o a mano.
    (ej. `web_2026-10_0.json`), con el formato de siempre:
    `{ id, merchant, resolved_name, es_cadena, status, addresses: [{ sucursal, address, confidence, source_url }] }`.
    La dirección debe terminar en `..., <Departamento>, Uruguay` (la web deriva de ahí el filtro
-   por departamento).
+   por departamento). Si se conoce el punto exacto (p. ej. la ficha del comercio en Google Maps),
+   sumar `lat`, `lng` y `source: "gmaps"` a la dirección: el script usa esas coordenadas y no
+   geocodifica. Así se cargó `web_2026-10_5_gmaps.json`.
 5. `node scripts/geocode-addr.mjs` → regenera `web/public/map-data.json`. Usa las coordenadas
    oficiales tal cual (y les pone dirección con geocoding inverso), geocodifica las
    direcciones guardadas y cachea todo en `data/geocache.json`. La primera corrida después
    de un refresh de Santander tarda ~20 min (1 req/s); las siguientes, segundos.
 
 > Los archivos de `data/batches/addr/` se leen en orden alfabético y el último gana:
-> lotes (`addr_*`) → `osm_auto.json` → `web_*` → `zz_supplemental.json` (correcciones a mano).
+> lotes (`addr_*`) → `osm_auto.json` → `web_*` (el último, `web_2026-10_5_gmaps.json`, trae los
+> puntos tomados de Google Maps) → `zz_supplemental.json` (correcciones a mano).
 > Si un comercio tiene coordenadas oficiales, mandan esas; las direcciones guardadas solo
 > aportan el texto (si están a menos de 200 m) o locales extra cuando otra tarjeta sin
 > coordenadas oficiales también da el beneficio.
@@ -92,7 +95,13 @@ Santander e Itaú ya tienen scraper. Pendiente:
 3. **Bajas**: `consolidate.mjs` ya informa cuántos comercios dejaron de figurar; sus
    direcciones quedan guardadas por si vuelven.
 
-### Alternativa más precisa para geocodificar (si se quiere)
-En vez de Nominatim, usar **Google Places API (Text Search)**: nombre → dirección + lat/lng
-en una llamada, ~95% de acierto. Requiere API key (gratis dentro del cupo). Cambiaría solo
+### Cuando Nominatim no alcanza: Google Maps
+Nominatim no conoce muchas puertas de Uruguay: devuelve la calle (un punto cualquiera de la
+cuadra o de la avenida) o directamente el barrio. En octubre 2026 esos casos se resolvieron
+buscando el comercio (o la dirección) en Google Maps y guardando el punto en la dirección
+(`lat`, `lng`, `source: "gmaps"` y la ficha en `source_url` o `coords_url`). Fue una búsqueda
+puntual hecha con un navegador, sin API ni key; no hay un script en el repo que la repita.
+
+Para automatizarlo habría que usar **Google Places API (Text Search)**: nombre → dirección +
+lat/lng en una llamada. Requiere API key (gratis dentro del cupo). Cambiaría solo
 `geocode-addr.mjs`. Se descartó por ahora para no depender de una key.

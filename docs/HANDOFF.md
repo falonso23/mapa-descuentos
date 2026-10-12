@@ -91,7 +91,8 @@ Array de comercios. Campos clave:
 
 ### `web/public/map-data.json` — lo que consume el mapa
 `[ { id, merchant, category, providers, benefits, es_cadena, locations:[{lat,lng,address,sucursal,confidence,precision,source}], zone? } ]`.
-`source` dice de dónde salió el pin (`santander`/`itau` = coordenada oficial, `osm`, `nominatim`, `manual`).
+`source` dice de dónde salió el pin (`santander`/`itau` = coordenada oficial, `gmaps` = ficha de
+Google Maps, `osm`, `nominatim`, `manual`).
 El hook `web/src/hooks/useMapData.ts` hace `fetch('map-data.json')` y descarta los que tienen
 `locations: []`, salvo que traigan `zone`: son comercios reales de Santander/Itaú todavía sin
 dirección, que no tienen pin pero aparecen en la lista con su ciudad. Tipos en `web/src/types.ts`.
@@ -103,31 +104,40 @@ con la extracción de julio 2026 (el archivo público de OCA, `bd-beneficios.js`
 
 - `unified.json`: **881** comercios (dedup), **816** `commercial` (Santander 274, Itaú 277,
   OCA 165, Club El País 146). **277** traen coordenadas oficiales del banco.
-- Direcciones guardadas: **486** comercios con dirección (en `data/batches/addr/`, 27 archivos).
-- `map-data.json`: **664** comercios con ubicación, **1.426** pines. Origen de los pines:
-  877 coordenada oficial (856 Santander, 21 Itaú), 500 dirección geocodificada con Nominatim,
-  46 OpenStreetMap por nombre, 3 fijados a mano.
-- **74** comercios reales de Santander/Itaú sin dirección: llevan `zone`, no tienen pin y se
-  ven en la pestaña Lista ("sin dirección cargada todavía"). 71 son de Itaú y 3 de Santander
-  (PedidosYa, OrderEat y Vang - The Kul Store). Ver punto D.
+- Direcciones guardadas: **522** comercios con dirección (en `data/batches/addr/`, 28 archivos).
+- `map-data.json`: **729** comercios con ubicación, **1.501** pines. Origen de los pines:
+  877 coordenada oficial (856 Santander, 21 Itaú), 296 ficha de Google Maps, 279 dirección
+  geocodificada con Nominatim, 46 OpenStreetMap por nombre, 3 fijados a mano.
+- **9** comercios reales de Santander/Itaú sin dirección: llevan `zone`, no tienen pin y se
+  ven en la pestaña Lista ("sin dirección cargada todavía"). 7 son de Itaú y 2 de Santander
+  (PedidosYa y OrderEat). Ver punto D.
 - Otros **78** `commercial` sin ubicación (77 de OCA, 1 de Club El País) no se muestran: casi
   todos son promociones sin local físico (cuotas, sorteos, telepeaje, tiendas 100% online).
 
 ### D. Comercios reales sin dirección confiable
 En octubre 2026 se buscaron los 118 comercios sin coordenada oficial ni dirección previa: primero
 en OpenStreetMap por nombre (`find-addr-osm.mjs` → `osm_auto.json`) y después en la web
-(`web_2026-10_*.json`). 45 quedaron con dirección. Para ver los 74 pendientes: comercios con
-`zone` en `web/public/map-data.json` (la mayoría son restaurantes de Punta del Este / José
-Ignacio y marcas de moda del programa Personal Bank de Itaú).
+(`web_2026-10_*.json`). 45 quedaron con dirección y 74 sin pin.
 
-Se descartaron a propósito resultados dudosos (no inventar direcciones): Amén (homónimo en
-Lavalleja), Bodega Oceánica (solo "Ruta 9 km 157"), Puropunto, Bacán (domicilio fiscal de una
-tienda mayormente online), Gourmet Marti y Arenas.
+Después se pasó todo por **Google Maps** (`web_2026-10_5_gmaps.json` y coordenadas agregadas en
+`zz_supplemental.json`, siempre con `source: "gmaps"` y la ficha en `source_url`/`coords_url`):
+- 65 de los 74 sin pin se ubicaron por nombre (77 locales).
+- Unos 220 pines que ya existían recibieron la coordenada de Google: los que Nominatim había dejado
+  aproximados (barrio, calle o ciudad) y los marcados "exacta" que en realidad no resolvían la
+  puerta. Corrimiento mediano 0,7 km; 39 se movieron más de 3 km y 8 más de 100 km.
 
-→ Para cerrarlos: Google Maps, Instagram o llamar al comercio, y cargarlos en
-`zz_supplemental.json` (con `lat`/`lng` si se conoce el punto exacto). La búsqueda web genérica
-rinde muy poco con comercios chicos; lo que mejor funcionó fue la bio de Instagram y el sitio
-propio del comercio.
+Quedan **9** sin pin (comercios con `zone` en `web/public/map-data.json`): PedidosYa y OrderEat
+(plataformas online), Bacán (tienda de vinos online), Capri (sin local físico), y Curado, Lobby
+Bar, Damen, Maura y Suma (sin ficha o con varios homónimos: no se inventan direcciones).
+
+Coincidencias aceptadas con dudas (`confidence` 0.5–0.6), a confirmar si alguien conoce el
+local: Delicatessen Colonia, La Proveeduría (→ La Proveeduría del Mar, Manantiales), Gourmet
+Marti, Crudo, Sweet Angie (→ Sweet Ange Café, Salto), La Vinoteca y Brote (el de Itaú en Punta
+del Este quedó en Brote Mercado Saludable; la dirección anterior era de otro Brote, en
+Montevideo). Frog tiene solo las 8 sucursales que lista Google.
+
+→ Para cerrar los que faltan: Instagram o llamar al comercio, y cargarlos en
+`zz_supplemental.json` (con `lat`/`lng` si se conoce el punto exacto).
 
 ## 6. Qué faltaba (cerrado)
 
@@ -197,7 +207,19 @@ cd web && npm run dev             # verificar (recarga sola al cambiar el JSON)
   la localidad que nombra la dirección ("Ruta 10, Manantiales"); si no nombra ninguna cae al
   centro de la ciudad, así que conviene fijar `lat`/`lng` a mano en `zz_supplemental.json`
   (ej. Zonamerica, Vía Disegno).
-- **Los pines son elementos DOM (~1.400)**: el ícono se cachea por rubro+proveedores y el HTML
+- **Calles con nombre de departamento**: en el Centro de Montevideo hay calles Colonia, Maldonado,
+  Paysandú, Canelones… y Nominatim a veces devuelve la ciudad homónima ("Colonia 979, Centro,
+  Montevideo" caía en Nueva Helvecia, a 118 km). `geocode()` descarta el resultado si no cae en
+  el departamento que dice la dirección y prueba la variante siguiente.
+- **`precision: 'exacta'` de Nominatim no garantiza la puerta**: quiere decir que respondió la
+  primera consulta, pero puede haber devuelto la calle y no el número (un punto cualquiera de
+  la cuadra o de la avenida). Lo confiable es `source`: `santander`/`itau` (coordenada del banco)
+  y `gmaps` (ficha de Google Maps). Los `nominatim` que se pudieron verificar ya se pasaron a
+  `gmaps` (octubre 2026).
+- **Coordenadas oficiales mal cargadas**: Santander publicó un local con la longitud en positivo
+  (Vang - The Kul Store, `54.94` en vez de `-54.94`). Los locales oficiales fuera de Uruguay se
+  ignoran y el comercio se ubica con su dirección guardada.
+- **Los pines son elementos DOM (~1.500)**: el ícono se cachea por rubro+proveedores y el HTML
   del popup se arma recién al abrirlo. Si se vuelve a renderizar todo por pin en cada cambio
   de filtro, la interfaz se traba; y no hay que esperar a `isStyleLoaded()` para dibujarlos
   (es `false` mientras bajan tiles y los pines se perdían).
