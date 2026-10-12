@@ -1,7 +1,7 @@
 // Consolida los data/raw/*.json de cada proveedor en un dataset unificado y deduplicado.
 // Diseño: un "adaptador" por fuente -> registros normalizados -> merge por comercio.
 // Agregar un proveedor nuevo = escribir un adaptador y sumarlo a ADAPTERS.
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 
 const RAW = new URL('../data/raw/', import.meta.url);
 const read = (f) => JSON.parse(readFileSync(new URL(f, RAW), 'utf8'));
@@ -70,15 +70,17 @@ const push = (r) => records.push(r);
 
 // ---------- Adaptadores ----------
 function adaptStandard(file, provider) {
-  // Santander y Club El País comparten el esquema {merchants:[{merchant,category,discounts,location_type,address_hint}]}
+  // Santander, Club El País e Itaú comparten el esquema {merchants:[{merchant,category,discounts,location_type,address_hint}]}.
+  // Los scrapers pueden sumar `city` y `locations` (coordenadas que publica el propio banco).
   const d = read(file);
   for (const m of d.merchants || []) {
     push({
       merchant: m.merchant,
       category: normCat(m.category),
-      city: null,
+      city: m.city || null,
       address_hint: m.address_hint || null,
       location_type: m.location_type || 'fisico',
+      official_locations: (m.locations || []).map((l) => ({ ...l, source: d.source })),
       benefits: (m.discounts || []).map((x) => ({
         provider,
         product: x.card || 'todas',
@@ -87,31 +89,6 @@ function adaptStandard(file, provider) {
         conditions: x.conditions || null,
       })),
     });
-  }
-}
-
-function adaptItau() {
-  const d = read('itau.json');
-  for (const m of d.featured_named_merchants || []) {
-    push({
-      merchant: m.merchant, category: normCat(m.category), city: m.address_hint || null,
-      address_hint: m.address_hint || null, location_type: m.location_type || 'fisico',
-      benefits: (m.discounts || []).map((x) => ({ provider: 'Itaú', product: x.card || 'crédito', amount: x.amount, days: x.days, conditions: x.conditions })),
-    });
-  }
-  const prog = d.restaurants_program;
-  if (prog) {
-    for (const [city, list] of Object.entries(prog.by_city || {})) {
-      const cityName = city.split('_')[0];
-      const cat = /gourmet/.test(city) ? 'gastronomia' : /libreri/.test(city) ? 'otros' : 'gastronomia';
-      for (const name of list) {
-        push({
-          merchant: name, category: cat, city: cityName, address_hint: cityName,
-          location_type: 'fisico',
-          benefits: [{ provider: 'Itaú', product: prog.card, amount: prog.discount, days: prog.days, conditions: `Programa restaurantes ${cityName}` }],
-        });
-      }
-    }
   }
 }
 
@@ -134,7 +111,7 @@ function adaptOca() {
 const ADAPTERS = [
   () => adaptStandard('santander.json', 'Santander'),
   () => adaptStandard('clubelpais.json', 'Club El País'),
-  adaptItau,
+  () => adaptStandard('itau.json', 'Itaú'),
   adaptOca,
 ];
 ADAPTERS.forEach((fn) => fn());
@@ -148,23 +125,41 @@ for (const r of records) {
     byKey.set(key, {
       merchant: r.merchant, norm: key, category: r.category,
       city: r.city, address_hint: r.address_hint, location_type: r.location_type,
-      benefits: [], providers: new Set(),
+      benefits: [], providers: new Set(), official_locations: [],
       mappable: isMappable(r.merchant, r._rawText || '', r.location_type),
       lat: null, lng: null, geocode_status: 'pending',
     });
   }
   const e = byKey.get(key);
   e.benefits.push(...r.benefits);
+  e.official_locations.push(...(r.official_locations || []));
   r.benefits.forEach((b) => e.providers.add(b.provider));
   if (!e.city && r.city) e.city = r.city;
   if (!e.address_hint && r.address_hint) e.address_hint = r.address_hint;
   if (r.category && r.category !== 'otros' && e.category === 'otros') e.category = r.category;
 }
 
-const unified = [...byKey.values()].map((e, i) => ({
-  id: i + 1, ...e, providers: [...e.providers],
+// ---------- Ids estables ----------
+// El id es la clave de las direcciones guardadas en data/batches/addr/, así que un comercio
+// conserva el suyo entre corridas y el de uno dado de baja no se reasigna nunca. El registro
+// arranca de los ids del unified.json anterior (que eran posicionales).
+const registryPath = new URL('../data/id-registry.json', import.meta.url);
+const unifiedPath = new URL('../data/unified.json', import.meta.url);
+const registry = existsSync(registryPath)
+  ? JSON.parse(readFileSync(registryPath, 'utf8'))
+  : Object.fromEntries((existsSync(unifiedPath) ? JSON.parse(readFileSync(unifiedPath, 'utf8')) : []).map((e) => [e.norm, e.id]));
+let nextId = Math.max(0, ...Object.values(registry)) + 1;
+const added = [];
+for (const e of byKey.values()) {
+  if (registry[e.norm] === undefined) { registry[e.norm] = nextId++; added.push(e.merchant); }
+}
+const current = new Set(byKey.keys());
+const removed = Object.keys(registry).filter((k) => !current.has(k));
+
+const unified = [...byKey.values()].map((e) => ({
+  id: registry[e.norm], ...e, providers: [...e.providers],
   commercial: e.mappable && !EXCLUDE_CATS.has(e.category),
-}));
+})).sort((a, b) => a.id - b.id);
 
 // ---------- Stats ----------
 const commercial = unified.filter((e) => e.commercial);
@@ -176,7 +171,8 @@ const excluded = unified.filter((e) => !e.commercial);
 const multiSource = commercial.filter((e) => e.providers.length > 1);
 
 mkdirSync(new URL('../data/', import.meta.url), { recursive: true });
-writeFileSync(new URL('../data/unified.json', import.meta.url), JSON.stringify(unified, null, 2));
+writeFileSync(unifiedPath, JSON.stringify(unified, null, 2));
+writeFileSync(registryPath, JSON.stringify(registry, null, 2) + '\n');
 
 console.log('=== CONSOLIDACIÓN ===');
 console.log('Registros crudos (pre-dedup):', records.length);
@@ -187,4 +183,5 @@ console.log('Comercios en +1 proveedor:', multiSource.length, '=>',
   multiSource.slice(0, 12).map((e) => `${e.merchant}(${e.providers.join('+')})`).join(', '));
 console.log('Comerciales por proveedor:', byProvider);
 console.log('Comerciales por categoría:', byCat);
+console.log(`Altas: ${added.length} · ya no figuran en ninguna fuente: ${removed.length}`);
 console.log('\n-> data/unified.json escrito (', unified.length, 'entradas, campo commercial=true/false).');

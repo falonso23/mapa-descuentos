@@ -1,0 +1,263 @@
+[
+ {
+  "id": 251,
+  "merchant": "Casa Dispensa",
+  "resolved_name": "Casa & Dispensa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Solano García 2496, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.instagram.com/casadispensa/"
+   }
+  ]
+ },
+ {
+  "id": 316,
+  "merchant": "Bacan",
+  "resolved_name": "Bacán",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 344,
+  "merchant": "Cofre Café",
+  "resolved_name": "Cofre Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 346,
+  "merchant": "El amor es tiempo",
+  "resolved_name": "El amor es tiempo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 353,
+  "merchant": "Hola que tal",
+  "resolved_name": "Hola que tal",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 354,
+  "merchant": "Hoy Café",
+  "resolved_name": "Hoy Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 367,
+  "merchant": "Mar de Fondo",
+  "resolved_name": "Mar de Fondo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 373,
+  "merchant": "Parada Barra",
+  "resolved_name": "Parada Barra",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 389,
+  "merchant": "Anima",
+  "resolved_name": "Anima",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 394,
+  "merchant": "Delicatessen",
+  "resolved_name": "Delicatessen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 405,
+  "merchant": "Jefris",
+  "resolved_name": "Jefris",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 807,
+  "merchant": "Frog",
+  "resolved_name": "Frog",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 811,
+  "merchant": "Area Design",
+  "resolved_name": "Area Design",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 812,
+  "merchant": "Trios Lighting",
+  "resolved_name": "Trios Lighting",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 813,
+  "merchant": "Prat Pádel",
+  "resolved_name": "Prat Pádel",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 814,
+  "merchant": "Riviera Joyería",
+  "resolved_name": "Riviera Joyería",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 815,
+  "merchant": "Alquimista",
+  "resolved_name": "Alquimista",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Hotel Alquimista",
+    "address": "Avenida Bolivia 1323, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.5,
+    "source_url": "https://m.booking.com/hotel/uy/alquimista-montevideo.html"
+   }
+  ]
+ },
+ {
+  "id": 816,
+  "merchant": "Baco",
+  "resolved_name": "Baco",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 817,
+  "merchant": "Bar Carretas",
+  "resolved_name": "Bar Carretas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 821,
+  "merchant": "Fabric Sushi Mvd",
+  "resolved_name": "Fabric Sushi",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "21 de Setiembre 3098, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.fabricsushi.com.uy"
+   }
+  ]
+ },
+ {
+  "id": 822,
+  "merchant": "Gourmet Marti",
+  "resolved_name": "Gourmet Marti",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 823,
+  "merchant": "La Bodeguita Sacromonte",
+  "resolved_name": "La Bodeguita Sacromonte",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 824,
+  "merchant": "La Vinoteca",
+  "resolved_name": "La Vinoteca",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 825,
+  "merchant": "Las Croabas",
+  "resolved_name": "Las Croabas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 826,
+  "merchant": "Las Vizcarras",
+  "resolved_name": "Las Vizcarras",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 827,
+  "merchant": "Pomelo",
+  "resolved_name": "Pomelo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 830,
+  "merchant": "Vicenta",
+  "resolved_name": "Vicenta",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 834,
+  "merchant": "Sinfonía blends",
+  "resolved_name": "Sinfonía blends",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 835,
+  "merchant": "Aguaverde",
+  "resolved_name": "Aguaverde",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 836,
+  "merchant": "Al fin y al cabo",
+  "resolved_name": "Al fin y al cabo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

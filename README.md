@@ -3,13 +3,14 @@
 App web **mobile-first** que muestra en un mapa los comercios de Uruguay con
 descuentos según la tarjeta (Santander, Itaú, OCA, Club El País). Uso personal.
 
-- **Frontend**: React + TypeScript + Vite, mapa con **MapLibre GL** (tiles raster oscuros
-  de CARTO), pines individuales sin agrupar, iconos de [lucide-react](https://lucide.dev/)
+- **Frontend**: React + TypeScript + Vite, mapa con **MapLibre GL** (tiles vectoriales
+  de OpenFreeMap, sin API key), pines individuales sin agrupar, iconos de [lucide-react](https://lucide.dev/)
   por rubro. Vive en [`web/`](web/).
 - **No hay backend.** El front es una SPA estática (`web/dist` tras el build) que lee
   `map-data.json` con `fetch`.
-- **No hay scraping en vivo** (todavía): la data se recolectó una vez con agentes y
-  quedó guardada en `data/`. Ver [`docs/UPDATING.md`](docs/UPDATING.md) para refrescarla.
+- **No hay scraping en vivo**: la data queda guardada en `data/`. Santander e Itaú se
+  refrescan con un comando (`scripts/scrape-*.mjs`); OCA y Club El País todavía a mano.
+  Ver [`docs/UPDATING.md`](docs/UPDATING.md).
 
 ## Cómo correrlo
 
@@ -36,19 +37,22 @@ Abrilo en el navegador (idealmente en modo responsive/celular).
 
 ## Estado actual (snapshot)
 
+Corte: **12 de octubre de 2026**. Santander e Itaú se re-scrapearon ese día; OCA y Club El País
+siguen con la extracción de julio de 2026.
+
 | | |
 |---|---|
-| Comercios comerciales en el dataset | **532** |
-| Comercios con ubicación en el mapa | **440** |
-| Pines (sucursales) en el mapa | **696** |
+| Comercios comerciales en el dataset | **816** |
+| Comercios con ubicación en el mapa | **664** |
+| Pines (sucursales) en el mapa | **1.426** (877 con la coordenada oficial del banco) |
+| Comercios reales sin dirección (solo en la lista) | **74** |
 | Fuentes | Santander, Itaú, OCA, Club El País |
 | Cobertura | Todo Uruguay |
 
-La pasada de calidad pendiente (comercios sin geocodificar, categorías mal clasificadas,
-cadenas con una sola sucursal cargada) ya se cerró — detalle en [`docs/HANDOFF.md`](docs/HANDOFF.md).
-De los 92 comercios que quedan sin ubicación, ~75 son promociones sin local físico (cuotas,
-sorteos, tiendas 100% online) y ~17 son comercios reales cuya dirección no se pudo confirmar
-con confianza suficiente (ver punto D del handoff).
+Los 74 comercios sin dirección son casi todos del programa de Itaú (restaurantes de Punta del
+Este / José Ignacio y marcas de moda): aparecen en la pestaña Lista con su ciudad y sin pin.
+Otros 78 beneficios (casi todos de OCA) no se muestran porque son promociones sin local físico
+(cuotas, sorteos, tiendas 100% online). Detalle en [`docs/HANDOFF.md`](docs/HANDOFF.md).
 
 ## Estructura
 
@@ -64,10 +68,11 @@ web/                 # SPA React + TS + Vite
 data/
   raw/               # extracción cruda por fuente (santander/itau/oca/clubelpais.json)
   unified.json       # dataset unificado + deduplicado (fuente de verdad de beneficios)
+  id-registry.json   # id estable de cada comercio (no se reasigna entre refrescos)
   batches/
-    rest/            # lotes de entrada para investigar direcciones (chunk_XX.json)
-    addr/            # SALIDA: direcciones halladas por comercio (addr_*.json)
-  geocache.json      # caché de geocoding (dirección -> lat/lng)
+    rest/            # lotes de entrada de la investigación inicial (chunk_XX.json)
+    addr/            # direcciones halladas por comercio (addr_*, osm_auto, web_*, zz_supplemental)
+  geocache.json      # caché de geocoding (dirección <-> lat/lng)
 scripts/             # pipeline de datos (Node, sin dependencias) — genera web/public/map-data.json
 docs/                # documentación (este handoff + guía de actualización)
 ```
@@ -75,4 +80,4 @@ docs/                # documentación (este handoff + guía de actualización)
 ## Documentación
 
 - [`docs/HANDOFF.md`](docs/HANDOFF.md) — **estado detallado, qué falta y cómo cerrarlo** (para retomar).
-- [`docs/UPDATING.md`](docs/UPDATING.md) — **cómo actualizar los locales**, sumar una tarjeta nueva y el plan de scraping futuro.
+- [`docs/UPDATING.md`](docs/UPDATING.md) — **cómo actualizar los locales** (scrapers de Santander e Itaú), sumar una tarjeta nueva y qué falta automatizar.

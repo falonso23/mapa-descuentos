@@ -23,6 +23,8 @@ export interface Merchant {
   providers: string[];
   benefits: Benefit[];
   es_cadena: boolean;
+  /** Solo en comercios reales que todavía no tienen ubicación: la ciudad según la fuente ('' si no la dice). */
+  zone?: string;
   locations: MerchantLocation[];
 }
 

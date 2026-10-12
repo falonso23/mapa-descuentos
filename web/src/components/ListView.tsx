@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, ChevronUp, MapPin } from 'lucide-react';
+import { ChevronDown, ChevronUp, MapPin, MapPinOff } from 'lucide-react';
 import { categoryOf } from '../data/categories';
 import { PROVIDER_COLOR } from '../data/providers';
 import { dedupeBenefits } from '../lib/dedupeBenefits';
@@ -67,6 +67,13 @@ function MerchantCard({
           </span>
         ))}
       </div>
+
+      {!m.locations.length && (
+        <div className="list-no-location">
+          <MapPinOff size={13} strokeWidth={2.25} aria-hidden />
+          <span>{m.zone ? `${m.zone} · ` : ''}sin dirección cargada todavía</span>
+        </div>
+      )}
 
       {collapsible && (
         <button type="button" className="list-toggle-btn" onClick={() => setExpanded((v) => !v)}>

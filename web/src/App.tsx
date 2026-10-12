@@ -56,7 +56,9 @@ function App() {
           const d = deriveDepartment(loc.address);
           return d ? departments.has(d) : false;
         });
-        if (!locations.length) continue;
+        // Sin pin todavía: vale la ciudad que publica la fuente.
+        const zoneDepartment = m.zone ? deriveDepartment(`${m.zone}, Uruguay`) : null;
+        if (!locations.length && !(zoneDepartment && departments.has(zoneDepartment))) continue;
       }
       result.push(locations === m.locations ? m : { ...m, locations });
     }

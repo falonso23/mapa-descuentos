@@ -1,0 +1,270 @@
+[
+ {
+  "id": 838,
+  "merchant": "Alison Pizza",
+  "resolved_name": "Alison Pizza",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 839,
+  "merchant": "Arenas",
+  "resolved_name": "Arenas Magnum",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 841,
+  "merchant": "Bodega Oceánica",
+  "resolved_name": "Bodega Oceánica José Ignacio",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 842,
+  "merchant": "Boulevard de las Palmeras",
+  "resolved_name": "Boulevard de las Palmeras",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 844,
+  "merchant": "Cerro del Toro",
+  "resolved_name": "Cerro del Toro",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 845,
+  "merchant": "Compañía Uruguaya de Vinos del Mar",
+  "resolved_name": "Compañía Uruguaya de Vinos del Mar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 846,
+  "merchant": "Crudo",
+  "resolved_name": "Crudo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 847,
+  "merchant": "Curado",
+  "resolved_name": "Curado",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 848,
+  "merchant": "Estero",
+  "resolved_name": "Estero",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 850,
+  "merchant": "Grand Cru",
+  "resolved_name": "Grand Cru",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 851,
+  "merchant": "Harvest",
+  "resolved_name": "Harvest",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 852,
+  "merchant": "Huma",
+  "resolved_name": "Huma Rooftop",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "The Grand Hotel (piso 9)",
+    "address": "Rambla Lorenzo Batlle Pacheco y Avenida del Mar, Playa Brava, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.timeout.com/buenos-aires/the-grand-hotel-punta-del-este-uruguay-travel-tourism-beach-art-gastronomy"
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "merchant": "La Panadería de José Ignacio",
+  "resolved_name": "La Panadería de José Ignacio",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 855,
+  "merchant": "La Proveeduría",
+  "resolved_name": "La Proveeduría",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 856,
+  "merchant": "LaLinda",
+  "resolved_name": "LaLinda",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 857,
+  "merchant": "Lobby Bar",
+  "resolved_name": "Lobby Bar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 858,
+  "merchant": "Miró",
+  "resolved_name": "Miró",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 861,
+  "merchant": "Proita",
+  "resolved_name": "Proita",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 862,
+  "merchant": "Sacromonte",
+  "resolved_name": "Sacromonte",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 863,
+  "merchant": "Teodoro",
+  "resolved_name": "Teodoro",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 864,
+  "merchant": "Teodoro Puerto",
+  "resolved_name": "Teodoro Puerto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 866,
+  "merchant": "La Folie",
+  "resolved_name": "La Folie",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 867,
+  "merchant": "Essenza",
+  "resolved_name": "Essenza",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 868,
+  "merchant": "Sweet Angie",
+  "resolved_name": "Sweet Angie",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 870,
+  "merchant": "Adidas Classic",
+  "resolved_name": "adidas",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/adidas-abre-su-primera-tienda-Originals-en-Uruguay-uc335686"
+   }
+  ]
+ },
+ {
+  "id": 871,
+  "merchant": "Actitud Sur",
+  "resolved_name": "Actitud Sur",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 872,
+  "merchant": "Agnès Lenoble",
+  "resolved_name": "Agnès Lenoble",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 873,
+  "merchant": "Benicia Store",
+  "resolved_name": "Benicia Store",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 875,
+  "merchant": "Bimba y Lola",
+  "resolved_name": "Bimba y Lola",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://montevideoshopping.com.uy/"
+   }
+  ]
+ },
+ {
+  "id": 876,
+  "merchant": "Birkenstock",
+  "resolved_name": "Birkenstock",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Luis Alberto de Herrera 1290, Buceo, Montevideo, Uruguay",
+    "confidence": 0.6,
+    "source_url": "https://montevideoshopping.com.uy/"
+   }
+  ]
+ }
+]

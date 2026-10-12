@@ -1,0 +1,1263 @@
+[
+ {
+  "id": 251,
+  "merchant": "Casa Dispensa",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 316,
+  "merchant": "Bacan",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 344,
+  "merchant": "Cofre Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 346,
+  "merchant": "El amor es tiempo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 353,
+  "merchant": "Hola que tal",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 354,
+  "merchant": "Hoy Café",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 367,
+  "merchant": "Mar de Fondo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 373,
+  "merchant": "Parada Barra",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 389,
+  "merchant": "Anima",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 394,
+  "merchant": "Delicatessen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 405,
+  "merchant": "Jefris",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 706,
+  "merchant": "OrderEat",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 790,
+  "merchant": "PedidosYa",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 807,
+  "merchant": "Frog",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 809,
+  "merchant": "Mosca",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Carrasco",
+    "address": "Avenida Alfredo Arocena 1576, Carrasco, Montevideo, Uruguay",
+    "lat": -34.8894473,
+    "lng": -56.0565894,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/458113561"
+   },
+   {
+    "sucursal": "Cordón",
+    "address": "Avenida 18 de Julio, Cordón, Montevideo, Uruguay",
+    "lat": -34.9043714,
+    "lng": -56.1819999,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5716235968"
+   },
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Luis de la Torre, Punta Carretas, Montevideo, Uruguay",
+    "lat": -34.9175692,
+    "lng": -56.1576636,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5354764795"
+   },
+   {
+    "sucursal": "Centro",
+    "address": "Avenida 18 de Julio, Centro, Montevideo, Uruguay",
+    "lat": -34.9057106,
+    "lng": -56.1905708,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5716234624"
+   },
+   {
+    "sucursal": "Unión",
+    "address": "Avenida 8 de Octubre, Unión, Montevideo, Uruguay",
+    "lat": -34.8743842,
+    "lng": -56.1397185,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4543406814"
+   },
+   {
+    "sucursal": "Malvín Nuevo",
+    "address": "Avenida Italia 4206, Malvín Nuevo, Montevideo, Uruguay",
+    "lat": -34.8879742,
+    "lng": -56.1179816,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12661000519"
+   },
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Avenida de las Américas, Parque Miramar, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.8700454,
+    "lng": -56.0310701,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12806316813"
+   },
+   {
+    "sucursal": "Solymar",
+    "address": "Camino de Los Horneros, Solymar, General Líber Seregni, Canelones, Uruguay",
+    "lat": -34.8155821,
+    "lng": -55.9802548,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/11608017763"
+   }
+  ]
+ },
+ {
+  "id": 811,
+  "merchant": "Area Design",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 812,
+  "merchant": "Trios Lighting",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 813,
+  "merchant": "Prat Pádel",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 814,
+  "merchant": "Riviera Joyería",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 815,
+  "merchant": "Alquimista",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 816,
+  "merchant": "Baco",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 817,
+  "merchant": "Bar Carretas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 818,
+  "merchant": "Café Misterio Aeropuerto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 820,
+  "merchant": "Estrecho",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Ciudad Vieja",
+    "address": "Sarandí 460, Ciudad Vieja, Montevideo, Uruguay",
+    "lat": -34.9078319,
+    "lng": -56.205628,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5478471321"
+   }
+  ]
+ },
+ {
+  "id": 821,
+  "merchant": "Fabric Sushi Mvd",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 822,
+  "merchant": "Gourmet Marti",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 823,
+  "merchant": "La Bodeguita Sacromonte",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 824,
+  "merchant": "La Vinoteca",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 825,
+  "merchant": "Las Croabas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 826,
+  "merchant": "Las Vizcarras",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 827,
+  "merchant": "Pomelo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 828,
+  "merchant": "Sushi True",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Obligado 1101, Punta Carretas, Montevideo, Uruguay",
+    "lat": -34.910038,
+    "lng": -56.1607056,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12423629887"
+   }
+  ]
+ },
+ {
+  "id": 829,
+  "merchant": "Tea Connection",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "Coronel Mora 553, Punta Carretas, Montevideo, Uruguay",
+    "lat": -34.9195686,
+    "lng": -56.1583922,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12378608860"
+   }
+  ]
+ },
+ {
+  "id": 830,
+  "merchant": "Vicenta",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 831,
+  "merchant": "by Luli",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Parque Rodó",
+    "address": "Maldonado, Parque Rodó, Montevideo, Uruguay",
+    "lat": -34.9075387,
+    "lng": -56.1623656,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/9695827869"
+   }
+  ]
+ },
+ {
+  "id": 832,
+  "merchant": "La Mantequeria",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Gorlero 951, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9591278,
+    "lng": -54.9403802,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4535025652"
+   }
+  ]
+ },
+ {
+  "id": 833,
+  "merchant": "Oakberry",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 834,
+  "merchant": "Sinfonía blends",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 835,
+  "merchant": "Aguaverde",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 836,
+  "merchant": "Al fin y al cabo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 837,
+  "merchant": "Algo de Mi",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Diego Calvette, Playa Verde, Maldonado, Uruguay",
+    "lat": -34.8263153,
+    "lng": -55.3134511,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12021328969"
+   }
+  ]
+ },
+ {
+  "id": 838,
+  "merchant": "Alison Pizza",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 839,
+  "merchant": "Arenas",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 840,
+  "merchant": "Bodega Garzón",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Camino al Paso de la Cantera, Maldonado, Uruguay",
+    "lat": -34.5685824,
+    "lng": -54.6284137,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/6231068720"
+   },
+   {
+    "sucursal": null,
+    "address": "Camino al Paso de la Cantera, Maldonado, Uruguay",
+    "lat": -34.5697165,
+    "lng": -54.6292952,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/10756745305"
+   }
+  ]
+ },
+ {
+  "id": 841,
+  "merchant": "Bodega Oceánica",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 842,
+  "merchant": "Boulevard de las Palmeras",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 843,
+  "merchant": "Café de la Mansa",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Pedro Risso, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9569167,
+    "lng": -54.9409175,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/13698726902"
+   }
+  ]
+ },
+ {
+  "id": 844,
+  "merchant": "Cerro del Toro",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 845,
+  "merchant": "Compañía Uruguaya de Vinos del Mar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 846,
+  "merchant": "Crudo",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 847,
+  "merchant": "Curado",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 848,
+  "merchant": "Estero",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 849,
+  "merchant": "Fasano",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 850,
+  "merchant": "Grand Cru",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 851,
+  "merchant": "Harvest",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 852,
+  "merchant": "Huma",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 853,
+  "merchant": "L'Auberge",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "San Rafael",
+    "address": "Carnoustie, San Rafael, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9318832,
+    "lng": -54.90559,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/2451689621"
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "merchant": "La Panadería de José Ignacio",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 855,
+  "merchant": "La Proveeduría",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 856,
+  "merchant": "LaLinda",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 857,
+  "merchant": "Lobby Bar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 858,
+  "merchant": "Miró",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 859,
+  "merchant": "Narbona",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Orosman Moratorio, Chakras del Este, Maldonado, Uruguay",
+    "lat": -34.8717518,
+    "lng": -54.8492069,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/6255884863"
+   }
+  ]
+ },
+ {
+  "id": 860,
+  "merchant": "O'Farrell Kitchen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 861,
+  "merchant": "Proita",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 862,
+  "merchant": "Sacromonte",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 863,
+  "merchant": "Teodoro",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 864,
+  "merchant": "Teodoro Puerto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 865,
+  "merchant": "Viña Eden",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": null,
+    "address": "Ruta 12 Doctor Luis Alberto de Herrera, Maldonado, Uruguay",
+    "lat": -34.6623534,
+    "lng": -55.0403212,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/13256233001"
+   }
+  ]
+ },
+ {
+  "id": 866,
+  "merchant": "La Folie",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 867,
+  "merchant": "Essenza",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 868,
+  "merchant": "Sweet Angie",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 869,
+  "merchant": "Adidas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Unión",
+    "address": "Avenida 8 de Octubre, Unión, Montevideo, Uruguay",
+    "lat": -34.8763507,
+    "lng": -56.1425417,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4545175314"
+   }
+  ]
+ },
+ {
+  "id": 870,
+  "merchant": "Adidas Classic",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 871,
+  "merchant": "Actitud Sur",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 872,
+  "merchant": "Agnès Lenoble",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 873,
+  "merchant": "Benicia Store",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 874,
+  "merchant": "Benson & Thomas",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Los Muergos (Calle 27), Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9606704,
+    "lng": -54.9443917,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/2475286699"
+   }
+  ]
+ },
+ {
+  "id": 875,
+  "merchant": "Bimba y Lola",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 876,
+  "merchant": "Birkenstock",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 877,
+  "merchant": "By Florencia",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 878,
+  "merchant": "Crocs",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Avenida de los Alpes, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9405754,
+    "lng": -54.9345599,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/2475266065"
+   },
+   {
+    "sucursal": "Punta Del Este",
+    "address": "El Remanso (Calle 20), Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9605115,
+    "lng": -54.9437169,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12479780107"
+   }
+  ]
+ },
+ {
+  "id": 879,
+  "merchant": "Fitpoint",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 880,
+  "merchant": "Inbox",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "El Remanso (Calle 20), Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9604961,
+    "lng": -54.943686,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4532859023"
+   }
+  ]
+ },
+ {
+  "id": 881,
+  "merchant": "Jazmín Chebar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 882,
+  "merchant": "Lacoste",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 883,
+  "merchant": "Lanhtropy",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 884,
+  "merchant": "Levi's",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "La Blanqueada",
+    "address": "Avenida 8 de Octubre, La Blanqueada, Montevideo, Uruguay",
+    "lat": -34.8808204,
+    "lng": -56.1513018,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/458764787"
+   },
+   {
+    "sucursal": "Cordón",
+    "address": "Avenida 18 de Julio 1730, Cordón, Montevideo, Uruguay",
+    "lat": -34.9033685,
+    "lng": -56.1787244,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5808110724"
+   }
+  ]
+ },
+ {
+  "id": 885,
+  "merchant": "Magma",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Pedro Risso, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9544092,
+    "lng": -54.9389568,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/13912630424"
+   }
+  ]
+ },
+ {
+  "id": 886,
+  "merchant": "Mariacher",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 887,
+  "merchant": "Mutma",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 888,
+  "merchant": "Pastiche",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 889,
+  "merchant": "Penguin",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 890,
+  "merchant": "SierraMora",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 891,
+  "merchant": "Rosa Rosa",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 892,
+  "merchant": "Amén",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 893,
+  "merchant": "Anthea",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 894,
+  "merchant": "Capri",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 895,
+  "merchant": "Damen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 896,
+  "merchant": "Denali",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 897,
+  "merchant": "El Beso",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 898,
+  "merchant": "Ferrero Studio",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 899,
+  "merchant": "Jibona",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 900,
+  "merchant": "La Boutique Paris",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 901,
+  "merchant": "Marimba",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 902,
+  "merchant": "Maura",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 903,
+  "merchant": "Óptica Nova",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas",
+    "address": "21 de Setiembre 2864, Punta Carretas, Montevideo, Uruguay",
+    "lat": -34.9191856,
+    "lng": -56.155522,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4543967980"
+   },
+   {
+    "sucursal": "San Rafael",
+    "address": "Pascual Gattas, San Rafael, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9408351,
+    "lng": -54.9342002,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/2475250511"
+   }
+  ]
+ },
+ {
+  "id": 904,
+  "merchant": "Óptica Florida",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Paso Molino",
+    "address": "Avenida Agraciada, Paso Molino, Montevideo, Uruguay",
+    "lat": -34.8577822,
+    "lng": -56.2181124,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4516026557"
+   },
+   {
+    "sucursal": "Barrio Histórico",
+    "address": "Avenida General Flores 298, Barrio Histórico, Colonia del Sacramento, Colonia, Uruguay",
+    "lat": -34.4706726,
+    "lng": -57.8484775,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12560526906"
+   },
+   {
+    "sucursal": "Salto",
+    "address": "Avenida José Batlle y Ordóñez 2265, El Vasco, Salto, Uruguay",
+    "lat": -31.384142,
+    "lng": -57.944017,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/5264955738"
+   },
+   {
+    "sucursal": "Las Piedras",
+    "address": "Avenida General Artigas, Las Piedras, Canelones, Uruguay",
+    "lat": -34.7269332,
+    "lng": -56.2190564,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/458918367"
+   },
+   {
+    "sucursal": "San José de Carrasco",
+    "address": "Avenida Ingeniero Luis Giannattasio, San José de Carrasco, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.8409783,
+    "lng": -55.9936895,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/11711894620"
+   },
+   {
+    "sucursal": "Tres Cruces",
+    "address": "Bulevar General Artigas, Tres Cruces, Montevideo, Uruguay",
+    "lat": -34.9005849,
+    "lng": -56.1639924,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/456461938"
+   },
+   {
+    "sucursal": "Colón",
+    "address": "Avenida General Eugenio Garzón, Colón, Montevideo, Uruguay",
+    "lat": -34.8051162,
+    "lng": -56.222338,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/458951575"
+   },
+   {
+    "sucursal": "Unión",
+    "address": "Gobernador Viana, Unión, Montevideo, Uruguay",
+    "lat": -34.8754743,
+    "lng": -56.1416083,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/4542086224"
+   },
+   {
+    "sucursal": "Fray Bentos",
+    "address": "18 de Julio 1558, Barrio Comercial, Fray Bentos, Río Negro, Uruguay",
+    "lat": -33.1211662,
+    "lng": -58.3067003,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/7115697975"
+   },
+   {
+    "sucursal": "Lagomar",
+    "address": "Avenida Ingeniero Luis Giannattasio, Lagomar, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.8337532,
+    "lng": -55.9790272,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/457990562"
+   },
+   {
+    "sucursal": "Malvín",
+    "address": "Orinoco, Malvín, Montevideo, Uruguay",
+    "lat": -34.8959621,
+    "lng": -56.0998146,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12494932894"
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "merchant": "Perpetua",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 906,
+  "merchant": "Pura Lana",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 907,
+  "merchant": "Puropunto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 908,
+  "merchant": "Rupia",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 909,
+  "merchant": "SB",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 910,
+  "merchant": "Sonsoles",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 911,
+  "merchant": "Suma",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 912,
+  "merchant": "Vopero",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 913,
+  "merchant": "Wanama",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 914,
+  "merchant": "Fresh Market",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "San Rafael",
+    "address": "Avenida Orlando Pedragosa Sierra (5011), San Rafael, Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9430418,
+    "lng": -54.9327693,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/457078985"
+   },
+   {
+    "sucursal": "Las Delicias",
+    "address": "3 de Febrero, Las Delicias, Maldonado, Uruguay",
+    "lat": -34.9131363,
+    "lng": -54.9614067,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/way/267968706"
+   },
+   {
+    "sucursal": "Parque Miramar",
+    "address": "Avenida de las Américas 6000, Parque Miramar, Ciudad de la Costa, Canelones, Uruguay",
+    "lat": -34.8699655,
+    "lng": -56.0310018,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/12806316814"
+   },
+   {
+    "sucursal": null,
+    "address": "Avenida de los Pioneros, Punta Colorada, Maldonado, Uruguay",
+    "lat": -34.9007099,
+    "lng": -55.2577409,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/2033273136"
+   },
+   {
+    "sucursal": "Punta Del Este",
+    "address": "Emilio Inzaurraga (Calle 31), Punta Del Este, Maldonado, Uruguay",
+    "lat": -34.9577589,
+    "lng": -54.9409255,
+    "confidence": 0.6,
+    "source": "osm",
+    "source_url": "https://www.openstreetmap.org/node/13698295901"
+   }
+  ]
+ }
+]

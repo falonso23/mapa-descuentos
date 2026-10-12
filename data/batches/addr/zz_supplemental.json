@@ -113,7 +113,7 @@
     { "sucursal": "Ciudad Vieja (principal)", "address": "Ciudadela 1397 casi Rincón, Ciudad Vieja, Montevideo, Uruguay", "confidence": 0.85, "source_url": "https://www.tripadvisor.com/Restaurant_Review-g294323-d13004625-Reviews-Chesterhouse-Montevideo_Montevideo_Department.html" },
     { "sucursal": "WTC Torre 2", "address": "Av. Luis Alberto de Herrera 1248, Montevideo, Uruguay", "confidence": 0.65, "source_url": "https://www.instagram.com/chesterhouseuy/?hl=es" },
     { "sucursal": "WTC Torre 4", "address": "Av. Luis Alberto de Herrera 1248, Montevideo, Uruguay", "confidence": 0.6, "source_url": "https://www.instagram.com/chesterhouseuy/?hl=es" },
-    { "sucursal": "Zonamerica", "address": "Ruta 8 Km 17.500, Montevideo, Uruguay", "confidence": 0.65, "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Sushiapp-y-Chesterhouse-llegaron-a-Ciudad-Vieja-y-ya-alcanzan-los-9-locales-uc341032" } ] },
+    { "sucursal": "Zonamerica", "address": "Ruta 8 Km 17.500, Montevideo, Uruguay", "lat": -34.7889, "lng": -56.0697, "confidence": 0.65, "source_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Sushiapp-y-Chesterhouse-llegaron-a-Ciudad-Vieja-y-ya-alcanzan-los-9-locales-uc341032" } ] },
   { "id": 307, "merchant": "Sushi Club", "resolved_name": "Sushi Club", "es_cadena": true, "status": "found", "addresses": [
     { "sucursal": "Punta Carretas", "address": "Guipúzcoa 454, Punta Carretas, Montevideo, Uruguay", "confidence": 0.8, "source_url": "https://todoestaenmontevideo.com/en/shops/sushiclub-punta-carretas-deli-take" },
     { "sucursal": "Punta del Este", "address": "Rambla General José Artigas esq. Calle 28, Punta del Este, Maldonado, Uruguay", "confidence": 0.7, "source_url": "https://www.instagram.com/p/Cxax2YZARhI/" } ] },
@@ -143,5 +143,11 @@
   { "id": 277, "merchant": "La Pantalla", "resolved_name": "La Pantalla", "es_cadena": false, "status": "found", "addresses": [
     { "sucursal": "Malvín", "address": "Michigan 1404, Malvín, Montevideo, Uruguay", "confidence": 0.7, "source_url": "https://www.tiktok.com/@cafecitos.uy/video/7456181054026665221" } ] },
   { "id": 400, "merchant": "París Londres", "resolved_name": "París Londres Beer House", "es_cadena": false, "status": "found", "addresses": [
-    { "sucursal": "Paysandú", "address": "Treinta y Tres Orientales 909, Paysandú, Uruguay", "confidence": 0.65, "source_url": "https://salimos.uy/listado/paris-londres-beer-house/" } ] }
+    { "sucursal": "Paysandú", "address": "Treinta y Tres Orientales 909, Paysandú, Uruguay", "confidence": 0.65, "source_url": "https://salimos.uy/listado/paris-londres-beer-house/" } ] },
+  { "id": 819, "merchant": "Dulce Sofía", "resolved_name": "Dulce Sofía", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Local principal", "address": "Luis de la Torre 845 esquina Scoseria, Montevideo, Uruguay", "confidence": 0.55, "source_url": "https://sofiadulcesofia.com.uy/donde-estamos" } ] },
+  { "id": 188, "merchant": "Movelart", "resolved_name": "Movelart Uruguay (Mobiliario & Deco)", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Vía Disegno", "address": "Ruta 101 Km 19.500, frente Aeropuerto de Carrasco, Ciudad de la Costa, Canelones, Uruguay", "lat": -34.8442, "lng": -56.0164, "confidence": 0.7, "source_url": "https://www.movelart.com.uy/contacto/" } ] },
+  { "id": 194, "merchant": "Soho", "resolved_name": "Soho Deco", "es_cadena": false, "status": "found", "addresses": [
+    { "sucursal": "Vía Disegno", "address": "Ruta 101 Km 19.500, Ciudad de la Costa, Canelones, Uruguay", "lat": -34.8442, "lng": -56.0164, "confidence": 0.55, "source_url": "https://viadisegno.com/stores/soho" } ] }
 ]

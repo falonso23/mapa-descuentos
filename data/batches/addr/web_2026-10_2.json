@@ -1,0 +1,389 @@
+[
+ {
+  "id": 877,
+  "merchant": "By Florencia",
+  "resolved_name": "By Florencia",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 879,
+  "merchant": "Fitpoint",
+  "resolved_name": "Fitpoint",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Calle 20",
+    "address": "Calle 20 entre 28 y 29, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Portones Shopping",
+    "address": "Av. Italia 5775, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Montevideo Shopping",
+    "address": "Av. Luis Alberto de Herrera 1290, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Las Piedras Shopping",
+    "address": "Blvr. del Bicentenario 318, Las Piedras, Canelones, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   },
+   {
+    "sucursal": "Nuevocentro Shopping",
+    "address": "Av. Luis Alberto de Herrera 3365, Montevideo, Uruguay",
+    "confidence": 0.85,
+    "source_url": "https://www.fitpoint.com.uy/locales"
+   }
+  ]
+ },
+ {
+  "id": 881,
+  "merchant": "Jazmín Chebar",
+  "resolved_name": "Jazmín Chebar",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 882,
+  "merchant": "Lacoste",
+  "resolved_name": "Lacoste",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/lacoste-amplia-su-presencia-en-uruguay-con-nuevas-tiendas-y-colecciones/"
+   }
+  ]
+ },
+ {
+  "id": 883,
+  "merchant": "Lanhtropy",
+  "resolved_name": "Lanhtropy Uruguay",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Montevideo",
+    "address": "Potosí 1671, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.instagram.com/lanhtropyuruguay/"
+   },
+   {
+    "sucursal": "José Ignacio",
+    "address": "Saiz Martínez esq. Los Biguá, José Ignacio, Maldonado, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.instagram.com/lanhtropyuruguay/"
+   }
+  ]
+ },
+ {
+  "id": 886,
+  "merchant": "Mariacher",
+  "resolved_name": "Mariacher",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 887,
+  "merchant": "Mutma",
+  "resolved_name": "Mutma",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 888,
+  "merchant": "Pastiche",
+  "resolved_name": "Pastiche",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "",
+    "address": "Gregorio Suárez 2718, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://pastiche.com.uy"
+   }
+  ]
+ },
+ {
+  "id": 889,
+  "merchant": "Penguin",
+  "resolved_name": "Penguin",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://americaretail-malls.com/paises/uruguay/el-iconico-pinguino-regresa-a-uruguay-con-un-ambicioso-plan-comercial/"
+   }
+  ]
+ },
+ {
+  "id": 890,
+  "merchant": "SierraMora",
+  "resolved_name": "SierraMora",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 891,
+  "merchant": "Rosa Rosa",
+  "resolved_name": "Rosa Rosa",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 893,
+  "merchant": "Anthea",
+  "resolved_name": "Anthea",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "",
+    "address": "José Ellauri 493 bis, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/anthea.uy/"
+   }
+  ]
+ },
+ {
+  "id": 894,
+  "merchant": "Capri",
+  "resolved_name": "Capri",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 895,
+  "merchant": "Damen",
+  "resolved_name": "Damen",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 896,
+  "merchant": "Denali",
+  "resolved_name": "Denali",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "",
+    "address": "21 de Setiembre 3039, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/denali.uy/"
+   }
+  ]
+ },
+ {
+  "id": 897,
+  "merchant": "El Beso",
+  "resolved_name": "El Beso",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 898,
+  "merchant": "Ferrero Studio",
+  "resolved_name": "Ferrero Studio",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 899,
+  "merchant": "Jibona",
+  "resolved_name": "Jibona",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "",
+    "address": "21 de Setiembre 2995, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.jibona.com"
+   }
+  ]
+ },
+ {
+  "id": 900,
+  "merchant": "La Boutique Paris",
+  "resolved_name": "La Boutique Paris",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 901,
+  "merchant": "Marimba",
+  "resolved_name": "Marimba",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Flor de Casa",
+    "address": "Otero 6494, Montevideo, Uruguay",
+    "confidence": 0.7,
+    "source_url": "https://www.instagram.com/marimba.uy/"
+   },
+   {
+    "sucursal": "Stroget",
+    "address": "Solano García 2499, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/marimba.uy/"
+   }
+  ]
+ },
+ {
+  "id": 902,
+  "merchant": "Maura",
+  "resolved_name": "Maura",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 905,
+  "merchant": "Perpetua",
+  "resolved_name": "Perpetua",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 906,
+  "merchant": "Pura Lana",
+  "resolved_name": "Pura Lana",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Pocitos",
+    "address": "21 de Setiembre 2710 bis, Pocitos, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/pura.lana/"
+   },
+   {
+    "sucursal": "La Barra",
+    "address": "Ruta 10 esq. Las Sirenas, La Barra, Maldonado, Uruguay",
+    "confidence": 0.75,
+    "source_url": "https://www.instagram.com/pura.lana/"
+   }
+  ]
+ },
+ {
+  "id": 907,
+  "merchant": "Puropunto",
+  "resolved_name": "Puropunto",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 908,
+  "merchant": "Rupia",
+  "resolved_name": "Rupia",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Local LANKA",
+    "address": "Av. Alfredo Arocena 1691, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://rupia.com.uy"
+   }
+  ]
+ },
+ {
+  "id": 909,
+  "merchant": "SB",
+  "resolved_name": "Shill (Shill Bidder)",
+  "es_cadena": true,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 910,
+  "merchant": "Sonsoles",
+  "resolved_name": "Sonsoles",
+  "es_cadena": true,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Panthai Carrasco",
+    "address": "Rostand 1571, Carrasco, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/sonsoles.camino/"
+   },
+   {
+    "sucursal": "Punta del Este",
+    "address": "Calle 20 esq. 29, Punta del Este, Maldonado, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/sonsoles.camino/"
+   }
+  ]
+ },
+ {
+  "id": 911,
+  "merchant": "Suma",
+  "resolved_name": "Suma",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 912,
+  "merchant": "Vopero",
+  "resolved_name": "Vopero",
+  "es_cadena": false,
+  "status": "found",
+  "addresses": [
+   {
+    "sucursal": "Punta Carretas Shopping",
+    "address": "José Ellauri 350, Punta Carretas, Montevideo, Uruguay",
+    "confidence": 0.8,
+    "source_url": "https://www.instagram.com/vopero.uy/"
+   }
+  ]
+ },
+ {
+  "id": 913,
+  "merchant": "Wanama",
+  "resolved_name": "Wanama",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ },
+ {
+  "id": 892,
+  "merchant": "Amén",
+  "resolved_name": "Amén",
+  "es_cadena": false,
+  "status": "not_found",
+  "addresses": []
+ }
+]

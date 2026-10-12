@@ -352,6 +352,19 @@ body {
   margin-top: 2px;
   color: var(--accent);
 }
+.list-no-location {
+  margin-top: 8px;
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 6px 4px;
+  color: var(--muted);
+  font-size: 13px;
+}
+.list-no-location svg {
+  flex: 0 0 auto;
+  margin-top: 2px;
+}
 
 /* Popup (rendered as static HTML inside maplibre popup, styled globally).
    Selectors are doubled up to out-specificity maplibre-gl.css's own same-specificity rules,

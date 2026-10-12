@@ -1,46 +1,6769 @@
 {
   "source": "itau",
   "bank": "Itaú",
-  "scraped_note": "Extraído manualmente. La página beneficios.html es un landing curado (no un catálogo completo). Los beneficios named-merchant mappables vienen sobre todo de restaurantes.html. moda.html NO nombra comercios ('locales adheridos'). Programa de restaurantes válido para tarjetas de crédito Itaú, débito Volar y débito Junior. Vigencia campaña restaurantes: 1 mar - 30 jun 2026.",
-  "limitations": [
-    "Beneficios genéricos por rubro ('15% en moda', '15% en restaurantes') no listan comercio => solo mappables los nombrados.",
-    "La ruta #/tarjetas-debito comparte en gran parte el mismo programa de restaurantes/moda; no se re-extrajo en detalle.",
-    "moda.html no publica lista de comercios."
-  ],
-  "featured_named_merchants": [
-    { "merchant": "Cantegrill Joyas", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": "Punta del Este" },
-    { "merchant": "Duty Free Uruguay", "category": "otros", "discounts": [{ "card": "crédito", "amount": "Millas X3 o X5", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": "aeropuerto/fronteras" },
-    { "merchant": "Starbucks", "category": "gastronomia", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "en bebidas" }], "location_type": "cadena", "address_hint": null },
-    { "merchant": "Bosch y Cia", "category": "hogar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
-    { "merchant": "Wikimusculos", "category": "bienestar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
-    { "merchant": "Farmacia El Túnel", "category": "salud", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": null },
-    { "merchant": "San Roque", "category": "salud", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "cadena", "address_hint": null },
-    { "merchant": "Espacio Aroma", "category": "bienestar", "discounts": [{ "card": "crédito", "amount": "25% y 15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
-    { "merchant": "CIR Acondicionamiento térmico", "category": "hogar", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": null }], "location_type": "fisico", "address_hint": null },
-    { "merchant": "Movigroup (iPhone/Apple)", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "12 cuotas" }], "location_type": "cadena", "address_hint": null },
-    { "merchant": "Loop Bikes", "category": "otros", "discounts": [{ "card": "crédito", "amount": "15%", "days": null, "conditions": "hasta 24 cuotas" }], "location_type": "online", "address_hint": null }
-  ],
-  "generic_category_benefits_not_mappable": [
-    { "benefit": "25% menos con Platinum, Infinite, Black y Personal", "note": "tier-based, sin comercio" },
-    { "benefit": "15% menos en restaurantes", "note": "ver lista restaurants[]" },
-    { "benefit": "15% menos en moda", "note": "locales adheridos no publicados" }
-  ],
-  "restaurants_program": {
-    "discount": "15%",
-    "card": "crédito Itaú + débito Volar + débito Junior",
-    "days": "todos los días",
-    "by_city": {
-      "Montevideo": ["1921","Artesia","Asencio","Basílico","Bisiesto","Brot Haus","Café Haus","Café Misterio","Café Misterio Carrasco","Café Santana","Café Valderama","Casa Dispensa","Cauce","Caudillo","Chester House","Chivipizza","Coffe Point","Crazy Crepes","Cuervo","Demorondanga","Dos Orientales","El Puesto","Eladio","Escaramuza","Fabric Sushi","Familia Deicas","Hasami","Hoy te Quiero","Hugo Soca","La Campeona","La Cocina de Pedro","La Corte","La Criolla","La Croissanteria","La Domenica","La Dulceria de Xime Torres","La Molienda","La Panera Rosa","La Pantalla","La Parrillita de Viñoly","La Peatonal","La Perdiz","La Resistance","La Social","Le Pain Quotidien","Malafama Cervecería","Manzanar","Massey Familia","Milajo","Misushi","Morelia","No tan Santos","Norimoto","Nueva Malvín","Obra","Ola Poke","Panini's","Pez Globo","Piso 40","Polo Bamba","Pompier","Quinquela","Rio","Rudy","Sablée","Sanguche","Silver Cantina","St. Germain","Starbucks","Sudestada","Sushi Club","Sushi Wok Perú","Tandory","Tintos y Rubias","Tomás","Trouville","Tsubo","Varela Zarranz","Vela"],
-      "Montevideo_gourmet": ["Bacan","Belvedere Bakery","DeGuarda","Del Campo","Delishop","Gourmeat Carrasco","Gourmeat Market","Mar Austral","Mercado Verde","Say Cheese","Sofía Dulce Sofía","Vinos del Mundo"],
-      "Montevideo_librerias": ["El Virrey","Escaramuza Libros"],
-      "Punta del Este": ["Abstrakto","Almacén de Campo","Antonino","Atrevida","Betty's","Bigote","Blend (Enjoy)","Brote","Bungalow Suizo - Café","Cactus y Pescados","Café El Tesoro","Casa Astigarraga","Casa Proa","Casa Vilaró","Chivipizza","Club de los Balleneros","Cofre Café","Crepas","Dos Hermanas","El Amor es Tiempo","El Fondin","El Secreto","Fabric Sushi","Ferona","Fish Market","Frances Co","Gualicho","Hasami","Hola que Tal","Hoy Café","Il Baretto","Il Belvedere","Juana","La Cantina del Vigia","La Cava","La Despensa","La Huella","La Panera Rosa","La Susana","La Taberna","Las Brisas (Enjoy)","Las Terrazas","Lighthouse","Majuga","Malafama Cervecería","Mansa Beach Club","Mar de Fondo","Mi Piace","Mia Bistro","Misushi","Muelle 3","Ola Poke","Olivia","Ovo Beach (Enjoy)","Parada Barra","Parador Bikini","Pez Globo","Picniqueria","Portal del Bosque","Provence (Enjoy)","Pueblo Narakan","Salón Número 3","Santa Leoncia","Societé","Starbucks","Sushi Club","Sushimi","Tierra Cocina Fernando Trocca","Tommy","Unido","Virazón","Vitaminas","Watashi","Yacht Club Uruguayo","Zunino"],
-      "Punta del Este_gourmet": ["Anima","DeGuarda","Del Campo","Gourmeat","Mar Austral","Mercado Verde","Vinos del Mundo"],
-      "Colonia": ["Anita","Bohemia","Casa Viera","Delicatessen","Las Liebres","Sio Sushi","Vinos del Mundo"],
-      "Mercedes": ["El Barco"],
-      "Paysandú": ["El Chajá","Panz","París Londres"],
-      "Rocha": ["Cardumen","Las Eduardas","Orishas Sushi"],
-      "Salto": ["Don Diego","Jefris","La Estación"],
-      "Carmelo": ["Gourmeat"]
+  "scraped_at": "2026-10-12T15:28:24.010Z",
+  "feed_date": "20261012051001",
+  "scraped_note": "scripts/scrape-itau.mjs sobre https://www.itau.com.uy/inst/aci/inst_camp.xml y restaurantespersonalbank.html, restaurantesplatinum.html, restaurantes.html, modapersonalbank.html",
+  "merchants": [
+    {
+      "merchant": "Movie",
+      "category": "entretenimiento",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "2x1",
+          "card": "débito Volar",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "2x1 en Movie pagando con tu tarjeta de débito Volar."
+      ],
+      "locations": [
+        {
+          "lat": -34.9034250328035,
+          "lng": -56.1372184753418,
+          "sucursal": "Movie Montevideo Shopping"
+        },
+        {
+          "lat": -34.9242582036145,
+          "lng": -56.1592984199524,
+          "sucursal": "Movie Punta Carretas Shopping"
+        },
+        {
+          "lat": -34.8811431758467,
+          "lng": -56.0802268981934,
+          "sucursal": "Movie Portones Shopping"
+        },
+        {
+          "lat": -34.8694014100232,
+          "lng": -56.1697483062744,
+          "sucursal": "Movie Nuevo Centro"
+        }
+      ]
+    },
+    {
+      "merchant": "Freddo",
+      "category": "gastronomia",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "2x1",
+          "card": "débito Volar/Junior + Personal Bank",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "2x1 en helados de kilo y cucuruchos grandes con tarjetas de débito Volar, Junior de Itaú y tarjetas de débito y crédito Personal Bank .No aplica a Itaú Cuenta Pocket."
+      ],
+      "locations": [
+        {
+          "lat": -34.9046568706926,
+          "lng": -56.1360168457031,
+          "sucursal": "Freddo Montevideo Shopping"
+        },
+        {
+          "lat": -34.8885711329565,
+          "lng": -56.0583078861237,
+          "sucursal": "Freddo Carrasco"
+        },
+        {
+          "lat": -34.906748753058,
+          "lng": -56.2023612856865,
+          "sucursal": "Freddo Ciudad Vieja"
+        },
+        {
+          "lat": -34.9160504951348,
+          "lng": -56.15886926651,
+          "sucursal": "Freddo Pocitos"
+        },
+        {
+          "lat": -34.92135524942,
+          "lng": -56.1576783657074,
+          "sucursal": "Freddo Punta Carretas"
+        }
+      ]
+    },
+    {
+      "merchant": "Frog",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "10%",
+          "card": "débito Volar",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "10% menos en Frog con tarjetas de débito Visa Volar Itaú. *No incluye cuenta Pocket."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Las Delicias",
+      "category": "gastronomia",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "2x1",
+          "card": "débito Volar/Junior + Personal Bank",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "2x1 en helados de litro y cucuruchos grandes con tarjetas de débito Volar, Junior de Itaú y tarjetas de débito y crédito Personal Bank .No aplica a Itaú Cuenta Pocket."
+      ],
+      "locations": [
+        {
+          "lat": -34.887506265642,
+          "lng": -56.0575944185257,
+          "sucursal": "Las Delicias Carrasco"
+        },
+        {
+          "lat": -34.9180255224893,
+          "lng": -56.1568522453308,
+          "sucursal": "Las Delicias Pocitos"
+        },
+        {
+          "lat": -34.86521789077296,
+          "lng": -56.03393465280533,
+          "sucursal": "Las Delicias Parque Miramar"
+        },
+        {
+          "lat": -34.86494719808282,
+          "lng": -56.024436950683594,
+          "sucursal": "Las Delicias - Geant"
+        },
+        {
+          "lat": -34.88755549534453,
+          "lng": -56.11405340638352,
+          "sucursal": "Las Delicias - Plaza Italia"
+        },
+        {
+          "lat": -34.90526951224858,
+          "lng": -55.034506606683806,
+          "sucursal": "Las Delicias - Solanas"
+        }
+      ]
+    },
+    {
+      "merchant": "Mosca",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": null,
+          "conditions": "Del 9 al 18 de octubre"
+        },
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": null,
+          "conditions": "Del 9 al 18 de octubre"
+        },
+        {
+          "amount": "10%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "25% menos en Mosca del 9 al 18 de octubre en Tecnología con tarjetas débito y crédito Personal Bank. 15% menos pagando con todas las tarjetas de crédito Itaú.",
+        "10% menos en Mosca con tarjetas de débito Personal Bank."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Wikimusculos",
+      "category": "bienestar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "crédito + débito Volar",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "15% menos en Wikimusculos con todas las tarjetas de crédito y tarjeta de débito Itaú Volar. No aplica a Itaú Cuenta Pocket."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Más Infinito",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "Platinum/Infinite/Black/Personal Bank",
+          "days": null,
+          "conditions": "Del 10 al 30 de octubre"
+        },
+        {
+          "amount": "10%",
+          "card": "crédito",
+          "days": null,
+          "conditions": "Del 10 al 30 de octubre"
+        }
+      ],
+      "text": [
+        "Del 10 al 30 de octubre, tenés 15% menos pagando con tarjetas de crédito Platinum, Infinite, Black, y tarjetas de crédito y débito Personal Bank. Tenés 10% menos pagando con tarjetas de crédito de Itaú."
+      ],
+      "locations": [
+        {
+          "lat": -34.90504401592713,
+          "lng": -54.828370213508606,
+          "sucursal": "MasInfinito Manantiales"
+        }
+      ]
+    },
+    {
+      "merchant": "Samsonite",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": "jueves y sábados",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "Platinum",
+          "days": "jueves y sábados",
+          "conditions": null
+        }
+      ],
+      "text": [
+        "25% menos con tarjetas Personal Bank, incluye Infinite y Black y 15% menos con tarjetas de crédito Platinum en Samsonite los días juves y sábados"
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Area Design",
+      "category": "hogar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": null,
+          "conditions": "Del 12 al 17 de octubre"
+        }
+      ],
+      "text": [
+        "Del 12 al 17 de octubre tenés 25% menos en Area Design pagando con tarjetas de débito y crédito Personal Bank. Incluye Infinite y Black."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Trios Lighting",
+      "category": "hogar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": null,
+          "conditions": "Del 1 al 31 octubre"
+        }
+      ],
+      "text": [
+        "25% menos con tarjetas de crédito y débito Personal Bank, Infinite y Black del 1 al 31 octubre."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Farmacia El Túnel",
+      "category": "salud",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": "lunes y miércoles",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "amount": "20%",
+          "card": "Platinum",
+          "days": "lunes y miércoles",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "Platinum",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "text": [
+        "25% menos en farmacias El Túnel los días lunes y miércoles con tarjetas de débito y crédito Personal Bank (incluye Infinite y Black) 15% menos todos los días pagando con tarjetas de débito y crédito Personal Bank",
+        "20% menos los lunes y miércoles y 15% menos todos los días en farmacia El Túnel con tarjeta de crédito Platinum",
+        "20% menos en farmacia El Túnel los días lunes y miércoles con tu tarjeta de crédito Platinum.",
+        "15% menos todos los días pagando con tarjetas de crédito Itaú"
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "San Roque",
+      "category": "salud",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": "martes y jueves",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "Personal Bank/Infinite/Black",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "amount": "20%",
+          "card": "Platinum",
+          "days": "martes y jueves",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "Platinum",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "text": [
+        "25% menos en farmacias San Roque los días martes y jueves con tarjetas de débito y crédito Personal Bank (incluye Infinite y Black).15% menos todos los días pagando con tarjetas de débito y crédito Personal Bank.",
+        "20% menos en farmacias San Roque los días martes y jueves y 15% menos todos los días pagando con tarjetas Platinum.",
+        "15% menos en farmacias San Roque todos los días con tarjetas de crédito Itaú",
+        "25% menos en farmacias San Roque los días martes y jueves con tus tarjetas de débito y crédito Personal Bank (incluye Infinite y Black) y 20% menos con tarjetas Platinum. 15% menos todos los días con todas las tarjetas de crédito Itaú y tarjetas de débito Personal Bank."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Prat Pádel",
+      "category": "bienestar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "Personal Bank",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "15% menos en cuponeras en PRAT Pádel"
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Cantegrill Joyas",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "15% menos en Cantegrill Joyas pagando con tarjetas de crédito Itaú."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Punto Color",
+      "category": "hogar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "25%",
+          "card": "crédito",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "25% menos en Punto Color con todas las tarjetas de crédito Itaú en productos Inca."
+      ],
+      "locations": [
+        {
+          "lat": -34.86889086042297,
+          "lng": -56.16983413696289,
+          "sucursal": "Punto Color - Nuevo Centro"
+        },
+        {
+          "lat": -34.89602481773704,
+          "lng": -56.12244486808777,
+          "sucursal": "Punto Color Buceo"
+        },
+        {
+          "lat": -34.84366202200768,
+          "lng": -56.01556286215782,
+          "sucursal": "Punto Color Aeropuerto"
+        }
+      ]
+    },
+    {
+      "merchant": "Riviera Joyería",
+      "category": "otros",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "15% menos en Riviera Joyería pagando con tarjetas de crédito Itaú."
+      ],
+      "locations": []
+    },
+    {
+      "merchant": "Bosch y Cia",
+      "category": "hogar",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "amount": "15%",
+          "card": "crédito",
+          "days": null,
+          "conditions": null
+        }
+      ],
+      "text": [
+        "15% menos en Bosch y Cia pagando con todas las tarjetas de crédito Itaú."
+      ],
+      "locations": [
+        {
+          "lat": -34.9032006603414,
+          "lng": -56.1600977182388,
+          "sucursal": "Bosch Av Rivera"
+        },
+        {
+          "lat": -34.9130416761531,
+          "lng": -54.966938495636,
+          "sucursal": "Bosch Punta del Este"
+        }
+      ]
+    },
+    {
+      "merchant": "1921",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Alquimista",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Artesia",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Asencio",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Baco",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bar Carretas",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Basílico",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bisiesto",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café Haus",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café Misterio",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café Misterio Aeropuerto",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Casa Dispensa",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Cauce",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Caudillo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Chester House",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Chivipizza",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Coffe Point",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Crazy Crepes",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Cuervo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Demorondanga",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Dos Orientales",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Dulce Sofía",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "El Puesto",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Eladio",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Escaramuza",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Estrecho",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Fabric Sushi Mvd",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Familia Deicas",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Gourmet Marti",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Hasami",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Hoy te Quiero",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Hugo Soca",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Bodeguita Sacromonte",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Cocina de Pedro",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Corte",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Criolla",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Croissanteria",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Molienda",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Panera Rosa",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Parrillita de Viñoly",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Peatonal",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Perdiz",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Resistance",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Vinoteca",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Croabas",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Vizcarras",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Malafama Cervecería",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Manzanar",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Massey Familia",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Milajo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Misushi",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Morelia",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "No tan Santos",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Norimoto",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Nueva Malvín",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Pez Globo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Piso 40",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Polo Bamba",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Pomelo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Pompier",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Quinquela",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Rio",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Rudy",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sanguche",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Silver Cantina",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sushi Club",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sushi True",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sushi Wok Perú",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Tandory",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Tea Connection",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Tintos y Rubias",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Trouville",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Tsubo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Varela Zarranz",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Vela",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Vicenta",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Brot Haus",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "by Luli",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café Valderama",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Del Campo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Domenica",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Mantequeria",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Oakberry",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Obra",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Ola Poke",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sablée",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bacan",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Belvedere Bakery",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "DeGuarda",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Delishop",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Gourmeat Carrasco",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Gourmeat market",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Mar Austral",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Mercado Verde",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sinfonía blends",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Vinos del Mundo",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo / Punta del Este / Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Abstrakto",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Aguaverde",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Al fin y al cabo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Algo de Mi",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Alison Pizza",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Almacén de Campo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Antonino",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Arenas",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Atrevida",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bigote",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Blend (Enjoy)",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bodega Garzón",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bodega Oceánica",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Boulevard de las Palmeras",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Brote",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bungalow Suizo - Café",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Cactus y Pescados",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café de la Mansa",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Café El Tesoro",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Casa Astigarraga",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Casa Proa",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Casa Vilaró",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Cerro del Toro",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Club de los Balleneros",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Cofre Café",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Compañía Uruguaya de Vinos del Mar",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Crepas",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Crudo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Curado",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Dos Hermanas",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "El amor es tiempo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "El Secreto",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Estero",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Fasano",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Fish Market",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Frances Co",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Grand Cru",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Harvest",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Hola que tal",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Hoy Café",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Huma",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Il Baretto",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Il Belvedere",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Juana",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "L'Auberge",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Cantina del Vigia",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Cava",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Despensa",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La huella",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Panadería de José Ignacio",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Proveeduría",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Taberna",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "LaLinda",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Brisas (Enjoy)",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Terrazas",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Lighthouse",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Lobby Bar",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Mar de Fondo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Mi Piace",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Mia Bistro",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Miró",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Muelle 3",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Narbona",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "O'Farrell Kitchen",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Olivia",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Ovo Beach (Enjoy)",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Parada Barra",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Parador Bikini",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Picniqueria",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Proita",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Pueblo Narakan",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sacromonte",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Salón Número 3",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Santa Leoncia",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sushimi",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Teodoro",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Teodoro Puerto",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Tierra Cocina Fernando Trocca",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Unido",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Viña Eden",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": "Exclusivo Personal Bank"
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Virazón",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Watashi",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Yacht Club Uruguayo",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Zunino",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Anima",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Gourmeat",
+      "category": "gastronomia",
+      "city": "Punta del Este",
+      "address_hint": "Punta del Este / Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Anita",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Bohemia",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Casa Viera",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Delicatessen",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Liebres",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sio Sushi",
+      "category": "gastronomia",
+      "city": "Colonia",
+      "address_hint": "Colonia",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "El Barco",
+      "category": "gastronomia",
+      "city": "Mercedes",
+      "address_hint": "Mercedes",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "El Chajá",
+      "category": "gastronomia",
+      "city": "Paysandú",
+      "address_hint": "Paysandú",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Panz",
+      "category": "gastronomia",
+      "city": "Paysandú",
+      "address_hint": "Paysandú",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "París Londres",
+      "category": "gastronomia",
+      "city": "Paysandú",
+      "address_hint": "Paysandú",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Folie",
+      "category": "gastronomia",
+      "city": "Rocha",
+      "address_hint": "Rocha",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Las Eduardas",
+      "category": "gastronomia",
+      "city": "Rocha",
+      "address_hint": "Rocha",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Orishas Sushi",
+      "category": "gastronomia",
+      "city": "Rocha",
+      "address_hint": "Rocha",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Essenza",
+      "category": "gastronomia",
+      "city": "Salto",
+      "address_hint": "Salto",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Jefris",
+      "category": "gastronomia",
+      "city": "Salto",
+      "address_hint": "Salto",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Sweet Angie",
+      "category": "gastronomia",
+      "city": "Salto",
+      "address_hint": "Salto",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        },
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "La Estación",
+      "category": "gastronomia",
+      "city": "Salto",
+      "address_hint": "Salto",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Platinum",
+          "amount": "20%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Fabric Sushi",
+      "category": "gastronomia",
+      "city": "Montevideo",
+      "address_hint": "Montevideo",
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "crédito",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "restaurantes"
+    },
+    {
+      "merchant": "Adidas",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Adidas Classic",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Actitud Sur",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Agnès Lenoble",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Benicia Store",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Benson & Thomas",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Bimba y Lola",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Birkenstock",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "By Florencia",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        },
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Caro Criado",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Crocs",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Don Baez",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        },
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Fitpoint",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Inbox",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Jazmín Chebar",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Lacoste",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Lanhtropy",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Levi's",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Magma",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Margara Shaw",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Mariacher",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Mutma",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Pastiche",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Pecarí",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Penguin",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Petra",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        },
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "SHIFT",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "SierraMora",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Rosa Rosa",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Vdamiani",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "25%",
+          "days": "martes",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Amadeus",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Amén",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Anthea",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Capri",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Damen",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Denali",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "El Beso",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Ferrero Studio",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Jibona",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "La Boutique Paris",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Lanka",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Magnolia",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Mandinga",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Marimba",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Maura",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Óptica Nova",
+      "category": "salud",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Óptica Florida",
+      "category": "salud",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Panthai",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Perpetua",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Petrichor",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Pura Lana",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Puropunto",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Rupia",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "SB",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Sonsoles",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Suma",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Urban Haus",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Vopero",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Wanama",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
+    },
+    {
+      "merchant": "Watchme",
+      "category": "moda",
+      "city": null,
+      "address_hint": null,
+      "location_type": "fisico",
+      "discounts": [
+        {
+          "card": "Personal Bank/Infinite/Black",
+          "amount": "15%",
+          "days": "Todos los días",
+          "conditions": null
+        }
+      ],
+      "program": "moda"
     }
-  }
+  ],
+  "not_mappable": [
+    {
+      "title": "Beneficios U25",
+      "description": "15% menos con tarjeta de débito Volar",
+      "url": null,
+      "lists": [
+        "debito",
+        "paquete_full",
+        "paquete_light"
+      ]
+    },
+    {
+      "title": "25% menos todos los días",
+      "description": null,
+      "url": "https://www.itau.com.uy/inst/restaurantespersonalbank.html",
+      "lists": [
+        "alimentacion",
+        "credito"
+      ]
+    },
+    {
+      "title": "25% menos en moda",
+      "description": null,
+      "url": "https://www.itau.com.uy/inst/modapersonalbank.html",
+      "lists": [
+        "alimentacion"
+      ]
+    },
+    {
+      "title": "Cenas y eventos Personal Bank",
+      "description": null,
+      "url": "https://www.itau.com.uy/inst/aci/docs/PDF%20Cenas%20y%20eventos%20Personal%20Bank.pdf",
+      "lists": [
+        "alimentacion"
+      ]
+    },
+    {
+      "title": "Beneficios en hoteles",
+      "description": null,
+      "url": "https://www.itau.com.uy/inst/aci/docs/PDF%20de%20BENEFICIOS%20HOTELES%20PERSONAL%20BANK%203.11.pdf",
+      "lists": [
+        "alimentacion"
+      ]
+    },
+    {
+      "title": "15% menos en Loop",
+      "description": null,
+      "url": "https://shop.loop-bikes.com",
+      "lists": [
+        "alimentacion",
+        "paquete_full",
+        "paquete_light",
+        "credito"
+      ]
+    },
+    {
+      "title": "15% menos y 12 cuotas en la compra de Iphone",
+      "description": "24 cuotas sin interés en la compra de Iphone en Movigroup y 12 cuotas sin recargo en compra de equipos.",
+      "url": "https://www.movigroup.com.uy/",
+      "lists": [
+        "alimentacion",
+        "paquete_full",
+        "paquete_light",
+        "credito"
+      ]
+    },
+    {
+      "title": "20% menos con tarjeta Platinum",
+      "description": null,
+      "url": "https://www.itau.com.uy/inst/restaurantesplatinum.html",
+      "lists": [
+        "paquete_full",
+        "credito"
+      ]
+    },
+    {
+      "title": "15% menos en moda",
+      "description": "15% menos en comercios adheridos de moda pagando con tarjetas de crédito Itaú del hasta el 31 de diciembre de 2022.",
+      "url": "https://www.itau.com.uy/inst/moda.html",
+      "lists": [
+        "paquete_full",
+        "paquete_light",
+        "credito"
+      ]
+    },
+    {
+      "title": "15% menos en restaurantes",
+      "description": "25% menos en restaurantes pagando con tarjetas de crédito Itaú del el 1° de julio al 15 de agosto de 2019.",
+      "url": "https://www.itau.com.uy/inst/restaurantes.html",
+      "lists": [
+        "paquete_light",
+        "credito"
+      ]
+    }
+  ]
 }

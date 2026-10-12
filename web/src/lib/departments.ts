@@ -24,6 +24,7 @@ export const DEPARTMENTS = [
 const LOCALITY_OVERRIDES: Record<string, string> = {
   'ciudad de la costa': 'Canelones',
   'punta del este': 'Maldonado',
+  manantiales: 'Maldonado',
 };
 
 function normalize(s: string): string {

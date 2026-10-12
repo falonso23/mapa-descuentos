@@ -15,7 +15,9 @@ export function useMapData() {
       })
       .then((data) => {
         if (cancelled) return;
-        setMerchants(data.filter((m) => (m.locations || []).length > 0));
+        // Sin ubicación solo pasan los que traen `zone` (comercios reales aún sin dirección):
+        // no tienen pin, pero aparecen en la lista.
+        setMerchants(data.filter((m) => (m.locations || []).length > 0 || m.zone !== undefined));
         setLoading(false);
       })
       .catch((err) => {
