@@ -1,7 +1,7 @@
 # Mapa de Descuentos — web
 
-SPA React + TypeScript + Vite. Mapa con [MapLibre GL](https://maplibre.org/) (tiles raster
-oscuros de CARTO, sin API key), pines individuales sin clustering, iconos de
+SPA React + TypeScript + Vite. Mapa con [MapLibre GL](https://maplibre.org/) (tiles vectoriales
+de OpenFreeMap, sin API key), pines individuales sin clustering, iconos de
 [lucide-react](https://lucide.dev/) por rubro.
 
 Ver el [README del proyecto](../README.md) y [`docs/HANDOFF.md`](../docs/HANDOFF.md) para
@@ -44,8 +44,9 @@ src/
 
 - `map-data.json` se sirve desde `public/` — Vite lo copia tal cual al build. Si regenerás
   los datos con el pipeline, alcanza con recargar la página (dev) o rebuildear (prod).
-- El mapa usa tiles **raster** de CARTO (no vectoriales) a propósito: mismo look que la
-  versión anterior, sin depender de una API key de un proveedor de vector tiles.
+- El mapa usa el estilo vectorial **positron** de [OpenFreeMap](https://openfreemap.org/), que
+  no pide API key ni registro. Antes eran tiles raster de CARTO, que pasaron a devolver una
+  marca de agua "API KEY REQUIRED".
 - Los estilos de MapLibre (`maplibre-gl.css`) se importan desde `MapView.tsx`, lo que hace
   que terminen después de `index.css` en el bundle. Si necesitás sobrescribir una clase de
   MapLibre (`.maplibregl-*`), usá un selector más específico (ver ejemplos en `index.css`),

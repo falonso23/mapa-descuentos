@@ -10,7 +10,9 @@ import { MerchantPopup, VIEW_CHAIN_ATTR } from './MerchantPopup';
 const INITIAL_CENTER: [number, number] = [-56.164, -34.905];
 const INITIAL_ZOOM = 12;
 const MIN_ZOOM = 6.5;
-const TILE_SUBDOMAINS = ['a', 'b', 'c', 'd'];
+// OpenFreeMap: tiles vectoriales de OSM sin API key ni registro. "positron" es el estilo claro
+// y neutro, para que lo que resalte sean los pines.
+const MAP_STYLE_URL = 'https://tiles.openfreemap.org/styles/positron';
 // Uruguay + un margen chico para no cortar la costa/frontera de golpe al hacer pan.
 const URUGUAY_BOUNDS: maplibregl.LngLatBoundsLike = [
   [-58.7, -35.3],
@@ -29,6 +31,18 @@ interface MarkerEntry {
 
 export function locationKey(merchantId: number, locationIndex: number) {
   return `${merchantId}:${locationIndex}`;
+}
+
+// El ícono solo depende del rubro y los proveedores: se arma una vez por combinación.
+const iconHtmlCache = new Map<string, string>();
+function markerIconHtml(merchant: Merchant) {
+  const key = `${merchant.category}|${merchant.providers.join(',')}`;
+  let html = iconHtmlCache.get(key);
+  if (html === undefined) {
+    html = renderToStaticMarkup(<MarkerIcon category={merchant.category} providers={merchant.providers} />);
+    iconHtmlCache.set(key, html);
+  }
+  return html;
 }
 
 export function MapView({
@@ -50,18 +64,7 @@ export function MapView({
     if (!containerRef.current) return;
     const map = new maplibregl.Map({
       container: containerRef.current,
-      style: {
-        version: 8,
-        sources: {
-          carto: {
-            type: 'raster',
-            tiles: TILE_SUBDOMAINS.map((s) => `https://${s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png`),
-            tileSize: 256,
-            attribution: '© OpenStreetMap © CARTO',
-          },
-        },
-        layers: [{ id: 'carto-light', type: 'raster', source: 'carto' }],
-      },
+      style: MAP_STYLE_URL,
       center: INITIAL_CENTER,
       zoom: INITIAL_ZOOM,
       minZoom: MIN_ZOOM,
@@ -124,22 +127,24 @@ export function MapView({
           // condición de carrera de React al desmontar/remontar cientos de roots en filtros rápidos.
           const el = document.createElement('div');
           el.className = 'marker-anchor';
-          el.innerHTML = renderToStaticMarkup(
-            <MarkerIcon category={merchant.category} providers={merchant.providers} />,
-          );
+          el.innerHTML = markerIconHtml(merchant);
 
-          const popupHtml = renderToStaticMarkup(<MerchantPopup merchant={merchant} location={loc} />);
-          const popup = new maplibregl.Popup({ offset: 18, maxWidth: '300px' }).setHTML(popupHtml);
-
-          if (onViewChain) {
-            popup.on('open', () => {
-              const btn = popup.getElement()?.querySelector<HTMLButtonElement>(`[${VIEW_CHAIN_ATTR}]`);
-              if (btn && !btn.dataset.bound) {
-                btn.dataset.bound = '1';
-                btn.addEventListener('click', () => onViewChain(merchant));
-              }
-            });
-          }
+          // El contenido del popup se arma recién al abrirlo: generar el HTML de los ~1.400 en
+          // cada cambio de filtro trababa la interfaz.
+          const popup = new maplibregl.Popup({ offset: 18, maxWidth: '300px' });
+          let rendered = false;
+          popup.on('open', () => {
+            if (!rendered) {
+              rendered = true;
+              popup.setHTML(renderToStaticMarkup(<MerchantPopup merchant={merchant} location={loc} />));
+            }
+            if (!onViewChain) return;
+            const btn = popup.getElement()?.querySelector<HTMLButtonElement>(`[${VIEW_CHAIN_ATTR}]`);
+            if (btn && !btn.dataset.bound) {
+              btn.dataset.bound = '1';
+              btn.addEventListener('click', () => onViewChain(merchant));
+            }
+          });
 
           const marker = new maplibregl.Marker({ element: el, anchor: 'center', offset: spiralOffset(i) })
             .setLngLat([loc.lng, loc.lat])
@@ -151,12 +156,12 @@ export function MapView({
       }
     };
 
-    if (map.isStyleLoaded()) sync();
-    else map.once('load', sync);
+    // Los pines son elementos DOM: no dependen del estilo. Esperar a `isStyleLoaded()` los perdía
+    // si el filtro cambiaba mientras bajaban tiles (es false durante la carga y `load` no se repite).
+    sync();
 
     return () => {
       cancelled = true;
-      map.off('load', sync);
       clearMarkers();
     };
   }, [merchants, onViewChain]);
